@@ -1,0 +1,15 @@
+version="1.9.*"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"National Focuses"
+	"Military"
+}
+name="Heritier Du Roi"
+supported_version="1.9.*"
+path="mod/heritierduroi-master"
