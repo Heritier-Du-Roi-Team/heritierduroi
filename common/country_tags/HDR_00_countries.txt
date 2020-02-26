@@ -1,0 +1,49 @@
+#AFRICA
+ABY = "countries/Ethiopia.txt"
+AFR = "countries/French Africa.txt"
+IND = "countries/India.txt"
+NEJ = "countries/Nejd.txt"
+OTT = "countries/Ottomans.txt"
+RIY = "countries/Riyad.txt"
+
+#ASIA
+DEI = "countries/Indonesia.txt"
+URQ = "countries/Urumqi.txt"
+
+#N. AMERICA
+MEE = "countries/MexicoEmpire.txt"
+QUE = "countries/Quebec.txt"
+
+    #CARRIBEAN
+	
+#C.AMERICA
+
+#S. AMERICA
+PRR = "countries/Peru.txt"
+
+#EUROPE
+BAD = "countries/Baden-Wurtenburg.txt"
+BAV = "countries/Bavaria.txt"
+CON = "countries/Constantinople.txt"
+MIL = "countries/Milan.txt"
+PAP = "countries/Papal States.txt"
+RUS = "countries/Russia.txt"
+SAR = "countries/Sardinia-Piedmont.txt"
+SIC = "countries/Two-Sicilies.txt"
+SIL = "countries/Silesia.txt"
+SCH = "countries/Schleswig-Holstein.txt"
+SPA = "countries/Spain.txt"
+
+#AUSTRALIA, OCEANIA
+
+
+
+
+
+
+
+
+
+
+
+
