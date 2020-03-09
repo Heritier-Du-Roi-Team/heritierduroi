@@ -14,36 +14,28 @@ URQ = "countries/Urumqi.txt"
 MEE = "countries/MexicoEmpire.txt"
 QUE = "countries/Quebec.txt"
 
-    #CARRIBEAN
-	
+#CARRIBEAN
+
 #C.AMERICA
 
 #S. AMERICA
-PRR = "countries/Peru.txt"
 
 #EUROPE
 BAD = "countries/Baden-Wurtenburg.txt"
 BAV = "countries/Bavaria.txt"
 CON = "countries/Constantinople.txt"
+#HAN = "countries/Hannover.txt" (Already in Base)
+HES = "countries/Hessen.txt"
 MIL = "countries/Milan.txt"
 PAP = "countries/Papal States.txt"
 RUS = "countries/Russia.txt"
 SAR = "countries/Sardinia-Piedmont.txt"
+#SAX = "countries/Saxony.txt" (Already in Base)
 SIC = "countries/Two-Sicilies.txt"
 SIL = "countries/Silesia.txt"
 SCH = "countries/Schleswig-Holstein.txt"
-SPA = "countries/Spain.txt"
+TUS = "countries/Tuscany.txt"
+PRS = "countries/Prussia.txt"
+VNC = "countries/Venice.txt"
 
 #AUSTRALIA, OCEANIA
-
-
-
-
-
-
-
-
-
-
-
-
