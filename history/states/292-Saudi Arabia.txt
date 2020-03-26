@@ -2,24 +2,25 @@
 state={
 	id=292
 	name="STATE_292"
-	manpower = 1440000
-
-	state_category = rural
-	resources={
-		oil=3 # was: 3
-	}
 
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 			arms_factory = 1
-			industrial_complex = 1
+
 		}
 		add_core_of = SAU
+		victory_points = {
+			10923 5 
+		}
+
 	}
 
 	provinces={
-		 1955 2057 4968 4974 5027 5058 5099 7970 7995 8004 10850 10892 10901 10923 12749 12813
+		1955 4968 5058 7995 10850 10923 12749 13234 13238 13244 13245 
 	}
+	manpower=238500
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

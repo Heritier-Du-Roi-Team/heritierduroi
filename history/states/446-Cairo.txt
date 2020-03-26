@@ -1,33 +1,33 @@
-state = {
-	id = 446
-	name = "STATE_446"
-	manpower = 5967400
 
-	state_category = town
+state={
+	id=446
+	name="STATE_446"
 
-	history = {
+	history={
 		owner = EGY
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 			air_base = 5
-		}
 
-		victory_points = {
-			7011 20
 		}
 		victory_points = {
-			12049 5
+			7011 20 
 		}
 		victory_points = {
-			3996 5
+			12049 5 
 		}
-
+		victory_points = {
+			3996 5 
+		}
 		add_core_of = EGY
 
 	}
 
-	provinces = {
-		992 1068 3996 4055 4143 7011 7117 7188 10005 10031 12004
+	provinces={
+		992 1068 3996 4055 4143 7011 7117 7188 10005 10031 12004 13261 
 	}
+	manpower=5967400
+	buildings_max_level_factor=1.000
+	state_category=town
 }

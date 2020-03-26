@@ -5,12 +5,12 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = OTT
+		owner = EGY
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = OTT
-    add_core_of = EGY
+		add_claim_by = OTT
+    	add_core_of = EGY
 	}
 
 	provinces = {

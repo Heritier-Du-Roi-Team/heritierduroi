@@ -6,9 +6,8 @@ state=
 	
 	state_category = rural
 	
-	history=
-	{
-		owner = ITA
+	history = {
+		owner = SAR
 		add_core_of = ERI
 		victory_points = {
 			12766 1

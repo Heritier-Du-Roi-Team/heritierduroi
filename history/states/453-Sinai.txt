@@ -8,12 +8,15 @@ state = {
 		owner = EGY
 		buildings = {
 			infrastructure = 2
+			12049 = {
+				naval_base = 2
+			}
 		}
 		add_core_of = EGY
 		add_core_of = OTT
 	}
 
 	provinces = {
-		1112 1155 9947 11922 11979
+		1112 1155 11922 11979 12049
 	}
 }

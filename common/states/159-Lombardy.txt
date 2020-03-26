@@ -1,0 +1,23 @@
+
+state={
+	id=159
+	name="STATE_159"
+	manpower = 5597704
+	state_category = metropolis
+
+	history={
+		owner = VNC
+		buildings = {
+			infrastructure = 7
+			arms_factory = 7
+			industrial_complex = 3
+			air_base = 3
+
+		}
+		add_core_of = VNC
+	}
+
+	provinces={
+		773 969 3776 6661 11568 11587
+	}
+}
