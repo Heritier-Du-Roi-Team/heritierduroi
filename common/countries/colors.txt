@@ -101,6 +101,10 @@ SOV = {
 	color = rgb { 55 16 133 }
 	color_ui = rgb { 55 16 133 }
 }
+RUS = {
+	color = rgb { 59 90 45 }
+	color_ui = rgb { 59 90 45 }
+}
 
 # Italy
 

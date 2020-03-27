@@ -1,18 +1,18 @@
 #AFRICA
-ABY = "countries/Ethiopia.txt"
+#ABY = "countries/Ethiopia.txt"
 AFR = "countries/French Africa.txt"
-IND = "countries/India.txt"
+#IND = "countries/India.txt"
 NEJ = "countries/Nejd.txt"
 OTT = "countries/Ottomans.txt"
-RIY = "countries/Riyad.txt"
+#RIY = "countries/Riyad.txt"
 
 #ASIA
-DEI = "countries/Indonesia.txt"
-URQ = "countries/Urumqi.txt"
+#DEI = "countries/Indonesia.txt"
+#URQ = "countries/Urumqi.txt"
 
 #N. AMERICA
 MEE = "countries/MexicoEmpire.txt"
-QUE = "countries/Quebec.txt"
+#QUE = "countries/Quebec.txt"
 
 #CARRIBEAN
 
@@ -26,7 +26,6 @@ BAV = "countries/Bavaria.txt"
 CON = "countries/Constantinople.txt"
 #HAN = "countries/Hannover.txt" (Already in Base)
 HES = "countries/Hessen.txt"
-MIL = "countries/Milan.txt"
 PAP = "countries/Papal States.txt"
 RUS = "countries/Russia.txt"
 SAR = "countries/Sardinia-Piedmont.txt"
