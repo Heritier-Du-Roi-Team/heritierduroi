@@ -3,11 +3,12 @@ state=
 	id=550
 	name="STATE_550"
 	manpower = 600600
-	
+
 	state_category = rural
-	
+
 	history = {
 		owner = SAR
+		add_core_of = ETH
 		add_core_of = ERI
 		victory_points = {
 			12766 1

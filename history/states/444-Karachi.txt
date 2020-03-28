@@ -1,10 +1,7 @@
 
 state={
 	id=444
-	name="STATE_444" # Baluchistan
-	manpower = 463500
-	
-	state_category = wasteland
+	name="STATE_444"
 
 	history={
 		victory_points = {
@@ -13,11 +10,17 @@ state={
 		owner = RAJ
 		buildings = {
 			infrastructure = 2
+
 		}
 		add_core_of = PAK
+		add_claim_by = AFG
+
 	}
 
 	provinces={
-		1179 5043 5075 7917 8013 8066 12761 12774 
+		1179 3456 5043 5075 7049 7917 8013 8066 8098 10108 10735 10813 12761 12774 13261
 	}
+	manpower=463500
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

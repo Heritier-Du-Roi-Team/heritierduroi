@@ -5,12 +5,12 @@ state={
 
 	history={
 		victory_points = {
-			10833 1 
+			10833 1
 		}
 		victory_points = {
-			5068 1 
+			5068 1
 		}
-		owner = ENG
+		owner = SPR
 		add_core_of = SOM
 		buildings = {
 			infrastructure = 3
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		1966 4909 8094 10777 10818 10833 10891 10921 12759 12814 
+		1966 4909 8094 10777 10818 10833 10891 10921 12759 12814
 	}
 	manpower=344700
 	buildings_max_level_factor=1.000
