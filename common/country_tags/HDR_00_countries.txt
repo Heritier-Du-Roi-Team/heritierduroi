@@ -8,7 +8,8 @@ OTT = "countries/Ottomans.txt"
 
 #ASIA
 #DEI = "countries/Indonesia.txt"
-#URQ = "countries/Urumqi.txt"
+SNG = "countries/Singapore.txt"
+URQ = "countries/Urumqi.txt"
 
 #N. AMERICA
 MEE = "countries/MexicoEmpire.txt"
@@ -23,7 +24,7 @@ MEE = "countries/MexicoEmpire.txt"
 #EUROPE
 BAD = "countries/Baden-Wurtenburg.txt"
 BAV = "countries/Bavaria.txt"
-CON = "countries/Constantinople.txt"
+#CON = "countries/Constantinople.txt"
 #HAN = "countries/Hannover.txt" (Already in Base)
 HES = "countries/Hessen.txt"
 PAP = "countries/Papal States.txt"

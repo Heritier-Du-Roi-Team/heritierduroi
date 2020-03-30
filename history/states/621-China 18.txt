@@ -1,10 +1,10 @@
+
 state={
 	id=621
 	name="STATE_621"
 
 	history={
-		owner = SHX
-		add_core_of = SHX
+		owner = PRC
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		2087 4525 7048 7158 7631 10424 10629 12331 12403 12609 12880 
+		1551 1608 1796 2087 4222 4525 4612 7048 7158 7545 7631 10372 10424 10629 11752 12331 12403 12448 12609 12880
 	}
 	manpower=1583700
 	buildings_max_level_factor=1.000

@@ -334,7 +334,7 @@
  STATE_333:1 "North Borneo"
  STATE_334:1 "Kalimantan"
  STATE_335:0 "Java"
- STATE_336:0 "Singapore"
+ STATE_336:0 "Malaya"
  STATE_337:0 "Faroe Islands"
  STATE_338:0 "Gloucestershire"
  STATE_339:0 "Izmir"
@@ -799,3 +799,4 @@
  STATE_798:0 "Eastern Sinai"
  STATE_799:0 "Jouf"
  STATE_800:0 "Qassim"
+ STATE_801:0 "Singapore"

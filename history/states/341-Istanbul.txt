@@ -11,7 +11,7 @@ state= {
 
 	history= {
 		add_claim_by = GRE
-		owner = CON
+		owner = OTT
 		victory_points = {
 			9833 40
 		}
@@ -25,7 +25,7 @@ state= {
 				naval_base = 8
 			}
 		}
-		add_core_of = CON
+		add_core_of = OTT
 	}
 	provinces=
 	{

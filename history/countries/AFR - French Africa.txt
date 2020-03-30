@@ -1,0 +1,19 @@
+capital = 781
+oob = "AFR_1936"
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_stability = 0.14
+set_war_support = 0.05
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1931.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  authoritarian = 100
+}

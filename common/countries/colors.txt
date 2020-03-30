@@ -166,10 +166,10 @@ SCH = {
 
 # Middle East #
 
-CON = {
-	color = rgb { 240 26 61 }
-	color_ui = rgb { 240 26 61 }
-}
+#CON = {
+#	color = rgb { 240 26 61 }
+#	color_ui = rgb { 240 26 61 }
+#}
 OTT = {
 	color = rgb { 181 170 150 }
 	color_ui = rgb { 181 170 150 }
@@ -210,6 +210,48 @@ SOM = {
 	color_ui = rgb { 93 146 207 }
 }
 
+# Asia #
+
+URQ = {
+	color = rgb { 116 113 47 }
+	color_ui = rgb { 116 113 47 }
+}
+CHI = {
+	color = rgb { 78 138 174 }
+	color_ui = rgb { 78 138 174 }
+}
+JAP = {
+	color = rgb { 198 152 40 }
+	color_ui = rgb { 198 152 40 }
+}
+MAN = {
+	color = rgb { 139 28 25 }
+	color_ui = rgb { 139 28 25 }
+}
+PRC = {
+	color = rgb { 224 27 60 }
+	color_ui = rgb { 224 27 60 }
+}
+GXC = {
+	color = rgb { 72 104 58 }
+	color_ui = rgb { 72 104 58 }
+}
+YUN = {
+	color = rgb { 34 72 118 }
+	color_ui = rgb { 34 72 118 }
+}
+XSM = {
+	color = rgb { 149 150 108 }
+	color_ui = rgb { 149 150 108 }
+}
+TIB = {
+	color = rgb { 36 84 36 }
+	color_ui = rgb { 36 84 36 }
+}
+SNG = {
+	color = rgb { 41 71 157 }
+	color_ui = rgb { 41 71 157 }
+}
 
 AFG = {
 	color = rgb { 64 160 167 }
@@ -238,10 +280,6 @@ BRA = {
 CAN = {
 	color = rgb { 240  190  190 }
 	color_ui = rgb { 155 62 51 }
-}
-CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -278,10 +316,6 @@ HON = {
 IRQ = {
 	color = rgb { 178 114 99 }
 	color_ui = rgb { 231 148 129 }
-}
-JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
 }
 LIB = {
 	color = rgb { 152 130 191 }
@@ -331,20 +365,12 @@ SIK = {
 	color = rgb { 71 190 152 }
 	color_ui = rgb { 222 247 198 }
 }
-TIB = {
-	color = rgb { 80 115 45}
-	color_ui = rgb { 222 247 198 }
-}
 URG = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 222 247 198 }
 }
 VEN = {
 	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
-}
-YUN = {
-	color = rgb { 114 148 80 }
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
@@ -385,24 +411,9 @@ RAJ = {
 	color_ui = rgb { 226  135  40 }
 }
 
-PRC = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
-}
-
-GXC = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 71 113 97 }
-}
-
 SHX = {
 	color = rgb { 82  2  15 }
 	color_ui = rgb { 101  30  41 }
-}
-
-XSM = {
-	color = rgb { 105 90 132 }
-	color_ui = rgb { 105 90 132 }
 }
 
 LBA = {
@@ -488,10 +499,6 @@ MNT = {
 BLR = {
 	color = rgb { 180 220 190 }
 	color_ui = rgb { 180 220 190 }
-}
-MAN = {
-	color = rgb { 255 120 71 }
-	color_ui = rgb { 255 120 71 }
 }
 ANG = {
 	color = rgb { 37 140 61 }

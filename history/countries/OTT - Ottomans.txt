@@ -1,4 +1,4 @@
-capital = 339
+capital = 341
 oob = "OTT_1936"
 
 set_technology = {
