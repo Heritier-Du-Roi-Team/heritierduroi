@@ -2,17 +2,14 @@
 state={
 	id=59
 	name="STATE_59"
-	manpower = 2438286
 	resources={
-		oil=2 # was: 4
+		oil=2.000
 	}
-
-	state_category = large_city
 
 	history={
 		owner = PRS
 		victory_points = {
-			6377 10
+			6377 10 
 		}
 		buildings = {
 			infrastructure = 7
@@ -21,9 +18,13 @@ state={
 
 		}
 		add_core_of = PRS
+
 	}
 
 	provinces={
-		526 6218 6263 6298 6325 6377 6513 9238 9264 9375 11402 11468 11493
+		526 6218 6263 6298 6325 6377 6513 9238 9264 9375 11402 11468 11493 
 	}
+	manpower=2438286
+	buildings_max_level_factor=1.000
+	state_category=large_city
 }

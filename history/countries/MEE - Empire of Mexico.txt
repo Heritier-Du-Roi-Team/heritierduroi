@@ -60,7 +60,6 @@ set_popularities = {
 
 create_corps_commander = {
 	name = "Heliodoro Charis"
-	id = 700
 	gfx = "GFX_portrait_mex_heliodoro_charis"
 	traits = { infantry_officer } # Veteran of many assaults
 	skill = 3
@@ -72,7 +71,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Luis Farell"
-	id = 701
 	gfx = "GFX_portrait_mex_luis_farell"
 	traits = { war_hero } # Personally piloted missions against rebels etc
 	skill = 3
@@ -84,7 +82,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Manuel Pérez Treviño"
-	id = 703
 	gfx = "GFX_portrait_mex_manuel_perez_trevino"
 	traits = { career_officer } # Pre-Revolutionary officer training
 	skill = 3
@@ -96,7 +93,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Manuel Ávila Camacho"
-	id = 705
 	gfx = "GFX_portrait_mex_avila_military"
 	traits = { politically_connected } # Future president
 	skill = 3
@@ -108,7 +104,6 @@ create_corps_commander = {
 
 create_navy_leader = {
 	name = "Heriberto Jara Corona"
-	id = 707
 	gfx = "GFX_portrait_mex_heriberto_corona"
 	traits = { navy_media_personality }
 	skill = 1

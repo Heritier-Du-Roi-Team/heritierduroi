@@ -2,21 +2,17 @@
 state={
 	id=51
 	name="STATE_51"
-	manpower = 6144743
 	resources={
-		steel=30 # was: 54
+		steel=30.000
 	}
-
-
-	state_category = metropolis
 
 	history={
 		owner = HES
 		victory_points = {
-			6469 10
+			6469 10 
 		}
 		victory_points = {
-			587 5
+			587 5 
 		}
 		buildings = {
 			infrastructure = 8
@@ -26,10 +22,13 @@ state={
 
 		}
 		add_core_of = HES
+
 	}
 
 	provinces={
-		529 587 3444 3512 6469 6570 9482 9522
+		529 587 3444 3512 3547 6444 6444 6469 6570 9482 9522 11470 11494 13267 
 	}
-
+	manpower=6144743
+	buildings_max_level_factor=1.000
+	state_category=metropolis
 }
