@@ -113,8 +113,8 @@ SIC = {
 	color_ui = rgb { 37 107 27 }
 }
 PAP = {
-	color = rgb { 120 74 186 }
-	color_ui = rgb { 120 74 186 }
+	color = rgb { 182 203 183 }
+	color_ui = rgb { 182 203 183 }
 }
 TUS = {
 	color = rgb { 128 76 90 }
@@ -124,7 +124,7 @@ VNC = {
 	color = rgb { 65 92 200 }
 	color_ui = rgb { 65 92 200 }
 }
-SAR = {
+ITA = {
 	color = rgb { 37 102 70 }
 	color_ui = rgb { 37 102 70 }
 }
@@ -190,6 +190,10 @@ NEJ = {
 	color = rgb { 84 91 55 }
 	color_ui = rgb { 84 91 55 }
 }
+GEO = {
+	color = rgb { 120 62 62 }
+	color_ui = rgb { 120 62 62 }
+}
 
 # Africa #
 
@@ -225,8 +229,8 @@ JAP = {
 	color_ui = rgb { 198 152 40 }
 }
 MAN = {
-	color = rgb { 139 28 25 }
-	color_ui = rgb { 139 28 25 }
+	color = rgb { 117 125 85 }
+	color_ui = rgb { 117 125 85 }
 }
 PRC = {
 	color = rgb { 224 27 60 }
@@ -251,6 +255,10 @@ TIB = {
 SNG = {
 	color = rgb { 41 71 157 }
 	color_ui = rgb { 41 71 157 }
+}
+KOR = {
+	color = rgb { 89 139 123 }
+	color_ui = rgb { 89 139 123 }
 }
 
 AFG = {
@@ -362,8 +370,8 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 50 98 109 }
+	color_ui = rgb { 50 98 109 }
 }
 URG = {
 	color = rgb { 171 190 152 }
@@ -456,11 +464,6 @@ AZR = {
 	color_ui = rgb { 69  151  49 }
 }
 
-GEO = {
-	color = rgb { 255  150  150 }
-	color_ui = rgb { 255  204  204 }
-}
-
 ARM = {
 	color = rgb { 176  102  180 }
 	color_ui = rgb { 176  102  180 }
@@ -536,10 +539,6 @@ WGR = {
 DDR = {
     color = rgb { 120 150 80 }
     color_ui = rgb { 150 180 120 }
-}
-KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }
 }
 ISR = {
 	color = rgb { 152  130  191 }

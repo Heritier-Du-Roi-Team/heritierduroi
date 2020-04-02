@@ -1,0 +1,19 @@
+state = {
+	id = 805
+	name = "STATE_805"
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = GEO
+		add_core_of = PER
+	}
+
+	provinces = {
+		4473 12434 
+	}
+	manpower = 38200
+	state_category = rural
+}

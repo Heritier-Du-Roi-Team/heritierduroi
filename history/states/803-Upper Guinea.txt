@@ -1,0 +1,32 @@
+state = {
+	id = 803
+	name = "Upper Guinea"
+
+	history={
+		add_core_of = PNG
+		owner = INS
+		buildings = {
+			infrastructure = 2
+			12237 = {
+				naval_base = 2
+			}
+			12154 = {
+				naval_base = 1
+			}
+			12240 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			12237 1 
+		}
+
+	}
+
+	provinces={
+		1389 4393 7365 7614 10251 10423 11004 11018 12154 12193 12237 12240 12400 12428 13273 13274 13275 13276
+	}
+	manpower=484900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

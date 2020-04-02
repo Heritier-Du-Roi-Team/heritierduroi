@@ -29,7 +29,6 @@ BAV = "countries/Bavaria.txt"
 HES = "countries/Hessen.txt"
 PAP = "countries/Papal States.txt"
 RUS = "countries/Russia.txt"
-SAR = "countries/Sardinia-Piedmont.txt"
 #SAX = "countries/Saxony.txt" (Already in Base)
 SIC = "countries/Two-Sicilies.txt"
 SIL = "countries/Silesia.txt"

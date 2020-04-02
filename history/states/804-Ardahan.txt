@@ -1,0 +1,20 @@
+state = {
+	id = 804
+	name = "STATE_804"
+	manpower = 74390
+
+	state_category = rural
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 2
+		}
+		add_claim_by = OTT
+	}
+
+	provinces={
+		12380 12441 13280 13281 13282
+	}
+}
