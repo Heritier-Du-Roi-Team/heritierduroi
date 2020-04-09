@@ -1,0 +1,296 @@
+ideas = {
+
+	country = {
+		IRE_pact_of_neutrality = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = IRE_pact_of_neutrality
+
+			modifier = {
+				war_support_factor = -0.30
+				high_command_cost_factor = 0.20
+				conscription_factor = -0.15
+			}
+		}
+
+		IRE_the_day_has_come = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = IRE_the_day_has_come
+
+			modifier = {
+				stability_factor = 0.15
+				drift_defence_factor = 0.20
+				surrender_limit = 0.25
+			}
+		}
+
+		IRE_irish_nationalists = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = IRE_irish_nationalists
+
+			modifier = {
+				stability_factor = -0.05
+				integrism_drift = 0.01
+			}
+		}
+	}
+
+	political_advisor = {
+
+		IRE_sean_lemass = {
+
+			picture = generic_political_advisor_europe_5
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { captain_of_industry }
+		}
+
+		IRE_douglas_hyde = {
+
+			picture = generic_political_advisor_europe_3
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { popular_figurehead }
+		}
+
+		IRE_sean_ceallaigh = {
+
+			picture = generic_political_advisor_europe_1
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { smooth_talking_charmer }
+		}
+	}
+
+
+	army_chief = {
+
+		IRE_liam_archer = {
+			picture = generic_army_europe_2
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { army_chief_offensive_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_richard_james_mulcahy = {
+			picture = generic_army_europe_5
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { army_chief_defensive_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+	}
+
+	air_chief = {
+
+		IRE_h_t_green = {
+			picture = generic_air_europe_1
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { air_chief_safety_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_p_a_mulcahy = {
+			picture = generic_air_europe_2
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { air_chief_ground_support_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+
+	navy_chief = {
+
+		IRE_john_byrne = {
+
+			picture = generic_navy_europe_1
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { navy_chief_naval_aviation_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_s_muiris = {
+			picture = generic_navy_europe_3
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { navy_chief_decisive_battle_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+
+	}
+
+	high_command = {
+
+		IRE_dan_mckenna = {
+			ledger = army
+			picture = generic_army_europe_1
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { army_regrouping_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_frank_fahy = {
+			ledger = army
+
+			picture = generic_army_europe_6
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { army_commando_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_michael_brennan = {
+			ledger = air
+
+			picture = generic_air_europe_3
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { air_bomber_interception_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		IRE_a_t_lawlor = {
+			ledger = navy
+
+			picture = generic_navy_europe_2
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			traits = { navy_fleet_logistics_2 }
+
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+
+	theorist = {
+		IRE_michael_joe_costello = {
+			ledger = army
+
+			picture = generic_army_europe_2
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			research_bonus = {
+				land_doctrine = 0.10
+			}
+
+			traits = { military_theorist }
+		}
+
+		IRE_oscar_traynor = {
+			ledger = air
+
+			picture = generic_political_advisor_europe_2
+
+			allowed = {
+				original_tag = IRE
+			}
+
+			research_bonus = {
+				air_doctrine = 0.10
+			}
+
+			traits = { air_warfare_theorist }
+		}
+
+	}
+
+
+	# TECHNOLOGY
+
+}

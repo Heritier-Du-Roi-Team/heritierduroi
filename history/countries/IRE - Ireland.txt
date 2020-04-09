@@ -1,5 +1,4 @@
 ﻿capital = 113
-
 oob = "IRE_1936"
 
 set_research_slots = 3
@@ -12,80 +11,54 @@ set_technology = {
 
 set_convoys = 10
 
-1939.1.1 = {
-
-	add_political_power = 1198
-	
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = large_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	oob = "IRE_1939"
-	set_technology = {
-		gw_artillery = 1
-		interwar_antiair = 1
-		infantry_weapons2 = 1
-
-		#doctrines
-		air_superiority = 1
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
-		convoy_sailing = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-		computing_machine = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-		fuel_refining = 1
-	}
+add_ideas = {
+	IRE_pact_of_neutrality
+	IRE_the_day_has_come
 }
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1933.1.24"
+	ruling_party = autocracy
+	last_election = "1923.1.24"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 98
-	fascism = 1
-	communism = 1
+	autocracy = 40
+	social_conservatism = 15
+	social_liberalism = 13
+	socialist = 12
+	integrism = 15
+	totalist = 5
 }
 
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1938.6.17"
-		election_frequency = 48
-		elections_allowed = yes
+create_country_leader = {
+	name = "Prince Joachim"
+	desc = "POLITICS_JOACHIM_DESC"
+	picture = "Portrait_Ireland_Joachim.dds"
+	expire = "1965.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
 	}
 }
+
 create_country_leader = {
 	name = "Éamon de Valera"
 	desc = "POLITICS_ÉAMON_DE_VALERA_DESC"
 	picture = "Portrait_Ireland_Eamon_de_Valera.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = market_conservatives
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Peadar O'Donnel"
+	desc = "POLITICS_DONNEL_DESC"
+	picture = "Portrait_Ireland_Peadar_o_Donnell.dds"
+	expire = "1965.1.1"
+	ideology = libertarian_socialists
 	traits = {
 		#
 	}
@@ -94,9 +67,20 @@ create_country_leader = {
 create_country_leader = {
 	name = "Eoin O'Duffy"
 	desc = "POLITICS_EOIN_ODUFFY_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	picture = "Portrait_Ireland_Eoin_o_Duffy.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = ultranationalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Douglas Hyde"
+	desc = "POLITICS_HYDE_DESC"
+	picture = "Portrait_Ireland_Douglas_Hyde.dds"
+	expire = "1965.1.1"
+	ideology = progressive
 	traits = {
 		#
 	}
@@ -105,7 +89,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "James Larkin"
 	desc = "POLITICS_JAMES_LARKIN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	picture = "Portrait_Ireland_James_Larkin.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -113,15 +97,15 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = "William Norton"
-	desc = "POLITICS_JAMES_LARKIN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
+create_field_marshal = {
+	name = "Eric Dorman"
+	picture = "Portrait_Ireland_Eric_Dorman.dds"
+	traits = { war_hero }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 5
+	planning_skill = 2
+	logistics_skill = 2
 }
 
 create_corps_commander = {
