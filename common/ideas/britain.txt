@@ -1,0 +1,59 @@
+ideas = {
+
+	country = {
+		ENG_political_chaos = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = ENG_political_chaos
+
+			modifier = {
+				stability_factor = -0.20
+				war_support_factor = -0.20
+				political_power_gain = -0.25	
+			}
+		}
+
+		ENG_rule_britannia = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = ENG_rule_britannia
+
+			modifier = {
+				stability_factor = 0.10
+				surrender_limit = 0.15
+				conscription_factor = 0.05
+			}
+		}
+
+		ENG_stagnant_economy = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = ENG_stagnant_economy
+
+			modifier = {
+				production_factory_max_efficiency_factor = -0.20
+				consumer_goods_factor = 0.15
+				license_purchase_cost = 0.10
+				research_speed_factor = -0.05
+			}
+		}
+	}
+}

@@ -146,9 +146,6 @@ ideologies = {
 
 			traditionalism = {
 			}
-
-			constitutional_monarchist = {
-			}
 		}
 
 		dynamic_faction_names = {
