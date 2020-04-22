@@ -199,7 +199,7 @@ create_country_leader = {
 	desc = "POLITICS_CHAMBERLAIN_DESC"
 	picture = "Portrait_England_Austen_Chamberlain.dds"
 	expire = "1965.1.1"
-	ideology = market_conservatives
+	ideology = social_conservatives
 	traits = {
 		#
 	}
@@ -276,7 +276,7 @@ create_country_leader = {
 #	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
 #	picture = "Portrait_Britain_Neville_Chamberlain.dds"
 #	expire = "1965.1.1"
-#	ideology = liberalism
+#	ideology = progressive
 #	traits = {
 #		
 #	}
@@ -287,7 +287,7 @@ create_country_leader = {
 	desc = "POLITICS_OSWALD_MOSLEY_DESC"
 	picture = "Portrait_Britain_Oswald_Mosley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = strasserism
 	traits = {
 		champion_of_peace_1
 		economic_reformer
@@ -299,7 +299,7 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_POLLITT_DESC"
 	picture = "portrait_eng_harry_pollitt.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = trotskyism
 	traits = {
 		staunch_stalinist
 	}

@@ -47,7 +47,7 @@ create_country_leader = {
 	desc = "POLITICS_ÉAMON_DE_VALERA_DESC"
 	picture = "Portrait_Ireland_Eamon_de_Valera.dds"
 	expire = "1965.1.1"
-	ideology = market_conservatives
+	ideology = social_conservatives
 	traits = {
 		#
 	}
@@ -69,7 +69,7 @@ create_country_leader = {
 	desc = "POLITICS_EOIN_ODUFFY_DESC"
 	picture = "Portrait_Ireland_Eoin_o_Duffy.dds"
 	expire = "1965.1.1"
-	ideology = ultranationalism
+	ideology = resurrectionism
 	traits = {
 		#
 	}
@@ -91,7 +91,7 @@ create_country_leader = {
 	desc = "POLITICS_JAMES_LARKIN_DESC"
 	picture = "Portrait_Ireland_James_Larkin.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = desolationism
 	traits = {
 		#
 	}
