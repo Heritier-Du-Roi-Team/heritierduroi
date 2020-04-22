@@ -8,60 +8,89 @@
  totalist:0 "Totalism"
  totalist_noun:0 "Totalism"
  totalist_desc:0 "Totalist Regime"
- marxism:0 "Marxism"
- marxism_desc:0 ""
+
+ desolationism:0 "Desolationism"
+ desolationism_desc:0 "Believing the active pursuit of international communism to be impractical and foolhardy, Desolationists instead seek to refine and secure the communist state inside their own borders and allow the rest of the world to naturally achieve socialism by itself. Desolationist nations tend to prefer security over influence, and rule over their own populus with an iron fist. Totalitarian in nature, Desolationists embrace radical collective economics and a centralised economic structure and are hostile to any potential infringements to the security of the nation or party."
+
  trotskyism:0 "Trotskyism"
- trotskyism_desc:0 ""
- internationalism:0 "Internationalism"
- internationalism_desc:0 ""
+ trotskyism_desc:0 "Trotskyism, developed by Leon Trotsky, promotes the establishment of a vanguard party based on working class emancipation and mass democracy. Believing in exporting the revolution. Trokyite regimes are much more benevolent towards other communist nations, yet still belive in utalitarian sacrifice and the power of a strong centralised state. Trotskyism promotes a Totalitarian regime embracing collectivisation, redistribution and expansionism all in pursuit of acheiving world revolution by any means."
+
+ strasserism:0 "Strasserism"
+ strasserism_desc:0 "An ideology rooted in the complete dismissal of societies traditions and norms to achieve a the complete elimination of the subjugation of the proletariat, Strasserism forms the most radical and revolutionary form of socialist governance. Focussed on creating a people and nation of pure ideals and morals led by the Party, Strasserist regimes, while devoted to bettering their peoples quality of life, clinically and mercilessly cleanse their people of any enemies to the party."
+
+###################################
 
  socialist:0 "Socialism"
  socialist_noun:0 "Socialism"
  socialist_desc:0 "Socialist Regime"
+
  collectivism:0 "Collectivism"
- collectivism_desc:0 ""
+ collectivism_desc:0 "Collectivism emphasises cohesiveness between individuals and the prioritisation of the group over self. Concluding that the best way to maintain equality, is to distribute communal wealth, Collectivists believe that wealth distribution is the only true way to ensure equality. corporatism and large state control ensure strong governance and a firm hand. However, Collectivist nations, like all centralised states, struggle to diversify and adapt to the times."
+
  libertarian_socialists:0 "Libertarian Socialism"
- libertarian_socialists_desc:0 ""
- strasserism:0 "Strasserism"
- strasserism_desc:0 ""
+ libertarian_socialists_desc:0 "Also referred to as Anarcho-Socialism, Libertarian Socialism is the leading anti-authoritarian movement of the times. Libertarian Socialists believe in the complete control of the worker and unions, and is a state largely run by elected trade union officials and rights groups. Security matters are run by local forces and militias make up most of the army and police force. Highly decentralised compared to other socialist states, this regime rejects the concept of the state, and is run by competing worker’s councils."
+
  fabianism:0 "Fabianism"
- fabianism_desc:0 ""
+ fabianism_desc:0 "More moderate than its ideological counterparts, Fabianism, originating from various British socialists, has evolved over the years to represent the face of the moderate socialist movement. Fabians believe in change through reform, the ballot box and gradual change, allowing for a slow but easy transition to socialism. Taking concepts from Libertarian Socialism and Social conservatism as well as Progressive and Internationalist ideals, Fabianism is widely seen as the dominant socialist force in the world today."
+
+##############################################
 
  social_liberalism:0 "Social Liberalism"
- social_liberalism_noun:0 "Social Liberalism"
+ social_liberalism_noun:0 "Liberalism"
  social_liberalism_desc:0 "Democratic Regime"
+
  market_liberals:0 "Market Liberalism"
- market_liberals_desc:0 ""
- progressive:0 "Progressivism"
- progressive_desc:0 ""
+ market_liberals_desc:0 "Market Liberalism combines a market economy with personal liberty and human rights believing in the individual freedom of man in economics and politics. Free Trade and liberal economic thinking seriously limit the welfare state of this nation, and capitalist ideas hold the strongest traction in government. Often a nation of big business, Market Liberals are keen to protect both political and social and economic freedoms."
+
+ progressive:0 "Social Liberalism"
+ progressive_desc:0 "Considering themselves Progressive in nature, Social Liberals combines personal liberty and human rights along with a mixed economy and welfare state in order to allow economic freedom but prevent economic inequality. Social Liberals encourage charity and make sure to keep businesses in check to prevent unfair monopolies and malpractice. Social Liberals like other Liberal nations highly value individual freedoms and liberties."
+
+ internationalism:0 "Internationalism"
+ internationalism_desc:0 "Surely the greatest enemy to nationalism, Internationalism advocates a greater political and economic cooperation among nations and people in the international context. Internationalists do not believe in the superiority of sovereignty necessarily, and wish to see an end to global war by means of creation of an International economic, political and social union whether through institution or reality. "
+
+#######################################
 
  social_conservatism:0 "Social Conservatism"
  social_conservatism_noun:0 "Social Conservatism"
  social_conservatism_desc:0 "Democratic Regime"
- market_conservatives:0 "Market Conservatism"
- market_conservatives_desc:0 ""
+
+ social_conservatives:0 "Social Conservatism"
+ social_conservatives_desc:0 "Social Conservatives consider rapid changes to society to be potentially harmful, and espouses tradition and moderate reforms, advocating a return to old moral values. Social Conservatives tend to embrace traditional institutions and practices as the best way to do things and can often be unaccepting of new ideals or reforms. Social Conservatives are much less willing to cave to trade union pressure and believe in low taxes and fiscal spending."
+
  traditionalism:0 "Traditionalism"
- traditionalism_desc:0 ""
+ traditionalism_desc:0 "Considering major change to society to be largely harmful, Traditionalists embrace older and traditional institutions as the only legitimate body of governance. Practising conservative religious and family values, Traditionalists while still democratic do not recognise the legitimacy minorities’ political rights. Traditionalists favour more nationalist and isolationist ideals."
+
+ ###################################
 
  autocracy:0 "Reactionism"
  autocracy_noun:0 "Reactionary"
  autocracy_desc:0 "Authoritarian Regime"
- absolute_monarchist:0 "Absolute Monarchism"
- absolute_monarchist_desc:0 ""
+
+ absolute_monarchist:0 "Absolute Monarchy"
+ absolute_monarchist_desc:0 "An Absolute Monarchy, gives supreme autocratic control to any monarch, emperor or regent. Free from any kind of early authority or custom, the monarch has total control over the government and state. Often combining religious contexts and other traditionally powerful institutions the status of the nation relies heavily on the ability of the monarch themselves. While monarchies can take the form of any liberal or conservative government, they tend to be much more conservative, seeking to and favour a traditional militaristic and nationalist rhetoric."
+
  devotionism:0 "Devotionism"
- devotionism_desc:0 ""
+ devotionism_desc:0 "Devotionism describes a state where its people are totally devoted and loyal to one idea or belief, often seeing this belief as being spiritually, culturally, or religiously divine or destined. Devotionism can take many forms but is largely traditional, and encourages traditional family and moral values and practices, but most importantly demands total dedication to their belief, culture, state or god."
+
  nationalism:0 "Nationalism"
- nationalism_desc:0 ""
+ nationalism_desc:0 "Nationalists promote the idea that a nations sovereignty is its most important yet threatened aspect. Often encouraging militarism and conservative values, Nationalists believe that their nations culture, language, people and identity must be defended at all costs and are willing to defend this with force if necessary."
+
+ #######################################
 
  integrism:0 "Integralism"
  integrism_noun:0 "Integralist"
- integrism_desc:0 "Nationalistic Regime"
- ultranationalism:0 "Ultranationalism"
- ultranationalism_desc:0 ""
+ integrism_desc:0 "Nationalist Regime"
+
+ resurrectionism:0 "Resurrectionism"
+ resurrectionism_desc:0 "Encompassing a variety of nationalist, fanatical and fascist beliefs, Resurrectionist politics are shaped by the somewhat irrational pursuit of returning a country to its ‘former glory'. Copying old traditions as well as new thinking, Resurrectionists encourage imperialistic attitudes, traditionalism and nationalism as well as powerful militarism."
+
  fascism:0 "Fascism"
- fascism_desc:0 ""
+ fascism_desc:0 "Rooted in ideas ultranationalism, Fascism is driven by ideas of racial and cultural supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power. Embracing socialist economics, and conservative social values, Fascism empowers the state through surveillance and corporatism, often valuing traditional cultural identities."
+
  fanaticism:0 "Fanaticism"
- fanaticism_desc:0 ""
+ fanaticism_desc:0 "This government is ruled by ideological fanatics who are willing to sacrifice themselves and others in order to achieve their goals, which are nearly always driven by some form of religion or supreme ruler. Fanaticism requires complete dedication to the state without logical reason, with no regard for any legitimate contrary opinion, often inspiring ultranationalist thinking, militaristic attitudes, totalitarianism and aggressive expansionism."
+
+#########################################
 
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"

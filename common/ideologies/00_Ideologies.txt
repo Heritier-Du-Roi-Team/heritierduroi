@@ -1,14 +1,15 @@
+
 ideologies = {
 
 	totalist = {
 		types = {
-			marxism = {
+			desolationism = {
 			}
 
 			trotskyism = {
 			}
 
-			internationalism = {
+			strasserism = {
 			}
 		}
 
@@ -51,9 +52,6 @@ ideologies = {
 			libertarian_socialists = {
 			}
 
-			strasserism = {
-			}
-
 			fabianism = {
 			}
 		}
@@ -66,7 +64,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 209 38 38 }
+		color = { 220 38 38 }
 
 		rules = {
 			can_force_government = no
@@ -95,6 +93,9 @@ ideologies = {
 			}
 
 			progressive = {
+			}
+
+			internationalism = {
 			}
 		}
 
@@ -141,11 +142,12 @@ ideologies = {
 
 	social_conservatism = {
 		types = {
-			market_conservatives = {
+			social_conservatives = {
 			}
 
 			traditionalism = {
 			}
+
 		}
 
 		dynamic_faction_names = {
@@ -239,13 +241,13 @@ ideologies = {
 
 	integrism = {
 		types = {
-			ultranationalism = {
+			fanatacism = {
 			}
 
 			fascism = {
 			}
 
-			fanaticism = {
+			resurrectionism = {
 			}
 		}
 
@@ -257,7 +259,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 
-		color = { 54 39 13 }
+		color = { 60 40 10 }
 
 		rules = {
 			can_create_collaboration_government = no
