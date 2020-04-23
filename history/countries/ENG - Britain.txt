@@ -196,10 +196,21 @@ add_to_faction = MAL
 
 create_country_leader = {
 	name = "Austen Chamberlain"
-	desc = "POLITICS_CHAMBERLAIN_DESC"
+	desc = "POLITICS_AUSTEN_CHAMBERLAIN_DESC"
 	picture = "Portrait_England_Austen_Chamberlain.dds"
 	expire = "1965.1.1"
 	ideology = social_conservatives
+	traits = {
+		dealbroker
+	}
+}
+
+create_country_leader = {
+	name = "Clement Atlee"
+	desc = "POLITICS_ATLEE_DESC"
+	picture = "Portrait_England_Clement_Atlee.dds"
+	expire = "1965.1.1"
+	ideology = fabianism
 	traits = {
 		#
 	}
@@ -254,7 +265,7 @@ create_country_leader = {
 	desc = "POLITICS_SAKLATVALA_DESC"
 	picture = "Portrait_England_Shapurji_SSaklatvala.dds"
 	expire = "1965.1.1"
-	ideology = fabianism
+	ideology = collectivism
 	traits = {
 		#
 	}
@@ -265,7 +276,7 @@ create_country_leader = {
 	desc = "POLITICS_PANKHURST_DESC"
 	picture = "Portrait_England_Sylvia_Pankhurst.dds"
 	expire = "1965.1.1"
-	ideology = internationalism
+	ideology = trotskyism
 	traits = {
 		#
 	}
@@ -299,22 +310,22 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_POLLITT_DESC"
 	picture = "portrait_eng_harry_pollitt.dds"
 	expire = "1965.1.1"
-	ideology = trotskyism
+	ideology = desolutionism
 	traits = {
 		staunch_stalinist
 	}
 }
 
-#create_country_leader = {
-#	name = "Rajani Palme Dutt"
-#	desc = "POLITICS_PALME_DUTT_DESC"
-#	picture = "Portrait_Britain_Palme_Dutt.dds"
-#	expire = "1965.1.1"
-#	ideology = leninism
-#	traits = {
-#		
-#	}
-#}
+create_country_leader = {
+	name = "Rajani Palme Dutt"
+	desc = "POLITICS_PALME_DUTT_DESC"
+	picture = "Portrait_Britain_Palme_Dutt.dds"
+	expire = "1965.1.1"
+	ideology = libertarian_socialists
+	traits = {
+		
+	}
+}
 
 create_field_marshal = {
 	name = "Alan Brooke" # Aristocrat
