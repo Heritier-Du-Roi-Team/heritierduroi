@@ -92,6 +92,23 @@
 
 #########################################
 
+ AFG_autocracy_party:0 "House of Barakzai"
+ AFG_integrism_party:0 "Saqqawists"
+ AFG_social_conservatism_party:0 "Solidarity"
+ AFG_totalist_party:0 "Khalq"
+ AFG_socialist_party:0 "National Islamic Movement"
+ AFG_social_liberalism:0 "Jamat e-Islami"
+
+ AST_autocracy_party:0 "National Country Party"
+ AST_integrism_party:0 "New Centre Party"
+ AST_social_conservatism_party:0 "Protectionist"
+ AST_totalist_party:0 "Movement"
+ AST_socialist_party:0 "Labor"
+ AST-social_liberalism_party:0 "Free Trade Party"
+
+
+
+
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  GER_communism_party:0 "KPD"
@@ -232,14 +249,6 @@
  CAN_communism_party_long:0 "Communist Party of Canada"
  CAN_neutrality_party:0 "CCF"
  CAN_neutrality_party_long:0 "Co-operative Commonwealth Federation"
- AST_neutrality_party:0 "ACP"
- AST_neutrality_party_long:0 "Australian Country Party"
- AST_democratic_party:0 "Labor"
- AST_democratic_party_long:0 "Australian Labor Party"
- AST_fascism_party:0 "Centre Party"
- AST_fascism_party_long:0 "Centre Party"
- AST_communism_party:0 "CPA"
- AST_communism_party_long:0 "Communist Party of Australia"
  MEX_democratic_party:1 "PLC"
  MEX_democratic_party_long:1 "Partido Liberal Constitucionalista"
  MEX_fascism_party:0 "UNS"
@@ -445,7 +454,7 @@
  IRE_neutrality_party:0 "Lucht Oibre"
  IRE_neutrality_party_long:0 "Páirtí an Lucht Oibre"
  AFG_neutrality_party:0 "Barakzai"
- AFG_neutrality_party_long:0 "Barakzai royal family"
+ AFG_neutrality_party_long:0 "Barakzai Royal Family"
  LUX_democratic_party:0 "Rietspartei"
  LUX_communism_party:0 "KPL"
  LUX_communism_party_long:0 "Kommunistesch Partei Lëtzebuerg"
