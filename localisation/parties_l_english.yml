@@ -92,7 +92,8 @@
 
 #########################################
 
- AFG_autocracy_party:0 "House of Barakzai"
+ #all very islamic/religious
+ AFG_autocracy_party:0 "House of Barakzai"    
  AFG_integrism_party:0 "Saqqawists"
  AFG_social_conservatism_party:0 "Solidarity"
  AFG_totalist_party:0 "Khalq"
@@ -104,10 +105,31 @@
  AST_social_conservatism_party:0 "Protectionist"
  AST_totalist_party:0 "Movement"
  AST_socialist_party:0 "Labor"
- AST-social_liberalism_party:0 "Free Trade Party"
+ AST_social_liberalism_party:0 "Free Trade Party"
 
+ #no chance of socialism/totalism
+ BHU_autocracy_party:0 "Wangchuk Dynasty"   
+ BHU_social_conservatism_party:0 "Druk Phuensum Tshogpa"
+ BHU_social_liberalism_party:0 "Peoples Democratic Party"
 
+ #each chinese party is very nationalist
+ CHI_autocracy_party:0 "Qing Loyalists"
+ CHI_integrism_party_long:0 "One People Solidarity Party"
+ CHI_social_conservatism_party:0 "Minkuotang"
+ CHI_totalist_party:0 "Manual Law"
+ CHI_socialist_party:0 "New Power Party"
+ CHI_social_liberalism_party:0 "Democratic Progressive Party"
 
+ #most parties are islamic fundamentalist
+ INS_autocracy_party:0 "Dutch Loyalists"    #for colony
+ INS_autocracy_party:1 "Star and Moon Party"    #for liberated
+ INS_integrism_party:0 "New Struggle Party"
+ INS_social_conservatism_party:0 "Indonesian Development Party"
+ INS_totalist_party:0 "Party of Indonesian Totalists" 
+ INS_socialist_party:0 "Pancasila Coalitions"
+ INS_social_liberalism_party:0 "Pancasilan Breakaways"    #no Indonesian liberals
+
+ 
 
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
@@ -148,12 +170,6 @@
  AUS_democratic_party_long:0 "Sozialdemokratische Partei Österreichs"
  AUS_fascism_party:1 "DNSAP"
  AUS_neutrality_party:1 "Vaterländische Front"
- CHI_communism_party:0 "CPC"
- CHI_communism_party_long:0 "Communist Party of China"
- CHI_democratic_party:0 "China Democratic League"
- CHI_fascism_party:1 "BSB"
- CHI_fascism_party_long:1 "Blue Shirt Society"
- CHI_neutrality_party:0 "Kuomintang"
  XSM_neutrality_party:0 "Ma Clique"
  XSM_communism_party:0 "CPC"
  XSM_communism_party_long:0 "Communist Party of China"
@@ -460,7 +476,6 @@
  LUX_communism_party_long:0 "Kommunistesch Partei Lëtzebuerg"
  LUX_fascism_party:0 "PNI"
  LUX_fascism_party_long:0 "Onofhängeg Nationalpartei"
- BHU_neutrality_party:0 "Wangchuk Dynasty"
  SLO_fascism_party:0 "HSLS"
  SLO_fascism_party_long:0 "Hlinkova Slovenská Ludová Strana"
  SLO_communism_party:0 "KSS"
