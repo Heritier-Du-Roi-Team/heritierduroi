@@ -4,19 +4,21 @@ state={
 	name="STATE_753"
 
 	history={
-		owner = CHI
+		owner = YUN
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = YUN
 		victory_points = {
-			2045 1 
+			2045 1
 		}
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
 
 	provinces={
-		2067 4937 7294 8126 10726 12819 
+		4937 7294 8126 10726
 	}
 	manpower=3000000
 	buildings_max_level_factor=1.000

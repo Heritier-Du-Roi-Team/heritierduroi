@@ -1,25 +1,27 @@
 
 state={
 	id=614
-	name="STATE_614" # Hebei
-	manpower = 18434900
-	
-	state_category = town
+	name="STATE_614"
 
 	history={
-		owner = CHI
+		owner = FEN
+		add_core_of = FEN
 		add_core_of = CHI
-		add_core_of = PRC
 		buildings = {
 			infrastructure = 4
-		}
 
+		}
 		1938.10.25 = {
 			controller = JAP
+
 		}
+
 	}
 
 	provinces={
-		1169 1188 4032 4058 4093 4190 4208 7000 7092 7109 10003 10022 10053 10119 11944 11980 11996 12062 
+		1084 1139 1169 1180 1188 1203 1519 4032 4058 4093 4114 4144 4190 4208 4469 4538 4606 4634 7000 7074 7092 7109 7160 7189 7571 9987 10003 10022 10053 10119 10421 11933 11944 11962 11980 11996 12062 12078 12093 12344 
 	}
+	manpower=18434900
+	buildings_max_level_factor=1.000
+	state_category=town
 }

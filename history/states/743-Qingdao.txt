@@ -1,18 +1,14 @@
-state=
-{
+
+state={
 	id=743
 	name="STATE_743"
-	manpower = 385000
-	state_category = large_town
-	
-	
-	history=
-	{
-		owner = CHI
+
+	history={
+		owner = BEA
+		add_core_of = BEA
 		add_core_of = CHI
-		add_core_of = PRC
 		victory_points = {
-			10000 5 
+			10000 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -22,14 +18,21 @@ state=
 				naval_base = 5
 				coastal_bunker = 1
 				bunker = 1
-			}
-		}
 
+			}
+
+		}
 		1938.10.25 = {
 			controller = JAP
+
 		}
+
 	}
+
 	provinces={
-		10000
+		4205 10000
 	}
+	manpower=385000
+	buildings_max_level_factor=1.000
+	state_category=large_town
 }

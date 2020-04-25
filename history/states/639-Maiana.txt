@@ -6,7 +6,8 @@ state={
 	state_category = small_island
 
 	history={
-		owner = ENG
+		owner = BEA
+		add_claim_by = BEA
 		add_core_of = FIJ
 		buildings = {
 			infrastructure = 3
@@ -24,12 +25,12 @@ state={
 			}
 		}
 		victory_points = {
-			13021 1 
+			13021 1
 		}
 
 	}
 
 	provinces={
-		4387 7393 13020 13021 13022 
+		4387 7393 13020 13021 13022
 	}
 }

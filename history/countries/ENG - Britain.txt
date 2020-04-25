@@ -39,10 +39,10 @@ set_technology = {
 	naval_bomber1 = 1
 	early_bomber = 1
 	CAS1 = 1
-	
+
 	trench_warfare = 1
 
-	
+
 	fleet_in_being = 1
 	electronic_mechanical_engineering = 1
 	radio = 1
@@ -110,7 +110,7 @@ if = {
 add_ideas = {
 	#
 }
-	
+
 set_convoys = 800
 
 # DIPLOMACY
@@ -150,9 +150,14 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = BEA
+		autonomous_state = autonomy_colony
+	}
 	else = {
 		puppet = MAL
 		puppet = RAJ
+		puppet = BEA
 	}
 }
 
@@ -289,7 +294,7 @@ create_country_leader = {
 #	expire = "1965.1.1"
 #	ideology = progressive
 #	traits = {
-#		
+#
 #	}
 #}
 
@@ -323,7 +328,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = libertarian_socialists
 	traits = {
-		
+
 	}
 }
 
@@ -344,7 +349,7 @@ create_field_marshal = {
 	id = 996
 	picture = "Portrait_Britain_Bernard_Montgomery.dds"
 	traits = { logistics_wizard offensive_doctrine media_personality trait_cautious inflexible_strategist organizer }
-	skill = 4 
+	skill = 4
 	attack_skill = 2
 	defense_skill = 4
 	planning_skill = 3
@@ -569,7 +574,7 @@ create_corps_commander = {
 	picture = "Portrait_Britain_Brian_Horrocks.dds"
 	traits = {  armor_officer career_officer war_hero }
 	skill = 3
-	
+
 	attack_skill = 1
 	defense_skill = 3
 	planning_skill = 3
@@ -1257,7 +1262,7 @@ if = {
 		}
 		obsolete = yes
 	}
-	
+
 	create_equipment_variant = {
 		name = "Hermes Class"
 		type = ship_hull_carrier_conversion_ca
@@ -1304,7 +1309,7 @@ if = {
 				front_1_custom_slot = ship_deck_space
 			}
 		}
-	
+
 }
 1939.1.1 = {
 	if = {
@@ -1336,7 +1341,7 @@ if = {
 		limit = {
 			has_dlc = "Man the Guns"
 		}
-		
+
 		create_equipment_variant = {
 			name = "Illustrious Class"
 			type = ship_hull_carrier_2

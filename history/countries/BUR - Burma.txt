@@ -1,0 +1,25 @@
+capital = 288
+oob = "BUR_1936"
+
+set_technology = {
+  early_fighter = 1
+  early_bomber = 1
+  gwtank = 1
+  gw_artillery = 1
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = autocracy
+	last_election = "1931.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  social_conservatism = 10
+  autocracy = 33
+  social_liberalism = 13
+  socialism = 10
+  totalist = 30
+  integrism = 4
+}
