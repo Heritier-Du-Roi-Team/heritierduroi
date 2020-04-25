@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = URQ
-		add_core_of = URQ
+		owner = SCL
+		add_core_of = SCL
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -19,10 +19,10 @@ state={
 
 		}
 		victory_points = {
-			4925 5 
+			4925 5
 		}
 		victory_points = {
-			6999 20 
+			6999 20
 		}
 		1939.1.1 = {
 			buildings = {
@@ -38,7 +38,7 @@ state={
 	}
 
 	provinces={
-		1367 1395 1893 2030 2091 4925 5048 6999 7240 7256 7948 8026 10144 10841 11865 12141 12274 12705 12767 
+		1367 1395 1893 2030 2067 2091 4167 4925 5048 6999 7019 7240 7256 7418 7948 8026 8072 10144 10841 11865 12141 12274 12705 12767 12819
 	}
 	manpower=52963300
 	buildings_max_level_factor=1.000

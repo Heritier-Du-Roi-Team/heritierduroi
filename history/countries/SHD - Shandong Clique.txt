@@ -1,0 +1,23 @@
+capital = 752
+oob = "SHD_1936"
+
+set_technology = {
+  early_fighter = 1
+  early_bomber = 1
+  gwtank = 1
+  gw_artillery = 1
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = autocracy
+	last_election = "1931.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  social_conservatism = 16
+  autocracy = 57
+  social_liberalism = 23
+  integrism = 4
+}

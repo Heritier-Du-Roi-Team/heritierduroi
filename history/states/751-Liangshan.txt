@@ -13,16 +13,16 @@ state={
 
 		}
 		victory_points = {
-			12141 3
+			12141 3 
 		}
 		victory_points = {
-			7294 1
+			7294 1 
 		}
 
 	}
 
 	provinces={
-		4425 4559 4996 7965 7976 10863 10920 12789 12898
+		4559 7965 10863 12789 12898 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

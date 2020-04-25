@@ -4,9 +4,7 @@ state={
 	name="STATE_744"
 
 	history={
-		owner = URQ
-		add_core_of = URQ
-		add_core_of = PRC
+		owner = CHI
 		add_core_of = CHI
 		victory_points = {
 			7418 1
@@ -19,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1603 1976 4167 4256 4547 5092 6932 7019 7301 7406 7418 7948 8072 11931 12408 12713
+		1603 1976 4256 4547 5092 6932 7301 7406 7948 11931 12408 12713
 	}
 	manpower=9000000
 	buildings_max_level_factor=1.000

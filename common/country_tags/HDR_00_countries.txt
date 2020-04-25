@@ -1,19 +1,21 @@
 #AFRICA
 #ABY = "countries/Ethiopia.txt"
 AFR = "countries/French Africa.txt"
-#IND = "countries/India.txt"
+
+#ASIA
+BEA = "countries/British East Asia.txt"
+ICH = "countries/French Indochina.txt"
+BUR = "countries/French Burma.txt"
+FEN = "countries/Fengtien Clique.txt"
+SHD = "countries/Shandong Clique.txt"
+SCL = "countries/Sichuan Clique.txt"
+
+#RAJ = "countries/India.txt"
 NEJ = "countries/Nejd.txt"
 OTT = "countries/Ottomans.txt"
 #RIY = "countries/Riyad.txt"
 
-#ASIA
-#DEI = "countries/Indonesia.txt"
-SNG = "countries/Singapore.txt"
-URQ = "countries/Urumqi.txt"
-
 #N. AMERICA
-MEE = "countries/MexicoEmpire.txt"
-#QUE = "countries/Quebec.txt"
 
 #CARRIBEAN
 

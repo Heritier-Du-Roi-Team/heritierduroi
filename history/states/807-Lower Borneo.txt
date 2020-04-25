@@ -1,0 +1,41 @@
+
+state={
+	id=807
+	name="STATE_807"
+	resources={
+		rubber=75.000
+		oil=5.000
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			10237 1 
+		}
+		buildings = {
+			infrastructure = 2
+			10237 = {
+				naval_base = 3
+
+			}
+			1316 = {
+				naval_base = 1
+
+			}
+			10325 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1225 1416 2184 4409 7227 7296 7355 8221 10138 10178 10237 10266 10282 10310 12110 12225 12252 12280 12955 
+	}
+	manpower=2168600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
