@@ -16,10 +16,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-  social_conservatism = 10
+  social_conservatism = 8
   autocracy = 33
-  social_liberalism = 13
+  social_liberalism = 7
   socialism = 10
-  totalist = 30
-  integrism = 4
+  totalist = 34
+  integrism = 8
 }
