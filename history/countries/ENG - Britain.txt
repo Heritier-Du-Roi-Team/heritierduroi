@@ -1,6 +1,7 @@
-﻿capital = 126
+capital = 126
 
-set_oob = "ENG_1936"
+##### OOB 1936 #####
+
 if = {
 	limit = {
 		has_dlc = "Man the Guns"
@@ -13,12 +14,14 @@ if = {
 
 load_oob = "ENG_Motorized"
 
+set_oob = "ENG_1936"
+
+set_convoys = 800
+
+##### STARTING TECH 1936 ######
+
 set_research_slots = 4
 
-set_stability = 0.6
-set_war_support = 0.1
-
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
@@ -107,13 +110,14 @@ if = {
 	}
 }
 
-add_ideas = {
-	#
+if = {
+	limit = { has_dlc = "Together for Victory" }
+
+	add_to_tech_sharing_group = commonwealth_research
 }
 
-set_convoys = 800
+##### DIPLOMACY 1936 #####
 
-# DIPLOMACY
 if = {
 	limit = {
 		OR = {
@@ -122,7 +126,7 @@ if = {
 		}
 	}
 	set_autonomy = {
-		target = MAL
+		target = BEA
 		autonomous_state = autonomy_integrated_puppet
 	}
 	set_autonomy = {
@@ -146,11 +150,6 @@ if = {
 		freedom_level = 0.2
 	}
 	set_autonomy = {
-		target = NZL
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
 		target = BEA
 		autonomous_state = autonomy_colony
 	}
@@ -161,12 +160,10 @@ if = {
 	}
 }
 
+##### POLITICAL SITUATION 1936 #####
 
-if = {
-	limit = { has_dlc = "Together for Victory" }
-
-	add_to_tech_sharing_group = commonwealth_research
-}
+set_stability = 0.6
+set_war_support = 0.1
 
 set_politics = {
 	ruling_party = social_conservatism
@@ -175,12 +172,12 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	social_conservatism = 40
-	social_liberalism = 26
-	socialist = 14
-	totalist = 10
-	autocracy = 7
-	integrism = 3
+	social_conservatism = 41
+	social_liberalism = 21
+	socialist = 20
+	totalist = 7
+	autocracy = 9
+	integrism = 2
 }
 
 add_ideas = {
@@ -189,15 +186,25 @@ add_ideas = {
 	ENG_stagnant_economy
 }
 
-create_faction = Allies
+create_faction = FACTION_NAME_ENG:2
 add_to_faction = ENG
 add_to_faction = CAN
 add_to_faction = AST
-add_to_faction = NZL
 add_to_faction = SAF
 give_military_access = RAJ
-add_to_faction = RAJ		# Must be after puppet
-add_to_faction = MAL
+add_to_faction = RAJ
+add_to_faction = BEA
+
+create_country_leader = {
+	name = "Stanley Baldwin"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_England_Stanley_Baldwin.dds"
+	expire = "1965.1.1"
+	ideology = traditionalism
+	traits = {
+		conservative_grandee
+	}
+}
 
 create_country_leader = {
 	name = "Austen Chamberlain"
@@ -218,17 +225,6 @@ create_country_leader = {
 	ideology = fabianism
 	traits = {
 		#
-	}
-}
-
-create_country_leader = {
-	name = "Stanley Baldwin"
-	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_England_Stanley_Baldwin.dds"
-	expire = "1965.1.1"
-	ideology = traditionalism
-	traits = {
-		conservative_grandee
 	}
 }
 

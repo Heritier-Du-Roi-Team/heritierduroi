@@ -3,13 +3,63 @@ l_english:
  FACTION_MEMBER:0 "Faction member: §Y$COUNTRY$§!"
  FACTION_CREATED_UNDER_MASTER_TITLE:0 "Joined Master's Faction"
  FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "We have joined $FACTION|H$ faction together under our master"
+
+ ####################################################
+
+ FACTION_NAME_FRA:99 "Entente" 
+ FACTION_NAME_FRA:0 "Systeme Continental"   #aggressive napoleon
+ FACTION_NAME_FRA:1 "Compacts Familiaux"   #defensive moncarchy
+ FACTION_NAME_FRA:2 "French Entente"        #democratic
+ FACTION_NAME_FRA:3 "Stresa Front"        #Italy/Uk/France
+ FACTION_NAME_FRA:4 "Legttimist Alliance"     #legittmist monarchist
+ FACTION_NAME_FRA:5 "Paris Accords"         #totalist/socialist
+ FACTION_NAME_FRA:6 "Confédération du Rhin"   #confederation of rhine
+ FACTION_NAME_FRA:7 "Convention Internationale"     #revolutionary france
+ FACTION_NAME_FRA:8 "Anti-Totalist Bloc"      #anti-totalist
+ FACTION_NAME_FRA:9 "Union Européenne"      #democract EU alliance
+ FACTION_NAME_FRA:10 "Front de la Liberté"    #integrist ideology ally
+ FACTION_NAME_FRA:11 "Domination Française"     #integrist aggressive ally
+ FACTION_NAME_FRA:12 "Triple Entente"       #anti-german confed
+ 
+ FACTION_NAME_ENG:99 "Allies"
+ FACTION_NAME_ENG:0 "Sixth Coalition"     #anti-napoleon
+ FACTION_NAME_ENG:1 "Seventh Coalition"     #anti-napoleon 2
+ FACTION_NAME_ENG:2 "Commonwealth"      #empire
+ FACTION_NAME_ENG:3 "Treaty Series"     #italy
+ FACTION_NAME_ENG:4 "Landsowne Accords"      #w/ expansionist countries (eg Japan/Russia)
+ FACTION_NAME_ENG:5 "Westminster Convention"      #prussian alliance
+ FACTION_NAME_ENG:7 "Alternate Alliance"      #totalist
+ FACTION_NAME_ENG:8 "MacFly Order"       #socialist/moralist alliance 
+ FACTION_NAME_ENG:9 "Treaty of London"        #monarchy alliance
+ FACTION_NAME_ENG:10 "Mayflower Treaty"       #USA
+ FACTION_NAME_ENG:11 "Grand Alliance"         #democrat (w/ Russia)
+ FACTION_NAME_ENG:12 "Imperial Federation"      #democrat empire
+
+ FACTION_NAME_RUS:0 "Grand Alliance"       #w/ Uk? Russia lead maybe
+ FACTION_NAME_RUS:1 "Common Strategic Treaty Organisation"      #CSTO. Democrat/reaction russia 
+
+ FACTION_NAME_VNC:0 "League of Venice"      #aggressive (maybe w UK?)
+
+ FACTION_NAME_PRS:0 "German Confederation"
+ FACTION_NAME_PRS:1 "German Union"
+ FACTION_NAME_PRS:2 "Central Powers"
+ FACTION_NAME_PRS:3 "Reich Pakt"
+ FACTION_NAME_PRS:4 "Dritte Internationale"     #totalist
+ FACTION_NAME_PRS:5 "United German States"
+ FACTION_NAME_PRS:6 "Volkspakt"
+ FACTION_NAME_PRS:7 "Vaterländer"
+ FACTION_NAME_PRS:8 ""
+ FACTION_NAME_PRS:9
+ FACTION_NAME_PRS:10
+ FACTION_NAME_PRS:11
+ FACTION_NAME_PRS:12
+ FACTION_NAME_PRS:13
+ FACTION_NAME_PRS:14
+
  FACTION_NAME_GER_fascism:0 "Axis"
  FACTION_NAME_GER_none:0 "Axis"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
- french_alliance:0 "French Alliance"
  the_berlin_moscow_axis:0 "The Berlin-Moscow Axis"
- domination_francaise:0 "Domination Française"
- french_entente_alliance:0 "French-Entente Alliance"
  daitoa_kyoeiken:0 "Daitoa Kyoeiken"
  italy_empire_faction:0 "Novus Imperium Romanum"
  chinese_united_front:0 "Chinese United Front"
@@ -35,8 +85,7 @@ l_english:
  CHI_the_peoples_front:0 "The People's Front"
  PRC_mao_faction:0 "Mutual Assistance Bloc"
  USA_hemisphere_defense_faction:0 "Treaty of Reciprocal Assistance"
- ENG_commonwealth_of_nations:0 "Commonwealth of Nations"
- ENG_british_communist_alternative:0 "British Communist Alternative"
+
  FACTION_NAME_DEMOCRATIC_1:0 "The $CONTINENT_ADJ$ Association"
  FACTION_NAME_DEMOCRATIC_2:0 "The $CONTINENT_ADJ$ Entente"
  FACTION_NAME_DEMOCRATIC_3:0 "The $LEADER_COUNTRY_ADJ$ Concordat"
@@ -62,13 +111,8 @@ l_english:
  european_union:0 "European Union"
  MTG_USA_NORTH_AMERICAN_DOMINION_FACTION:0 "The Coalition"
  anglo_italian_pact:1 "Anglo-Italian Pact"
- ENG_coalition_of_free_commonwealth_states:0 "Coalition of Free Commonwealth States"
- FRA_stresa_front:0 "Stresa Front"
- FRA_legitimist_faction:0 "Legitimist Alliance"
- FRA_communist_faction:0 "Paris Accords"
  SPA_latin_bloc:0 "Latin Bloc"
  SPC_international_bureau_of_revolutionary_socialist_unity:0 "International Bureau of Revolutionary Socialist Unity"
  POR_popular_front_bloc:0 "Popular Front Bloc"
  POR_royal_iberian_alliance:0 "Royal Iberian Alliance"
- FRA_confederation_of_the_rhine:0 "Confédération du Rhin"
- FRA_orleanist_faction:0 "Anti-Fascist Bloc"
+

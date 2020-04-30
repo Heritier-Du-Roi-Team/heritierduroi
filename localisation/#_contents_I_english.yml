@@ -1,0 +1,34 @@
+l_english:
+
+########## LOCALE CONTENTS ###########
+
+
+
+# x. ITEM                  = FILE_I_english
+
+
+
+
+# 1. MAIN MENU DESC        = BOOKMARKS
+
+# 2. ALT/PUP COUNTRY NAMES = COUNTRIES COSMETIC
+
+# 3. COUNTRY NAMES         = COUNTRIES
+
+# 4. EQUIPMENT NAMES       = EQUIPMENT
+
+# 5. EVENTS                = EVENTS
+
+# 6. ALLIANCE NAMES        = FACTIONS
+
+# 7. NATIONAL SPIRITS      = IDEAS
+
+# 8. LEADER DESC           = LEADERS
+
+# 9. PARTY NAMES           = PARTIES
+
+# 10. STATE NAMES          = STATE NAMES
+
+# 11. LEADER TRAITS        = TRAITS
+
+# 12. CITY NAMES           = VICTORY POINTS
