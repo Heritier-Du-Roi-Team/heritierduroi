@@ -17,11 +17,11 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	autocracy = 53
-	social_conservatism = 21
-	integrism = 11
-	socialist = 7
-	social_liberalism = 8
+	autocracy = 81
+	social_conservatism = 7
+	integrism = 6
+	socialist = 2
+	social_liberalism = 4
 }
 
 create_country_leader = {

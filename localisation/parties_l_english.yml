@@ -90,9 +90,9 @@
  fanaticism:0 "Fanaticism"
  fanaticism_desc:0 "This government is ruled by ideological fanatics who are willing to sacrifice themselves and others in order to achieve their goals, which are nearly always driven by some form of religion or supreme ruler. Fanaticism requires complete dedication to the state without logical reason, with no regard for any legitimate contrary opinion, often inspiring ultranationalist thinking, militaristic attitudes, totalitarianism and aggressive expansionism."
 
-#########################################
+#################################################
 
-####### ASIA #########
+################### ASIA #######################
 
  #all very islamic/religious
  AFG_autocracy_party:0 "House of Barakzai"    
@@ -102,14 +102,7 @@
  AFG_socialist_party:0 "Alharakat al'Islamiat Alwatania"
  AFG_social_liberalism:0 "Jamat e-Islami"
 
- AST_autocracy_party:0 "National Country Party"
- AST_integrism_party:0 "New Centre Party"
- AST_social_conservatism_party:0 "Protectionist Party"
- AST_totalist_party:0 "Movement Party"
- AST_socialist_party:0 "Labor Party"
- AST_social_liberalism_party:0 "Free Trade Party"
-
- #no chance of socialism/totalism
+ #no chance of socialism/totalism/integrism
  BHU_autocracy_party:0 "Wangchuk Dynasty"   
  BHU_social_conservatism_party:0 "Druk Phuensum Tshogpa"
  BHU_social_liberalism_party:0 "Pipulsa Demokryatika Parti"
@@ -121,15 +114,6 @@
  CHI_totalist_party:0 "KMT - Weintiang"
  CHI_socialist_party:0 "KMT - Jingwei"
  CHI_social_liberalism_party:0 "KMT - Sun Fo"
-
- #most parties are islamic
- INS_autocracy_party:0 "Dutch Loyalists"    #for colony. pro colony
- INS_autocracy_party:1 "Bintang dan Bulan"    #for liberated
- INS_integrism_party:0 "Perjuangan Baru"
- INS_social_conservatism_party:0 "Partai Pembangunan"
- INS_totalist_party:0 "Partai Totalis Indonesia" 
- INS_socialist_party:0 "Pancasila Coalitions"
- INS_social_liberalism_party:0 "Pancasilan Breakaways"    #no Indonesian liberals
 
  JAP_autocracy_party:0 "Kodoha-ha"   #imperial
  JAP_integrism_party:0 "Taisei Yokusankai"    #imperial
@@ -171,6 +155,13 @@
  BAN_totalist_party:0 "Totalist Party of Bangladesh"
  BAN_socialist_party:0 "Jatiya Samajtantrik Dal"    #student led
  BAN_social_liberalism_party:0 "Awami League"
+ SRL_autocracy_party:0 "Chelvanayakam Supporters"    #Tamil nationalist. Pro Tamil independance
+ SRL_integrism_party:0 "Synganalminan Supporters"     #Radical Federationist. Wants Madras
+ SRL_social_conservatism_party:0 "Senanayake Supporters"
+ SRL_totalist_party:0 "Wickramasinghe Supporters"
+ SRL_socialist_party:0 "Thondaman Supporters"
+ SRL_social_liberalism_party:0 "Bandaranaike Supporters"
+
  BRM_autocracy_party:0 "Konbaung Dynasty"     #pro liberation. led by Myat Phaya Lat
  BRM_integrism_party:0 "Descendents Party"
  BRM_social_conservatism_party:0 "Dobama Asiayone"
@@ -181,12 +172,6 @@
  BRM_socialist_party:0 "People's Revolutionary Party"
  BRM_socialist_party:1 "Union Revolutionary Council"    #only military coup
  BRM_social_liberalism_party:0 "Poor Man's Party"
- SRL_autocracy_party:0 "Chelvanayakam Supporters"    #Tamil nationalist. Pro Tamil independance
- SRL_integrism_party:0 "Synganalminan Supporters"     #Radical Federationist. Wants Madras
- SRL_social_conservatism_party:0 "Senanayake Supporters"
- SRL_totalist_party:0 "Wickramasinghe Supporters"
- SRL_socialist_party:0 "Thondaman Supporters"
- SRL_social_liberalism_party:0 "Bandaranaike Supporters"
 
  SIK_autocracy_party:0 "Kuomintang"   #pro china
  SIK_autocracy_party:1 "Xinjiang Clique"
@@ -197,7 +182,6 @@
  SIK_socialist_party:0 "Sheng Moderates"
  SIK_social_liberalism_party:0 "Kuomintang"   #pro china
 
- #no integrism/socialism/totalism
  TIB_autocracy_party:0 "Retting Rinpoche"
  TIB_autocracy_party:1 "Taktra Rinpoche"
  TIB_autocracy_party:2 "Kuomintang"
@@ -218,6 +202,7 @@
 
  YUN_autocracy_party:0 "Kuomintang"
  YUN_autocracy_party:1 "Qing Loyalists"
+ YUN_integrism_party:0 "Cliquists"
  YUN_social_conservatism_party:0 "Kuomintang"
  YUN_social_liberalism_party:0 "Kuomintang"
  YUN_totalist_party:0 "Chinese Communist Party"     #Think Kuomintang corrupt
@@ -243,7 +228,143 @@
  SCL_social_conservatism_party:0 "Kuomintang"
  SCL_social_liberalism_party:0 "Kuomintang"
  SCL_totalist_party:0 "Chinese Communist Party"
- SCL_socialist_party:0 "Chinese Communist Party"
+ SCL_socialist_party:0 "Collective Tribes"
+
+ SHD_autocracy_party:0 "Smuggling Clans"
+ SHD_social_conservatism_party:0 "Kuomintang"
+ SHD_social_liberalism_party:0 "Kuomintang"
+ SHD_totalist_party:0 "Kuomintang"
+ SHD_socialist_party:0 "Kuomintang"
+
+ ICH_autocracy_party:0 "Administration Coloniale"   #only colony. pro colony
+ LAO_autocracy_party:0 "House of Khun Lo"
+ LAO_integrism_party:0 "Tribal Centralization Party"
+ LAO_social_conservatism_party:0 "Conservative Partisans"
+ LAO_social_liberalism_party:0 "Liberal Partisans"
+ LAO_totalist_party:0 "Pathet Lao - Totalists"
+ LAO_socialist_party:0 "Pathet Lao - Socialists"
+ VIN_autocracy_party:0 "Nguyen Dynasty"
+ VIN_integrism_party:0 "Vietnamese Restoration Society"  
+ VIN_social_conservatism_party:0 "Viet Minh - Conservatives"
+ VIN_social_conservatism_party:0 "Can Lao - Conservatives"    #after purge
+ VIN_social_liberalism_party:0 "Viet Minh - Liberals" 
+ VIN_social_liberalism_party:0 "Can Lao - Liberals"   #after purge
+ VIN_totalist_party:0 "Viet Minh - Totalists"
+ VIN_socialist_party:0 "Viet Minh - Socialists"
+ VIN_socialist_party:1 "Viêt Nam Quoc Dân Đang"   #after purge
+ CAM_autocracy_party:0 "House of Sisowath"      #pre 42
+ CAM_autocracy_party:1 "House of Norodom"     #post 42
+ CAM_integrism_party:0 "Khmerites"
+ CAM_social_conservatism_party:0 "Sangkum Reastr Niyum"
+ CAM_social_liberalism_party:0 "Democratic Party"
+ CAM_totalists_party:0 "Totalist Party of Kampuchea"
+ CAM_totalists_party:1 "Khmer Minh"   #Khmer Rouge. only Vietnamese puppet
+ CAM_socialist_party:0 "People's Party"
+ 
+ #no chance of integrism
+ NEP_autocracy_party:0 "Rana Dynasty"
+ NEP_totalist_party:0 "Nepal Totalist Party"
+ NEP_social_conservatism_party:0 "Rastriya Janata Party"
+ NEP_socialist_party:0 "Samajbadi Party"
+ NEP_social_liberalism_party:0 "Nepali Congress"
+
+ PHI_autocracy_party:0 "Malolosian Military Congress"
+ PHI_integrism_party:0 "Ganap"
+ PHI_integrism_party:1 "KALIBAPI"   #puppet nationalist
+ PHI_social_conservatism_party:0 "Partido Progresista"
+ PHI_social_liberalism_party:0 "Partido Nacionalista"
+ PHI_social_conservatism_party:1 "Phillipine Assembley"   #puppet democrat(USA)
+ PHI_totalist_party:0 "Partido Totalista ng Pilipinas"
+ PHI_socialist_party:0 "Sangguniang Barangay Collectives"
+
+ SHX_autocracy_party:0 "Cliquists"
+ SHX_integrism_party:0 "Model Generals"
+ SHX_social_conservatism_party:0 "Kuomintang"
+ SHX_social_liberalism_party:0 "Kuomintang"
+ SHX_totalist_party:0 "Kuomintang"
+ SHX_socialist_party:0 "Kuomintang"
+
+ #no chance of integrism
+ SNG_autocracy_party:0 "Joint Commission"
+ SNG_social_conservatism_party:0 "Parti Kemajuan Singapura"
+ SNG_socialist_party:0 "Barisan Sosialis"
+ SNG_social_liberalism_party:0 "  Parti Rakyat Singapura"
+ SNG_totalist_party:0 "Parti Pekerja"
+
+ SIA_autocracy_party:0 "Khana Ratsadon"     #origninal monarchy
+ SIA_autocracy_party:1 "Boworadet Loyalists"    #civil war monarchy
+ SIA_integrism_party:0 "Seri Manangkhasila"
+ SIA_integrism_party:1 "Navy High Command"    #civil war integrism 
+ SIA_social_conservatism_party:0 "Pridi's People Party"
+ SIA_totalist_party:0 "Peasant Revolutionary Coalition"
+ SIA_socialist_party:0 "Student Socialist Unions"   #pre power
+ SIA_socialist_party:1 "Socialist Party for Siam"   #during power
+ SIA_social_liberalism_party:0 "Phak Matchima Thippathai"
+
+ BEA_autocracy_party:0 "Foreign Office"   #only colony. pro colony
+ BEA_autocracy_party:1 "Legislative Council"
+ BEA_integrism_party:0 "Local Faction"
+ BEA_social_conservatism_party:0 "High Commission"    #only colony. pro colony.
+ BEA_social_conservatism_party:1 "Federationists"
+ BEA_social_liberalism_party:0 "Unfederationists"
+ BEA_socialist_party:0 "Regionalists"
+ BEA_totalist_party;0 "Centralists"
+
+ AST_autocracy_party:0 "National Country Party"
+ AST_integrism_party:0 "New Centre Party"
+ AST_social_conservatism_party:0 "Protectionist Party"
+ AST_totalist_party:0 "Movement Party"
+ AST_socialist_party:0 "Labor Party"
+ AST_social_liberalism_party:0 "Free Trade Party"
+
+ #most parties are islamic
+ INS_autocracy_party:0 "Dutch Loyalists"    #for colony. pro colony
+ INS_autocracy_party:1 "Bintang dan Bulan"    #for liberated
+ INS_integrism_party:0 "Perjuangan Baru"
+ INS_social_conservatism_party:0 "Partai Pembangunan"
+ INS_totalist_party:0 "Partai Totalis Indonesia" 
+ INS_socialist_party:0 "Pancasila Coalitions"
+ INS_social_liberalism_party:0 "Pancasilan Breakaways"    #no Indonesian liberals
+
+
+
+
+
+
+
+############################# EUROPE #####################################
+
+ ENG_totalist_party:0 "Totalist Shires of Great Britain"
+ ENG_socialist_party:0 "Labour Party"
+ ENG_social_liberalism_party:0 "Liberal Democrats"
+ ENG_social_conservatism_party:0 "Conservative Party"
+ ENG_autocracy_party:0 "Royal Court"
+ ENG_integrism_party_long:0 "Greater British National Party"
+
+ IRE_totalist_party:0 "Solidarity"
+ IRE_socialist_party:0 "Sinn Fein"
+ IRE_social_liberalism_party:0 "Fine Gael"
+ IRE_social_conservatism_party:0 "Fianna Fáil"
+ IRE_social_conservatism_party:1 "Unionist Party"   #pro uk
+ IRE_autocracy_party:0 "Dilseoiri Rioga"
+ IRE_autocracy_party:1 "Orangemen Unionists"    #pro uk
+ IRE_integrism_party_long:0 "Aontú"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
@@ -541,8 +662,6 @@
  ELS_fascism_party_long:0 "Partido Nacional 'Pro-Patria'"
  GUA_democratic_party:0 "PLP"
  GUA_democratic_party_long:0 "Progressive Liberal Party"
- SIA_neutrality_party:0 "Khana Ratsadon"
- SIA_neutrality_party_long:0 "Khana Ratsadon"
  URG_democratic_party:0 "Colorado"
  URG_democratic_party_long:0 "Partido Colorado"
  URG_communism_party:0 "PCU"
@@ -590,12 +709,6 @@
  PAN_democratic_party_long:0 "Partido Liberal Doctrinario"
  PAN_communism_party:0 "PPP"
  PAN_communism_party_long:0 "Partido del Pueblo de Panamá"
- PHI_fascism_party:0 "Ganap"
- PHI_fascism_party_long:0 "Ganap Party"
- PHI_democratic_party:0 "NP"
- PHI_democratic_party_long:0 "Partido Nacionalista"
- PHI_communism_party:0 "PKP"
- PHI_communism_party_long:0 "Partido Komunista ng Pilipinas"
  SAU_neutrality_party:0 "House of Saud"
  YEM_neutrality_party:0 "House of Rassid"
  OMA_neutrality_party:0 "Al Said Dynasty"
@@ -659,10 +772,6 @@
  MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
  MAL_communism_party:0 "Malayan Communist Party" #or MCP
  MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM 
- LAO_fascism_party:0 "Tribal Centralization Party"
- LAO_democratic_party:0 "Democratic Party"
- LAO_communism_party:0 "Pathet Lao"
- LAO_neutrality_party:0 "Royalists"
  MNT_fascism_party:0 "Greens"
  MNT_democratic_party:0 "Democracy League"
  MNT_communism_party:0 "Communist Party of Montenegro" #or KPCG
@@ -698,9 +807,6 @@
  PRC_democratic_party_long:0 "Kuomintang Revolutionary Committee"
  PRC_communism_party:0 "CPC"
  PRC_communism_party_long:0 "Communist Party of China"
- SHX_neutrality_party:0 "Kuomintang"
- SHX_communism_party:0 "CPC"
- SHX_communism_party_long:0 "Communist Party of China"
  GXC_neutrality_party:0 "New Guangxi Clique"
  GXC_communism_party:0 "CPC"
  GXC_communism_party_long:0 "Communist Party of China"
