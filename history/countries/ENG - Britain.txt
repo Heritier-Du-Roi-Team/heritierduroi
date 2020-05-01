@@ -186,7 +186,7 @@ add_ideas = {
 	ENG_stagnant_economy
 }
 
-create_faction = FACTION_NAME_ENG:2
+create_faction = {FACTION_NAME_ENG:0}
 add_to_faction = ENG
 add_to_faction = CAN
 add_to_faction = AST

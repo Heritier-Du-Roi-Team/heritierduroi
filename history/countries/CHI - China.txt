@@ -85,7 +85,7 @@ set_popularities = {
 	social_conservatism = 52
 	social_liberalism = 26
 	autocracy = 12
-	socialism = 9
+	socialist = 9
 	totalist = 1
 }
 
