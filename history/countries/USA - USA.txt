@@ -102,22 +102,9 @@ give_guarantee = MEX
 give_guarantee = CUB
 give_guarantee = HAI
 give_guarantee = DOM
-give_guarantee = GUA
-give_guarantee = HON
-give_guarantee = ELS
-give_guarantee = NIC
-give_guarantee = COS
 give_guarantee = PAN
 give_guarantee = VEN
-give_guarantee = COL
-give_guarantee = ECU
-give_guarantee = PRU
-give_guarantee = BRA
-give_guarantee = BOL
-give_guarantee = CHL
-give_guarantee = PAR
-give_guarantee = ARG
-give_guarantee = URG
+
 
 set_convoys = 500
 
@@ -128,22 +115,22 @@ set_autonomy = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = social_liberalism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 99
-	communism = 1
+	social_liberalism = 34
+	social_conservatism = 30
+	socialist = 12
+	totalist = 6
+	autocracy = 13
+	integrism = 5
 }
 
 add_ideas = {
-	undisturbed_isolation
-	great_depression
-	disarmed_nation
-	free_trade
-	home_of_the_free
+	#
 }
 
 1939.1.1 = {
@@ -156,37 +143,37 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
-	expire = "1947.1.1"
-	ideology = liberalism
+	name = "Robert M. La Follette Jr."
+	desc = "POLITICS_ROBERT_LA_FOLETTE_JR_DESC"
+	picture = "Portrait_USA_Robert_La_Folette.dds"
+	expire = "1936.11.3"				#CHANGE/CHANGE/CHANGE
+	ideology = progressive
 	traits = {
-		dislikes_germany
+		#
 	}
 }
 
-create_country_leader = {
-	name = "William Dudley Pelley"
-	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
-	picture = "Portrait_USA_William_Dudley_Pelley.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
+#create_country_leader = {
+#	name = "William Dudley Pelley"
+#	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
+#	picture = "Portrait_USA_William_Dudley_Pelley.dds"
+#	expire = "1965.1.1"
+#	ideology = fascism_ideology
+#	traits = {
+#
+#	}
+#}
 
-	}
-}
-
-create_country_leader = {
-	name = "Earl Browder"
-	desc = "POLITICS_EARL_BROWDER_DESC"
-	picture = "portrait_USA_earl_browder.dds"
-	expire = "1965.1.1"
-	ideology = marxism
-	traits = {
-
-	}
-}
+#create_country_leader = {
+#	name = "Earl Browder"
+#	desc = "POLITICS_EARL_BROWDER_DESC"
+#	picture = "portrait_USA_earl_browder.dds"
+#	expire = "1965.1.1"
+#	ideology = marxism
+#	traits = {
+#
+#	}
+#}
 
 create_corps_commander = {
 	name = "George S. Patton"
