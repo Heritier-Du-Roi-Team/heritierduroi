@@ -1,9 +1,4 @@
 ﻿l_english:
- #fascism:0 "Fascist"
- #fascism_noun:0 "Fascism"
- #fascism_desc:0 "Totalitarian Regime"
- #conservatism:0 "Conservatism"
- #conservatism_desc:0 "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values."
  
  totalist:0 "Totalism"
  totalist_noun:0 "Totalism"
@@ -308,7 +303,7 @@
  BEA_social_conservatism_party:1 "Federationists"
  BEA_social_liberalism_party:0 "Unfederationists"
  BEA_socialist_party:0 "Regionalists"
- BEA_totalist_party;0 "Centralists"
+ BEA_totalist_party:0 "Centralists"
 
  AST_autocracy_party:0 "National Country Party"
  AST_integrism_party:0 "New Centre Party"
