@@ -1,7 +1,7 @@
 
 state={
-	id=621
-	name="STATE_621"
+	id=811
+	name="STATE_811"
 
 	history={
 		owner = MON
@@ -9,16 +9,17 @@ state={
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			industrial_complex = 1
 
 		}
 
-	}
+}
 
 	provinces={
-		2087 4525 7048 10629 12331 12609 12880
+		4612 12448 7545 11752 7674 1608 1551 1796 10372 4222 
 	}
-	manpower=613567
+	manpower=984567
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

@@ -1,9 +1,9 @@
 
 state={
-	id=538
-	name="STATE_538"
+	id=810
+	name="STATE_810"
 	resources={
-		rubber = 4
+		#
 	}
 
 	history={
@@ -17,9 +17,9 @@ state={
 	}
 
 	provinces={
-		988 7219 8016 8048 10071 10951 12775 
+		 1950 12847 12783 1181 10766  
 	}
-	manpower=678345
+	manpower=701345
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }
