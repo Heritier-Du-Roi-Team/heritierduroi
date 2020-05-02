@@ -359,12 +359,12 @@ l_english:
 ########################### AMERICAS #########################
 
 
- USA_autocracy_party:0 "Macsonists"
- USA_social_liberalism_party:0 "Republicans"
- USA_social_conservatism_party:0 "Democrats"
- USA_socialist_party:0 "Socialists"
- USA_integrism_party:0 "Confederates"
- USA_totalist_party:0 "Totalists"
+ USA_autocracy_party:0 "Byrd Machine"
+ USA_social_liberalism_party:0 "Republican Party"
+ USA_social_conservatism_party:0 "Democratic Party"
+ USA_socialist_party:0 "All American Socialist Party"
+ USA_integrism_party:0 "America First Party"
+ USA_totalist_party:0 "Totalist Party USA"
 
 
 

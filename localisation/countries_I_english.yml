@@ -615,6 +615,33 @@ l_english:
    AST_integrism_ADJ:0 "Australian"
 
 
+########################### AMERICAS #####################################
+
+ USA_autocracy:0 "United States of America"
+ USA_autocracy_DEF:0 "the United States of America"
+ USA_integrism:0 " American Federate Empire"
+ USA_integrism_DEF:0 "the American Empire"
+ USA_social_liberalism:0 "United States of America"
+ USA_social_liberalism_DEF:0 "the United States of America"
+ USA_social_conservatism:0 "United States of America"
+ USA_social_conservatism_DEF:0 "the United States of America"
+ USA_totalist:0 "Combined Collectives of America"
+ USA_totalist_DEF:0 "the Combined Collectives of America"
+ USA_socialist:0 "United States of America"
+ USA_socialist_DEF:0 "the United States of America"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -636,21 +663,6 @@ l_english:
  GER:0 "Germany"
  GER_DEF:0 "Germany"
  GER_ADJ:0 "German"
- USA_fascism:0 "Free American Empire"
- USA_fascism_DEF:0 "the Free American Empire"
- USA_democratic:0 "United States"
- USA_democratic_DEF:0 "the United States"
- USA_neutrality:1 "Loyalists"
- USA_neutrality_DEF:1 "the Loyalists"
- USA_communism:0 "Communist States of America"
- USA_communism_DEF:0 "the Communist States of America"
- USA_fascism_ADJ:0 "American"
- USA_democratic_ADJ:0 "American"
- USA_neutrality_ADJ:0 "American"
- USA_communism_ADJ:0 "American"
- USA:0 "America"
- USA_DEF:0 "America"
- USA_ADJ:0 "American"
  SWE_fascism:0 "Svea Rike"
  SWE_fascism_DEF:0 "Svea Rike"
  SWE_democratic:0 "Sweden"
