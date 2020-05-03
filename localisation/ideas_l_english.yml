@@ -1,11 +1,11 @@
 ﻿l_english:
 
- ENG_political_chaos:0 "Political Chaos"
- ENG_political_chaos_desc:0 "Ever since Britain won the war against the original Corsican Emperor the talking shop of Westminster has been in content in international affairs, even when the new Emperor Napoleon III crushed the Prussians at Sedan, business carried on as normal. However ever since the end of the Fashoda War seen by many in Britain as a fault of the British Parliament who did not have the will to fight, the country has been gripped in Chaos. \n\nNow many extremists and fringe groups try to claim the support of the British public, whilst any cooperation in Parliament between Labour, Conservatives and Liberal Democrats has practically broken down. The stability of the Island nation and the Empire has been rocked and lack of investment in welfare has caused a weariness amongst the British people."
- ENG_rule_britannia:0 "Rule Britannia"
- ENG_rule_britannia_desc:0 "Fighting waves of Romans, Vikings, Normans, as well as nearly every Great Power, Britain has turned into a highly formidable nation in the Art of War, with the Royal Navy ruling the seas, a strong sense of Jingoism and Imperialism has gripped the Isles ever since the 16th Century. Heroes such as Drake, Nelson and recently Jackie Fisher are highly celebrated in Britain. Now with the country facing more perilous times against their centurys old arch enemy France, a strong sense of national unity and service has swept the country to once again in the hopes of creating a Pax Brittanica."
- ENG_stagnant_economy:0 "Stagnant Economy"
- ENG_stagnant_economy_desc:0 "With the Empire cutting through another generation of the Empire’s finest and only ending up with a bitter stalemate, the British economy has down spiralled into a perilous state, with the trade unions demanding more and more concessions. With the loss of the Suez Canal to the French, among many other valuable colonies, factories across Britain have been underperforming ever since. Britain's brightest minds have recently been more focussed on surviving rather than thriving, and the situation will not improve by itself. Something must be done."
+ #ENG_political_chaos:0 "Political Chaos"
+ #ENG_political_chaos_desc:0 "Ever since Britain won the war against the original Corsican Emperor the talking shop of Westminster has been in content in international affairs, even when the new Emperor Napoleon III crushed the Prussians at Sedan, business carried on as normal. However ever since the end of the Fashoda War seen by many in Britain as the fault of the British Parliament, the country has been gripped in Chaos. \n\nNow many extremists and fringe groups try to claim the support of the British public, whilst any cooperation in Parliament between Labour, Conservatives and Liberal Democrats has practically broken down. The stability of the Island nation and the Empire has been rocked and lack of investment in welfare has caused a weariness amongst the British people."
+ ENG_unbowed_unbent_unbroken:0 "Unbowed, Unbent, Unbroken"
+ ENG_unbowed_unbent_unbroken_desc:0 "Britain has remained unconquered since 1066, nearly 800 years. Our people have fought off waves of Romans, Normans, Vikings, French, Burgundians, Germans, Irish, Scottsmen, Dutch, and all other kinds of invader for centuries. We have fought nearly every great power on Earth, and shown our might. But now are perilous times, and things are changing. Britain is under threat from every side, and we are not immune to invasion. However, if you thought a Lion was dangerous by itself, you dont want to see what it does when it's back is up against the wall..."
+ ENG_powerful_unionism:0 "Powerful Unionism"
+ ENG_powerful_unionism_desc:0 "With the Empire cutting through another generation of the Empire’s finest and only ending up with a bitter stalemate, the British economy has down spiralled into a perilous state, with the trade unions demanding more and more concessions. With the loss of the Suez Canal to the French, among many other valuable colonies, factories across Britain have been underperforming, and attempts to reform working wages has wave of strikes. Union leaders have become increasingly powerul as the government has been unable to put up a strong fight. Without control of our economy, we are in trouble."
 
  IRE_pact_of_neutrality:0 "Pact of Neutrality"
  IRE_pact_of_neutrality_desc:0 "Despite most young nation’s desire to jump head first into international affairs, Ireland had to sacrifice its place on the world stage so it could be free. An economy and policy of peace is what we will have going forward for the time being."
@@ -14,7 +14,8 @@
  IRE_irish_nationalists:0 "Irish Nationalism"
  IRE_irish_nationalists_desc:0 "Our country, after years of subjugation has finally been freed, and largely thanks to nationalist partisans and militias. However, these militias and rebel groups still hold considerable influence on both the poeple, our culture and our politics, and dont seem to want to give up their new found power..."
 
-
+ FRA_worker_shortage:0 "Worker Shortage"
+ FRA_worker_shortage_desc:0 ""
 
 
 

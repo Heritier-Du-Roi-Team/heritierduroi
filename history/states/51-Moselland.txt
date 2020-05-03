@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PRS
+		owner = HES
 		victory_points = {
 			6469 10 
 		}
@@ -17,7 +17,7 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = PRS
+		add_core_of = HES
 
 	}
 

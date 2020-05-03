@@ -11,12 +11,13 @@ state={
 		victory_points = {
 			9388 1
 		}
-		owner = PRS
+		owner = MEK
 		buildings = {
 			infrastructure = 6
 			fuel_silo = 1
 		}
 		add_core_of = PRS
+		add_core_of = MEK
 
 		1939.1.1 = {
 			buildings = {

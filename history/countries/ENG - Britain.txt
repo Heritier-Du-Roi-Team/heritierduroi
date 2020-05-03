@@ -182,8 +182,8 @@ set_popularities = {
 
 add_ideas = {
 	ENG_political_chaos
-	ENG_rule_britannia
-	ENG_stagnant_economy
+	ENG_unbowed_unbent_unbroken
+	ENG_powerful_unionism
 }
 
 create_faction = "Sixth Coalition"
@@ -194,6 +194,8 @@ add_to_faction = SAF
 give_military_access = RAJ
 add_to_faction = RAJ
 add_to_faction = BEA
+
+
 
 create_country_leader = {
 	name = "Austen Chamberlain"
@@ -294,39 +296,39 @@ create_country_leader = {
 #	}
 #}
 
-create_country_leader = {
-	name = "Oswald Mosley"
-	desc = "POLITICS_OSWALD_MOSLEY_DESC"
-	picture = "Portrait_Britain_Oswald_Mosley.dds"
-	expire = "1965.1.1"
-	ideology = strasserism
-	traits = {
-		champion_of_peace_1
-		economic_reformer
-	}
-}
-
-create_country_leader = {
-	name = "Harry Pollitt"
-	desc = "POLITICS_HARRY_POLLITT_DESC"
-	picture = "portrait_eng_harry_pollitt.dds"
-	expire = "1965.1.1"
-	ideology = desolationism
-	traits = {
-		staunch_stalinist
-	}
-}
-
-create_country_leader = {
-	name = "Rajani Palme Dutt"
-	desc = "POLITICS_PALME_DUTT_DESC"
-	picture = "Portrait_Britain_Palme_Dutt.dds"
-	expire = "1965.1.1"
-	ideology = libertarian_socialists
-	traits = {
-
-	}
-}
+#create_country_leader = {
+#	name = "Oswald Mosley"
+#	desc = "POLITICS_OSWALD_MOSLEY_DESC"
+#	picture = "Portrait_Britain_Oswald_Mosley.dds"
+#	expire = "1965.1.1"
+#	ideology = strasserism
+#	traits = {
+#		champion_of_peace_1
+#		economic_reformer
+#	}
+#}
+#
+#create_country_leader = {
+#	name = "Harry Pollitt"
+#	desc = "POLITICS_HARRY_POLLITT_DESC"
+#	picture = "portrait_eng_harry_pollitt.dds"
+#	expire = "1965.1.1"
+#	ideology = desolationism
+#	traits = {
+#		staunch_stalinist
+#	}
+#}
+#
+#create_country_leader = {
+#	name = "Rajani Palme Dutt"
+#	desc = "POLITICS_PALME_DUTT_DESC"
+#	picture = "Portrait_Britain_Palme_Dutt.dds"
+#	expire = "1965.1.1"
+#	ideology = libertarian_socialists
+#	traits = {
+#
+#	}
+#}
 
 create_field_marshal = {
 	name = "Alan Brooke" # Aristocrat

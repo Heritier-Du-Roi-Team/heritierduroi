@@ -115,7 +115,13 @@ set_popularities = {
 }
 
 add_ideas = {
-	#
+	FRA_victors_of_wwi
+	FRA_disjointed_government
+	FRA_protected_by_the_maginot_line
+	limited_conscription
+	FRA_worker_shortage
+	FRA_political_violence
+	FRA_inefficient_economy_2
 }
 
 create_country_leader = {
@@ -134,7 +140,7 @@ create_country_leader = {
 	desc = "POLITICS_NAPOLEON_VI_DESC"
 	picture = "Portrait_France_Napoleon_VI.tga"
 	expire = "1965.1.1"
-	ideology = absolute_moncarchist
+	ideology = absolute_monarchist
 	traits = {
 		#
 	}

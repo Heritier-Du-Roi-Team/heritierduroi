@@ -1,3 +1,21 @@
+#active:
+
+#fragile coalition
+#rule brittania
+#brittania rules the waves
+#imperial legacy
+#Edward VIII
+#sore loser
+#powerful unions
+
+#passive:
+
+#political chaos
+#weak unions
+#crushed unions
+#
+
+
 ideas = {
 
 	country = {
@@ -5,22 +23,22 @@ ideas = {
 			allowed = {
 				always = no
 			}
-
+	
 			allowed_civil_war = {
 				always = no
 			}
-
+	
 			picture = ENG_political_chaos
-
+	
 			modifier = {
 				stability_factor = -0.20
 				war_support_factor = -0.20
 				political_power_gain = -0.25	
 			}
 		}
-
-		ENG_rule_britannia = {
-			allowed = {
+	
+		ENG_unbowed_unbent_unbroken = {
+				allowed = {
 				always = no
 			}
 
@@ -31,13 +49,12 @@ ideas = {
 			picture = ENG_rule_britannia
 
 			modifier = {
-				stability_factor = 0.10
+				army_core_defence_factor = 0.1
 				surrender_limit = 0.15
-				conscription_factor = 0.05
 			}
 		}
 
-		ENG_stagnant_economy = {
+		ENG_powerful_unionism = {
 			allowed = {
 				always = no
 			}
@@ -53,6 +70,22 @@ ideas = {
 				consumer_goods_factor = 0.15
 				license_purchase_cost = 0.10
 				research_speed_factor = -0.05
+			}
+		}
+
+		ENG_brittania_rules_waves = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			modifier = {
+				navy_leader_start_level = 3
+				experience_gain_navy = 0.05
+				naval_retreat_chance = 0.2
 			}
 		}
 	}
