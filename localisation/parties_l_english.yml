@@ -343,13 +343,15 @@
  IRE_social_conservatism_party:1 "Unionist Party"   #pro uk
  IRE_autocracy_party:0 "Dilseoiri Rioga"
  IRE_autocracy_party:1 "Orangemen Unionists"    #pro uk
- IRE_integrism_party_long:0 "Aontú"
+ IRE_integrism_party:0 "Aontú"
 
+ FIN_social_liberalism_party:0 "Agrarian League"
+ FIN_autocracy_party:0 "Baron Party"
+ FIN_social_conservatism_party:0 "Young National Coalition"
 
-
-
-
-
+ SWE_socialist_party:0 "Socialist Party"
+ SWE_social_conservatism_party:0 "Summer Party"
+ SWE_social_liberalism_party:0 "Freeminded People's Party"
 
 ########################### AMERICAS #########################
 

@@ -9,6 +9,22 @@
  #IRE
  POLITICS_JOACHIM_DESC:0 "Prince Joachim Franz Humbert of Prussia, crowned Prince Joachim I of Ireland, was the sixth son of the last king of Prussia, Wilhelm II. When Ireland declared independence during the Great Continental War, the French demanded the recognition of the new state, as well as to hold debate for our new monarch. Prince Joachim was chosen, both for his anti-British sentiment and for his care for our people."
 
+ #FRA
+ POLITICS_NAPOLEON_VI_DESC:0 "Napoleon VI of the Third French Empire, has been a beacon for the people of France, that has led their country to its former glory. Crowned in 1926, Napoleon VI is just as, if not more ambitious than his father. Dreaming of reclaiming the French lands conquered by his Great Granduncle, Napoleon I, Napoleon VI will stop at nothing until this is achieved."
+ POLITICS_CHARLES_MAURRAS_DESC:0 "Charles Maurras is a well known and respected conservative in France. Although avoiding a direct political career, Maurras has run a series of very successful newspapers over the years demanding a return to the old French way of life. Neither Orleanist nor Bonapartist he only cares for traditional family values, and a glorious France under an absolute monarchy."
+
+ #FIN
+ POLITICS_SVINHUFVUD_DESC:0 "The Ukko-Pekka or Grand Old Man Pekka as he is widely known in Finland, is a brutal but welcome president in Finland. Becoming famous for massive purges against Totalists and Socialists within the Finnish government, he has consolidated power and united his country against Left-politics and potential invaders as one of the first real leaders since Finland gained independance."
+ POLITICS_MANNERHEIM_DESC:0 "Marshall Mannerheim is a truly brilliant statesman and strategist. Commander of the Finnish White Guard against the Totalist Red Guard during the Red Winter, he has shown himself as one of the best generals of the modern era and have rapidly risen the ranks as a result. Now in politics, Mannerheim does not abandon his militaristic and nationalist nature and intends to lead Finland to glory."
+ POLITICS_KYOSTI_KALLIO_DESC:0 "Kyösti Kallio is a long time member of the Argrarian League, and is despised by the right-wing in Finnish politics. Throughout his past Kallio has protested any military action against Russia and refused to denounce the Red Guard during the Red Winter, even being wanted for treason by both the Reds and the Whites. Nevertheless, his unwavering commitment to the Finnish poor has made him a favourite among the Peasanty."
+
+ #SWE
+ POLITICS_ALBIN_HANSSON_DESC:0 "Albin Hansson is credited for essentially creating the Socialist Party in Sweden from scratch by himself. He has led the Socialists from an obscure movement to one of the most powerful parties in the Riksdag, and has been its leader for decades. With a focus on nuetrality, peace and welfare he is the most vocal opposition to the far right in Sweden."
+ POLITICS_PEHRSSON_BRAMSTORP_DESC:0 "Bramstorp as he is known, has been a parliamentarian for many years, after retiring from farming. He has lead the charge for land reform, and is a respected and well-liked democrat. His Agrarian Party or 'Summer' Party as it is known, has grown largely due to his efforts."
+ POLITICS_FELIX_HAMRIN_DESC:0 "Born to poverty, Hamrin has worked as a farmer, leather dealer, shopkeeper, businiessman and investor before entering politics. He has little experience and is suspected of many scandals, but this has not deterred him from taking Swedish politics by storm."
+
+
+
 
 ######################### AMERICAS ###################################
 
@@ -24,4 +40,6 @@
  POLITICS_STROM_THURMOND_DESC:0 "A young upstart in the Byrd Machine, Strom Thurmond is a likeable, compelling young man, that can inspire thousands and lead thousands more. Thurmond is ambitious, and devoted, but struggles to connect with a voter base outside the deep South. A master manipulator, his support comes from wealthy elite, of whom he has many connections."
  POLITICS_WILLIAM_PELLEY_DESC:0 "William Pelley has been a key player in the America First Party ever since its founding, and is vital to the maintaining of its various militias ranging from the KKK, to the Silver Legions. Pelley believes that the USA should exert its influence and expand its borders, not shying away from the world in its own isolated pocket."
  POLITICS_LK_SMITH_DESC:0 "L. K. Smith is America's biggest racist and most radical far-right activist. Founder of the America First Party he has shown himself to be vicious and a violent man. Pro-slavery, he is deeply isolationist, but favours strict military rule and a return to traditional protestant values. A vile attitude and even worse temper, he is dangerous to cross."
+
+
 

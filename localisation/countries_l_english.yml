@@ -4,6 +4,7 @@
 
 ############################# EUROPE #########################
 
+ #UK
  ENG_totalist:0 "Union of Britain"
  ENG_totalist_DEF:0 "the Union of Britain"   
  ENG_totalist_ADJ:0 "British"
@@ -26,6 +27,7 @@
  ENG_integrism_DEF:0 "the British Empire"
  ENG_integrism_ADJ:0 "British"
 
+ #Ireland
  IRE_totalist:0 "Irish Socialist Republic"
  IRE_totalist_DEF:0 "the Irish Socialist Republic"
  IRE_totalist_ADJ:0 "Irish"
@@ -48,48 +50,50 @@
  IRE_integrism_DEF:1 "the Celtic Union"
  IRE_integrism_ADJ:1 "Celtic"
 
+ #Schleswig-Holstein
  SCH_socialist:0 "Schleswig-Holstein"
  SCH_socialist_DEF:0 "Schleswig-Holstein"
  SCH_socialist_ADJ:0 "Schlesweins"
  
- ## italy
-   SAR_totalist:0 "Sardinian Workers State"
-   SAR_totalist_DEF:0 "the Sardinian Workers State"
-   SAR_totalist_ADJ:0 "Sardinian"
-   SAR_socialist:0 "Sardinia"
-   SAR_socialist_DEF:0 "Sardinia"
-   SAR_socialist_ADJ:0 "Sardinian"
-   SAR_social_liberalism:0 "Sardinia"
-   SAR_social_liberalism_DEF:0 "Sardinia"
-   SAR_social_liberalism_ADJ:0 "Sardinian"
-   SAR_social_conservatism:0 "Sardinia"
-   SAR_social_conservatism_DEF:0 "Sardinia"
-   SAR_social_conservatism_ADJ:0 "Sardinian"
-   SAR_autocracy:0 "Kingdom of Sardinia"
-   SAR_autocracy_DEF:0 "the Kingdom of Sardinia"
-   SAR_autocracy_ADJ:0 "Sardinian"
-   SAR_integrism:0 "Genoa"
-   SAR_integrism_DEF:0 "Genoa"
-   SAR_integrism_ADJ:0 "Genoan"
+ #Sardinia
+ SAR_totalist:0 "Sardinian Workers State"
+ SAR_totalist_DEF:0 "the Sardinian Workers State"
+ SAR_totalist_ADJ:0 "Sardinian"
+ SAR_socialist:0 "Sardinia"
+ SAR_socialist_DEF:0 "Sardinia"
+ SAR_socialist_ADJ:0 "Sardinian"
+ SAR_social_liberalism:0 "Sardinia"
+ SAR_social_liberalism_DEF:0 "Sardinia"
+ SAR_social_liberalism_ADJ:0 "Sardinian"
+ SAR_social_conservatism:0 "Sardinia"
+ SAR_social_conservatism_DEF:0 "Sardinia"
+ SAR_social_conservatism_ADJ:0 "Sardinian"
+ SAR_autocracy:0 "Kingdom of Sardinia"
+ SAR_autocracy_DEF:0 "the Kingdom of Sardinia"
+ SAR_autocracy_ADJ:0 "Sardinian"
+ SAR_integrism:0 "Genoa"
+ SAR_integrism_DEF:0 "Genoa"
+ SAR_integrism_ADJ:0 "Genoan"
 
-   VNC_totalist:0 ""
-   VNC_totalist_DEF:0 ""
-   VNC_totalist_ADJ:0 ""
-   VNC_socialist:0 ""
-   VNC_socialist_DEF:0 ""
-   VNC_socialist_ADJ:0 ""
-   VNC_social_liberalism:0 ""
-   VNC_social_liberalism_DEF:0 ""
-   VNC_social_liberalism_ADJ:0 ""
-   VNC_social_conservatism:0 ""
-   VNC_social_conservatism_DEF:0 ""
-   VNC_social_conservatism_ADJ:0 ""
-   VNC_autocracy:0 ""
-   VNC_autocracy_DEF:0 ""
-   VNC_autocracy_ADJ:0 ""
-   VNC_integrism:0 ""
-   VNC_integrism_DEF:0 ""
-   VNC_integrism_ADJ:0 ""
+ #venice
+ VNC_totalist:0 ""
+ VNC_totalist_DEF:0 ""
+ VNC_totalist_ADJ:0 ""
+ VNC_socialist:0 ""
+ VNC_socialist_DEF:0 ""
+ VNC_socialist_ADJ:0 ""
+ VNC_social_liberalism:0 ""
+ VNC_social_liberalism_DEF:0 ""
+ VNC_social_liberalism_ADJ:0 ""
+ VNC_social_conservatism:0 ""
+ VNC_social_conservatism_DEF:0 ""
+ VNC_social_conservatism_ADJ:0 ""
+ VNC_autocracy:0 ""
+ VNC_autocracy_DEF:0 ""
+ VNC_autocracy_ADJ:0 ""
+ VNC_integrism:0 ""
+ VNC_integrism_DEF:0 ""
+ VNC_integrism_ADJ:0 ""
 
    TUS:0 "Tuscany"
    TUS_DEF:0 "Tuscany"
@@ -187,6 +191,7 @@
  PRS:0 "Prussia"
  PRS_DEF:0 "Prussia"
  PRS_ADJ:0 "Prussian"
+
 
 ############################# ASIA ##################################
 
