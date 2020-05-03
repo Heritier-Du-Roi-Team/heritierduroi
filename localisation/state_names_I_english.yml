@@ -13,12 +13,15 @@
  STATE_474:0 "Belize"
  STATE_687:0 "Guyana"
  STATE_797:0 "Suez Canal"
- STATE_799:0 "Jouf"
- STATE_800:0 "Qassim"
- STATE_801:0 "Singapore"
+ STATE_798:0 "Jouf"
+ STATE_799:0 "Qassim"
+ STATE_800:0 "Singapore"
+ STATE_801:0 "Marijampole"    #was 826
  STATE_802:0 "Rome"
  STATE_803:0 "Upper Guinea"
+ STATE_804:0 "Kreuzung"       #was 825
  STATE_805:0 "Lankaran"
+ STATE_806:0 "Baden-Wurtemburg"       #was 824
  STATE_807:0 "Lower Borneo"
  STATE_808:0 "Sitamarhi"
  STATE_809:0 "Gemima"
@@ -36,8 +39,8 @@
  STATE_821:0 "Kerkyra"
  STATE_822:0 "Dortmund"
  STATE_823:0 "Suwalki"
- STATE_824:0 "Baden-Wurtemburg"
- STATE_825:0 "Kreuzung"
+
+
 
  STATE_1:0 "Corsica"
  STATE_3:0 "Switzerland"

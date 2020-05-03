@@ -4,7 +4,7 @@ state={
 	name="STATE_823"
 	manpower = 9353130
 	
-	state_category = town
+	state_category = rural
 	
 	history={
 		victory_points = {
@@ -18,7 +18,6 @@ state={
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 1
-			air_base = 2
 				3254 = { bunker = 2
 		}
 		}
@@ -26,6 +25,6 @@ state={
 	}
 
 	provinces={
-		11274 11329 11357 400 3254 11312 3272 6407 6281 
+		11274 11329 11357 400 3254 
 	}
 }

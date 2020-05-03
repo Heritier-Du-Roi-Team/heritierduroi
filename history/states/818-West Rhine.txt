@@ -15,9 +15,6 @@ state={
 			infrastructure = 8
 			arms_factory = 1
 			industrial_complex = 1
-			victory_points = {
-				11562 1 
-			}
 		}
 		add_core_of = FRA
 		add_claim_by = PRS
@@ -25,7 +22,7 @@ state={
 	}
 
 	provinces={
-		587 3444 3547 9522 11470 11494 11562 
+		587 3444 3547 9522 11470 11494 
 	}
 	manpower=3144743
 	buildings_max_level_factor=1.000

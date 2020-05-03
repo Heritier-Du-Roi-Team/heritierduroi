@@ -91,6 +91,9 @@
    VNC_integrism_DEF:0 ""
    VNC_integrism_ADJ:0 ""
 
+   TUS:0 "Tuscany"
+   TUS_DEF:0 "Tuscany"
+   TUS_ADJ:0 "Tuscan"
    TUS_totalist:0 ""
    TUS_totalist_DEF:0 ""
    TUS_totalist_ADJ:0 ""
@@ -110,6 +113,9 @@
    TUS_integrism_DEF:0 ""
    TUS_integrism_ADJ:0 ""
 
+   PAP:0 "Papal States"
+   PAP_DEF:0 "the Papal States"
+   PAP_ADJ:0 "Catholic"
    PAP_totalist:0 ""
    PAP_totalist_DEF:0 ""
    PAP_totalist_ADJ:0 ""
@@ -129,6 +135,10 @@
    PAP_integrism_DEF:0 "the Ninth Crusade"
    PAP_integrism_ADJ:0 "Templars"
 
+
+   SIC:0 "Two Sicilies"
+   SIC_DEF:0 "the Two Sicilies"
+   SIC_ADJ:0 "Sicilian"
    SIC_totalist:0 ""
    SIC_totalist_DEF:0 ""
    SIC_totalist_ADJ:0 ""
@@ -153,6 +163,9 @@
  ION_social_liberalism_DEF:0 "the Ionian Islands"
  ION_social_liberalism_ADJ:0 "Ionian"
 
+ MDV:0 "Moldavia"
+ MDV_DEF:0 "Moldavia"
+ MDV_ADJ:0 "Moldavian"
  MDV_socialist:0 "Moldavia"
  MDV_socialist_DEF:0 "Moldavia"
  MDV_socialist_ADJ:0 "Moldavian"
@@ -171,6 +184,9 @@
  BAD_DEF:0 "Baden-Wurtenburg"
  BAD_ADJ:0 "Baden"
 
+ PRS:0 "Prussia"
+ PRS_DEF:0 "Prussia"
+ PRS_ADJ:0 "Prussian"
 
 ############################# ASIA ##################################
 
