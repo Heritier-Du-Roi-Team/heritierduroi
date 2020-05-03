@@ -11,7 +11,6 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = FIN
-	}
 
 	provinces={
 		52 3061 6082 6186 11056 139 

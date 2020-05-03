@@ -42,7 +42,7 @@ VNC = "countries/Venice.txt"
 
 ION = "countries/Ionian Islands.txt"
 
-MLD = "countries/Moldavia.txt"
+MDV = "countries/Moldavia.txt"
 WAL = "countries/Wallachia.txt"
 
 #AUSTRALIA, OCEANIA
