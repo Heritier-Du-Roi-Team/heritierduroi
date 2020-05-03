@@ -9,7 +9,8 @@ state={
 			infrastructure = 5
 			industrial_complex = 1
 			air_base = 5
-
+			12049 = {
+				naval_base = 2
 		}
 		victory_points = {
 			7011 20
@@ -25,9 +26,9 @@ state={
 	}
 
 	provinces={
-		992 1068 3996 4055 4143 7011 7117 7188 10005 10031 12004 12049 13262 13263
+		1068 4055 4143 7011 12004 12049
 	}
-	manpower=5967400
+	manpower=5567400
 	buildings_max_level_factor=1.000
 	state_category=town
 }

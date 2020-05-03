@@ -1,0 +1,45 @@
+
+state={
+	id=812
+	name="STATE_812"
+	manpower = 2756786
+
+	state_category = town
+	resources={
+		aluminium=12 # was: 28
+		chromium = 2 # was: 4
+	}
+
+	history={
+		owner = SAR
+		victory_points = {
+			6788 20
+		victory_points = {
+			6973 1 
+		}
+		buildings = {
+			infrastructure = 9
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+			6788 = {
+				naval_base = 8
+			}
+			6973 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = SAR
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 10
+				industrial_complex = 2
+				dockyard = 3
+			}
+		}
+	}
+
+	provinces={
+		3772 6788 6973 
+	}
+}

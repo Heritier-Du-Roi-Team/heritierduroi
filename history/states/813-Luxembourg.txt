@@ -1,0 +1,31 @@
+
+state={
+	id=813
+	name="STATE_813"
+	resources={
+		#
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			11435 1 
+		}
+		victory_points = {
+			6583 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		11435 6583 
+	}
+	manpower=314773
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

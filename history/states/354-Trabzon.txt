@@ -2,7 +2,7 @@
 state={
 	id=354
 	name="STATE_354"
-	manpower = 97460
+	manpower = 117460
 
 	state_category = rural
 
@@ -16,12 +16,13 @@ state={
 			infrastructure = 3
 			9932 = {
 				naval_base = 2
+			air_base = 3
 			}
 		}
 		add_core_of = OTT
 	}
 
 	provinces={
-		789 3564 3714 3979 6976 6991 7454 9886 9932 10403 10472 11753
+		789 3714 3979 6976 6991 7454 9886 9932 10403 10472 11753 13281 13282 
 	}
 }

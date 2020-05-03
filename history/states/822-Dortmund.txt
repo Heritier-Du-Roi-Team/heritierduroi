@@ -1,0 +1,39 @@
+
+state={
+	id=822
+	name="STATE_822"
+
+	history={
+		owner = PRS
+		victory_points = {
+			11388 5 
+		}
+		victory_points = {
+			495 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+			air_base = 1
+
+		}
+		add_core_of = PRS
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		405 495 6535 6622 9509 11388 
+	}
+	manpower=758467
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

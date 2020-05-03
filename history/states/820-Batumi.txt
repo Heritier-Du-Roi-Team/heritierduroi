@@ -1,0 +1,41 @@
+
+state={
+	id=820
+	name="STATE_820"
+
+	history={
+		owner = GEO
+		victory_points = {
+			3653 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = RUS
+		add_core_of = GEO
+		add_claim_by = OTT
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		654 672 772 3653 3656 3658 11599 11617  
+	}
+	manpower=1249413
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -48,25 +48,29 @@
  IRE_integrism_DEF:1 "the Celtic Union"
  IRE_integrism_ADJ:1 "Celtic"
 
+ SCH_socialist:0 "Schleswig-Holstein"
+ SCH_socialist_DEF:0 "Schleswig-Holstein"
+ SCH_socialist_ADJ:0 "Schlesweins"
+ 
  ## italy
-   SAR_totalist:0 ""
-   SAR_totalist_DEF:0 ""
-   SAR_totalist_ADJ:0 ""
-   SAR_socialist:0 ""
-   SAR_socialist_DEF:0 ""
-   SAR_socialist_ADJ:0 ""
-   SAR_social_liberalism:0 ""
-   SAR_social_liberalism_DEF:0 ""
-   SAR_social_liberalism_ADJ:0 ""
-   SAR_social_conservatism:0 ""
-   SAR_social_conservatism_DEF:0 ""
-   SAR_social_conservatism_ADJ:0 ""
-   SAR_autocracy:0 ""
-   SAR_autocracy_DEF:0 ""
-   SAR_autocracy_ADJ:0 ""
-   SAR_integrism:0 ""
-   SAR_integrism_DEF:0 ""
-   SAR_integrism_ADJ:0 ""
+   SAR_totalist:0 "Sardinian Workers State"
+   SAR_totalist_DEF:0 "the Sardinian Workers State"
+   SAR_totalist_ADJ:0 "Sardinian"
+   SAR_socialist:0 "Sardinia"
+   SAR_socialist_DEF:0 "Sardinia"
+   SAR_socialist_ADJ:0 "Sardinian"
+   SAR_social_liberalism:0 "Sardinia"
+   SAR_social_liberalism_DEF:0 "Sardinia"
+   SAR_social_liberalism_ADJ:0 "Sardinian"
+   SAR_social_conservatism:0 "Sardinia"
+   SAR_social_conservatism_DEF:0 "Sardinia"
+   SAR_social_conservatism_ADJ:0 "Sardinian"
+   SAR_autocracy:0 "Kingdom of Sardinia"
+   SAR_autocracy_DEF:0 "the Kingdom of Sardinia"
+   SAR_autocracy_ADJ:0 "Sardinian"
+   SAR_integrism:0 "Genoa"
+   SAR_integrism_DEF:0 "Genoa"
+   SAR_integrism_ADJ:0 "Genoan"
 
    VNC_totalist:0 ""
    VNC_totalist_DEF:0 ""
@@ -115,15 +119,15 @@
    PAP_social_liberalism:0 ""
    PAP_social_liberalism_DEF:0 ""
    PAP_social_liberalism_ADJ:0 ""
-   PAP_social_conservatism:0 ""
-   PAP_social_conservatism_DEF:0 ""
-   PAP_social_conservatism_ADJ:0 ""
-   PAP_autocracy:0 ""
-   PAP_autocracy_DEF:0 ""
-   PAP_autocracy_ADJ:0 ""
-   PAP_integrism:0 ""
-   PAP_integrism_DEF:0 ""
-   PAP_integrism_ADJ:0 ""
+   PAP_social_conservatism:0 "Papal States"
+   PAP_social_conservatism_DEF:0 "the Papal States"
+   PAP_social_conservatism_ADJ:0 "Catholic"
+   PAP_autocracy:0 "Papal States"
+   PAP_autocracy_DEF:0 "the Papal States"
+   PAP_autocracy_ADJ:0 "Catholic"
+   PAP_integrism:0 "Ninth Crusade"
+   PAP_integrism_DEF:0 "the Ninth Crusade"
+   PAP_integrism_ADJ:0 "Templars"
 
    SIC_totalist:0 ""
    SIC_totalist_DEF:0 ""
@@ -143,6 +147,29 @@
    SIC_integrism:0 ""
    SIC_integrism_DEF:0 ""
    SIC_integrism_ADJ:0 ""     
+
+
+ ION_social_liberalism:0 "Ionian Islands"
+ ION_social_liberalism_DEF:0 "the Ionian Islands"
+ ION_social_liberalism_ADJ:0 "Ionian"
+
+ MLD_socialist:0 "Moldavia"
+ MLD_socialist_DEF:0 "Moldavia"
+ MLD_socialist_ADJ:0 "Moldavian"
+ MLD_social_liberalism:0 "Moldavia"
+ MLD_social_liberalism_DEF:0 "Moldavia"
+ MLD_social_liberalism_ADJ:0 "Moldavian"
+ MLD_social_conservative:0 "Moldavia"
+ MLD_social_conservative_DEF:0 "Moldavia"
+ MLD_social_conservative_ADJ:0 "Moldavian"
+
+ WAL:0 "Wallachia"
+ WAL_DEF:0 "Wallachia"
+ WAL_ADJ:0 "Wallachian"
+
+ BAD:0 "Baden-Wurtenburg"
+ BAD_DEF:0 "Baden-Wurtenburg"
+ BAD_ADJ:0 "Baden"
 
 
 ############################# ASIA ##################################
@@ -625,10 +652,29 @@
  USA_social_liberalism_DEF:0 "the United States of America"
  USA_social_conservatism:0 "United States of America"
  USA_social_conservatism_DEF:0 "the United States of America"
- USA_totalist:0 "Combined Collectives of America"
- USA_totalist_DEF:0 "the Combined Collectives of America"
+ USA_totalist:0 "American Union"
+ USA_totalist_DEF:0 "the American Union"
  USA_socialist:0 "United States of America"
  USA_socialist_DEF:0 "the United States of America"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

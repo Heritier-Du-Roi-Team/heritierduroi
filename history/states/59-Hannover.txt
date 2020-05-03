@@ -7,9 +7,12 @@ state={
 	}
 
 	history={
-		owner = PRS
+		owner = HAN
 		victory_points = {
-			6377 10 
+			6377 15 
+		}
+		victory_points = {
+			3326 10 
 		}
 		buildings = {
 			infrastructure = 7
@@ -17,12 +20,12 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = PRS
+		add_core_of = HAN
 
 	}
 
 	provinces={
-		526 6218 6263 6298 6325 6377 6513 9238 9264 9375 11402 11468 11493 
+		526 6218 6263 6298 6325 6377 6513 9238 9264 9375 11402 11468 11493 3395 3271 6349 3326 374 
 	}
 	manpower=2438286
 	buildings_max_level_factor=1.000

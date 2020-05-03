@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = BAD
+		owner = PRS
 		victory_points = {
 			9517 20 
 		}
@@ -15,20 +15,20 @@ state={
 			11499 3 
 		}
 		buildings = {
-			infrastructure = 8
-			arms_factory = 5
+			infrastructure = 7
+			arms_factory = 2
 			industrial_complex = 1
-			air_base = 3
+			air_base = 1
 
 		}
-		add_core_of = BAD
+		add_core_of = PRS
 
 	}
 
 	provinces={
-		519 589 694 3530 3574 3679 3690 3692 6542 6555 6568 6581 6712 6934 9517 9545 9557 9655 11486 11499 11640 13126 
+		519 589 694 3574 3690 3692 6555 6581 6712 6934 9517 9545 9557 9655 11486 11499 13126 
 	}
-	manpower=5086854
+	manpower=4086854
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 }

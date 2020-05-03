@@ -1,4 +1,4 @@
-capital = 2
+capital = 802
 oob = "PAP_1936"
 
 set_technology = {
@@ -55,8 +55,8 @@ if = {
   }
 }
 
-set_stability = 0.48
-set_war_support = 0.16
+set_stability = 1
+set_war_support = 0.26
 
 set_politics = {
 	ruling_party = autocracy
@@ -65,7 +65,6 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-  autocracy = 87
-  socialism = 12
-  social_conservatism = 1
+  autocracy = 98
+  social_conservatism = 2
 }

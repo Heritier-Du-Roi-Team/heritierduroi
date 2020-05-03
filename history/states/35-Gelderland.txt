@@ -6,8 +6,10 @@ state={
 		owner = HOL
 		add_core_of = HOL
 		buildings = {
-			infrastructure = 7
+			infrastructure = 8
 			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 1
 
 		}
 		victory_points = {
@@ -17,15 +19,18 @@ state={
 			6496 3 
 		}
 		victory_points = {
-			11562 1 
+			9498 20 
 		}
+		9498 = {
+				naval_base = 10
 
 	}
 
 	provinces={
-		480 3262 6496 6500 9431 11456 11562 
+		480 3262 6496 6500 9431 11456 9498 
 	}
-	manpower=1449000
+	manpower=2349000
 	buildings_max_level_factor=1.000
 	state_category=city
+}
 }

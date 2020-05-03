@@ -48,7 +48,8 @@ set_popularities = {
 	social_conservatism = 44
 	autocracy = 38
 	social_liberalism = 12
-	socialism = 6
+	socialist = 4
+	totalist = 2
 }
 
 create_country_leader = {

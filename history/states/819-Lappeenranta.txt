@@ -1,0 +1,19 @@
+
+state={
+	id=819
+	name="STATE_819"
+	manpower = 117019
+	
+	state_category = wasteland
+	
+	history={
+		owner = FIN
+			infrastructure = 3
+		}
+		add_core_of = FIN
+	}
+
+	provinces={
+		52 3061 6082 6186 11056 139 
+	}
+}

@@ -2,21 +2,25 @@ state=
 {
 	id=163
 	name="STATE_163"
-	manpower = 18000
+	manpower = 421321
 
-	state_category = enclave
+	state_category = rural
 
 	history={
 		owner = CRO
 		add_core_of = CRO
+		add_claim_by = HUN
+		victory_points = {
+			11564 1
+		}
 		buildings = {
 			infrastructure = 5
-			3943 = {
-				naval_base = 1
+			11564 = {
+				naval_base = 2
 			}
 		}
 	}
 	provinces={
-		3943
+		3601 6611 591 11564 11901
 	}
 }

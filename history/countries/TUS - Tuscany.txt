@@ -55,7 +55,7 @@ if = {
   }
 }
 
-set_stability = 0.26
+set_stability = 0.35
 set_war_support = 0.73
 
 set_politics = {
@@ -66,7 +66,8 @@ set_politics = {
 }
 set_popularities = {
   autocracy = 74
-  integrism = 18
+  integrism = 8
   social_liberalism = 4
+  social_conservatism = 10
   totalist = 4
 }

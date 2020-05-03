@@ -1,0 +1,22 @@
+state= {
+	id=817
+	name="STATE_817"
+	manpower = 1672235
+	resources={
+		aluminium=2 
+	}
+
+	state_category = pastoral
+
+	history=
+	{
+		owner = DEN
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+		add_core_of = DEN
+	}
+	provinces= {
+		332 11251 	}
+}

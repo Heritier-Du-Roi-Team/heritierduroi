@@ -4,19 +4,21 @@ state={
 	name="STATE_452"
 	manpower = 52556
 
-	state_category = wasteland
+	state_category = pastoral
 
 	history={
 		owner = EGY
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 		}
-
+		victory_points = {
+			1071 1
+		}
 	add_core_of = EGY
 	}
 
 	provinces={
-		7079 9989 10061 11910 11967 5078 12033 12091 7148
+		992 1071 4145 7079 7117 9989 10061 11910 11967 5078 12033 12091 7148 13263
 	}
 
 }

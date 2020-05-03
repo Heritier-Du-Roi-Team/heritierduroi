@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = POL
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -15,12 +15,11 @@ state={
 		victory_points = {
 			3392 1 
 		}
-		add_core_of = POL
 		add_core_of = RUS
 	}
 
 	provinces={
-		3392 6546 11441
+		3392 6546 11441 422 
 	}
 	manpower=94500
 	state_category=town

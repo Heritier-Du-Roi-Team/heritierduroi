@@ -4,23 +4,29 @@ state={
 	name="STATE_2"
 
 	history={
-		owner = ITA
+		owner = PAP
+		victory_points = {
+			925 1 
+		}
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 4
 			11846 = {
 				naval_base = 2
 			}
+			925 = {
+				naval_base = 4
+
+			}
 		}
-		add_core_of = ITA
 		add_core_of = PAP
 
 	}
 
 	provinces={
-		3885 6862 6875 6926 9750 9794 
+		3885 6862 6926 9794 925 967 11861 
 	}
-	manpower=894600
+	manpower=1894600
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_city
 }

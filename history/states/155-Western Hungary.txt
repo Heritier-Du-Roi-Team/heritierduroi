@@ -2,7 +2,7 @@
 state={
 	id=155
 	name="STATE_155" # Transdanubia
-	manpower = 2197605
+	manpower = 2057605
 	
 	state_category = city
 	resources={
@@ -23,6 +23,6 @@ state={
 	}
 
 	provinces={
-		682 686 701 3670 3680 3683 6685 6703 6720 9624 9643 9676 11610 11627 11663 13125 
+		682 701 3670 3680 3683 6685 6703 6720 9624 9643 9676 11610 11663 13125 
 	}
 }

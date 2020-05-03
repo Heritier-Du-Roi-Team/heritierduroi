@@ -186,7 +186,7 @@ add_ideas = {
 	ENG_stagnant_economy
 }
 
-create_faction = {FACTION_NAME_ENG:0}
+create_faction = "Sixth Coalition"
 add_to_faction = ENG
 add_to_faction = CAN
 add_to_faction = AST
@@ -196,17 +196,6 @@ add_to_faction = RAJ
 add_to_faction = BEA
 
 create_country_leader = {
-	name = "Stanley Baldwin"
-	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_England_Stanley_Baldwin.dds"
-	expire = "1965.1.1"
-	ideology = traditionalism
-	traits = {
-		conservative_grandee
-	}
-}
-
-create_country_leader = {
 	name = "Austen Chamberlain"
 	desc = "POLITICS_AUSTEN_CHAMBERLAIN_DESC"
 	picture = "Portrait_England_Austen_Chamberlain.dds"
@@ -214,6 +203,17 @@ create_country_leader = {
 	ideology = social_conservatives
 	traits = {
 		dealbroker
+	}
+}
+
+create_country_leader = {
+	name = "Stanley Baldwin"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_England_Stanley_Baldwin.dds"
+	expire = "1965.1.1"
+	ideology = traditionalism
+	traits = {
+		conservative_grandee
 	}
 }
 
@@ -311,7 +311,7 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_POLLITT_DESC"
 	picture = "portrait_eng_harry_pollitt.dds"
 	expire = "1965.1.1"
-	ideology = desolutionism
+	ideology = desolationism
 	traits = {
 		staunch_stalinist
 	}

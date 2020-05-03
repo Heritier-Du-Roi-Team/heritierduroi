@@ -1,25 +1,23 @@
 state= {
 	id=58
-	name="STATE_58"
-	manpower = 3248150
-	state_category = large_city
+	name="STATE_58"	#Holstein
+	manpower = 1548150
+	state_category = town
 
 	history=
 	{
-		victory_points = {
-			6389 10
-		}
 		victory_points = {
 			9347 20
 		}
 		owner = SCH
 		buildings = {
 			infrastructure = 6
-			arms_factory = 2
-			dockyard = 6
-			air_base = 5
-			6389 ={
-				naval_base = 8
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 2
+			9347 ={
+				naval_base = 3
 			}
 		}
 		add_core_of = SCH
@@ -34,6 +32,6 @@ state= {
 	}
 
 	provinces= {
-		317 3231 3368 6257 6389 9320 9347 11331 11366
+		3368 6257 9320 9347 11331
  	}
 }

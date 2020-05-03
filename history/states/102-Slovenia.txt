@@ -1,7 +1,7 @@
 state = {
 	id = 102
 	name = "STATE_102"
-	manpower = 1144300
+	manpower = 1044300
 
 	state_category = large_town
 
@@ -11,15 +11,12 @@ state = {
 			infrastructure = 6
 		}
 		victory_points = {
-			11564 1
-		}
-		victory_points = {
 			9627 3
 		}
 		add_core_of = AUS
 	}
 
 	provinces = {
-		596 665 3631 3654 6650 6672 9596 9627 11564
+		596 665 3631 3654 6650 9596 9627 
 	}
 }
