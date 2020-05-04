@@ -17,6 +17,7 @@ state={
 			air_base = 10
 		}
 		add_core_of = VNC
+		#add_core_of = EMI
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 7

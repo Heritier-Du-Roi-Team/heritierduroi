@@ -7,13 +7,14 @@ state={
 		victory_points = {
 			577 1 
 		}
-		owner = MDV
+		owner = ROM
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
 
 		}
 		add_core_of = MDV
+		add_core_of = ROM
 
 	}
 

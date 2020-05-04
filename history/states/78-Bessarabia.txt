@@ -8,7 +8,8 @@ state=
 	
 	history= {
 		add_core_of = MDV
-		owner = MDV
+		add_core_of = ROM
+		owner = ROM
 		victory_points = {
 			3707 1
 		}

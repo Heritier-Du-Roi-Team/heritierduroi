@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = HES
 		victory_points = {
 			587 5 
 		}
@@ -16,8 +16,8 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 		}
-		add_core_of = FRA
-		add_claim_by = PRS
+		add_core_of = HES
+		add_claim_by = FRA
 
 	}
 

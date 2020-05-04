@@ -11,8 +11,9 @@ state=
 			6727 1
 		}
 		add_core_of = MDV
+		add_core_of = ROM
 		add_core_of = UKR
-		owner = MDV
+		owner = ROM
 		buildings = {
 			infrastructure = 4
 			dockyard = 1
