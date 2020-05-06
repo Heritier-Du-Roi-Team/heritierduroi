@@ -6,7 +6,7 @@
 
  #UK
  ENG_totalist:0 "Union of Britain"
- ENG_totalist_DEF:0 "the Union of Britain"   
+ ENG_totalist_DEF:0 "the Union of Britain"
  ENG_totalist_ADJ:0 "British"
  ENG_socialist:0 "Republic of Britain"     #republican
  ENG_socialist_DEF:0 "the Republic of Britain"
@@ -51,7 +51,7 @@
  IRE_integrism_ADJ:1 "Celtic"
 
  FRA_totalist:0 "Commune of France"
- FRA_totalist_DEF:0 "the Commune of France"   
+ FRA_totalist_DEF:0 "the Commune of France"
  FRA_totalist_ADJ:0 "French"
  FRA_socialist:0 "France"     #republican
  FRA_socialist_DEF:0 "France"
@@ -73,7 +73,7 @@
  SCH_socialist:0 "Schleswig-Holstein"
  SCH_socialist_DEF:0 "Schleswig-Holstein"
  SCH_socialist_ADJ:0 "Schlesweins"
- 
+
  #Sardinia
  SAR_totalist:0 "Sardinian Workers State"
  SAR_totalist_DEF:0 "the Sardinian Workers State"
@@ -177,7 +177,7 @@
    SIC_autocracy_ADJ:0 "Sicilian"
    SIC_integrism:0 ""
    SIC_integrism_DEF:0 ""
-   SIC_integrism_ADJ:0 ""     
+   SIC_integrism_ADJ:0 ""
 
 
  ION_social_liberalism:0 "Ionian Islands"
@@ -218,18 +218,18 @@
  MEK_DEF:0 "Mecklenburg"
  MEK_ADJ:0 "Mecklenburg"
 
- SWE_integrism:0 "Svea Rike"
- SWE_integrism_DEF:0 "Svea Rike"
- SWE_autocracy:0 "Kingdom of Sweden"
- SWE_autocracy_DEF:0 "the Kingdom of Sweden"
- SWE_totalist:0 "Folkhemmet"
- SWE_totalist_DEF:0 "Folkhemmet"
- SWE_integrism_ADJ:0 "Swedish"
- SWE_autocracy_ADJ:0 "Swedish"
- SWE_totalist_ADJ:0 "Swedish"
- SWE:0 "Sweden"
- SWE_DEF:0 "Sweden"
- SWE_ADJ:0 "Swedish"
+ #SWE_integrism:0 "Svea Rike"
+ #SWE_integrism_DEF:0 "Svea Rike"
+ #SWE_autocracy:0 "Kingdom of Sweden"
+ #SWE_autocracy_DEF:0 "the Kingdom of Sweden"
+ #SWE_totalist:0 "Folkhemmet"
+ #SWE_totalist_DEF:0 "Folkhemmet"
+ #SWE_integrism_ADJ:0 "Swedish"
+ #SWE_autocracy_ADJ:0 "Swedish"
+ #SWE_totalist_ADJ:0 "Swedish"
+ #SWE:0 "Sweden"
+ #SWE_DEF:0 "Sweden"
+ #SWE_ADJ:0 "Swedish"
 
  FIN_fascism:0 "Greater Finland"
  FIN_fascism_DEF:0 "Greater Finland"
@@ -504,19 +504,19 @@
    RAJ_socialist_ADJ:0 "Indian"
    RAJ_social_liberalism:0 "British Raj"         #only colony
    RAJ_social_liberalism_DEF:0 "British Raj"
-   RAJ_social_liberalism_ADJ:0 "Indian"   
+   RAJ_social_liberalism_ADJ:0 "Indian"
    RAJ_social_liberalism:1 "India"        #only free
    RAJ_social_liberalism_DEF:1 "India"
    RAJ_social_liberalism_ADJ:1 "Indian"
    RAJ_social_conservatism:0 "British Raj"      #only colony
    RAJ_social_conservatism_DEF:0 "British Raj"
-   RAJ_social_conservatism_ADJ:0 "Indian"   
+   RAJ_social_conservatism_ADJ:0 "Indian"
    RAJ_social_conservatism:1 "India"      #only free
    RAJ_social_conservatism_DEF:1 "India"
    RAJ_social_conservatism_ADJ:1 "Indian"
    RAJ_autocracy:0 "British Raj"       #only colony
    RAJ_autocracy_DEF:0 "the British Raj"
-   RAJ_autocracy_ADJ:0 "Indian"   
+   RAJ_autocracy_ADJ:0 "Indian"
    RAJ_autocracy:1 "Maratha Raj"       #only free
    RAJ_autocracy_DEF:1 "the Maratha Raj"
    RAJ_autocracy_ADJ:1 "Indian"
