@@ -39,17 +39,28 @@ set_convoys = 20
 set_cosmetic_tag = RAJ_UK # British Raj
 
 set_politics = {
-	ruling_party = social_conservatism
+	ruling_party = autocracy
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	social_conservatism = 44
-	autocracy = 38
+	social_conservatism = 38
+	autocracy = 44
 	social_liberalism = 12
 	socialist = 4
 	totalist = 2
+}
+
+create_country_leader = {
+	name = "Freeman Freeman-Thomas"
+	desc = "POLITICS_FREEMAN_THOMAS_DESC"
+	picture = "Portrait_British_Raj_Freeman_Thomas.tga"
+	expire = "1965.1.1"
+	ideology = devotionism
+	traits = {
+
+	}
 }
 
 create_country_leader = {

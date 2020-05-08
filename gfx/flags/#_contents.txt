@@ -8,3 +8,4 @@
 #FRA	N	N	N	N	Y	N
 #FIN	N	N	N	Y	Y	N
 #SWE	N	N	Y	Y	N	P
+#RAJ	N	N	N	N	Y	N

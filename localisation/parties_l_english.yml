@@ -125,7 +125,7 @@
  MON_social_liberalism:0 "Irgenii Zorig"    #market liberal but still social conservative
  
  #totalist parties in raj countries want military alliance with other totalist states in raj
- RAJ_autocracy_party:0 "Princely Unionists"   #pro colony
+ RAJ_autocracy_party:0 "East India Shareholders"   #pro colony
  RAJ_integrism_party:0 "All-India Hindu Assembly"
  RAJ_social_conservatism_party:0 "Civil Service Unionists"   #for colony. pro colony
  RAJ_social_conservatism_party:1 "Indian National Congress - Conservatives"   #for liberated
@@ -133,7 +133,8 @@
  RAJ_totalist_party:1 "Ghadar Party - Totalists"    #only in civil war
  RAJ_socialist_party:0 "Liberal Justice Federation"
  RAJ_socialist_party:1 "Ghadar Party - Socialists"     #only in civil war
- RAJ_social_liberalism_party:0 "Indian National Congress - Liberals"
+ RAJ_social_liberalism_party:0 "Indian National Congress"
+ RAJ_social_liberalism_party:1 "Indian National Congress - Liberals"
  PAK_autocracy_party:0 "Princely Loyalists"   #still pro liberation
  PAK_autocracy_party:1 "National Security Council"    #only military coup. Khattack can be leader
  PAK_integrism_party:0 "Jamiat Ulama-I-Hind"    #nationalist

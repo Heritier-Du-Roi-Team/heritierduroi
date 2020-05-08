@@ -1,7 +1,5 @@
 ﻿l_english:
 
-## see line 3270 for vanilla german states
-
 ############################# EUROPE #########################
 
  #UK
@@ -77,7 +75,6 @@
  SCH_socialist:0 "Schleswig-Holstein"
  SCH_socialist_DEF:0 "Schleswig-Holstein"
  SCH_socialist_ADJ:0 "Schlesweins"
-<<<<<<< HEAD
  
  HES:0 "Hessen"
  HES_DEF:0 "Hessen"
@@ -523,8 +520,8 @@
    RAJ_social_conservatism:1 "India"      #only free
    RAJ_social_conservatism_DEF:1 "India"
    RAJ_social_conservatism_ADJ:1 "Indian"
-   RAJ_autocracy:0 "British Raj"       #only colony
-   RAJ_autocracy_DEF:0 "the British Raj"
+   RAJ_autocracy:0 "British East India"       #only colony
+   RAJ_autocracy_DEF:0 "the British East India"
    RAJ_autocracy_ADJ:0 "Indian"
    RAJ_autocracy:1 "Maratha Raj"       #only free
    RAJ_autocracy_DEF:1 "the Maratha Raj"
