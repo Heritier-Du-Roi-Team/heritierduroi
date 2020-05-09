@@ -1,11 +1,21 @@
+################# ACTIVE ####################
 
-#worker shortage
-#violence in vendee
-#innefficient economy
-#overstretched empire/massive conscription
-#new france/french empire
-#grand armee
-#old guard officers
+#worker shortage (+ construction time)
+#violence in vendee (- stability)
+#innefficient economy (- production growth/cap)
+#overstretched empire/massive conscription (- conscription / + resistance)
+#new france/french empire (+ war support/stability)
+#grand armee (- research grand battle plan)
+#old guard officers (- officer traits/level)
+
+############### PASSIVE ###################
+
+#memory of elba (+ resistance on enemies)
+#our real borders (- resistance/justify wargoal time)
+#continental order (+ volunteer limit)
+#defeat in detail (+ army cap limit (30))
+#the consul (+ stability)
+
 
 
 

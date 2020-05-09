@@ -181,9 +181,9 @@ set_popularities = {
 }
 
 add_ideas = {
-	ENG_political_chaos
+	#ENG_political_chaos
 	ENG_unbowed_unbent_unbroken
-	ENG_powerful_unionism
+	ENG_powerful_unions
 }
 
 create_faction = "Sixth Coalition"

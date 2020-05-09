@@ -1,4 +1,4 @@
-﻿capital = 439
+﻿capital = 431
 
 oob = "RAJ_1936"
 
@@ -36,7 +36,7 @@ if = {
 
 set_convoys = 20
 
-set_cosmetic_tag = RAJ_UK # British Raj
+set_cosmetic_tag = RAJ_UK # British East India
 
 set_politics = {
 	ruling_party = autocracy

@@ -1,8 +1,14 @@
+################# ACTIVE ####################
 
-#pact of nuetrality
-#independant at last
-#orangemen
+#pact of nuetrality (- war support/justify wargoal time)
+#independant at last (+ surrender limit/stability)
+#orangemen (- stability / + british influence)
 
+############### PASSIVE ###################
+
+#domestic terror campaign (+ war support / - stability)
+#irish language (+ stability)
+#loyalty to the church
 
 
 ideas = {

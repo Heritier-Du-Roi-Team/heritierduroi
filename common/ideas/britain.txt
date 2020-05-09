@@ -1,20 +1,21 @@
-#active:
+################# ACTIVE ####################
 
-#fragile coalition
-#rule brittania
-#brittania rules the waves
-#imperial legacy
-#Edward VIII
-#sore loser
-#powerful unions
+#fragile coalition (- stability /+ ideas cost)
+#rule brittania (+ defence on core terriorty /+ surrender limit)
+#brittania rules the waves (+ navy stuff)
+#George V/Edward VIII (+ stability)
+#sore loser (+ war support)
+#powerful unions (- stability / + socialism influence / - production cap)
 
-#passive:
+############### PASSIVE ###################
 
 #political chaos
 #weak unions
 #crushed unions
+#imperial legacy
 #
 
+#############################################################
 
 ideas = {
 
@@ -36,6 +37,25 @@ ideas = {
 				political_power_gain = -0.25	
 			}
 		}
+
+		ENG_powerful_unions = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = ENG_powerful_unions
+
+			modifier = {
+				stability_factor = -0.10
+				production_factory_max_efficiency_factor = -0.15
+				socialist_drift = 0.02
+				totalist_drift = 0.02
+			}
+		}
 	
 		ENG_unbowed_unbent_unbroken = {
 				allowed = {
@@ -54,7 +74,7 @@ ideas = {
 			}
 		}
 
-		ENG_powerful_unionism = {
+		ENG_stagnant_economy = {
 			allowed = {
 				always = no
 			}
@@ -73,20 +93,20 @@ ideas = {
 			}
 		}
 
-		ENG_brittania_rules_waves = {
-			allowed = {
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = no
-			}
-
-			modifier = {
-				navy_leader_start_level = 3
-				experience_gain_navy = 0.05
-				naval_retreat_chance = 0.2
-			}
-		}
+		#ENG_brittania_rules_waves = {
+		#	allowed = {
+		#		always = no
+		#	}
+		#		
+		#	allowed_civil_war = {
+		#		always = no
+		#	}
+		#	
+		#	modifier = {
+		#		navy_leader_start_level = 3
+		#		experience_gain_navy = 0.05
+		#		naval_retreat_chance = 0.2
+		#	}
+		#}
 	}
 }
