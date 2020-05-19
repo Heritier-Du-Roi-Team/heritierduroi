@@ -7,5 +7,6 @@
 #USA		Y	P	Y	Y	N	P
 #FRA		N	N	N	N	Y	N
 #FIN		N	N	N	Y	Y	N
-#SWE		N	N	Y	Y	N	P
+#SWE		N	N	N	N	N	N	(P)
 #RAJ(UK)	N	N	N	N	Y	N
+#MOR		N	N	N	N	Y	N
