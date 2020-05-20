@@ -6,11 +6,11 @@ set_research_slots = 4
 set_stability = 0.6
 set_war_support = 0.7
 add_ideas = {
-	victor_emmanuel
-	vittoria_mutilata
-	limited_exports
-	limited_conscription
-	partial_economic_mobilisation
+	#victor_emmanuel
+	#vittoria_mutilata
+	#limited_exports
+	#limited_conscription
+	#partial_economic_mobilisation
 }
 
 550 = {
@@ -126,12 +126,12 @@ if = {
 	}
 	#adding ministers
 	add_ideas = {
-		ITA_giovanni_marinelli
-		ITA_giacomo_acerbo
-		emilio_de_bono
-		vittorio_ambrosio
-		fiat
-		beretta
+		#ITA_giovanni_marinelli
+		#ITA_giacomo_acerbo
+		#emilio_de_bono
+		#vittorio_ambrosio
+		#fiat
+		#beretta
 
 		#laws
 		partial_economic_mobilisation
