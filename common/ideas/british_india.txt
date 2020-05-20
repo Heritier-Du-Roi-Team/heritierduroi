@@ -1,10 +1,10 @@
 ################# ACTIVE ####################
 
-#famine (- population)
+#famine (- population/stability)
 #booming trade (+ construction time)
 #jewel of the empire (+ stability / - resistence)
 #government majority share (+ drift toward social conservatism / - autonomy)
-#oppressed populus (- stability)
+#oppressed populus (- stability/war support / + resistance)
 
 ############### PASSIVE ###################
 

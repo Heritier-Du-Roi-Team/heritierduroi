@@ -14,6 +14,7 @@ set_convoys = 10
 add_ideas = {
 	IRE_pact_of_neutrality
 	IRE_the_day_has_come
+	IRE_orangemen
 }
 
 set_politics = {

@@ -27,8 +27,26 @@ ideas = {
 
 			modifier = {
 				war_support_factor = -0.30
-				high_command_cost_factor = 0.20
-				conscription_factor = -0.15
+				send_volunteers_tension = 0.20
+				join_faction_tension = 0.50
+				mobilization_laws_cost_factor = 0.25
+			}
+		}
+
+		IRE_orangemen = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			picture = IRE_orangemen
+
+			modifier = {
+				stability_factor = -0.10
+				conscription_factor = -0.05
 			}
 		}
 
