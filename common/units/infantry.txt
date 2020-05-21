@@ -226,7 +226,7 @@ sub_units = {
 		}
 	}
 
-	jungle = {
+	jungle_inf = {
 		sprite = infantry
 		map_icon_category = infantry
 		special_forces = yes
@@ -269,12 +269,7 @@ sub_units = {
 			infantry_equipment = 140
 		}
 
-		hills = {
-			attack = 0.2
-			defence = 0.05
-			movement = 0.1
-		}
-		mountain = {
+		jungle = {
 			attack = 0.35
 			defence = 0.1
 			movement = 0.2

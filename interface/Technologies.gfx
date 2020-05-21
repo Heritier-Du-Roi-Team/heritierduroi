@@ -514,18 +514,18 @@ spriteTypes = {
 	}	
 
 	SpriteType = {
-		name = "GFX_tech_jungle3_medium"
-		texturefile = "gfx/interface/technologies/jungle3.dds"
+		name = "GFX_jungle_inf3_medium"
+		texturefile = "gfx/interface/technologies/jungle_inf3.dds"
 	}
 	
 	SpriteType = {
-		name = "GFX_tech_jungle2_medium"
-		texturefile = "gfx/interface/technologies/jungle2.dds"
+		name = "GFX_jungle_inf2_medium"
+		texturefile = "gfx/interface/technologies/jungle_inf2.dds"
 	}	
 	
 	SpriteType = {
-		name = "GFX_tech_jungle_medium"
-		texturefile = "gfx/interface/technologies/jungle.dds"
+		name = "GFX_jungle_inf_medium"
+		texturefile = "gfx/interface/technologies/jungle_inf.dds"
 	}	
 
 	SpriteType = {
