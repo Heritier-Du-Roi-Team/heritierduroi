@@ -8,8 +8,7 @@ state={
 	}
 
 	state_category = town
-
-	history={
+		history={
 		owner = HUN
 		buildings = {
 			infrastructure = 4
@@ -21,6 +20,7 @@ state={
 		}
 		victory_points = {
 			6682 1
+		}
 		add_core_of = ROM
 		add_claim_by = HUN
 	}
