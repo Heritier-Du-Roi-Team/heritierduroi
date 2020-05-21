@@ -354,6 +354,21 @@
  SWE_social_conservatism_party:0 "Summer Party"
  SWE_social_liberalism_party:0 "Freeminded People's Party"
 
+ FRA_totalist_party:0 "Parti Totaliste Francais"
+ FRA_socialist_party:0 "Front Populaire"
+ FRA_social_liberalism_party:0 "Parti Radical"
+ FRA_social_conservatism_party:0 "Parti Démocratique"
+ FRA_autocracy_party:0 "House of Bonaparte"
+ FRA_autocracy_party:1 "House of Orleans"
+ FRA_autocracy_party:2 "House of Bourbon"
+ FRA_integrism_party_long:0 "Mouvement Franciste"
+
+ FRA_orleanist_party_long:0 "Parti orléaniste"
+ FRA_orleanist_party:0 "Parti orléaniste"
+ FRA_legitimist_party_long:0 "Parti légitimiste"
+ FRA_legitimist_party:0 "Parti légitimiste"
+ FRA_bonepartist_party_long:0 "Parti bonapartiste"
+ FRA_bonepartist_party:0 "Parti bonapartiste"
 ########################### AMERICAS #########################
 
 
@@ -390,9 +405,6 @@
  ITA_democratic_party:0 "Partito Popolare Italiano"
  ITA_fascism_party:0 "Partito Nazionale Fascista"
  ITA_neutrality_party:0 "Partito Nazionale Monarchico"
- FRA_communism_party:0 "Parti Communiste Francais"
- FRA_democratic_party:0 "Parti Radical"
- FRA_fascism_party:0 "Mouvement Franciste"
  SOV_communism_party:0 "All-Union Communist Party"
  SOV_democratic_party:0 "Trudoviks"
  SOV_fascism_party:0 "RFP"
