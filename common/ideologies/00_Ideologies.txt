@@ -148,6 +148,9 @@ ideologies = {
 			traditionalism = {
 			}
 
+			isolationism = {
+			}
+
 		}
 
 		dynamic_faction_names = {
