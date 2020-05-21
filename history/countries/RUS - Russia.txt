@@ -9,17 +9,19 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-set_stability = 0.63
-set_war_support = 0.19
+set_stability = 0.44
+set_war_support = 0.00
 
 set_politics = {
-	ruling_party = social_conservatism
+	ruling_party = autocracy
 	last_election = "1931.2.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-  social_conservatism = 84
+  social_conservatism = 13
+  social_liberalism = 1
+  autocracy = 31
   integrism = 11
-  totalist = 5
+  totalist = 44
 }

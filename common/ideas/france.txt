@@ -1,12 +1,9 @@
 ################# ACTIVE ####################
 
 #worker shortage (+ construction time)
-#violence in vendee (- stability)
 #innefficient economy (- production growth/cap)
 #overstretched empire/massive conscription (- conscription / + resistance)
-#new france/french empire (+ war support/stability)
-#grand armee (- research grand battle plan)
-#old guard officers (- officer traits/level)
+#old guard officers (- officer traits/level/ + doctrine research)
 
 ############### PASSIVE ###################
 
@@ -16,9 +13,9 @@
 #defeat in detail (+ army cap limit (30))
 #the consul (+ stability)
 #mexican silver
-
-
-
+#violence in vendee (- stability)
+#new france/french empire (+ war support/stability)
+#grand armee (- research grand battle plan)
 
 
 ideas = {

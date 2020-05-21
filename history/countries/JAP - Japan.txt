@@ -227,18 +227,18 @@ if = {
 }
 
 set_politics = {
-	ruling_party = social_conservatism
+	ruling_party = socialist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	social_conservatism = 33
+	social_conservatism = 12
 	totalist = 25
 	autocracy = 18
 	integrism = 12
-	socialism = 8
-	social_liberalism = 4
+	socialism = 23
+	social_liberalism = 10
 }
 
 create_country_leader = {
@@ -246,11 +246,9 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
-	ideology = fascism_ideology
+	ideology = collectivism
 	traits = {
-		warrior_code
-		emperor_showa
-		imperial_sanction
+		#
 	}
 	id = 700 #Hirohito
 }
