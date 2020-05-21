@@ -775,7 +775,7 @@ technologies = {
 	jungle_inf = {
 
 		enable_subunits = {
-			jungle
+			jungle_inf
 		}
 
 		on_research_complete = {
