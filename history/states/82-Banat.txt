@@ -2,7 +2,7 @@
 state={
 	id=82
 	name="STATE_82"
-	manpower = 941500
+	manpower = 902130
 	resources={
 		aluminium=4 # was: 6
 	}
@@ -18,7 +18,8 @@ state={
 			infrastructure = 5
 			industrial_complex = 2
 		}
-		add_core_of = HUN
+		add_core_of = ROM
+		add_claim_by = HUN
 	}
 
 	provinces={

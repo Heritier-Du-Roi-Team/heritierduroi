@@ -1,0 +1,31 @@
+
+state={
+	id=826
+	name="STATE_827" #Szeklerland
+	manpower= 812345
+	history={
+		owner = HUN
+		victory_points = {
+			 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			air_base = 5
+		}
+		victory_points = {
+			9670 2
+
+		}
+		add_core_of = HUN
+		add_claim_by= ROM
+
+	}
+
+	provinces={
+		711 3689 9668 9670
+	}
+	manpower=327800
+	buildings_max_level_factor=1.000
+	state_category=town
+}

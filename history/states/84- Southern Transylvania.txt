@@ -1,7 +1,7 @@
 
 state={
 	id=84
-	name="STATE_84"
+	name="STATE_84" #Southern Transylvania
 	manpower = 1622300
 	resources={
 		steel=3 # was: 4
@@ -17,12 +17,15 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			690 1
+			690 1 
 		}
-		add_core_of = HUN
+		victory_points = {
+			6682 1
+		add_core_of = ROM
+		add_claim_by = HUN
 	}
 
 	provinces={
-		676 690 693 3665 3676 3694 6679 6709 9619 11622 11639
+		676 690 693 696 3665 3676 3694 6679 6682 6709 9619 9640 11622 11639
 	}
 }
