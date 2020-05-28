@@ -15,19 +15,19 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = social_conservatism
 	last_election = "1930.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	integrism = 1
-	totalist = 1
-	social_conservatism = 1
-	social_liberalism = 1
-	socialist = 1
-	autocracy = 95
+	integrism = 20
+	totalist = 10
+	social_conservatism = 37
+	social_liberalism = 25
+	socialist = 6
+	autocracy = 2
 }
 
 set_stability = 0.50
