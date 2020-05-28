@@ -1,0 +1,121 @@
+﻿capital = 4
+
+oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_engineers = 1
+	tech_support = 1		
+	tech_mountaineers = 1
+	early_fighter = 1
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1930.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	integrism = 1
+	totalist = 1
+	social_conservatism = 1
+	social_liberalism = 1
+	socialist = 1
+	autocracy = 95
+}
+
+set_stability = 0.50
+
+create_country_leader = {
+	name = "Engelbert Dollfuss"
+	desc = "POLITICS_ENGELBERT_DOLLFUSS_DESC"
+	picture = "Portrait_Engelburt_Dollfuss.dds"
+	expire = "1965.1.1"
+	ideology = nationalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ernst Rüdiger Starhemberg"
+	desc = "POLITICS_ERNST_STARHEMBERG_DESC"
+	picture = "Portrait_Ernst_Starhemburg.dds"
+	expire = "1965.1.1"
+	ideology = fascism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mike Hainisch"
+	desc = "POLITICS_MIKE_HAINISCH_DESC"
+	picture = "Portrait_Mike_Hainisch.dds"
+	expire = "1965.1.1"
+	ideology = traditionalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Václav Klofáč"
+	desc = "POLITICS_VACALV_KLOFAC_DESC"
+	picture = "Portrait_Vlaclav_Klofac.dds"
+	expire = "1965.1.1"
+	ideology = nationalism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Franz Bohme"
+	gfx = "Portrait_Military_Franz_Bohme.dds"
+	traits = {  trait_mountaineer logistics_wizard }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 5
+}
+
+create_corps_commander = {
+	name = "Alfred Jansa"
+	portrait_path = "Portrait_Military_Alfred_Jansa.dds"
+	traits = { defensive_doctrine trait_cautious inflexible_strategist }
+	skill = 3
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Emil Fey"
+	portrait_path = "Portrait_Military_Emil_Fey.dds"
+	traits = { politically_connected harsh_leader }
+	skill = 1
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Anton Kienbauer"
+	portrait_path = "Portrait_Military_Anton_Kienbauer.dds"
+	traits = { # }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
