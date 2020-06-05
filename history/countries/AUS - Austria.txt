@@ -33,9 +33,9 @@ set_popularities = {
 set_stability = 0.50
 
 create_country_leader = {
-	name = "Engelbert Dollfuss"
+	name = "Ernst Rüdinger Starhemberg"
 	desc = "POLITICS_ENGELBERT_DOLLFUSS_DESC"
-	picture = "Portrait_Engelburt_Dollfuss.dds"
+	picture = "Portrait_Ernst_Starhemburg.dds"
 	expire = "1965.1.1"
 	ideology = nationalism
 	traits = {
@@ -44,9 +44,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ernst Rüdiger Starhemberg"
-	desc = "POLITICS_ERNST_STARHEMBERG_DESC"
-	picture = "Portrait_Ernst_Starhemburg.dds"
+	name = "Karl Renner"
+	desc = "POLITICS_Karl_Renner_DESC"
+	picture = "Portrait_Karl_Renner.dds"
+	expire = "1965.1.1"
+	ideology = fabianism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Engelbert Dollfuss"
+	desc = "POLITICS__DESC"
+	picture = "Portrait_Engelbert_Dollfass.dds"
 	expire = "1965.1.1"
 	ideology = fascism
 	traits = {
@@ -76,24 +87,46 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Wilhelm Miklas"
+	desc = "POLITICS_Wilhelm_Miklas_DESC"
+	picture = "Portrait_Wilhelm_Miklas.dds"
+	expire = "1956.3.20"
+	ideology = traditionalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Alfred Klahr"
+	desc = "POLITICS_Alfred_Klahr_DESC"
+	picture = "Portrait_Alfred_Klahr.dds"
+	expire = "1956.3.20"
+	ideology = Trotskyism
+	traits = {
+		#
+	}
+}
+
 create_field_marshal = {
-	name = "Franz Bohme"
+	name = "Franz Böhme"
 	gfx = "Portrait_Military_Franz_Bohme.dds"
 	traits = {  trait_mountaineer logistics_wizard }
-	skill = 4
-	attack_skill = 4
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 5
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 3
 }
 
 create_corps_commander = {
 	name = "Alfred Jansa"
 	portrait_path = "Portrait_Military_Alfred_Jansa.dds"
 	traits = { defensive_doctrine trait_cautious inflexible_strategist }
-	skill = 3
+	skill = 4
 	attack_skill = 1
-	defense_skill = 3
+	defense_skill = 5
 	planning_skill = 4
 	logistics_skill = 2
 }
@@ -102,7 +135,7 @@ create_corps_commander = {
 	name = "Emil Fey"
 	portrait_path = "Portrait_Military_Emil_Fey.dds"
 	traits = { politically_connected harsh_leader }
-	skill = 1
+	skill = 2
 	attack_skill = 2
 	defense_skill = 1
 	planning_skill = 1
