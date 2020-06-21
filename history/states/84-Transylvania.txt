@@ -19,18 +19,7 @@ state={
 		victory_points = {
 			690 1
 		}
-<<<<<<< HEAD:history/states/84-Transylvania.txt
-<<<<<<< HEAD:history/states/84- Southern Transylvania.txt
-		victory_points = {
-			6682 1
-		add_core_of = ROM
-		add_claim_by = HUN
-=======
 		add_core_of = HUN
->>>>>>> parent of c867c27... Transylvania cores and additional states:history/states/84-Transylvania.txt
-=======
-		add_core_of = HUN
->>>>>>> parent of c867c27... Transylvania cores and additional states:history/states/84- Southern Transylvania.txt
 	}
 
 	provinces={
