@@ -42,7 +42,6 @@
  STATE_824:0 "Drohobych"
  STATE_825:0 "Serres"
  STATE_826:0 "Nordhorn"
- STATE_827:0 "Szeklerland"
 
 
 
@@ -124,8 +123,8 @@
  STATE_80:0 "Bucovina"
  STATE_81:0 "Oltenia"
  STATE_82:0 "Banat"
- STATE_83:0 "Transylvanian Alföld"
- STATE_84:0 "Southern Transylvania"
+ STATE_83:0 "Crisana"
+ STATE_84:0 "Transylvania"
  STATE_85:0 "Danzig"
  STATE_86:0 "Poznan"
  STATE_87:1 "Łódz"
