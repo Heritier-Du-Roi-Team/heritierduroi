@@ -4,7 +4,7 @@ state={
 	name="STATE_822"
 
 	history={
-		owner = PRS
+		owner = WST
 		victory_points = {
 			11388 5 
 		}
@@ -18,7 +18,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = PRS
+		add_core_of = WES
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
@@ -31,7 +31,7 @@ state={
 	}
 
 	provinces={
-		405 495 6535 6622 9509 11388 
+		495 6535 6622 13267 3398 9547 9443
 	}
 	manpower=758467
 	buildings_max_level_factor=1.000

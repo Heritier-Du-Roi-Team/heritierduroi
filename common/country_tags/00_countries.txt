@@ -42,6 +42,8 @@ PRS = "countries/Prussia.txt"
 VNC = "countries/Venice.txt"
 MEK = "countries/Mecklenburg.txt"
 PAR = "countries/Parma.txt"
+RHI = "countries/Rhineland.txt"
+WST = "countries/Westphalia.txt"
 
 ION = "countries/Ionian Islands.txt"
 

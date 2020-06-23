@@ -16,6 +16,7 @@ state= {
 			industrial_complex = 1
 		}
 		add_core_of = DEN
+		add_core_of = SCH
 	}
 	provinces = {
 		332 11251 
