@@ -12,14 +12,14 @@ state={
 	state_category = large_city
 
 	history={
-		owner = PRS
-		victory_points = { 3561 5 }
+		owner = THU
+		victory_points = { 6524 5 }
 		victory_points = { 425 3 }
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
-		add_core_of = PRS
+		add_core_of = THU
 	}
 
 	provinces={

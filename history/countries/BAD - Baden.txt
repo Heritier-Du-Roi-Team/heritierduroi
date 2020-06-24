@@ -19,7 +19,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-  integrism = 83
+  integrism = 84
   autocracy = 15
   social_conservatism = 1
 }

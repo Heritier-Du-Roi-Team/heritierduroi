@@ -21,7 +21,7 @@
  STATE_803:0 "Upper Guinea"
  STATE_804:0 "Kreuzung"       #was 825
  STATE_805:0 "Lankaran"
- STATE_806:0 "Baden-Wurtemburg"       #was 824
+ STATE_806:0 "Baden"       #was 824
  STATE_807:0 "Lower Borneo"
  STATE_808:0 "Sitamarhi"
  STATE_809:0 "Gemima"

@@ -117,18 +117,18 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = totalist
+	ruling_party = social_conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	social_conservatism = 21
-	social_liberalism = 9
+	social_conservatism = 45
+	social_liberalism = 19
 	autocracy = 10
-	integrism = 1
-	totalist = 59
+	integrism = 11
+	totalist = 15
 }
 
 add_ideas = {
