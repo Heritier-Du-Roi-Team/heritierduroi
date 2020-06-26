@@ -18,7 +18,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = WES
+		add_core_of = WST
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4

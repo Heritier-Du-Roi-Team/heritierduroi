@@ -27,7 +27,7 @@ BAD = "countries/Baden.txt"
 BAV = "countries/Bavaria.txt"
 #CON = "countries/Constantinople.txt"
 #HAN = "countries/Hannover.txt" (Already in Base)
-HES = "countries/Hessen.txt"
+HES = "countries/Hesse.txt"
 PAP = "countries/Papal States.txt"
 #EMI = "countries/Emillio Rogena"		(tbr - to be researched)
 RUS = "countries/Russia.txt"
@@ -45,6 +45,7 @@ PAR = "countries/Parma.txt"
 RHI = "countries/Rhineland.txt"
 WST = "countries/Westphalia.txt"
 THU = "countries/Thuringia.txt"
+OLD = "countries/Oldenburg.txt"
 
 ION = "countries/Ionian Islands.txt"
 

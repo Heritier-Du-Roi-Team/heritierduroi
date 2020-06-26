@@ -5,7 +5,7 @@
  STATE_2:0 "Latium"
  STATE_8:0 "Brest-Litovsk"
  STATE_23:0 "Vendee"
- STATE_51:0 "East Rhine"
+ STATE_51:0 "East Rhineland"
  STATE_58:0 "Holstein"
  STATE_119:0 "Ulster"
  STATE_162:0 "Tuscany"
@@ -19,7 +19,7 @@
  STATE_801:0 "Marijampole"    #was 826
  STATE_802:0 "Rome"
  STATE_803:0 "Upper Guinea"
- STATE_804:0 "Kreuzung"       #was 825
+ STATE_804:0 "Burgenland"       #was 825
  STATE_805:0 "Lankaran"
  STATE_806:0 "Baden"       #was 824
  STATE_807:0 "Lower Borneo"
@@ -33,16 +33,16 @@
  STATE_815:0 "Edirne"
  STATE_816:0 "Schleswig"
  STATE_817:0 "Northern Schleswig"
- STATE_818:0 "West Rhine"
+ STATE_818:0 "West Rhineland"
  STATE_819:0 "Lappeenranta"
  STATE_820:0 "Batumi"
  STATE_821:0 "Kerkyra"
- STATE_822:0 "Dortmund"
+ STATE_822:0 "Rhur"
  STATE_823:0 "Suwalki"
  STATE_824:0 "Drohobych"
  STATE_825:0 "Serres"
  STATE_826:0 "Nordhorn"
-
+ 
 
 
  STATE_1:0 "Corsica"
@@ -97,7 +97,7 @@
  STATE_53:0 "Niederbayern"
  STATE_54:0 "Franken"
  STATE_55:0 "Hessen"
- STATE_56:0 "Weser-Ems"
+ STATE_56:0 "Oldenburg"
  STATE_57:0 "Westfalen"
  STATE_59:0 "Hannover"
  STATE_60:0 "Thüringen"

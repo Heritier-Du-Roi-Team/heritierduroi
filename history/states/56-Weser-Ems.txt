@@ -4,12 +4,12 @@ state={
 	name="STATE_56"
 
 	history={
-		owner = HAN
+		owner = OLD
 		victory_points = {
-			241 5 
+			241 5
 		}
 		victory_points = {
-			11360 1 
+			309 10 
 		}
 		buildings = {
 			infrastructure = 6
@@ -27,7 +27,7 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = HAN
+		add_core_of = OLD
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
@@ -40,7 +40,7 @@ state={
 	}
 
 	provinces={
-		241 247 309 336 3234 
+		241 247 309 336  
 	}
 	manpower=1158467
 	buildings_max_level_factor=1.000

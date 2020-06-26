@@ -144,8 +144,8 @@ HES = {
 	color_ui = rgb { 69 160 196 }
 }
 SAX = {
-	color = rgb { 134 25 158 }
-	color_ui = rgb { 134 25 158 }
+	color = rgb { 54  56  167}
+	color_ui = rgb { 54  56  167}
 }
 HAN = {
 	color = rgb { 153 97 198 }
@@ -163,7 +163,22 @@ SCH = {
 	color = rgb { 165 36 99 }
 	color_ui = rgb { 165 36 99 }
 }
-
+THU = {
+	color = rgb {45 205 208}
+	color_ui = rgb { 45 205 208}
+}
+WST = {
+	color = rgb {142 139 81}
+	color_ui = rgb { 142 139 81}
+}
+OLD = {
+	color = rgb {62 124 255}
+	color_ui = rgb {62 124 255}
+}
+WUR = {
+	color = rgb { 119 17 24 }
+	color_ui = rgb { 119 17 24 }
+}
 # Middle East #
 
 OTT = {
@@ -758,10 +773,7 @@ PRE = {
 	color = rgb { 160  160  160 }
 	color_ui = rgb { 160  160  160 }
 }
-WUR = {
-	color = rgb { 255 204 153 }
-	color_ui = rgb { 255 204 153 }
-}
+
 SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }

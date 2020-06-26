@@ -123,7 +123,9 @@ if = {
 	set_autonomy = {
 		target = RHI
 		autonomous_state = autonomy_puppet
+		freedom_level = 0.35
 	}
+	
 }
 add_ideas = {
 	}

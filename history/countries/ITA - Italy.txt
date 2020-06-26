@@ -13,19 +13,6 @@ add_ideas = {
 	#partial_economic_mobilisation
 }
 
-550 = {
-	start_resistance = yes
-	set_compliance = 10
-	set_resistance = 0
-	set_garrison_strength = 1.0
-}
-
-559 = {
-	start_resistance = yes
-	set_compliance = 10
-	set_resistance = 0
-	set_garrison_strength = 1.0
-}
 
 # Starting tech
 set_technology = {
@@ -106,10 +93,6 @@ if = {
 		has_start_date < 1936.01.02
 	}
 
-	declare_war_on = {
-		target = ETH
-		type = annex_everything
-	}
 	give_guarantee = ALB
 }
 

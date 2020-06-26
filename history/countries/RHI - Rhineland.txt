@@ -25,4 +25,4 @@ set_popularities = {
   socialist = 3
   totalist = 7
   autocracy = 15
- }
+}
