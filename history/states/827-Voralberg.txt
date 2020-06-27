@@ -1,0 +1,20 @@
+state = {
+	id = 827
+	name = "STATE_827"
+	manpower = 105600
+
+	state_category = town
+
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = AUS
+    add_claim_by = SWI
+  }
+
+	provinces={
+		6678 6680 
+	}
+}

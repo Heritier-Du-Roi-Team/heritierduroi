@@ -8,9 +8,9 @@ state={
 	}
 
 	history={
-		owner = AUS
+		owner = ITA
 		victory_points = {
-			11584 20 
+			11584 20
 		}
 		buildings = {
 			infrastructure = 6
@@ -37,7 +37,7 @@ state={
 	}
 
 	provinces={
-		628 3604 3657 6656 9613 11584 
+		628 3604 3657 6656 9613 11584
 	}
 	manpower=3963151
 	buildings_max_level_factor=1.000

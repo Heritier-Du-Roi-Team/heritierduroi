@@ -6,16 +6,16 @@ state={
 	resources={
 		oil=1 # was: 2
 	}
-	
+
 	state_category = large_city
-	
+
 	history={
 		owner = AUS
 		victory_points = {
-			11666 30.0 
+			11666 30.0
 		}
 		victory_points = {
-			9648 5 
+			9648 5
 		}
 		buildings = {
 			infrastructure = 7
@@ -38,6 +38,6 @@ state={
 	}
 
 	provinces={
-		653 704 3718 6690 6739 9527 9646 9648 9679 11666 
+		653 665 704 3718 6690 6739 9527 9646 9648 9679 11666 
 	}
 }
