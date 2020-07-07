@@ -1,0 +1,50 @@
+
+state={
+	id=832
+	name="STATE_832"
+	resources={
+		steel=48.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			678 5
+		}
+		victory_points = {
+			9503 5
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			549 = {
+				bunker = 3
+			}
+			678 = {
+				bunker = 3
+			}
+			3629 = {
+				bunker = 3
+			}
+			6529 = {
+				bunker = 3
+			}
+			9503 = {
+				bunker = 3
+			}
+			11502 = {
+				bunker = 3
+			}
+			anti_air_building = 3
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		521 549 678 1346 3629 6529 9503 11502 11516
+	}
+	manpower=1074600
+	state_category=city
+}

@@ -3,9 +3,9 @@ state={
 	id=821
 	name="STATE_821"
 	manpower = 44596
-	
+
 	state_category = small_island
-	
+
 	resources={
 		#
 	}
@@ -14,7 +14,7 @@ state={
 		victory_points = {
 			10203 1
 		}
-		owner = ION
+		owner = GRE
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -24,10 +24,11 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = GRE
 		add_core_of = ION
 	}
 
 	provinces={
-		1106 10203  
+		1106 10203
 	}
 }

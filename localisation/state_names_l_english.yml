@@ -2,7 +2,7 @@
 
 
 
- STATE_2:0 "Latium"
+ STATE_2:0 "Umbria"
  STATE_8:0 "Brest-Litovsk"
  STATE_23:0 "Vendee"
  STATE_51:0 "East Rhineland"
@@ -47,6 +47,8 @@
  STATE_829:0 "Zlin"
  STATE_830:0 "Southern Bohemia"
  STATE_831:0 "Liberec"
+ STATE_832:0 "Lorraine"
+ STATE_833:0 "Slavonia"
 
 
 
@@ -74,7 +76,7 @@
  STATE_25:0 "Limousin"
  STATE_26:0 "Auvergne"
  STATE_27:0 "Bourgogne"
- STATE_28:1 "Alsace-Lorraine"
+ STATE_28:1 "Alsace"
  STATE_29:1 "Nord-Pas-de-Calais"
  STATE_30:0 "Loire"
  STATE_31:0 "Midi Pyrenees"
@@ -154,7 +156,7 @@
  STATE_106:0 "Macedonia"
  STATE_107:0 "Serbia"
  STATE_108:0 "Morava"
- STATE_109:0 "Croatia"
+ STATE_109:1 "Zagreb"
  STATE_110:1 "Østlandet"
  STATE_111:0 "Uusimaa"
  STATE_112:0 "Lisbon"
@@ -206,7 +208,7 @@
  STATE_159:0 "Lombardy"
  STATE_160:0 "Veneto"
  STATE_161:0 "Emilia Romagna"
- STATE_163:0 "Zara"
+ STATE_163:0 "Kvarner"
  STATE_164:0 "Dodecanese"
  STATE_165:1 "Cataluña"
  STATE_166:1 "Western Aragón"
@@ -383,7 +385,7 @@
  STATE_338:0 "Gloucestershire"
  STATE_339:0 "Izmir"
  STATE_340:0 "Bursa"
- STATE_341:0 "Istanbul"
+ STATE_341:0 "Constantinople"
  STATE_342:0 "Antalya"
  STATE_343:0 "Afyon"
  STATE_344:0 "Adana"
