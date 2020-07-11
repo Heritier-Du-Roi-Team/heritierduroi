@@ -4,7 +4,7 @@ state={
 	name="STATE_559"
 
 	history={
-		owner = ETH
+		owner = SPR
 		add_core_of = SOM
 		add_claim_by = ETH
 		victory_points = {
