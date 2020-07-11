@@ -1,0 +1,432 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	male = {
+		"gfx/leaders/leader_unknown.dds"
+	}
+	female = {
+		"gfx/leaders/leader_unknown.dds"
+	}
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_land_13.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = north_america
+	army = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_land_13.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+		}
+	}
+
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = south_america
+	army = {
+		male = {
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_1.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_2.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds"  
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"  
+			}
+		}
+	}
+
+}
+	
+continent = {
+	name = australia
+	army = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_land_13.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" 
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" 
+			}
+		}
+	}
+
+}
+}
+
+continent = {
+	name = africa
+	army = {
+		male = {
+			"gfx/leaders/Africa/Portrait_Africa_Generic_land_1.dds"
+			"gfx/leaders/Africa/Portrait_Africa_Generic_land_2.dds"
+			"gfx/leaders/Africa/Portrait_Africa_Generic_land_3.dds"
+			"gfx/leaders/SAF/Portrait_South_Africa_Army_Generic.dds"
+			"gfx/leaders/SAF/Portrait_South_Africa_Army_Generic_2.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Africa/Portrait_Africa_Generic_navy_1.dds"
+			"gfx/leaders/Africa/Portrait_Africa_Generic_navy_2.dds"
+			"gfx/leaders/Africa/Portrait_Africa_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"	
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+					"gfx/leaders/SAF/Portrait_South_Africa_Political_Leader_Generic.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"	
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_2.dds" 
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_2.dds" 
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds" 
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Army_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Army_Generic_2.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds" 
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Political_Leader_Generic_2.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Army_Generic.dds"
+					"gfx/leaders/Africa/Portrait_South_Africa_Army_Generic_2.dds"
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = asia
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}
+
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds" 
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds" 
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+			}
+		}
+	}	
+
+}
+
+continent = {
+	name = middle_east
+	army = {
+		male = {
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_land_1.dds"
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_land_2.dds"
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_land_3.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_navy_1.dds"
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_navy_2.dds"
+			"gfx/leaders/SAU/Portrait_Arabia_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		totalist = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_communism1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_1.dds"
+			}
+		}
+		socialist = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_communism1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_1.dds"
+			}
+		}
+		social_conservatism = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_democratic1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_2.dds"
+			}
+		}
+		social_liberalism = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_democratic1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_2.dds"
+			}
+		}
+		autocracy = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_fascism1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_3.dds" 
+			}
+		}
+		intregrism = {
+				male = { 
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_fascism1.dds"
+					"gfx/leaders/Arabia/Portrait_Arabia_Generic_3.dds" 
+
+			}
+		}
+	}
+
+}
