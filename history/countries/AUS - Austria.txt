@@ -9,9 +9,18 @@ set_technology = {
 	infantry_weapons1 = 1
 	tech_recon = 1
 	tech_engineers = 1
-	tech_support = 1		
+	tech_support = 1
 	tech_mountaineers = 1
 	early_fighter = 1
+}
+
+add_ideas = {
+	# Spirits
+
+	AUS_Second_Iron_Ring
+	AUS_Young_Bohemia
+	AUS_Unstable_Democracy
+	AUS_Economic_Troubles
 }
 
 set_politics = {
@@ -31,6 +40,29 @@ set_popularities = {
 }
 
 set_stability = 0.50
+
+create_country_leader = {
+	name = "Wilhelm Miklas"
+	desc = "POLITICS_WILHELM_MIKLAS_DESC"
+	picture = "Portrait_Austria_Wilhelm_Miklas.dds"
+	expire = "1965.1.1"
+	ideology = social_conservatives
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Richard Schmitz"
+	desc = "POLITICS_RICHARD_SCHMITZ_DESC"
+	picture = "Portrait_Austria_Richard_Schmitz.dds"
+	expire = "1965.1.1"
+	ideology = traditionalism
+	traits = {
+		#
+	}
+}
+
 
 create_country_leader = {
 	name = "Engelbert Dollfuss"
@@ -76,6 +108,39 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Alfred Klahr"
+	desc = "POLITICS_ALFRED_KLAHR_DESC"
+	picture = "Portrait_Austria_Khlar.dds"
+	expire = "1965.1.1"
+	ideology = desolationism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Karl Renner"
+	desc = "POLITICS_KARL_RENNER_DESC"
+	picture = "Portrait_Austria_Karl_Renner.dds"
+	expire = "1965.1.1"
+	ideology = libertarian_socialists
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Karl Josef Seitz"
+	desc = "POLITICS_KARL_SEITZ_DESC"
+	picture = "Portrait_Austria_Karl_Seitz.dds"
+	expire = "1965.1.1"
+	ideology = market_liberals
+	traits = {
+		#
+	}
+}
+
 create_field_marshal = {
 	name = "Franz Bohme"
 	gfx = "Portrait_Military_Franz_Bohme.dds"
@@ -85,6 +150,28 @@ create_field_marshal = {
 	defense_skill = 3
 	planning_skill = 3
 	logistics_skill = 5
+}
+
+create_corps_commander = {
+	name = "Walter Pfrimer"
+	portrait_path = "Portrait_Austria_Walter_Pfrimer.dds"
+	traits = { panzer_leader }
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Eduard Barger"
+	portrait_path = "Portrait_Austria_Eduard_Barger.dds"
+	traits = { # }
+	skill = 3
+	attack_skill = 1
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 1
 }
 
 create_corps_commander = {
