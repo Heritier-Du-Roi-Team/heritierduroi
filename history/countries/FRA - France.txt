@@ -1,4 +1,4 @@
-capital = 16
+﻿capital = 16
 
 oob = "FRA_1936"
 if = {
@@ -125,7 +125,25 @@ if = {
 		autonomous_state = autonomy_puppet
 		freedom_level = 0.35
 	}
-	
+	else = {
+		puppet = RHI
+	}
+	set_autonomy = {
+		target = MOR
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+	else = {
+		puppet = MOR
+	}
+	set_autonomy = {
+		target = TUN
+		autonomous_state = autonomy_colony
+		freedom_level = 0.5
+	}
+	else = {
+		puppet = TUN
+	}
 }
 add_ideas = {
 	}
