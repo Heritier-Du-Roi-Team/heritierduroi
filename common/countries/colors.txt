@@ -26,8 +26,8 @@ POL = {
 	color_ui = rgb { 182 111 142 }
 }
 AUS = {
-	color = rgb { 194 194 204 }
-	color_ui = rgb { 194 194 204 }
+	color = rgb { 123 123 123 }
+	color_ui = rgb { 123 123 123 }
 }
 LIT = {
 	color = rgb { 156 168 94 }
