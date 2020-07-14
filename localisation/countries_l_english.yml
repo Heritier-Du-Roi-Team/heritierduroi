@@ -72,9 +72,9 @@
  FRA_integrism_ADJ:0 "French"
 
  #Schleswig-Holstein
- SCH_socialist:0 "Schleswig-Holstein"
- SCH_socialist_DEF:0 "Schleswig-Holstein"
- SCH_socialist_ADJ:0 "Schlesweins"
+ SCH_:0 "Schleswig-Holstein"
+ SCH_DEF:0 "Schleswig-Holstein"
+ SCH_ADJ:0 "Schleswig-Holsteinisch"
  
  HES:0 "Hessen"
  HES_DEF:0 "Hessen"
@@ -3575,3 +3575,23 @@
  OLD_integrism:0 "Oldenburg State"
  OLD_integrism_DEF:0 "the Oldenburg State"
  OLD_integrism_ADJ:0 "Oldenburgian"
+
+ #SCH
+ SCH_totalist:0 "Schleswig-Holsteinian Workers State"
+ SCH_totalist_DEF:0 "the Schleswig-Holstein Workers State"
+ SCH_totalist_ADJ:0 "Schleswig-Holsteinian"
+ SCH_socialist:0 "Schleswig-Holsteinian Socialist Republic"
+ SCH_socialist_DEF:0 "Schleswig-Holstein"
+ SCH_socialist_ADJ:0 "Schleswig-Holsteinian"
+ SCH_social_liberalism:0 "Schleswig-Holstein"
+ SCH_social_liberalism_DEF:0 "Schleswig-Holstein"
+ SCH_social_liberalism_ADJ:0 "Schleswig-Holsteinian"
+ SCH_social_conservatism:0 "Schleswig-Holstein"
+ SCH_social_conservatism_DEF:0 "Schleswig-Holstein"
+ SCH_social_conservatism_ADJ:0 "Schleswig-Holsteinian"
+ SCH_autocracy:0 "Duchy of Schleswig-Holstein"
+ SCH_autocracy_DEF:0 "the Duchy of Schleswig-Holstein"
+ SCH_autocracy_ADJ:0 "Schleswig-Holsteinian"
+ SCH_integrism:0 "Schleswig-Holsteinian State"
+ SCH_integrism_DEF:0 "Schleswig-Holstein"
+ SCH_integrism_ADJ:0 "Schleswig-Holsteinian"
