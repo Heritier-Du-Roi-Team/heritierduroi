@@ -111,7 +111,7 @@ create_field_marshal = {
 
 create_corps_commander = {
 	name = "Michael Costello"
-	portrait_path = "gfx/leaders/ENG/Portrait_Britain_Generic_land_4.dds"
+	portrait_path = "Portrait_Ireland_Michael_Costello.dds"
 	traits = {  }
 	skill = 2
 	attack_skill = 2
