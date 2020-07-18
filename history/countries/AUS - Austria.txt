@@ -87,7 +87,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mike Hainisch"
+	name = "Michael Hainisch"
 	desc = "POLITICS_MIKE_HAINISCH_DESC"
 	picture = "Portrait_Mike_Hainisch.dds"
 	expire = "1965.1.1"

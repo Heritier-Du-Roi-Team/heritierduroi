@@ -1,8 +1,8 @@
 ﻿l_english:
- 
- totalist:0 "Totalism"
- totalist_noun:0 "Totalism"
- totalist_desc:0 "Totalist Regime"
+
+ totalist:0 "Communist"
+ totalist_noun:0 "Communism"
+ totalist_desc:0 "Communist Regime"
 
  desolationism:0 "Bukharinism"
  desolationism_desc:0 "Believing the active pursuit of international communism to be impractical and foolhardy, Bukharinists instead seek to refine and secure the totalist state inside their own borders and allow the rest of the world to naturally achieve socialism by itself. Bukharinist nations tend to prefer national and internal security, and rule over their own populus with an iron fist. Totalitarian in nature, Bukharinists embrace moderate collective economics and a centralised economic structure and are hostile to any potential infringements to the security of the nation or party, expanding their borders and protecting their interests with force if necessary."
@@ -15,9 +15,9 @@
 
 ###################################
 
- socialist:0 "Socialism"
- socialist_noun:0 "Socialism"
- socialist_desc:0 "Socialist Regime"
+ socialist:0 "Social Democracy"
+ socialist_noun:0 "Social Democratic"
+ socialist_desc:0 "Democratic Regime"
 
  collectivism:0 "Collectivism"
  collectivism_desc:0 "Collectivism emphasises cohesiveness between individuals and the prioritisation of the group over self. Concluding that the best way to maintain equality and prevent poverty, is to distribute communal wealth, Collectivists believe that collectivisation is the only true way to ensure equality and welfare. Corporatism and large state control ensure strong governance and a firm hand, with little time given to those who were previously considered "one of the elite". Collectivist nations believe in having no private authority figures and control private enterprise strictly. Collectivist nations nearly always develop into welfare states."
@@ -30,7 +30,7 @@
 
 ##############################################
 
- social_liberalism:0 "Social Liberalism"
+ social_liberalism:0 "Liberalism"
  social_liberalism_noun:0 "Liberalism"
  social_liberalism_desc:0 "Democratic Regime"
 
@@ -45,7 +45,7 @@
 
 #######################################
 
- social_conservatism:0 "Social Conservatism"
+ social_conservatism:0 "Conservatism"
  social_conservatism_noun:0 "Social Conservatism"
  social_conservatism_desc:0 "Democratic Regime"
 
@@ -60,8 +60,8 @@
 
  ###################################
 
- autocracy:0 "Reactionism"
- autocracy_noun:0 "Reactionary"
+ autocracy:0 "Autocratic"
+ autocracy_noun:0 "Autocracy"
  autocracy_desc:0 "Authoritarian Regime"
 
  absolute_monarchist:0 "Absolute Monarchy"
@@ -75,8 +75,8 @@
 
  #######################################
 
- integrism:0 "Integralism"
- integrism_noun:0 "Integralist"
+ integrism:0 "National Populist"
+ integrism_noun:0 "National Populism"
  integrism_desc:0 "Nationalist Regime"
 
  resurrectionism:0 "Resurrectionism"
@@ -93,7 +93,7 @@
 ################### ASIA #######################
 
  #all very islamic/religious
- AFG_autocracy_party:0 "House of Barakzai"    
+ AFG_autocracy_party:0 "House of Barakzai"
  AFG_integrism_party:0 "Saqqawists"
  AFG_social_conservatism_party:0 "Hizb Altadamun"
  AFG_totalist_party:0 "Khalq"
@@ -101,7 +101,7 @@
  AFG_social_liberalism:0 "Jamat e-Islami"
 
  #no chance of socialism/totalism/integrism
- BHU_autocracy_party:0 "Wangchuk Dynasty"   
+ BHU_autocracy_party:0 "Wangchuk Dynasty"
  BHU_social_conservatism_party:0 "Druk Phuensum Tshogpa"
  BHU_social_liberalism_party:0 "Pipulsa Demokryatika Parti"
 
@@ -126,7 +126,7 @@
  MON_totalist_party:0 "Mongol Ardyn Khuvsgalt Nam"
  MON_socialist_party:0 "Mongol Ardiin Nam"
  MON_social_liberalism:0 "Irgenii Zorig"    #market liberal but still social conservative
- 
+
  #totalist parties in raj countries want military alliance with other totalist states in raj
  RAJ_autocracy_party:0 "East India Shareholders"   #pro colony
  RAJ_integrism_party:0 "All-India Hindu Assembly"
@@ -147,7 +147,7 @@
  PAK_totalist_party:0 "Totalist Party of Pakistan"
  PAK_totalist_party:1 "Pakistan Socialist Party"    #pro liberation. Wants union with India. Unpopular
  PAK_socialist_party:0 "Ganatntri Dal"
- PAK_social_liberalism_party:0 "Pakstan Pyplz Party" 
+ PAK_social_liberalism_party:0 "Pakstan Pyplz Party"
  BAN_autocracy_party:0 "Praja Party"    #pro colony
  BAN_integrism_party:0 "Khilafat Movement"
  BAN_social_conservatism_party:0 "Bengal Provincial Muslim League"
@@ -175,7 +175,7 @@
  SIK_autocracy_party:0 "Kuomintang"   #pro china
  SIK_autocracy_party:1 "Xinjiang Clique"
  SIK_autocracy_party:2 "KMT Exiles"    #in case of radical KMT leadership
- SIK_integrism_party:0 "Pan-Turkestan Generals"   
+ SIK_integrism_party:0 "Pan-Turkestan Generals"
  SIK_social_conservatism_party:0 "Kuomintang"   #pro china
  SIK_totalist_party:0 "Sheng Radicals"
  SIK_socialist_party:0 "Sheng Moderates"
@@ -243,10 +243,10 @@
  LAO_totalist_party:0 "Pathet Lao - Totalists"
  LAO_socialist_party:0 "Pathet Lao - Socialists"
  VIN_autocracy_party:0 "Nguyen Dynasty"
- VIN_integrism_party:0 "Vietnamese Restoration Society"  
+ VIN_integrism_party:0 "Vietnamese Restoration Society"
  VIN_social_conservatism_party:0 "Viet Minh - Conservatives"
  VIN_social_conservatism_party:0 "Can Lao - Conservatives"    #after purge
- VIN_social_liberalism_party:0 "Viet Minh - Liberals" 
+ VIN_social_liberalism_party:0 "Viet Minh - Liberals"
  VIN_social_liberalism_party:0 "Can Lao - Liberals"   #after purge
  VIN_totalist_party:0 "Viet Minh - Totalists"
  VIN_socialist_party:0 "Viet Minh - Socialists"
@@ -259,7 +259,7 @@
  CAM_totalists_party:0 "Totalist Party of Kampuchea"
  CAM_totalists_party:1 "Khmer Minh"   #Khmer Rouge. only Vietnamese puppet
  CAM_socialist_party:0 "People's Party"
- 
+
  #no chance of integrism
  NEP_autocracy_party:0 "Rana Dynasty"
  NEP_totalist_party:0 "Nepal Totalist Party"
@@ -293,7 +293,7 @@
  SIA_autocracy_party:0 "Khana Ratsadon"     #origninal monarchy
  SIA_autocracy_party:1 "Boworadet Loyalists"    #civil war monarchy
  SIA_integrism_party:0 "Seri Manangkhasila"
- SIA_integrism_party:1 "Navy High Command"    #civil war integrism 
+ SIA_integrism_party:1 "Navy High Command"    #civil war integrism
  SIA_social_conservatism_party:0 "Pridi's People Party"
  SIA_totalist_party:0 "Peasant Revolutionary Coalition"
  SIA_socialist_party:0 "Student Socialist Unions"   #pre power
@@ -321,7 +321,7 @@
  INS_autocracy_party:1 "Bintang dan Bulan"    #for liberated
  INS_integrism_party:0 "Perjuangan Baru"
  INS_social_conservatism_party:0 "Partai Pembangunan"
- INS_totalist_party:0 "Partai Totalis Indonesia" 
+ INS_totalist_party:0 "Partai Totalis Indonesia"
  INS_socialist_party:0 "Pancasila Coalitions"
  INS_social_liberalism_party:0 "Pancasilan Breakaways"    #no Indonesian liberals
 
@@ -795,18 +795,18 @@
  ISR_democratic_party:0 "Mapai"
  ISR_fascism_party:0 "Helpam"
  ISR_neutrality_party:0 "Central Council"
- VIN_fascism_party:0 "Vietnamese Restoration League" #or Reformation Society   
+ VIN_fascism_party:0 "Vietnamese Restoration League" #or Reformation Society
  VIN_democratic_party:0 "Can Lao Party" #formed in early 50s
  VIN_communism_party:0 "Communist Party of Vietnam" #Viet Minh was more important in early years
  VIN_neutrality_party:0 "Viêt Nam Quoc Dân Đang"
  CAM_fascism_party:0 "Khmerite Party"
- CAM_democratic_party:0 "Democratic Party" #formed in 1946 
+ CAM_democratic_party:0 "Democratic Party" #formed in 1946
  CAM_communism_party:0 "Communist Party of Kampuchea" # aka Khmer Communist Party or a different party Krom Pracheachon aka Krom
  CAM_neutrality_party:0 "Sangkum Reastr Niyum" # or just Sangkum 1955, democratic but right leaning and anti communist
  MAL_fascism_party:0 "Panoceanic Unionists"
  MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
  MAL_communism_party:0 "Malayan Communist Party" #or MCP
- MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM 
+ MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM
  MNT_fascism_party:0 "Greens"
  MNT_democratic_party:0 "Democracy League"
  MNT_communism_party:0 "Communist Party of Montenegro" #or KPCG
@@ -828,7 +828,7 @@
  AZR_communism_party:0 "Communist Party of Azerbaijan"
  AZR_neutrality_party:0 "Ittihad"
  ARM_fascism_party:0 "Armenian Legion"
- ARM_democratic_party:0 "Armenian Revolutionary Federation" #or ARF 
+ ARM_democratic_party:0 "Armenian Revolutionary Federation" #or ARF
  ARM_communism_party:0 "Communist Party of Armenia"
  ARM_neutrality_party:0 "Central Authority"
  BLR_fascism_party:0 "Belarusian Central Council"
