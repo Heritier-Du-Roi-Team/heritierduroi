@@ -51,10 +51,12 @@
  STATE_833:0 "Slavonia"
  STATE_834:0 "Székelyföld"
  STATE_835:0 "Olt"
- STATE_836:0 "Sozh"
- STATE_837:0 "Daugava"
- STATE_838:0 "Novomoskovsk"
- STATE_839:0 "Vitebsk"
+ STATE_836:0 "Southern Dobroja"
+ STATE_837:0 "Slovenian March"
+ STATE_838:0 "Sozh"
+ STATE_839:0 "Daugava"
+ STATE_840:0 "Novomoskovsk"
+ STATE_841:0 "Vitebsk"
 
 
 
