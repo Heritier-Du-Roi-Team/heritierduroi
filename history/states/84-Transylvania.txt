@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		693 3665 3694 6711 6714 9619 11622
+		693 3694 6711 6714 11622
 	}
 	manpower=803544
 	state_category=town
