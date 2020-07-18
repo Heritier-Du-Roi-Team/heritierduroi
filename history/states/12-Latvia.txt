@@ -6,16 +6,16 @@ state={
 	resources={
 		steel=1 # was: 2
 	}
-	
+
 	state_category = city
-	
+
 	history={
-		owner = RUS				#kept by RUS in civil war
+		owner = LAT				#kept by RUS in civil war
 		victory_points = {
-			9340 5 
+			9340 5
 		}
 		victory_points = {
-			310 1 
+			310 1
 		}
 		buildings = {
 			infrastructure = 5
@@ -34,6 +34,6 @@ state={
 	}
 
 	provinces={
-		222 310 319 341 3298 3388 6459 7482 9240 9275 9317 9340 9501 10323 10493 11222 11302  
+		222 310 319 341 3298 3388 6459 7482 9240 9275 9317 9340 9501 10323 10493 11222 11302
 	}
 }

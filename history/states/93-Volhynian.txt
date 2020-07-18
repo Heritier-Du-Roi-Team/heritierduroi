@@ -5,9 +5,10 @@ state={
 
 	history={
 		victory_points = {
-			6557 1 
+			6557 1
 		}
-		owner = RUS
+		owner = POL
+		add_core_of = POL
 		buildings = {
 			infrastructure = 5
 
@@ -19,7 +20,7 @@ state={
 	}
 
 	provinces={
-		438 513 572 3483 3562 6557 9454 11427 491 9558 422 
+		438 513 572 3483 3562 6557 9454 11427 491 9558 422
 	}
 	manpower=1985600
 	buildings_max_level_factor=1.000
