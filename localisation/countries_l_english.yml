@@ -2,6 +2,199 @@
 
 ### Africa ###
 
+ ALG:0 "Algeria"
+ ALG_DEF:0 "Algeria"
+ ALG_ADJ:0 "Algerian"
+
+ ANG:0 "Angola"
+ ANG_DEF:0 "Angola"
+ ANG_ADJ:0 "Angolan"
+
+ BOT:0 "Botswana"
+ BOT_DEF:0 "Botswana"
+ BOT_ADJ:0 "Botswanan"
+
+ BRD:0 "Burundi"
+ BRD_DEF:0 "Burundi"
+ BRD_ADJ:0 "Burundian"
+
+ CAR:0 "Central African Republic"
+ CAR_DEF:0 "the Central African Republic"
+ CAR_ADJ:0 "Central African"
+
+ CHA:0 "Chad"
+ CHA_DEF:0 "Chad"
+ CHA_ADJ:0 "Chad"
+
+ CMR:0 "Cameroon"
+ CMR_DEF:0 "Cameroon"
+ CMR_ADJ:0 "Cameroon"
+
+ COG:0 "Congo"
+ COG_DEF:0 "Congo"
+ COG_ADJ:0 "Congolese"
+
+ DAH:0 "Benin"
+ DAH_DEF:0 "Benin"
+ DAH_ADJ:0 "Beninese"
+
+ DJI:0 "Djibouti"
+ DJI_DEF:0 "Djibouti"
+ DJI_ADJ:0 "Djibouti"
+
+ EGY:0 "Egypt"
+ EGY_DEF:0 "Egypt"
+ EGY_ADJ:0 "Egyptian"
+
+ ETH:0 "Ethiopia"
+ ETH_DEF:0 "Ethiopia"
+ ETH_ADJ:0 "Ethiopian"
+
+ GAB:0 "Gabon"
+ GAB_DEF:0 "Gabon"
+ GAB_ADJ:0 "Gabonese"
+
+ GAM:0 "Gambia"
+ GAM_DEF:0 "The Gambia"
+ GAM_ADJ:0 "Gambian"
+
+ GHA:0 "Ghana"
+ GHA_DEF:0 "Ghana"
+ GHA_ADJ:0 "Ghanian"
+
+ GNA:0 "Guinea"
+ GNA_DEF:0 "Guinea"
+ GNA_ADJ:0 "Guinean"
+
+ GNB:0 "Guinea-Bissau"
+ GNB_DEF:0 "Guinea-Bissau"
+ GNB_ADJ:0 "Bissau-Guinean"
+
+ IVO:0 "Côte d'Ivoire"
+ IVO_DEF:0 "Côte d'Ivoire"
+ IVO_ADJ:0 "Ivorian"
+
+ KEN:0 "Kenya"
+ KEN_DEF:0 "Kenya"
+ KEN_ADJ:0 "Kenyan"
+
+ LBA:0 "Libya"
+ LBA_DEF:0 "Libya"
+ LBA_ADJ:0 "Libyan"
+
+ LIB:0 "Liberia"
+ LIB_DEF:0 "Liberia"
+ LIB_ADJ:0 "Liberian"
+
+ MAD:0 "Madagascar"
+ MAD_DEF:0 "Madagascar"
+ MAD_ADJ:0 "Malagasy"
+
+ MLD:0 "Maldives"
+ MLD_DEF:0 "Maldives"
+ MLD_ADJ:0 "Maldivian"
+
+ MLI:0 "Mali"
+ MLI_DEF:0 "Mali"
+ MLI_ADJ:0 "Malian"
+
+ MLW:0 "Malawi"
+ MLW_DEF:0 "Malawi"
+ MLW_ADJ:0 "Malawian"
+
+ MOR:0 "Morocco"
+ MOR_DEF:0 "Morocco"
+ MOR_ADJ:0 "Moroccan"
+
+ MRT:0 "Mauritania"
+ MRT_DEF:0 "Mauritania"
+ MRT_ADJ:0 "Mauritanian"
+
+ MZB:0 "Mozambique"
+ MZB_DEF:0 "Mozambique"
+ MZB_ADJ:0 "Mozambican"
+
+ NGA:0 "Nigeria"
+ NGA_DEF:0 "Nigeria"
+ NGA_ADJ:0 "Nigerian"
+
+ NGR:0 "Niger"
+ NGR_DEF:0 "Niger"
+ NGR_ADJ:0 "Nigerien"
+
+ NMB:0 "Namibia"
+ NMB_DEF:0 "Namibia"
+ NMB_ADJ:0 "Namibian"
+
+ RCG:0 "Congo"
+ RCG_DEF:0 "the Congo"
+ RCG_ADJ:0 "Congolese"
+
+ RWA:0 "Rwanda"
+ RWA_DEF:0 "Rwanda"
+ RWA_ADJ:0 "Rwandan"
+
+ SAF:0 "South Africa"
+ SAF_DEF:0 "South Africa"
+ SAF_ADJ:0 "South African"
+
+ SEN:0 "Senegal"
+ SEN_DEF:0 "Senegal"
+ SEN_ADJ:0 "Senegalese"
+
+ SIE:0 "Sierra Leone"
+ SIE_DEF:0 "Sierra Leone"
+ SIE_ADJ:0 "Sierra Leonean"
+
+ SOM:0 "Somalia"
+ SOM_DEF:0 "Somalia"
+ SOM_ADJ:0 "Somalian"
+
+ SUD:0 "Sudan"
+ SUD_DEF:0 "Sudan"
+ SUD_ADJ:0 "Sudanese"
+
+ TOG:0 "Togo"
+ TOG_DEF:0 "Togo"
+ TOG_ADJ:0 "Togolese"
+
+ TUN:0 "Tunisia"
+ TUN_DEF:0 "Tunisia"
+ TUN_ADJ:0 "Tunisian"
+
+ TZN:0 "Tanzania"
+ TZN_DEF:0 "Tanzania"
+ TZN_ADJ:0 "Tanzanian"
+
+ UGA:0 "Uganda"
+ UGA_DEF:0 "Uganda"
+ UGA_ADJ:0 "Ugandan"
+
+ VOL:0 "Upper Volta"
+ VOL_DEF:0 "Upper Volta"
+ VOL_ADJ:0 "Upper Voltan"
+
+ WES:0 "Western Sahara"
+ WES_DEF:0 "Western Sahara"
+ WES_ADJ:0 "Sahrawian"
+
+ ZAM:0 "Zambia"
+ ZAM_DEF:0 "Zambia"
+ ZAM_ADJ:0 "Zambian"
+
+ ZIM_national_populism:0 "Rhodesia"
+ ZIM_national_populism_DEF:0 "Rhodesia"
+ ZIM_national_populism_ADJ:0 "Rhodesian"
+ ZIM_absolute_authoritarian:0 "Rhodesia"
+ ZIM_absolute_authoritarian_DEF:0 "Rhodesia"
+ ZIM_absolute_authoritarian_ADJ:0 "Rhodesian"
+ ZIM_authoritarian_democracy:0 "Rhodesia"
+ ZIM_authoritarian_democracy_DEF:0 "Rhodesia"
+ ZIM_authoritarian_democracy_ADJ:0 "Rhodesian"
+ ZIM:0 "Zimbabwe"
+ ZIM_DEF:0 "Zimbabwe"
+ ZIM_ADJ:0 "Zimbabwean"
+
 ### Asia ###
 
 ### Europe ###
