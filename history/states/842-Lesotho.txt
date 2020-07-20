@@ -1,7 +1,7 @@
 state={
-	id=841
-	name="STATE_841" # Natal
-	manpower = 239100
+	id=842
+	name="STATE_842" # Natal
+	manpower = 702300
 
 	state_category = rural
 
@@ -9,12 +9,12 @@ state={
 	history={
 		owner = ENG
 		buildings = {
-			infrastructure = 3
+			infrastructure = 5
 		}
 		add_core_of = SAF
 	}
 
 	provinces={
-		7900
+		4556
 	}
 }

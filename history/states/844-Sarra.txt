@@ -1,9 +1,9 @@
 state = {
-	id = 843
-	name = "STATE_843"
+	id = 844
+	name = "STATE_844"
 
 	history={
-		owner = EGY
+		owner = FRA
 		buildings = {
 			infrastructure = 0
 		}
@@ -13,8 +13,8 @@ state = {
 	impassable = yes
 
 	provinces = {
-		1057 1060 1140 4191 10104 10785 11951 13296 13297 13298 13299 13300
+		13294 13295
 	}
-	manpower = 1053
+	manpower = 851
 	state_category = wasteland
 }
