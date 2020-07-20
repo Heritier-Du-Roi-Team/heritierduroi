@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		587 3444 3547 9522 11470 11494 
+		587 3444 3547 9522 11470 11494 3488
 	}
 	manpower=3144743
 	buildings_max_level_factor=1.000
