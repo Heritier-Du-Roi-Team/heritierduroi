@@ -19,7 +19,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNISM_6"
 		}
 
-		color = { 230 32 18 }
+		color = { 110 10 10 }
 
 		rules = {
 			can_force_government = no
@@ -54,7 +54,7 @@ ideologies = {
 			"FACTION_NAME_RADICAL_SOCIALISM_6"
 		}
 
-		color = { 200 100 100 }
+		color = { 230 32 18 }
 
 		rules = {
 			can_force_government = no
@@ -90,7 +90,7 @@ ideologies = {
 			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
 		}
 
-		color = { 200 100 150 }
+		color = { 160 70 130 }
 
 		rules = {
 			can_force_government = no

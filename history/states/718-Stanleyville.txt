@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = BEL
 		buildings = {
 			infrastructure = 2
 
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		191 1817 4201 4515 4941 7161 12907 
+		191 1817 4201 4515 4941 7161 12907 13248
 	}
 	manpower=2366783
 	buildings_max_level_factor=1.000

@@ -1,0 +1,20 @@
+state = {
+	id = 843
+	name = "STATE_843"
+
+	history={
+		owner = EGY
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBY
+	}
+
+	impassable = yes
+
+	provinces = {
+		1057 1060 1140 4191 10104 10785 11951 13296 13297 13298 13299 13300
+	}
+	manpower = 1053
+	state_category = wasteland
+}

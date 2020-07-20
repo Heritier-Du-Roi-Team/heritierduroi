@@ -55,6 +55,10 @@
  STATE_837:0 "Daugava"
  STATE_838:0 "Novomoskovsk"
  STATE_839:0 "Vitebsk"
+ STATE_840:0 "Lesotho"
+ STATE_841:0 "Eswatini"
+ STATE_842:0 "Sarra"
+ STATE_843:0 "Cufra"
 
 
 
@@ -319,8 +323,8 @@
  STATE_265:0 "Mikhaylovka"
  STATE_266:0 "Tehran"
  STATE_267:0 "Kabul"
- STATE_268:0 "French Somaliland"
- STATE_269:0 "British Somaliland"
+ STATE_268:0 "Djibouti"
+ STATE_269:0 "Somaliland"
  STATE_270:0 "Pitcairn Island"
  STATE_271:0 "Ethiopia"
  STATE_272:0 "Senegal"
@@ -608,7 +612,7 @@
  STATE_556:1 "Mali"
  STATE_557:0 "Mauritania"
  STATE_558:0 "Nigeria"
- STATE_559:0 "Somaliland"
+ STATE_559:0 "Somalia"
  STATE_560:0 "Nikolayevsk"
  STATE_561:0 "Amur"
  STATE_562:0 "Okhotsk"
