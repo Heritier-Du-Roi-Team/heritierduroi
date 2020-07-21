@@ -47,20 +47,20 @@
 
   # AuthDem #
 
-  authoritarian_democracy:0 "Authoritarian Democracy"
-  authoritarian_democracy_desc:0 "Authoritarian Democratic"
+  authoritarian_democracy:0 "Auth. Democracy"
+  authoritarian_democracy_desc:0 "Auth. Democratic"
   authoritarian_democracy_noun:0 "Authoritarian Regime"
 
-  authoritarian_democracy_type:0 "Authoritarian Democracy"
+  authoritarian_democracy_type:0 "Auth. Democracy"
   authoritarian_democracy_type_desc:0 ""
 
   # AbsAuth #
 
-  absolute_authoritarianism:0 "Absolute Authoritarian"
-  absolute_authoritarianism_desc:0 "Absolute Authoritarian"
+  absolute_authoritarianism:0 "Absolute Auth."
+  absolute_authoritarianism_desc:0 "Absolute Auth."
   absolute_authoritarianism_noun:0 "Authoritarian Regime"
 
-  absolute_authoritarianism_type:0 "Absolute Authoritarian"
+  absolute_authoritarianism_type:0 "Absolute Auth."
   absolute_authoritarianism_type_desc:0 ""
 
   # NatPop#

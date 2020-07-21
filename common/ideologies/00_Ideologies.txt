@@ -90,7 +90,7 @@ ideologies = {
 			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
 		}
 
-		color = { 160 70 130 }
+		color = { 210 100 140 }
 
 		rules = {
 			can_force_government = no
