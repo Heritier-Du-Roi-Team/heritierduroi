@@ -37,6 +37,25 @@
    #AUS_integrism_party:0 "Heimwehr"
   ### North America ###
 
+  # United States
+
+ USA_communism_party:0 "ACP"
+ USA_communism_party_long:0 "American Communist Party"
+ USA_radical_socialism_party:0 "CPP"
+ USA_radical_socialism_party_long:0 "Christian People's Party"
+ USA_social_democracy_party:0 "AFP"
+ USA_social_democracy_party_long:0 "America First Party"
+ USA_liberalism_party:0 "GOP/RP"
+ USA_liberalism_party_long:0 "Grand Old Party/Republican Party"
+ USA_conservatism_party:0 "DP"
+ USA_conservatism_party_long:0 "Democratic Party"
+ USA_authoritarian_democracy_party:0 "SRDP"
+ USA_authoritarian_democracy_party_long:0 "State's Rights Democratic Party"
+ USA_absolute_authoritarianism_party:0 "TA"
+ USA_absolute_authoritarianism_party_long:0 "Technocratic Alliance"
+ USA_national_populism_party:0 "ANA"
+ USA_national_populism_party_long:0 "American Nationalist Alliance"
+
   ### Oceania ###
 
   ### South America ###
