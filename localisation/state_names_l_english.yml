@@ -61,6 +61,9 @@
  STATE_843:0 "Eswatini"
  STATE_844:0 "Sarra"
  STATE_845:0 "Cufra"
+ STATE_846:0 "Rub al'Khali"
+ STATE_847:0 "Najran"
+ STATE_848:0 "Eastern Arabia"
 
 
 
@@ -733,7 +736,7 @@
  STATE_675:0 "Al Hajara"
  STATE_676:0 "Mosul"
  STATE_677:0 "Aleppo"
- STATE_678:0 "Rub al Khali"
+ STATE_678:0 "Riyadh"
  STATE_679:0 "Hejaz"
  STATE_680:0 "Deir-az-Zur"
  STATE_681:0 "Cape"

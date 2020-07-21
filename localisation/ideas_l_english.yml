@@ -27,7 +27,14 @@
  AUS_Second_Iron_Ring:0 "Second Iron Ring"
  AUS_Second_Iron_Ring_desc:0 "The fledgling Republic became a home to numerous radical factions, including communists, monarchists and nationalists, all of whom the more moderate Social Democrats and Conservatives feared. Thus, they formed a coalition to maintain a majority in the general elections. This coalition has guaranteed some stability, preventing radicals from destroying the fragile system already in place."
 
-
+ USA_stagnant_economy:0 "Stagnant Economy"
+ USA_stagnant_economy_desc:0 ""
+ USA_racial_segregation:0 "Racial Segregation"
+ USA_racial_segregation_desc:0 ""
+ USA_divisive_politics:0 "Divisive Politics"
+ USA_divisive_politics_desc:0 ""
+ USA_land_of_the_free:0 "Land of the Free"
+ USA_land_of_the_free_desc:0 ""
 
 
 

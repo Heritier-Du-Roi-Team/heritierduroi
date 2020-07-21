@@ -127,7 +127,10 @@ set_popularities = {
 }
 
 add_ideas = {
-	#
+	USA_stagnant_economy
+	USA_racial_segregation
+	USA_divisive_politics
+	USA_land_of_the_free
 }
 
 create_country_leader = {

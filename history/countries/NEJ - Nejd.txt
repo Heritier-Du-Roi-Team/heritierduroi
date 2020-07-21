@@ -1,4 +1,4 @@
-capital = 678
+capital = 798
 oob = "NEJ_1936"
 
 set_technology = {

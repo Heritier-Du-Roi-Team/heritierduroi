@@ -4,23 +4,24 @@ state={
 	name="STATE_292"
 
 	history={
-		owner = SAU
+		owner = NEJ
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 
 		}
+		add_core_of = NEJ
 		add_core_of = SAU
 		victory_points = {
-			10923 5 
+			10923 1
 		}
 
 	}
 
 	provinces={
-		1955 4968 5058 7995 10850 10923 12749 13234 13244 13245 
+		1955 4968 5058 7995 10850 10923 12749 13234 13244 13245
 	}
-	manpower=238500
+	manpower=104300
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

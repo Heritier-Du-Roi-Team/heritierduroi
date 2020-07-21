@@ -9,7 +9,7 @@ state={
 	history={
 		owner = RUS
 		victory_points = {
-			7661 10 
+			7661 10
 		}
 		buildings = {
 			infrastructure = 4
@@ -19,12 +19,13 @@ state={
 
 		}
 		add_core_of = GEO
-		add_core_of = RUS
+		add_claim_by = RUS
+		add_core_of = AZR
 
 	}
 
 	provinces={
-		1450 1467 1536 1539 1610 4458 4477 4545 4614 6763 7495 7624 7661 9715 11645 11674 11704 13279 
+		1450 1467 1536 1539 1610 4458 4477 4545 4614 6763 7495 7624 7661 9715 11645 11674 11704 13279
 	}
 	manpower=2881049
 	buildings_max_level_factor=1.000
