@@ -84,7 +84,6 @@ if = {
 		basic_heavy_armor_scheme = 1
 		mtg_transport = 1
 	}
-	add_ideas = MTG_naval_treaty_adherent
 }
 if = {
 	limit = {
@@ -106,12 +105,12 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	absolute_authoritarianism = 51
-	conservatism = 16
-	liberalism = 13
-	national_populism = 13
-	communism = 7
-	radical_socialism = 4
+	absolute_authoritarianism = 60
+	conservatism = 13
+	liberalism = 10
+	national_populism = 10
+	communism = 4
+	radical_socialism = 3
 }
 if = {
 	limit = {
@@ -150,7 +149,7 @@ create_country_leader = {
 	desc = "POLITICS_CHARLES_MAURRAS_DESC"
 	picture = "Portrait_France_Charles_Maurras.tga"
 	expire = "1965.1.1"
-	ideology = national_populism
+	ideology = national_populism_type
 	traits = {
 		#
 	}
