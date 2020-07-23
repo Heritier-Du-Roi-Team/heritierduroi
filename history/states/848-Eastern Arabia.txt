@@ -5,7 +5,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = SAU
+		owner = NEJ
 		victory_points = {
 			12702 3
 		}

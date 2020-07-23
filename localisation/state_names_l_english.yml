@@ -64,6 +64,8 @@
  STATE_846:0 "Rub al'Khali"
  STATE_847:0 "Najran"
  STATE_848:0 "Eastern Arabia"
+ STATE_849:0 "Madinah"
+ STATE_850:0 "Makkah"
 
 
 
@@ -737,7 +739,7 @@
  STATE_676:0 "Mosul"
  STATE_677:0 "Aleppo"
  STATE_678:0 "Riyadh"
- STATE_679:0 "Hejaz"
+ STATE_679:0 "Tabuk"
  STATE_680:0 "Deir-az-Zur"
  STATE_681:0 "Cape"
  STATE_682:0 "Northern Ontario"

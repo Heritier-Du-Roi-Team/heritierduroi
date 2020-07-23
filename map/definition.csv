@@ -13308,3 +13308,6 @@
 13307;4;212;20;land;false;desert;7
 13308;232;230;248;land;false;desert;7
 13309;24;101;169;land;false;desert;7
+13310;240;255;0;land;true;mountain;7
+13311;192;237;190;land;false;mountain;7
+13312;26;26;75;land;true;moutain;7

@@ -11,9 +11,10 @@ state={
 
 
 	history={
-		add_core_of = NEJ
-		add_core_of = SAU
-		owner = SAU
+		add_core_of = UAE
+		add_claim_by = NEJ
+		add_claim_by = SAU
+		owner = ENG
 		victory_points = {
 			7960 1
 		}
