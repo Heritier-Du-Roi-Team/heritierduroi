@@ -94,6 +94,11 @@ if = {
 	}
 }
 
+create_faction = "Alliance Continentale"
+add_to_faction = FRA
+add_to_faction = RHI
+add_to_faction = MOR
+add_to_faction = TUN
 
 set_convoys = 300
 

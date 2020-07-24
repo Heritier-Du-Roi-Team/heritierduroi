@@ -54,13 +54,13 @@
   authoritarian_democracy_type:0 "Auth. Democracy"
   authoritarian_democracy_type_desc:0 ""
 
-  # AbsAuth #
+  # PatAut #
 
-  absolute_authoritarianism:0 "Absolute Auth."
-  absolute_authoritarianism_desc:0 "Absolute Auth."
+  absolute_authoritarianism:0 "Paternal Autocratic"
+  absolute_authoritarianism_desc:0 "Paternal Autocracy"
   absolute_authoritarianism_noun:0 "Authoritarian Regime"
 
-  absolute_authoritarianism_type:0 "Absolute Auth."
+  absolute_authoritarianism_type:0 "Paternal Autocratic"
   absolute_authoritarianism_type_desc:0 ""
 
   # NatPop#
