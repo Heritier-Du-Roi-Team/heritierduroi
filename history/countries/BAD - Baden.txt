@@ -13,18 +13,13 @@ set_stability = 0.75
 set_war_support = 0.80
 
 set_politics = {
-	ruling_party = authoritarian_democracy	
+	ruling_party = integrism
 	last_election = "1931.2.6"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-communism = 1
-radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+  integrism = 84
+  autocracy = 15
+  social_conservatism = 1
 }

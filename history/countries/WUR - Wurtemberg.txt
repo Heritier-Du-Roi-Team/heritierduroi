@@ -117,22 +117,19 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = authoritarian_democracy	
-	last_election = "1931.2.6"
+	ruling_party = social_conservatism
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
+
 }
 set_popularities = {
-communism = 1
-radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+	social_conservatism = 45
+	social_liberalism = 19
+	autocracy = 10
+	integrism = 11
+	totalist = 15
 }
-
 
 add_ideas = {
 	#
