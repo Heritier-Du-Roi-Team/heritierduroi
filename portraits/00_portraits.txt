@@ -243,7 +243,6 @@ continent = {
 	}
 
 }
-}
 
 continent = {
 	name = africa
