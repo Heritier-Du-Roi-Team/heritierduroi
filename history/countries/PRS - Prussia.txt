@@ -19,12 +19,12 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 1
-radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+communism = 0
+radical_socialism = 0
+social_democracy = 0
+liberalism = 0
+conservatism = 7
+authoritarian_democracy	= 78
+absolute_authoritarianism =	15
+national_populism = 0
 }

@@ -59,6 +59,24 @@
  ENG_absolute_authoritarianism_party_long:0 ""
  ENG_national_populism_party:0 "BUP"
  ENG_national_populism_party_long:0 "British Union of Fascists"
+ 
+# Prussia 
+ PRS_communism_party:0 "KPD-P"
+ PRS_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Preußen"
+ PRS_radical_socialism_party:0 "USPD-P"
+ PRS_radical_socialism_party_long:0 "Unabhänige Sozialdemokratische Partei Deutschlands - Abteilung Preußen"
+ PRS_social_democracy_party:0 "SPP"
+ PRS_social_democracy_party_long:0 "Sozialdemokratische Partei Preußens"
+ PRS_liberalism_party:0 "FPP"
+ PRS_liberalism_party_long:0 "Freisinnige Partei Preußens"
+ PRS_conservatism_party:0 "Zentrum"
+ PRS_conservatism_party_long:0 "Zentrumspartei"
+ PRS_authoritarian_democracy_party:0 "KPP"
+ PRS_authoritarian_democracy_party_long:0 "Konservative Partei Preußens"
+ PRS_absolute_authoritarianism_party:0 "Militärbund"
+ PRS_absolute_authoritarianism_party_long:0 "Preußischer Militärbund"
+ PRS_national_populism_party:0 "AdV"
+ PRS_national_populism_party_long:0 "Alldeutscher Verband"
 
 ### North America ###
 
