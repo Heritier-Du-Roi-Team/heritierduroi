@@ -1,0 +1,20 @@
+state={
+	id=843
+	name="STATE_843" # Natal
+	manpower = 239100
+
+	state_category = rural
+
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		7900
+	}
+}

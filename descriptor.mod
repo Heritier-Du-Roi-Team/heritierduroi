@@ -1,4 +1,4 @@
-name="Heritier Du Roi v2"
+name="Heritier Du Roi - Developer Build"
 tags={
 	"Alternative History"
 }

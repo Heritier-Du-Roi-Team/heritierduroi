@@ -10,7 +10,8 @@ state={
 		victory_points = {
 			488 5
 		}
-		owner = RUS
+		owner = POL
+		add_core_of = POL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -20,6 +21,6 @@ state={
 	}
 
 	provinces={
-		434 458 488 3452 3468 6451 6478 9451 9491 11409 11424 11438 11454 11530
+		434 458 488 3452 3468 6451 6478 9451 11409 11424 11438 11454
 	}
 }

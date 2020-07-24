@@ -1,0 +1,27 @@
+state = {
+	id=840
+	name="STATE_840" # Dnipropertovsk
+	manpower = 895300
+
+	state_category = town
+
+	history={
+		owner = RUS
+		victory_points = {
+			11437 10
+		}
+		victory_points = {
+			11561 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = RUS
+		add_core_of = UKR
+	}
+
+	provinces={
+    453 472 486 9463 9479 11452
+	}
+}

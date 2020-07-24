@@ -12,9 +12,10 @@ state = {
 		}
 		add_core_of = CRO
 		add_claim_by = HUN
+		add_claim_by = SER
 	}
 
 	provinces={
-		6647 11577 13290
+		11577 13290 11580
 	}
 }

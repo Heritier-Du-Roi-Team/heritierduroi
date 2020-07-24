@@ -2,7 +2,7 @@
 state={
 	id=77
 	name="STATE_77"
-	manpower = 6678000
+	manpower = 437131
 	resources={
 		oil=5
 }
@@ -10,7 +10,6 @@ state={
 
 	history={
 		owner = ROM	
-		victory_points = { 11597 1 }
 		victory_points = { 657 3 }
 		buildings = {
 			infrastructure = 6
@@ -20,12 +19,12 @@ state={
 			687 = { naval_base = 1 }
 			dockyard = 1
 		}
-		add_core_of = BUL
+		add_claim_by = BUL
 		add_core_of = WAL
 		add_core_of = ROM
 	}
 
 	provinces={
-		9614 11597 657 9635 3076 687 
+		657 9635 3076 687 
 	}
 }

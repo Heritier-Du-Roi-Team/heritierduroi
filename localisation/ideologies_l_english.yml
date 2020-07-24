@@ -1,0 +1,73 @@
+﻿l_english:
+
+  # Communism #
+
+  communism:0 "Communist"
+  communism_noun:0 "Communism"
+  communism_desc:0 "Communist Regime"
+
+  communism_type:0 "Communist"
+  communism_type_desc:0 ""
+
+  # Radical Socialism #
+
+  radical_socialism:0 "Radical Socialist"
+  radical_socialism_noun:0 "Radical Socialism"
+  radical_socialism_desc:0 "Socialist Regime"
+
+  radical_socialism_type:0 "Radical Socialist"
+  radical_socialism_type_desc:0 ""
+
+  # Social Democracy #
+
+  social_democracy:0 "Social Democracy"
+  social_democracy_noun:0 "Social Democratic"
+  social_democracy_desc:0 "Democratic Regime"
+
+  social_democracy_type:0 "Social Democracy"
+  social_democracy_type_desc:0 ""
+
+  # Liberalism #
+
+  liberalism:0 "Liberal"
+  liberalism_noun:0 "Liberalism"
+  liberalism_desc:0 "Democratic Regime"
+
+  liberalism_type:0 "Liberal"
+  liberalism_type_desc:0 ""
+
+  # Conservatism #
+
+  conservatism:0 "Conservative"
+  conservatism_noun:0 "Conservatism"
+  conservatism_desc:0 "Democratic Regime"
+
+  conservatism_type:0 "Conservative"
+  conservatism_type_desc:0 ""
+
+  # AuthDem #
+
+  authoritarian_democracy:0 "Auth. Democracy"
+  authoritarian_democracy_desc:0 "Auth. Democratic"
+  authoritarian_democracy_noun:0 "Authoritarian Regime"
+
+  authoritarian_democracy_type:0 "Auth. Democracy"
+  authoritarian_democracy_type_desc:0 ""
+
+  # PatAut #
+
+  absolute_authoritarianism:0 "Paternal Autocratic"
+  absolute_authoritarianism_desc:0 "Paternal Autocracy"
+  absolute_authoritarianism_noun:0 "Authoritarian Regime"
+
+  absolute_authoritarianism_type:0 "Paternal Autocratic"
+  absolute_authoritarianism_type_desc:0 ""
+
+  # NatPop#
+
+  national_populism:0 "National Populist"
+  national_populism_desc:0 "National Populism"
+  national_populism_noun:0 "Nationalist Regime"
+
+  national_populism_type:0 "National Populist"
+  national_populism_type_desc:0 ""

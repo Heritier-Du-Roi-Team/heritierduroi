@@ -6,7 +6,7 @@ state={
 	state_category = small_island
 
 	history={
-		owner = FRA
+		owner = ENG
 		add_core_of = MAD
 		buildings = {
 			infrastructure = 3
@@ -17,6 +17,6 @@ state={
 	}
 
 	provinces={
-		13072 
+		13072
 	}
 }

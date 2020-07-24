@@ -1,0 +1,29 @@
+state={
+	id=850
+	name="STATE_850"
+	manpower = 643200
+
+	state_category = rural
+
+	history={
+		owner = NEJ
+		victory_points = {
+			12883 1
+		}
+		victory_points = {
+			5037 15
+		}
+		buildings = {
+			infrastructure = 3
+			12883 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = NEJ
+		add_core_of = SAU
+	}
+
+	provinces={
+		1923 2090 5037 5006 8073 10786 12883
+	}
+}

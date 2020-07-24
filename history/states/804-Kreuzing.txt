@@ -1,9 +1,9 @@
 
 state={
 	id=804
-	name="STATE_804" 
+	name="STATE_804"
 	manpower = 697605
-	
+
 	state_category = rural
 	resources={
 		oil = 3 # was: 1
@@ -19,6 +19,6 @@ state={
 	}
 
 	provinces={
-		11627 686 3700 6672 11630 9661
+		3700 11630 9661
 	}
 }

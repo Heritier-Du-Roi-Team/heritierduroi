@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			577 1 
+			577 1
 		}
 		owner = ROM
 		buildings = {
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		577 3743 9548 
+		577 9548 11689 6761
 	}
 	manpower=474600
 	buildings_max_level_factor=1.000
