@@ -11,6 +11,21 @@ spriteTypes = {
 	### new tfv nat spirit icons
 
 	spriteType = {
+		name = "GFX_idea_USA_racial_segregation"
+		texturefile = "gfx/interface/ideas/USA_Racial_Segregation.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_USA_divisive_politics"
+		texturefile = "gfx/interface/ideas/USA_Divisive_Politics.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_USA_land_of_the_free"
+		texturefile = "gfx/interface/ideas/USA_Free_Land_Baby.dds"
+	}
+
+	spriteType = {
 		name = "GFX_idea_AUS_Second_Iron_Ring"
 		texturefile = "gfx/interface/ideas/AUS_Iron_Ring.dds"
 	}
