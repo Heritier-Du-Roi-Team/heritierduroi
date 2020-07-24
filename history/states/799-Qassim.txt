@@ -7,19 +7,19 @@ state={
 	}
 
 	history={
-		owner = SAU
+		owner = NEJ
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
 
 		}
+		add_core_of = NEJ
 		add_core_of = SAU
-
 	}
 
 	provinces={
-		5027 5099 8004 10892 12813 13239 13240 13246 13247 
+		5027 5099 8004 10892 12813 13239 13240 13246 13247
 	}
 	manpower=58400
 	buildings_max_level_factor=1.000

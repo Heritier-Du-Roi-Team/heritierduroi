@@ -11,7 +11,6 @@ if = {
 		set_naval_oob = "USA_1936_naval_legacy"
 	}
 }
-}
 ### TECH 1936 ###
 
 set_research_slots = 4
@@ -84,13 +83,12 @@ if = {
 		mtg_transport = 1
 		improved_airplane_launcher = 1
 	}
-	add_ideas = MTG_naval_treaty_adherent
 }
 
 ### POLITICS ####
 
 set_stability = 0.75
-set_war_support = 0
+set_war_support = 0.21
 set_variable = { var = senators_support value = 48 }
 set_variable = { var = senators_total value = 96 }
 set_variable = { var = representatives_support value = 218 }
@@ -103,9 +101,8 @@ USA = {
 	country_event = { id = usa.50 days = 2 }
 	country_event = { id = usa.51 days = 2 }
 
-give_guarantee = PAN
-give_guarantee = VEN
-
+	give_guarantee = PAN
+}
 
 set_convoys = 500
 
@@ -114,41 +111,45 @@ set_autonomy = {
 	autonomous_state =  autonomy_puppet
 }
 
-
 set_politics = {
-	ruling_party = social_liberalism
+	ruling_party = liberalism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	social_liberalism = 34
-	social_conservatism = 30
-	socialist = 12
-	totalist = 6
-	autocracy = 13
-	integrism = 5
+	liberalism = 41
+	conservatism = 39
+	social_democracy = 8
+	authoritarian_democracy = 5
+	communism = 5
+	radical_socialism = 2
 }
 
 add_ideas = {
-	#
+	USA_stagnant_economy
+	USA_racial_segregation
+	USA_divisive_politics
+	USA_land_of_the_free
 }
 
-#1939.1.1 = {			#1939 ignore
-#	set_politics = {
-#		ruling_party = democratic
-#		last_election = "1936.11.3"
-#		election_frequency = 48
-#		elections_allowed = yes
-#	}
-#}
+create_country_leader = {
+	name = "Theodore Roosevelt Jr."
+	desc = "POLITICS_TEDDY_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Teddy_Roosevelt.tga"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
 
 create_country_leader = {
 	name = "Robert M. La Follette Jr."
 	desc = "POLITICS_ROBERT_LA_FOLETTE_JR_DESC"
 	picture = "Portrait_USA_Robert_La_Folette.tga"
 	expire = "1936.11.3"
-	ideology = progressive
+	ideology = liberalism_type
 	traits = {
 		#
 	}
@@ -159,7 +160,7 @@ create_country_leader = {
 	desc = "POLITICS_RICHARD_RUSSELL_DESC"
 	picture = "Portrait_USA_Richard_Russell.tga"
 	expire = "1965.1.1"
-	ideology = traditionalism
+	ideology = conservatism_type
 	traits = {
 		#
 	}
@@ -170,18 +171,18 @@ create_country_leader = {
 	desc = "POLITICS_HUEY_LONG_DESC"
 	picture = "Portrait_USA_Huey_Long.tga"
 	expire = "1965.1.1"
-	ideology = collectivism
+	ideology = social_democracy_type
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Theodore Roosevelt Jr."
-	desc = "POLITICS_TEDDY_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Teddy_Roosevelt.tga"
+	name = "Strom Thurmond"
+	desc = "POLITICS_STROM_THURMOND_DESC"
+	picture = "Portrait_USA_Strom_Thurmond.tga"
 	expire = "1965.1.1"
-	ideology = market_liberals
+	ideology = authoritarian_democracy_type
 	traits = {
 		#
 	}
@@ -192,18 +193,7 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_BYRD_DESC"
 	picture = "Portrait_USA_Harry_Byrd.tga"
 	expire = "1965.1.1"
-	ideology = nationalism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Earl Browder"
-	desc = "POLITICS_EARL_BROWDER_DESC"
-	picture = "Portrait_USA_Earl_Browder.tga"
-	expire = "1965.1.1"
-	ideology = trotskyism
+	ideology = authoritarian_democracy_type
 	traits = {
 		#
 	}
@@ -214,7 +204,18 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_FOSTER_DESC"
 	picture = "Portrait_USA_William_Foster.tga"
 	expire = "1965.1.1"
-	ideology = desolationism
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Earl Browder"
+	desc = "POLITICS_EARL_BROWDER_DESC"
+	picture = "Portrait_USA_Earl_Browder.tga"
+	expire = "1965.1.1"
+	ideology = communism_type
 	traits = {
 		#
 	}
@@ -225,7 +226,7 @@ create_country_leader = {
 	desc = "POLITICS_HOWARD_SCOTT_DESC"
 	picture = "Portrait_USA_Howard_Scott.tga"
 	expire = "1965.1.1"
-	ideology = fabianism
+	ideology = absolute_authoritarianism_type
 	traits = {
 		#
 	}
@@ -236,7 +237,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_PELLEY_DESC"
 	picture = "Portrait_USA_William_Pelley.tga"
 	expire = "1965.1.1"
-	ideology = fascism
+	ideology = radical_socialism_type
 	traits = {
 		#
 	}
@@ -247,7 +248,7 @@ create_country_leader = {
 	desc = "POLITICS_LK_SMITH_DESC"
 	picture = "Portrait_USA_LK_Smith.tga"
 	expire = "1965.1.1"
-	ideology = resurrectionism
+	ideology = national_populism_type
 	traits = {
 		#
 	}

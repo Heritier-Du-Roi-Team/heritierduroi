@@ -6,7 +6,7 @@ state={
 
 	history={
 		add_core_of = BAS
-		owner = FRA
+		owner = ENG
 		buildings = {
 			infrastructure = 4
 			11350 = {
@@ -17,8 +17,8 @@ state={
 			11350 1
 		}
 	}
-	
+
 	provinces={
-		379 11106 11350 13009 
+		379 11106 11350 13009
 	}
 }

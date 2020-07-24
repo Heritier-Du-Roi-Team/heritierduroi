@@ -1,0 +1,26 @@
+state={
+	id=857
+	name="STATE_857"
+	manpower = 3526302
+
+	state_category = rural
+	resources={
+		rubber=2 # was: 3
+	}
+	history={
+		owner = ENG
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			10831 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces={
+		1992 7978 8034 10831 13293 
+	}
+}

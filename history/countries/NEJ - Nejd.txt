@@ -1,4 +1,4 @@
-capital = 678
+capital = 850
 oob = "NEJ_1936"
 
 set_technology = {
@@ -13,13 +13,37 @@ set_stability = 0.93
 set_war_support = 0.48
 
 set_politics = {
-	ruling_party = integrism
+	ruling_party = authoritarian_democracy
 	last_election = "1931.2.6"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-  autocracy = 19
-  social_conservatism = 8
-  integrism = 73
+  authoritarian_democracy = 73
+  national_populism = 12
+  conservatism = 9
+  communism = 4
+  liberalism = 2
+}
+
+create_country_leader = {
+  name = "Abdullah I"
+  desc = "POLITICS_ABDULLAH_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = absolute_authoritarianism_type
+  traits = {
+    #
+  }
+}
+
+create_country_leader = {
+  name = "Abdullah I"
+  desc = "POLITICS_ABDULLAH_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = authoritarian_democracy_type
+  traits = {
+    #
+  }
 }

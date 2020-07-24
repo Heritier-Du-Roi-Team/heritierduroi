@@ -6,7 +6,7 @@ state={
 	history={
 		owner = RUS
 		victory_points = {
-			3653 3 
+			3653 3
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,7 +19,7 @@ state={
 			}
 
 		}
-		add_core_of = RUS
+		add_claim_by = RUS
 		add_core_of = GEO
 		add_claim_by = OTT
 		1939.1.1 = {
@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		654 672 772 3653 3656 3658 11599 11617  
+		654 672 772 3653 3656 3658 11599 11617
 	}
 	manpower=1249413
 	buildings_max_level_factor=1.000

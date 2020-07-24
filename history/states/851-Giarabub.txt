@@ -1,0 +1,21 @@
+state = {
+	id = 851
+	name = "STATE_851"
+
+	history={
+		owner = EGY
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+		add_claim_by = EGY
+	}
+
+	impassable = yes
+
+	provinces = {
+		13313 13314 13315
+	}
+	manpower = 152
+	state_category = wasteland
+}

@@ -1,15 +1,12 @@
 state={
 	id=679
 	name="STATE_679"
-	manpower = 1511000
+	manpower = 431200
 
-	state_category = pastoral
+	state_category = rural
 
 	history={
-		owner = OTT
-		victory_points = {
-			12758 1
-		}
+		owner = NEJ
 		victory_points = {
 			12883 1
 		}
@@ -19,10 +16,11 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = OTT
+		add_core_of = NEJ
+		add_core_of = SAU
 	}
 
 	provinces={
-		1033 1923 2027 2033 2090 2095 4981 5037 7934 8092 10748 10786 10835 12101 12758 12883
+		1033 2027 2095 12101 12455 13310 13311 13312
 	}
 }

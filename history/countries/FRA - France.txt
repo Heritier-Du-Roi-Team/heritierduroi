@@ -84,7 +84,6 @@ if = {
 		basic_heavy_armor_scheme = 1
 		mtg_transport = 1
 	}
-	add_ideas = MTG_naval_treaty_adherent
 }
 if = {
 	limit = {
@@ -100,18 +99,18 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = absolute_authoritarianism
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	autocracy = 64
-	integrism = 2
-	social_conservatism = 7
-	social_liberalism = 9
-	socialist = 13
-	totalist = 5
+	absolute_authoritarianism = 60
+	conservatism = 13
+	liberalism = 10
+	national_populism = 10
+	communism = 4
+	radical_socialism = 3
 }
 if = {
 	limit = {
@@ -125,16 +124,10 @@ if = {
 		autonomous_state = autonomy_puppet
 		freedom_level = 0.35
 	}
-		else = {
-		puppet = RHI
-	}
 	set_autonomy = {
 		target = MOR
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.5
-	}
-	else = {
-		puppet = MOR
 	}
 	set_autonomy = {
 		target = TUN
@@ -143,17 +136,20 @@ if = {
 	}
 	else = {
 		puppet = TUN
+		puppet = MOR
+		puppet - RHI
 	}
 }
 add_ideas = {
-	}
+	#
+}
 
 create_country_leader = {
-	name = "Charles Maurras"				#temporary orleanist until heir is found
+	name = "Charles Maurras"
 	desc = "POLITICS_CHARLES_MAURRAS_DESC"
 	picture = "Portrait_France_Charles_Maurras.tga"
 	expire = "1965.1.1"
-	ideology = absolute_monarchist
+	ideology = national_populism_type
 	traits = {
 		#
 	}
@@ -164,7 +160,73 @@ create_country_leader = {
 	desc = "POLITICS_NAPOLEON_VI_DESC"
 	picture = "Portrait_France_Napoleon_VI.tga"
 	expire = "1965.1.1"
-	ideology = absolute_monarchist
+	ideology = absolute_authoritarianism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Napoleon VI"
+	desc = "POLITICS_NAPOLEON_VI_DESC"
+	picture = "Portrait_France_Napoleon_VI.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Pierre Laval"
+	desc = "POLITICS_PIERRE_LAVAL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Édouard Daladier"
+	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Marcel Cachin"
+	desc = "POLITICS_MARCEL_CACHIN"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Benoît Frachon"
+	desc = "POLITICS_BENOIT_FRACHON_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "André Tardieu"
+	desc = "POLITICS_ANDRE_TARDIEU_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
 	traits = {
 		#
 	}
@@ -201,7 +263,7 @@ create_country_leader = {
 #	expire = "1965.1.1"
 #	ideology = 	stalinism
 #	traits = {
-#		
+#
 #	}
 #}
 #
@@ -212,7 +274,7 @@ create_country_leader = {
 #	expire = "1965.1.1"
 #	ideology = fascism_ideology
 #	traits = {
-#		
+#
 #	}
 #}
 #
@@ -583,7 +645,7 @@ if = {
 		obsolete = yes
 	}
 	create_equipment_variant = {
-		name = "Minerve Class"					
+		name = "Minerve Class"
 		type = ship_hull_submarine_1
 		name_group = FRA_SS_HISTORICAL
 		parent_version = 0
@@ -629,7 +691,7 @@ if = {
 		obsolete = yes
 	}
 	create_equipment_variant = {
-		name = "Le Fantasque Class"				
+		name = "Le Fantasque Class"
 		type = ship_hull_light_1
 		name_group = FRA_DD_HISTORICAL
 		parent_version = 0
@@ -645,7 +707,7 @@ if = {
 		}
 	}
 	create_equipment_variant = {
-		name = "Mogador Class"				
+		name = "Mogador Class"
 		type = ship_hull_light_2
 		name_group = FRA_DD_HISTORICAL
 		parent_version = 0
@@ -696,7 +758,7 @@ if = {
 		}
 	}
 	create_equipment_variant = {
-		name = "La Galissonnière Class"			
+		name = "La Galissonnière Class"
 		type = ship_hull_cruiser_1
 		name_group = FRA_CL_HISTORICAL
 		parent_version = 0
@@ -732,7 +794,7 @@ if = {
 		obsolete = yes
 	}
 	create_equipment_variant = {
-		name = "Algérie Class"				
+		name = "Algérie Class"
 		type = ship_hull_cruiser_1
 		name_group = FRA_CA_HISTORICAL
 		parent_version = 0
@@ -750,7 +812,7 @@ if = {
 	}
 	# Battleships #
 	create_equipment_variant = {
-		name = "Courbet Class"		
+		name = "Courbet Class"
 		type = ship_hull_heavy_1
 		name_group = FRA_BB_HISTORICAL
 		parent_version = 0
@@ -770,7 +832,7 @@ if = {
 		obsolete = yes
 	}
 	create_equipment_variant = {
-		name = "Bretagne Class"				
+		name = "Bretagne Class"
 		type = ship_hull_heavy_1
 		name_group = FRA_BB_HISTORICAL
 		parent_version = 0
@@ -790,7 +852,7 @@ if = {
 	}
 	# Battlecruisers #
 	create_equipment_variant = {
-		name = "Dunkerque Class"		
+		name = "Dunkerque Class"
 		type = ship_hull_heavy_2
 		name_group = FRA_BC_HISTORICAL
 		parent_version = 0
@@ -888,7 +950,7 @@ if = {
 		limit = { has_dlc = "Man the Guns" }
 		# Submarines #
 		create_equipment_variant = {
-			name = "Aurore Class"				
+			name = "Aurore Class"
 			type = ship_hull_submarine_2
 			name_group = FRA_SS_HISTORICAL
 			parent_version = 0

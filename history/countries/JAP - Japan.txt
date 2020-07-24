@@ -227,16 +227,16 @@ if = {
 }
 
 set_politics = {
-	ruling_party = integrism
+	ruling_party = social_conservatism 
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	social_conservatism = 0
+	social_conservatism = 50
 	totalist = 0
 	autocracy = 50
-	integrism = 50
+	integrism = 0
 	socialism = 0
 	social_liberalism = 0
 }
@@ -246,7 +246,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
-	ideology = collectivism
+	ideology = conservatism_type
 	traits = {
 		#
 	}

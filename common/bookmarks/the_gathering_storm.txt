@@ -4,100 +4,85 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "FRA"
 		default = yes
 
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = autocracy
-			available = { has_dlc = "La Resistance" }
-			ideas = {
-				#old guard officer
-				#overextension
-				#innefficient economy
-			}
-			focuses = {
-				#tbd
-			}
-		}
-
-		"USA"={
+		"USA" = {
 			history = "USA_GATHERING_STORM_DESC"
-			ideology = social_liberalism
+			ideology = liberalism
 			ideas = {
-				#racial divisions
-				#welfare state
-				#military-industrial complex
+				USA_land_of_the_free
+				USA_stagnant_economy
+				USA_divisive_politics
 			}
 			focuses = {
-				#tbd
+				#
 			}
 		}
 
-		"ENG"={
+		"ENG" = {
 			history = "ENG_GATHERING_STORM_DESC"
-			ideology = social_conservatism
-			available = { has_dlc = "Man the Guns" }
+			ideology = conservatism
 			ideas = {
-				#fragile coalition
-				#powerful unions
-				#unbowed, unbent, unbroken
+				#
 			}
 			focuses = {
-				#tbd
+				#
 			}
 		}
 
-		"PRS"={
-			history = "PRS_GATHERING_STORM_DESC"
-			ideology = totalist
-			available = { has_dlc = "Waking the Tiger" }
-			ideas = {
-				#home of the revolution
-				#radical thought
-				#never forget (german unity)
-			}
-			focuses = {
-				#tbd
-			}
-		}
-
-		"ITA"={
+		"ITA" = {
 			history = "ITA_GATHERING_STORM_DESC"
-			ideology = integrism
+			ideology = conservatism
 			ideas = {
-				#papal influence
-				#premature unity
-				#lack of motors
+				#
 			}
 			focuses = {
-				#tbd
+				#
 			}
 		}
 
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = socialist
+		"FRA" = {
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = absolute_authoritarianism
 			ideas = {
-				#puppet emperor
-				#brilliant education
-				#public violence
+				#
 			}
 			focuses = {
-				#tbd
+				#
 			}
 		}
 
-		"RUS"={
+		"RUS" = {
 			history = "RUS_GATHERING_STORM_DESC"
-			ideology = autocracy
+			ideology = authoritarian_democracy
 			ideas = {
-				#brutal oppression
-				#totalist mobs
-				#famine
+				#
 			}
 			focuses = {
-				#tbd
+				#
+			}
+		}
+
+		"PRS" = {
+			history = "PRS_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+				#
+			}
+			focuses = {
+				#
+			}
+		}
+
+		"JAP" = {
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = conservatism
+			ideas = {
+				#
+			}
+			focuses = {
+				#
 			}
 		}
 
@@ -115,9 +100,7 @@ bookmarks = {
 
 			}
 			focuses = {
-				POL_the_baltic_alliance
-				POL_draw_closer_to_britain
-				POL_seek_accommodation_with_germany
+
 			}
 		}
 

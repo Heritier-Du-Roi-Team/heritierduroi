@@ -1,20 +1,20 @@
 state = {
-	id = 844
-	name = "STATE_844"
+	id = 855
+	name = "STATE_855"
 
 	history={
-		owner = FRA
+		owner = ITA
 		buildings = {
 			infrastructure = 0
 		}
-		add_core_of = LBY
+		add_core_of = LBA
 	}
 
 	impassable = yes
 
 	provinces = {
-		13294 13295
+		 4962 7985 10884 12082 12866 13258 
 	}
-	manpower = 851
+	manpower = 23521
 	state_category = wasteland
 }

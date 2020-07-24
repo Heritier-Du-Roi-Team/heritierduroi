@@ -1,42 +1,69 @@
 ﻿l_english:
-  l_english:
 
-  ### Africa ###
+### Africa ###
 
-  ### Asia ###
+### Asia ###
 
-  ### Europe ###
+### Europe ###
 
-  # Austria-Bohemia
+ # Austria-Bohemia
+ AUS_communism_party:0 "KPÖ"
+ AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
+ AUS_radical_socialism_party:0 "SDAPÖ"
+ AUS_radical_socialism_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
+ AUS_social_democracy_party:0 "SDAPÖ"
+ AUS_social_democracy_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
+ AUS_liberalism_party:0 "NEB"
+ AUS_liberalism_party_long:0 "Nationalistche Economik Bloc"
+ AUS_conservatism_party:0 "CP"
+ AUS_conservatism_party_long:0 "Christlichsoziale Partei"
+ AUS_authoritarian_democracy_party:0 "VF"
+ AUS_authoritarian_democracy_party_long:0 "Vaterländische Front"
+ AUS_absolute_authoritarianism_party:0 "Habsburg"
+ AUS_absolute_authoritarianism_party_long:0 "Haus Habsburg-Lothringen"
+ AUS_national_populism_party:0 "NSDAP"
+ AUS_national_populism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
 
-   AUS_communism_party:0 "KPÖ"
-   AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
-   AUS_radical_socialism_party:0 "SDAPÖ"
-   AUS_radical_socialism_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
-   AUS_social_democracy_party:0 "SDAPÖ"
-   AUS_social_democracy_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
-   AUS_liberalism_party:0 "NEB"
-   AUS_liberalism_party_long:0 "Nationalistche Economik Bloc"
-   AUS_conservatism_party:0 "CP"
-   AUS_conservatism_party_long:0 "Christlichsoziale Partei"
-   AUS_authoritarian_democracy_party:0 "VF"
-   AUS_authoritarian_democracy_party_long:0 "Vaterländische Front"
-   AUS_absolute_authoritarianism_party:0 "Habsburg"
-   AUS_absolute_authoritarianism_party_long:0 "Haus Habsburg-Lothringen"
-   AUS_national_populism_party:0 "NSDAP"
-   AUS_national_populism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+# France
 
+ FRA_communism_party:0 "PCF"
+ FRA_communism_party_long:0 "Parti Communiste Français"
+ FRA_radical_socialism_party:0 "GCT"
+ FRA_radical_socialism_party_long:0 "Confédération Générale du Travail"
+ FRA_social_democracy_party:0 "PR"
+ FRA_social_democracy_party_long:0 "Parti Radical"
+ FRA_liberalism_party:0 "PR"
+ FRA_liberalism_party_long:0 "Parti Radical"
+ FRA_conservatism_party:0 "CR"
+ FRA_conservatism_party_long:0 "Centre Républicain"
+ FRA_authoritarian_democracy_party:0 "Bonaparte"
+ FRA_authoritarian_democracy_party_long:0 "Maison Bonaparte"
+ FRA_absolute_authoritarianism_party:0 "Bonaparte"
+ FRA_absolute_authoritarianism_party_long:0 "Maison Bonaparte"
+ FRA_national_populism_party:0 "AF"
+ FRA_national_populism_party_long:0 "Action Française"
 
-   # AUS_totalist_party:0 "KPÖ"
-   #AUS_totalist_party_long:0 "Totallistische Partei Österreichs"
-   #AUS_socialist_party:0 "SDAPÖ"
-   #AUS_socialist_party_long:0 "Sozialdemokratische Partei Österreichs"
-   #AUS_social_liberalism_party:0 "Nationalistche Economik Bloc"
-   #AUS_social_conservatism_party:0 "Christlichsoziale Partei"
-   #AUS_autocracy_party:0 "Landbund"
-   #AUS_integrism_party:0 "Heimwehr"
-  ### North America ###
+### North America ###
 
-  ### Oceania ###
+ # United States
 
-  ### South America ###
+ USA_communism_party:0 "ACP"
+ USA_communism_party_long:0 "American Communist Party"
+ USA_radical_socialism_party:0 "CPP"
+ USA_radical_socialism_party_long:0 "Christian People's Party"
+ USA_social_democracy_party:0 "AFP"
+ USA_social_democracy_party_long:0 "America First Party"
+ USA_liberalism_party:0 "GOP/RP"
+ USA_liberalism_party_long:0 "Grand Old Party/Republican Party"
+ USA_conservatism_party:0 "DP"
+ USA_conservatism_party_long:0 "Democratic Party"
+ USA_authoritarian_democracy_party:0 "SRDP"
+ USA_authoritarian_democracy_party_long:0 "State's Rights Democratic Party"
+ USA_absolute_authoritarianism_party:0 "TA"
+ USA_absolute_authoritarianism_party_long:0 "Technocratic Alliance"
+ USA_national_populism_party:0 "ANA"
+ USA_national_populism_party_long:0 "American Nationalist Alliance"
+
+### Oceania ###
+
+### South America ###

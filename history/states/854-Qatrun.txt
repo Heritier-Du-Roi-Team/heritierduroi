@@ -1,0 +1,21 @@
+state = {
+	id = 854
+	name = "STATE_854"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+		add_claim_by = ALG
+	}
+
+	impassable = yes
+
+	provinces = {
+		13317
+	}
+	manpower = 211
+	state_category = wasteland
+}

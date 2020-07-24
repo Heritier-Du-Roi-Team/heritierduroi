@@ -90,7 +90,7 @@ ideologies = {
 			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
 		}
 
-		color = { 160 70 130 }
+		color = { 210 100 140 }
 
 		rules = {
 			can_force_government = no
@@ -221,7 +221,7 @@ ideologies = {
 
 	absolute_authoritarianism = {
 		types = {
-			absolute_authoritarianism = {}
+			absolute_authoritarianism_type = {}
 		}
 
 		dynamic_faction_names = {
@@ -256,7 +256,7 @@ ideologies = {
 
 	national_populism = {
 		types = {
-			national_populism = {}
+			national_populism_type = {}
 		}
 
 		dynamic_faction_names = {
