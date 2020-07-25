@@ -1,0 +1,174 @@
+add_namespace = HDR_Unite
+
+# Germany United - Kingdom
+country_event = {
+	id = HDR_Unite.1
+	title = HDR_Unite.1.t
+	desc = HDR_Unite.1.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.1.a
+		ROOT = {
+			set_cosmetic_tag = GER_Unified_Monarchist
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.5 hours = 6 }
+			add_named_threat = {
+    			threat = 10
+    			name = GER_Unified_Threat
+			}
+		}
+	}
+}
+
+# Germany United - Military
+country_event = {
+	id = HDR_Unite.2
+	title = HDR_Unite.1.t
+	desc = HDR_Unite.2.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.2.a
+		ROOT = {
+			set_cosmetic_tag = GER_Unified_Military
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.5 hours = 6 }
+			add_named_threat = {
+    			threat = 10
+    			name = GER_Unified_Threat
+			}
+		}
+	}
+}
+
+# Germany United - Democracy
+country_event = {
+	id = HDR_Unite.3
+	title = HDR_Unite.1.t
+	desc = HDR_Unite.3.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.3.a
+		ROOT = {
+			set_cosmetic_tag = GER_Unified_Democracy
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.5 hours = 6 }
+			add_named_threat = {
+    			threat = 10
+    			name = GER_Unified_Threat
+			}
+		}
+	}
+}
+
+# Germany United - Communism
+country_event = {
+	id = HDR_Unite.4
+	title = HDR_Unite.1.t
+	desc = HDR_Unite.4.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.4.a
+		ROOT = {
+			set_cosmetic_tag = GER_Unified_Monarchist
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.5 hours = 6 }
+			add_named_threat = {
+    			threat = 10
+    			name = GER_Unified_Threat
+			}
+		}
+	}
+}
+
+# News - Germany United
+
+news_event = {
+	id = HDR_Unite.5
+	title = HDR_Unite.5.t
+	desc = HDR_Unite.5.desc
+	picture = GFX_news_event_003
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.5.a
+		trigger = {
+			OR = {
+				original_tag = BAD
+				original_tag = BAV
+				original_tag = HAN
+				original_tag = HES
+				original_tag = MEK
+				original_tag = OLD
+				original_tag = RHI
+				original_tag = SAX
+				original_tag = SCH
+				original_tag = THU
+				original_tag = WST
+				original_tag = WUR
+				original_tag = PRS
+			}
+		}
+	}
+	option = {
+		name = HDR_Unite.5.b
+		trigger = {
+			NOT = { original_tag = BAD }
+			NOT = { original_tag = BAV }
+			NOT = { original_tag = HAN }
+			NOT = { original_tag = HES }
+			NOT = { original_tag = MEK }
+			NOT = { original_tag = OLD }
+			NOT = { original_tag = RHI }
+			NOT = { original_tag = SAX }
+			NOT = { original_tag = SCH }
+			NOT = { original_tag = THU }
+			NOT = { original_tag = WST }
+			NOT = { original_tag = WUR }
+			NOT = { original_tag = PRS }
+			NOT = { has_war_with = FROM }
+		}
+	}
+	option = {
+		name = HDR_Unite.5.c
+		trigger = {
+			has_war_with = FROM
+		}
+	}
+	option = {
+		name = HDR_Unite.5.d
+		trigger = {
+			OR = {
+				is_in_faction_with = BAD
+				is_in_faction_with = BAV
+				is_in_faction_with = HAN
+				is_in_faction_with = HES
+				is_in_faction_with = MEK
+				is_in_faction_with = OLD
+				is_in_faction_with = RHI
+				is_in_faction_with = SAX
+				is_in_faction_with = SCH
+				is_in_faction_with = THU
+				is_in_faction_with = WST
+				is_in_faction_with = WUR
+				is_in_faction_with = PRS
+			}
+		}
+	}
+}

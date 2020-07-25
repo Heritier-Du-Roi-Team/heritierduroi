@@ -1,0 +1,221 @@
+form_germany_category = {
+	
+	form_germany = {
+
+		icon = generic_form_nation
+
+		allowed = {
+			OR = {
+				original_tag = BAD
+				original_tag = BAV
+				original_tag = HAN
+				original_tag = HES
+				original_tag = MEK
+				original_tag = OLD
+				original_tag = RHI
+				original_tag = SAX
+				original_tag = SCH
+				original_tag = THU
+				original_tag = WST
+				original_tag = WUR
+				original_tag = PRS
+			}
+		}
+
+		available = {
+			is_subject = no
+			# Prussian
+			custom_trigger_tooltip = {
+				tooltip = form_country_prussia_required_states_tt
+				controls_state = 188
+				controls_state = 763
+				controls_state = 5
+				controls_state = 85
+				controls_state = 86
+				controls_state = 67
+				controls_state = 762
+				controls_state = 66
+				controls_state = 68
+				controls_state = 63
+				controls_state = 62
+				controls_state = 64
+			}
+			# Bavaria
+			custom_trigger_tooltip = {
+				tooltip = form_country_bavaria_required_states_tt
+				controls_state = 52
+				controls_state = 53
+				controls_state = 54
+			}
+			# Hanover
+			custom_trigger_tooltip = {
+				tooltip = form_country_hanover_required_states_tt
+				controls_state = 57
+				controls_state = 59
+				controls_state = 826
+			}
+			# Oldenburg
+			custom_trigger_tooltip = {
+				tooltip = form_country_oldenburg_required_states_tt
+				controls_state = 56
+			}
+			# Mecklenburg
+			custom_trigger_tooltip = {
+				tooltip = form_country_mecklenburg_required_states_tt
+				controls_state = 61
+			}
+			# Westphalia
+			custom_trigger_tooltip = {
+				tooltip = form_country_westphalia_required_states_tt
+				controls_state = 51
+				controls_state = 822
+			}
+			# Baden
+			custom_trigger_tooltip = {
+				tooltip = form_country_baden_required_states_tt
+				controls_state = 806
+			}
+			# Wurtemburg
+			custom_trigger_tooltip = {
+				tooltip = form_country_wurtemburg_required_states_tt
+				controls_state = 50
+			}
+			# Hessen
+			custom_trigger_tooltip = {
+				tooltip = form_country_hessen_required_states_tt
+				controls_state = 55
+			}
+			# Thurgien
+			custom_trigger_tooltip = {
+				tooltip = form_country_thurgien_required_states_tt
+				controls_state = 60
+			}
+			# Saxony
+			custom_trigger_tooltip = {
+				tooltip = form_country_saxony_required_states_tt
+				controls_state = 65
+			}
+		}
+
+		visible = {
+			OR = {
+				original_tag = BAD
+				original_tag = BAV
+				original_tag = HAN
+				original_tag = HES
+				original_tag = MEK
+				original_tag = OLD
+				original_tag = RHI
+				original_tag = SAX
+				original_tag = SCH
+				original_tag = THU
+				original_tag = WST
+				original_tag = WUR
+				original_tag = PRS
+			}
+			NOT = { has_global_flag = form_scandinavia_flag }
+		}
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_government = authoritarian_democracy
+				}
+
+				country_event = { id = HDR_Unite.1 }
+			}
+			if = {
+				limit = {
+					has_government = absolute_authoritarianism
+				}
+
+				country_event = { id = HDR_Unite.2 }
+			}
+			if = {
+				limit = {
+					OR = {
+						has_government = conservatism
+						has_government = liberalism
+						has_government = social_democracy
+					}
+				}
+
+				country_event = { id = HDR_Unite.3 }
+			}
+			if = {
+				limit = {
+					OR = {
+						has_government = radical_socialism
+						has_government = communism
+					}
+				}
+
+				country_event = { id = HDR_Unite.4 }
+			}
+			# Norway
+			custom_effect_tooltip = form_country_germany_coring_states_tt
+			hidden_effect = {
+				# Schleswig-Holstein
+				816 = { add_core_of = ROOT }
+				58 = { add_core_of = ROOT }
+				# Oldenburg
+				56 = { add_core_of = ROOT }
+				# Hanover
+				59 = { add_core_of = ROOT }
+				57 = { add_core_of = ROOT }
+				826 = { add_core_of = ROOT }
+				# Mecklenburg
+				61 = { add_core_of = ROOT }
+				# Westphalia
+				51 = { add_core_of = ROOT }
+				822 = { add_core_of = ROOT }
+				# Rhineland
+				818 = { add_core_of = ROOT }
+				42 = { add_core_of = ROOT }
+				# Alsaice-Lorraine
+				28 = { add_claim_by = ROOT }
+				832 = { add_claim_by = ROOT }
+				# Baden
+				806 = { add_core_of = ROOT }
+				# Wurtemburg
+				50 = { add_core_of = ROOT }
+				# Hessen
+				55 = { add_core_of = ROOT }
+				# Thurgien
+				60 = { add_core_of = ROOT }
+				# Saxony
+				65 = { add_core_of = ROOT }
+				# Bavaria
+				54 = { add_core_of = ROOT }
+				53 = { add_core_of = ROOT }
+				52 = { add_core_of = ROOT }
+				# Prussia
+				188 = { add_core_of = ROOT }
+				763 = { add_core_of = ROOT }
+				5 = { add_core_of = ROOT }
+				85 = { add_core_of = ROOT }
+				86 = { add_core_of = ROOT }
+				67 = { add_core_of = ROOT }
+				762 = { add_core_of = ROOT }
+				66 = { add_core_of = ROOT }
+				68 = { add_core_of = ROOT }
+				63 = { add_core_of = ROOT }
+				62 = { add_core_of = ROOT }
+				64 = { add_core_of = ROOT }
+				# Bohemia
+				69 = { add_claim_by = ROOT }
+				72 = { add_claim_by = ROOT }
+				74 = { add_claim_by = ROOT }
+				831 = { add_claim_by = ROOT }
+			}
+		}
+
+		ai_will_do = {
+			factor = 200
+			modifier = {
+				factor = 0
+				is_historical_focus_on = yes
+			}
+		}
+	}
+}

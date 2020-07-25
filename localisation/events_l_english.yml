@@ -1,5 +1,26 @@
 ﻿l_english:
  MINIMIZE_EVENT:0 "§GClick§! to Minimize. Event will be placed in the Event Queue under §HEvents and Decisions§!."
+
+ HDR_Unite.1.t:0 "Formation of Germany"
+ HDR_Unite.1.d:0 ""
+ HDR_Unite.1.a:0 "All Hail the Deutsches Kaiserreich! May it last another 1000 years!"
+ HDR_Unite.2.d:0 ""
+ HDR_Unite.2.a:0 "All Hail the Deutsches Reich! May it last another 1000 years!"
+ HDR_Unite.3.d:0 ""
+ HDR_Unite.3.a:0 "All Hail the Deutsche Republik! May it last another 1000 years!"
+ HDR_Unite.4.d:0 ""
+ HDR_Unite.4.a:0 "All Hail the (Communist Name Here)! May it last another 1000 years!"
+ HDR_Unite.5.t:0 "Germany United!"
+ HDR_Unite.5.desc:0 ""
+ HDR_Unite.5.a:0 "We stand powerful over our enemies!"
+ HDR_Unite.5.b:0 "A worrying threat."
+ HDR_Unite.5.c:0 "Those scum are forming against us!"
+ HDR_Unite.5.d:0 "Our ally grows stronger!"
+ GER_Unified_Threat:0 "Germany has Unified"
+
+
+
+
  hdr_france.1.t:0 "Flooding in Indochina!"
  hdr_france.1.d:0 "Flooding in the districts of Cochinchina and Cambodia have led to crops being ripped away into polluted river water, and the land left behind is not usable. Based on current statistics, there have been 11 deaths and 24 injuries. An estimate for the damage done to infrastructure is still being tallied."
  hdr_france.1.a:0 "Oh Dear! Send them aid!"
