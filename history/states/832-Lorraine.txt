@@ -23,16 +23,10 @@ state={
 			678 = {
 				bunker = 3
 			}
-			3629 = {
-				bunker = 3
-			}
 			6529 = {
 				bunker = 3
 			}
 			9503 = {
-				bunker = 3
-			}
-			11502 = {
 				bunker = 3
 			}
 			anti_air_building = 3
@@ -43,7 +37,7 @@ state={
 	}
 
 	provinces={
-		521 549 678 1346 3629 6529 9503 11502 11516
+		 549 678 1346 6529 9503  
 	}
 	manpower=1074600
 	state_category=city

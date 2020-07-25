@@ -148,8 +148,8 @@ SAX = {
 	color_ui = rgb { 22 108 35 }
 }
 HAN = {
-	color = rgb { 153 97 198 }
-	color_ui = rgb { 153 97 198 }
+	color = rgb { 255 216 0 }
+	color_ui = rgb { 255 216 0 }
 }
 PRS = {
 	color = rgb { 55 55 55 }
