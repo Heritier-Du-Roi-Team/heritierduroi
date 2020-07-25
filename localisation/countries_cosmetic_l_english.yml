@@ -23,13 +23,13 @@
 ###################################
 
  GER_Unified_Monarchist:0 "Deutsches Kaiserreich"
- GER_Unified_Monarchist_DEF:0 "das Deutsches Kaiserreich"
+ GER_Unified_Monarchist_DEF:0 "Die Deutsches Kaiserreich"
  GER_Unified_Military:0 "Deutsches Reich"
- GER_Unified_Military_DEF:0 "das Deutsches Reich"
+ GER_Unified_Military_DEF:0 "Die Deutsches Reich"
  GER_Unified_Democracy:0 "Deutsche Republik"
- GER_Unified_Democracy_DEF:0 "das Deutsche Republik"
- GER_Unified_Communist:0 ""
- GER_Unified_Communist_DEF:0 ""
+ GER_Unified_Democracy_DEF:0 "Die Deutsche Republik"
+ GER_Unified_Communist:0 "Deutsche Volksrepublik"
+ GER_Unified_Communist_DEF:0 "Die Deutsche Volksrepublik"
 
 
 
