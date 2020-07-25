@@ -84,7 +84,7 @@ country_event = {
 	option = {
 		name = HDR_Unite.4.a
 		ROOT = {
-			set_cosmetic_tag = GER_Unified_Monarchist
+			set_cosmetic_tag = GER_Unified_Communist
 		}
 		hidden_effect = {
 			news_event = { id = HDR_Unite.5 hours = 6 }

@@ -21,6 +21,18 @@
 # THANKS
 
 ###################################
+
+ GER_Unified_Monarchist:0 "Deutsches Kaiserreich"
+ GER_Unified_Monarchist_DEF:0 "das Deutsches Kaiserreich"
+ GER_Unified_Military:0 "Deutsches Reich"
+ GER_Unified_Military_DEF:0 "das Deutsches Reich"
+ GER_Unified_Democracy:0 "Deutsche Republik"
+ GER_Unified_Democracy_DEF:0 "das Deutsche Republik"
+ GER_Unified_Communist:0 ""
+ GER_Unified_Communist_DEF:0 ""
+
+
+
  INS_HOL_democratic:0 "Dutch East Indies"
  INS_HOL_democratic_DEF:0 "the Dutch East Indies"
  INS_subject:0 "$OVERLORDADJ$ East Indies"
