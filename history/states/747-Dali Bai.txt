@@ -7,9 +7,8 @@ state={
 		owner = YUN
 		add_core_of = YUN
 		add_core_of = CHI
-		add_core_of = PRC
 		victory_points = {
-			7965 3 
+			7965 3
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1383 1522 5009 7976 12262 10776 
+		1383 1522 5009 7976 12262 10776
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

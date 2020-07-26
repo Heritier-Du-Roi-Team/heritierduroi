@@ -10,7 +10,6 @@ state={
 		owner = XSM
 		add_core_of = XSM
 		add_core_of = CHI
-		add_core_of = PRC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		531 556 1630 2006 2022 4295 4313 6638 7397 7911 10257 12797 12882 
+		531 556 1630 2006 2022 4295 4313 6638 7397 7911 10257 12797 12882
 	}
 	manpower=3705400
 	buildings_max_level_factor=1.000

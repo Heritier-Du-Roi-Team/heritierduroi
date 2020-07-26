@@ -1,4 +1,7 @@
 ﻿l_english:
+ foreigner:0 "Foreigner"
+
+
  cc_leader:0 "General"
  fm_leader:0 "Field Marshal"
  navy_leader:0 "Admiral"
@@ -749,4 +752,3 @@
  operative_escape_artist_desc:0 "The prison that can hold this Operative has yet to be built."
  operative_demolition_expert:0 "Demolition Expert"
  operative_demolition_expert_desc:0 "This Operative is proficient with all the different ways in which one can blow stuff up."
-

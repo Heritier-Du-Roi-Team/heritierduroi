@@ -6,27 +6,18 @@ state={
 	history={
 		owner = CHI
 		add_core_of = CHI
-		add_core_of = PRC
 		buildings = {
 			infrastructure = 2
 
 		}
 		victory_points = {
-			1010 3 
-		}
-		1939.1.1 = {
-			buildings = {
-				infrastructure = 4
-				air_base = 1
-
-			}
-
+			1010 3
 		}
 
 	}
 
 	provinces={
-		1010 4141 4325 4431 9939 
+		1010 4141 4325 4431 9939
 	}
 	manpower=1500000
 	buildings_max_level_factor=1.000

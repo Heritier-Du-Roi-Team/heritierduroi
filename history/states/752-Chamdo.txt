@@ -7,7 +7,6 @@ state={
 		owner = SCL
 		add_core_of = SCL
 		add_core_of = CHI
-		add_core_of = PRC
 		victory_points = {
 			4999 1
 		}

@@ -7,9 +7,8 @@ state={
 		owner = TIB
 		add_core_of = TIB
 		add_core_of = CHI
-		add_core_of = PRC
 		victory_points = {
-			7940 10 
+			7940 10
 		}
 		buildings = {
 			infrastructure = 1
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		4964 8037 12899 13264 
+		4964 8037 12899 13264
 	}
 	manpower=1196100
 	buildings_max_level_factor=1.000

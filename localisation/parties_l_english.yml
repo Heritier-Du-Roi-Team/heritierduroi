@@ -4,6 +4,26 @@
 
 ### Asia ###
 
+# China
+
+# Tibet
+ TIB_communism_party:0 "TWP"
+ TIB_communism_party_long:0 "Tibetan Worker's Party"
+ TIB_radical_socialism_party:0 "TWP"
+ TIB_radical_socialism_party_long:0 "Tibetan Worker's Party"
+ TIB_social_democracy_party:0 "RP"
+ TIB_social_democracy_party_long:0 "Reform Party"
+ TIB_liberalism_party:0 "UG"
+ TIB_liberalism_party_long:0 "Unionist Group"
+ TIB_conservatism_party:0 "Traditionalists"
+ TIB_conservatism_party_long:0 "Traditionalists"
+ TIB_authoritarian_democracy_party:0 "PL"
+ TIB_authoritarian_democracy_party_long:0 "Panchen Lama"
+ TIB_absolute_authoritarianism_party:0 "RR"
+ TIB_absolute_authoritarianism_party_long:0 "Retting Rinpoche"
+ TIB_national_populism_party:0 "MDU"
+ TIB_national_populism_party_long:0 "Monastic Dictatorial Union"
+
 ### Europe ###
 
  # Austria-Bohemia
@@ -59,8 +79,8 @@
  ENG_absolute_authoritarianism_party_long:0 ""
  ENG_national_populism_party:0 "BUP"
  ENG_national_populism_party_long:0 "British Union of Fascists"
- 
-# Prussia 
+
+# Prussia
  PRS_communism_party:0 "KPD-P"
  PRS_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Preußen"
  PRS_radical_socialism_party:0 "USPD-P"

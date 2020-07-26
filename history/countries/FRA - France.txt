@@ -141,6 +141,11 @@ if = {
 	}
 }
 
+create_faction = "Alliance Continentale"
+add_to_faction = FRA
+add_to_faction = RHI
+add_to_faction = MOR
+add_to_faction = TUN
 
 add_ideas = {
 	#
@@ -204,7 +209,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Marcel Cachin"
 	desc = "POLITICS_MARCEL_CACHIN"
-	picture = ""
+	picture = "Portrait_France_Marcel_Cachin.dds"
 	expire = "1965.1.1"
 	ideology = communism_type
 	traits = {
