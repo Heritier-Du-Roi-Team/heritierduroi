@@ -31,6 +31,13 @@
  GER_Unified_Communist:0 "Deutsche Volksrepublik"
  GER_Unified_Communist_DEF:0 "Die Deutsche Volksrepublik"
 
+ CHI_United:0 "China"
+ CHI_United_DEF:0 "China"
+ CHI_United_ADJ:0 "Chinese"
+ CHI_United_Qing:0 "Qing"
+ CHI_United_Qing_DEF:0 "Qing"
+ CHI_United_Qing_ADJ:0 "Chinese"
+
 
 
  INS_HOL_democratic:0 "Dutch East Indies"

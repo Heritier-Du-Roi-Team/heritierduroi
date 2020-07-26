@@ -172,3 +172,169 @@ news_event = {
 		}
 	}
 }
+
+country_event = {
+	id = HDR_Unite.6
+	title = HDR_Unite.6.t
+	desc = HDR_Unite.6.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.6.a
+		ROOT = {
+			set_cosmetic_tag = CHI_United
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.7 hours = 6 }
+			add_named_threat = {
+    			threat = 10
+    			name = CHI_Unified_Threat
+			}
+		}
+	}
+}
+
+news_event = {
+	id = HDR_Unite.7
+	title = HDR_Unite.7.t
+	desc = HDR_Unite.7.desc
+	picture = GFX_news_event_003
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.7.a
+		trigger = {
+			OR = {
+			original_tag = FEN
+			original_tag = SHX
+			original_tag = SHD
+			original_tag = XSM
+			original_tag = SIK
+			original_tag = SCL
+			original_tag = CHI
+			original_tag = YUN
+			}
+		}
+	}
+	option = {
+		name = HDR_Unite.7.b
+		trigger = {
+			NOT = { original_tag = FEN }
+			NOT = { original_tag = SHX }
+			NOT = { original_tag = SHD }
+			NOT = { original_tag = XSM }
+			NOT = { original_tag = SIK }
+			NOT = { original_tag = SCL }
+			NOT = { original_tag = CHI }
+			NOT = { original_tag = YUN }
+			NOT = { has_war_with = FROM }
+		}
+	}
+	option = {
+		name = HDR_Unite.7.c
+		trigger = {
+			has_war_with = FROM
+		}
+	}
+	option = {
+		name = HDR_Unite.7.d
+		trigger = {
+			OR = {
+				is_in_faction_with = FEN
+				is_in_faction_with = SHX
+				is_in_faction_with = SHD
+				is_in_faction_with = XSM
+				is_in_faction_with = SIK
+				is_in_faction_with = SCL
+				is_in_faction_with = CHI
+				is_in_faction_with = YUN
+			}
+		}
+	}
+}
+
+country_event = {
+	id = HDR_Unite.8
+	title = HDR_Unite.8.t
+	desc = HDR_Unite.8.d
+	picture = GFX_report_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.8.a
+		ROOT = {
+			set_cosmetic_tag = CHI_United_Qing
+		}
+		hidden_effect = {
+			news_event = { id = HDR_Unite.9 hours = 6 }
+			add_named_threat = {
+    			threat = 15
+    			name = CHI_Unified_Threat_Qing
+			}
+		}
+	}
+}
+
+news_event = {
+	id = HDR_Unite.9
+	title = HDR_Unite.9.t
+	desc = HDR_Unite.9.desc
+	picture = GFX_news_event_003
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Unite.9.a
+		trigger = {
+			OR = {
+			original_tag = FEN
+			original_tag = SHX
+			original_tag = SHD
+			original_tag = XSM
+			original_tag = SIK
+			original_tag = SCL
+			original_tag = CHI
+			original_tag = YUN
+			}
+		}
+	}
+	option = {
+		name = HDR_Unite.9.b
+		trigger = {
+			NOT = { original_tag = FEN }
+			NOT = { original_tag = SHX }
+			NOT = { original_tag = SHD }
+			NOT = { original_tag = XSM }
+			NOT = { original_tag = SIK }
+			NOT = { original_tag = SCL }
+			NOT = { original_tag = CHI }
+			NOT = { original_tag = YUN }
+			NOT = { has_war_with = FROM }
+		}
+	}
+	option = {
+		name = HDR_Unite.9.c
+		trigger = {
+			has_war_with = FROM
+		}
+	}
+	option = {
+		name = HDR_Unite.9.d
+		trigger = {
+			OR = {
+				is_in_faction_with = FEN
+				is_in_faction_with = SHX
+				is_in_faction_with = SHD
+				is_in_faction_with = XSM
+				is_in_faction_with = SIK
+				is_in_faction_with = SCL
+				is_in_faction_with = CHI
+				is_in_faction_with = YUN
+			}
+		}
+	}
+}

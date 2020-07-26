@@ -18,6 +18,26 @@
  HDR_Unite.5.d:0 "Our ally grows stronger!"
  GER_Unified_Threat:0 "Germany has Unified"
 
+ HDR_Unite.6.t:0 "Reunification of China"
+ HDR_Unite.6.d:0 ""
+ HDR_Unite.6.a:0 "The warlords have been subdued."
+ HDR_Unite.7.t:0 "China has Reunified."
+ HDR_Unite.7.desc:0 ""
+ HDR_Unite.7.a:0 "May we last forever more."
+ HDR_Unite.7.b:0 "Interesting."
+ HDR_Unite.7.c:0 "More bodies to be cut down by our bullets."
+ HDR_Unite.7.d:0 "A great move."
+ HDR_Unite.8.t:0 "Reformation of the Qing Empire."
+ HDR_Unite.8.d:0 ""
+ HDR_Unite.8.a:0 "Long Live Pu Yi!"
+ HDR_Unite.9.t:0 "Reformation of the Qing Dynasty."
+ HDR_Unite.9.desc:0 ""
+ HDR_Unite.9.a:0 "The Heavenly Mandate Shines on Us!"
+ HDR_Unite.9.b:0 "Seems the Chinese are trying to become influential again."
+ HDR_Unite.9.c:0 "Beijing will still fall!"
+ HDR_Unite.9.d:0 "They stand stronger united then divided."
+ CHI_Unified_Threat:0 "China has Reunified"
+ CHI_Unified_Threat_Qing:0 "Qing Have Reunited"
 
 
 

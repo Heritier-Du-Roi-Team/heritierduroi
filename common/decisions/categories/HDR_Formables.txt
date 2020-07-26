@@ -4,3 +4,10 @@ form_germany_category = {
 
 	picture = GFX_decision_cat_picture_chi_political_support
 }
+
+form_china_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_picture_chi_political_support
+}

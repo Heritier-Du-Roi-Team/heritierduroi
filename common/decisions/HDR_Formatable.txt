@@ -1,5 +1,5 @@
 form_germany_category = {
-	
+
 	form_germany = {
 
 		icon = generic_form_nation
@@ -113,7 +113,6 @@ form_germany_category = {
 				original_tag = WUR
 				original_tag = PRS
 			}
-			NOT = { has_global_flag = form_scandinavia_flag }
 		}
 
 		complete_effect = {
@@ -216,6 +215,426 @@ form_germany_category = {
 				factor = 0
 				is_historical_focus_on = yes
 			}
+		}
+	}
+}
+
+form_china_category = {
+
+	form_china = {
+		allowed = {
+			OR = {
+				original_tag = FEN
+				original_tag = SHX
+				original_tag = SHD
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SCL
+				original_tag = CHI
+				original_tag = YUN
+			}
+		}
+
+		available = {
+			is_subject = no
+			custom_trigger_tooltip = {
+				tooltip = form_country_fengtien_required_states_tt
+				controls_state = 717
+				controls_state = 714
+				controls_state = 761
+				controls_state = 328
+				controls_state = 715
+				controls_state = 716
+				controls_state = 610
+				controls_state = 609
+				controls_state = 611
+				controls_state = 608
+				controls_state = 614
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_shandong_required_states_tt
+				controls_state = 597
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_shanxi_required_states_tt
+				controls_state = 615
+				controls_state = 746
+				controls_state = 622
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_xibei_required_states_tt
+				controls_state = 616
+				controls_state = 283
+				controls_state = 754
+				controls_state = 755
+				controls_state = 756
+				controls_state = 760
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_sinkiang_required_states_tt
+				controls_state = 618
+				controls_state = 759
+				controls_state = 617
+				controls_state = 287
+				controls_state = 619
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_sichuan_required_states_tt
+				controls_state = 605
+				controls_state = 752
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_yunnan_required_states_tt
+				controls_state = 325
+				controls_state = 753
+				controls_state = 751
+				controls_state = 747
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_republican_required_states_tt
+				controls_state = 594
+				controls_state = 591
+				controls_state = 592
+				controls_state = 599
+				controls_state = 593
+				controls_state = 603
+				controls_state = 602
+				controls_state = 600
+				controls_state = 595
+				controls_state = 748
+				controls_state = 750
+				controls_state = 620
+				controls_state = 749
+				controls_state = 596
+				controls_state = 613
+				controls_state = 606
+				controls_state = 598
+				controls_state = 607
+				controls_state = 744
+			}
+		}
+
+		visible = {
+			OR = {
+				original_tag = FEN
+				original_tag = SHX
+				original_tag = SHD
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SCL
+				original_tag = CHI
+				original_tag = YUN
+			}
+		}
+
+		complete_effect = {
+			country_event = { id = HDR_Unite.6 }
+			custom_effect_tooltip = form_country_china_coring_states_tt
+			hidden_effect = {
+				# Fengtien
+				717 = { add_core_of = ROOT }
+				714 = { add_core_of = ROOT }
+				761 = { add_core_of = ROOT }
+				328 = { add_core_of = ROOT }
+				715 = { add_core_of = ROOT }
+				716 = { add_core_of = ROOT }
+				610 = { add_core_of = ROOT }
+				609 = { add_core_of = ROOT }
+				611 = { add_core_of = ROOT }
+				608 = { add_core_of = ROOT }
+				614 = { add_core_of = ROOT }
+
+				# Shandong
+				597 = { add_core_of = ROOT }
+
+				# Shanxi
+				615 = { add_core_of = ROOT }
+				622 = { add_core_of = ROOT }
+				746 = { add_core_of = ROOT }
+
+				# Xibei San Ma
+				283 = { add_core_of = ROOT }
+				616 = { add_core_of = ROOT }
+				754 = { add_core_of = ROOT }
+				755 = { add_core_of = ROOT }
+				756 = { add_core_of = ROOT }
+				760 = { add_core_of = ROOT }
+
+				# Sinkiang
+				287 = { add_core_of = ROOT }
+				617 = { add_core_of = ROOT }
+				618 = { add_core_of = ROOT }
+				619 = { add_core_of = ROOT }
+				759 = { add_core_of = ROOT }
+
+				# Sichuan
+				605 = { add_core_of = ROOT }
+				752 = { add_core_of = ROOT }
+
+				# Yunnan
+				325 = { add_core_of = ROOT }
+				747 = { add_core_of = ROOT }
+				751 = { add_core_of = ROOT }
+				753 = { add_core_of = ROOT }
+
+				# ROC
+				594 = { add_core_of = ROOT }
+				591 = { add_core_of = ROOT }
+				592 = { add_core_of = ROOT }
+				599 = { add_core_of = ROOT }
+				593 = { add_core_of = ROOT }
+				603 = { add_core_of = ROOT }
+				602 = { add_core_of = ROOT }
+				600 = { add_core_of = ROOT }
+				595 = { add_core_of = ROOT }
+				748 = { add_core_of = ROOT }
+				750 = { add_core_of = ROOT }
+				620 = { add_core_of = ROOT }
+				749 = { add_core_of = ROOT }
+				596 = { add_core_of = ROOT }
+				613 = { add_core_of = ROOT }
+				606 = { add_core_of = ROOT }
+				598 = { add_core_of = ROOT }
+				607 = { add_core_of = ROOT }
+				744 = { add_core_of = ROOT }
+			}
+		}
+
+		ai_will_do = {
+			factor = 200
+			modifier = {
+				factor = 0
+				is_historical_focus_on = yes
+			}
+		}
+	}
+
+	form_qing = {
+		allowed = {
+			OR = {
+				original_tag = FEN
+				original_tag = SHX
+				original_tag = SHD
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SCL
+				original_tag = CHI
+				original_tag = YUN
+			}
+		}
+
+		available = {
+			is_subject = no
+			custom_trigger_tooltip = {
+				tooltip = form_country_fengtien_required_states_tt
+				controls_state = 717
+				controls_state = 714
+				controls_state = 761
+				controls_state = 328
+				controls_state = 715
+				controls_state = 716
+				controls_state = 610
+				controls_state = 609
+				controls_state = 611
+				controls_state = 608
+				controls_state = 614
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_shandong_required_states_tt
+				controls_state = 597
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_shanxi_required_states_tt
+				controls_state = 615
+				controls_state = 746
+				controls_state = 622
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_xibei_required_states_tt
+				controls_state = 616
+				controls_state = 283
+				controls_state = 754
+				controls_state = 755
+				controls_state = 756
+				controls_state = 760
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_sinkiang_required_states_tt
+				controls_state = 618
+				controls_state = 759
+				controls_state = 617
+				controls_state = 287
+				controls_state = 619
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_sichuan_required_states_tt
+				controls_state = 605
+				controls_state = 752
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_yunnan_required_states_tt
+				controls_state = 325
+				controls_state = 753
+				controls_state = 751
+				controls_state = 747
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_republican_required_states_tt
+				controls_state = 594
+				controls_state = 591
+				controls_state = 592
+				controls_state = 599
+				controls_state = 593
+				controls_state = 603
+				controls_state = 602
+				controls_state = 600
+				controls_state = 595
+				controls_state = 748
+				controls_state = 750
+				controls_state = 620
+				controls_state = 749
+				controls_state = 596
+				controls_state = 613
+				controls_state = 606
+				controls_state = 598
+				controls_state = 607
+				controls_state = 744
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_mongolian_required_states_tt
+				controls_state = 612
+				controls_state = 811
+				controls_state = 621
+				controls_state = 330
+			}
+			custom_trigger_tooltip = {
+				tooltip = form_country_tibetan_required_states_tt
+				controls_state = 601
+				controls_state = 604
+				controls_state = 322
+				controls_state = 757
+				controls_state = 758
+			}
+		}
+
+		visible = {
+			OR = {
+				original_tag = FEN
+				original_tag = SHX
+				original_tag = SHD
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SCL
+				original_tag = CHI
+				original_tag = YUN
+			}
+		}
+
+			complete_effect = {
+				country_event = { id = HDR_Unite.8 }
+				custom_effect_tooltip = form_country_qing_coring_states_tt
+				hidden_effect = {
+					# Fengtien
+					717 = { add_core_of = ROOT }
+					714 = { add_core_of = ROOT }
+					761 = { add_core_of = ROOT }
+					328 = { add_core_of = ROOT }
+					715 = { add_core_of = ROOT }
+					716 = { add_core_of = ROOT }
+					610 = { add_core_of = ROOT }
+					609 = { add_core_of = ROOT }
+					611 = { add_core_of = ROOT }
+					608 = { add_core_of = ROOT }
+					614 = { add_core_of = ROOT }
+
+					# Shandong
+					597 = { add_core_of = ROOT }
+
+					# Shanxi
+					615 = { add_core_of = ROOT }
+					622 = { add_core_of = ROOT }
+					746 = { add_core_of = ROOT }
+
+					# Xibei San Ma
+					283 = { add_core_of = ROOT }
+					616 = { add_core_of = ROOT }
+					754 = { add_core_of = ROOT }
+					755 = { add_core_of = ROOT }
+					756 = { add_core_of = ROOT }
+					760 = { add_core_of = ROOT }
+
+					# Sinkiang
+					287 = { add_core_of = ROOT }
+					617 = { add_core_of = ROOT }
+					618 = { add_core_of = ROOT }
+					619 = { add_core_of = ROOT }
+					759 = { add_core_of = ROOT }
+
+					# Sichuan
+					605 = { add_core_of = ROOT }
+					752 = { add_core_of = ROOT }
+
+					# Yunnan
+					325 = { add_core_of = ROOT }
+					747 = { add_core_of = ROOT }
+					751 = { add_core_of = ROOT }
+					753 = { add_core_of = ROOT }
+
+					# ROC
+					594 = { add_core_of = ROOT }
+					591 = { add_core_of = ROOT }
+					592 = { add_core_of = ROOT }
+					599 = { add_core_of = ROOT }
+					593 = { add_core_of = ROOT }
+					603 = { add_core_of = ROOT }
+					602 = { add_core_of = ROOT }
+					600 = { add_core_of = ROOT }
+					595 = { add_core_of = ROOT }
+					748 = { add_core_of = ROOT }
+					750 = { add_core_of = ROOT }
+					620 = { add_core_of = ROOT }
+					749 = { add_core_of = ROOT }
+					596 = { add_core_of = ROOT }
+					613 = { add_core_of = ROOT }
+					606 = { add_core_of = ROOT }
+					598 = { add_core_of = ROOT }
+					607 = { add_core_of = ROOT }
+					744 = { add_core_of = ROOT }
+
+					# Mongolia
+					612 = { add_core_of = ROOT }
+					811 = { add_core_of = ROOT }
+					621 = { add_core_of = ROOT }
+					330 = { add_core_of = ROOT }
+
+					# Tibet
+					601 = { add_core_of = ROOT }
+					604 = { add_core_of = ROOT }
+					322 = { add_core_of = ROOT }
+					757 = { add_core_of = ROOT }
+					758 = { add_core_of = ROOT }
+
+					# Colonies
+					745 = { add_claim_by = ROOT }
+					743 = { add_claim_by = ROOT }
+					326 = { add_claim_by = ROOT }
+					729 = { add_claim_by = ROOT }
+					728 = { add_claim_by = ROOT }
+					524 = { add_claim_by = ROOT }
+
+					# Former Territory
+					787 = { add_claim_by = ROOT }
+					441 = { add_claim_by = ROOT }
+					671 = { add_claim_by = ROOT }
+					670 = { add_claim_by = ROOT }
+			}
+	}
+
+	ai_will_do = {
+		factor = 200
+		modifier = {
+			factor = 0
+			is_historical_focus_on = yes
 		}
 	}
 }
