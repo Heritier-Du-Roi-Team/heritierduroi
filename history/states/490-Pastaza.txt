@@ -13,6 +13,7 @@ state={
 			industrial_complex = 1
 			air_base = 1
 		}
+		add_claim_by = PRU
 		add_core_of = ECU
 	}
 

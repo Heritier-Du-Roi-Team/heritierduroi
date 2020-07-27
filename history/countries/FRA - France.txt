@@ -98,7 +98,20 @@ if = {
 set_convoys = 300
 
 
-
+set_politics = {
+	ruling_party = absolute_authoritarianism
+	last_election = "1932.5.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	absolute_authoritarianism = 60
+	conservatism = 13
+	liberalism = 10
+	national_populism = 10
+	communism = 4
+	radical_socialism = 3
+}
 if = {
 	limit = {
 		OR = {
@@ -124,23 +137,10 @@ if = {
 	else = {
 		puppet = TUN
 		puppet = MOR
-		puppet - RHI
+		puppet = RHI
 	}
 }
-set_politics = {
-	ruling_party = absolute_authoritarianism
-	last_election = "1932.5.1"
-	election_frequency = 48
-	elections_allowed = no
-}
-set_popularities = {
-	absolute_authoritarianism = 60
-	conservatism = 13
-	liberalism = 10
-	national_populism = 10
-	communism = 4
-	radical_socialism = 3
-}
+
 create_faction = "Alliance Continentale"
 add_to_faction = FRA
 add_to_faction = RHI
