@@ -1,5 +1,5 @@
-capital = 818
-oob = "RHI_1936"
+capital = 461
+oob = "MOR_1936"
 
 set_technology = {
   early_fighter = 1
@@ -19,7 +19,12 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
+communism = 0
+radical_socialism = 0
+social_democracy = 15
+liberalism = 10
+conservatism = 15
 authoritarian_democracy	= 25
-absolute_authoritarianism = 50
-national_populism = 25
+absolute_authoritarianism = 30
+national_populism = 5
 }
