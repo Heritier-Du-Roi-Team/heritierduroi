@@ -23,3 +23,14 @@ authoritarian_democracy	= 25
 absolute_authoritarianism = 50
 national_populism = 25
 }
+
+create_country_leader = {
+  name = "Temporary Leader"
+  desc = ""
+  picture = "gfx/leaders/FRA/Portrait_France_Generic_land_3.dds"
+  expire = "1965.1.1"
+  ideology = absolute_authoritarianism_type
+  traits = {
+    #
+  }
+}

@@ -141,6 +141,21 @@ if = {
 	}
 }
 
+RHI = {
+	set_politics = {
+		ruling_party = absolute_authoritarianism
+		last_election = "1931.2.6"
+		election_frequency = 48
+		elections_allowed = no
+	}
+
+	set_popularities = {
+		authoritarian_democracy	= 25
+		absolute_authoritarianism = 50
+		national_populism = 25
+	}
+}
+
 create_faction = "Alliance Continentale"
 add_to_faction = FRA
 add_to_faction = RHI
