@@ -5,20 +5,20 @@ state={
 
 	history={
 		victory_points = {
-			5105 1 
+			5105 1
 		}
-		owner = AFG
+		owner = RAJ
 		buildings = {
 			infrastructure = 3
 			air_base = 4
 
 		}
-		add_core_of = AFG
-
+		add_core_of = RAJ
+		add_claim_by = AFG
 	}
 
 	provinces={
-		1107 4990 5105 7847 7903 7975 8044 
+		1107 4990 5105 7847 7903 7975 8044
 	}
 	manpower=405100
 	buildings_max_level_factor=1.000

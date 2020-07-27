@@ -197,6 +197,10 @@
 
 ### Asia ###
 
+ BUR:0 "Burma"
+ BUR_DEF:0 "Burma"
+ BUR_ADJ:0 "Burmese"
+
 # China
  CHI_communism:0 "Chinese People's Republic"
  CHI_communism_DEF:0 "the Chinese People's Republic"
