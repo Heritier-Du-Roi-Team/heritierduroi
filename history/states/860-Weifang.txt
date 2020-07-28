@@ -1,0 +1,23 @@
+state={
+	id=860
+	name="STATE_860"
+
+	history={
+		owner = SHD
+		add_core_of = CHI
+		add_core_of = SHD
+		victory_points = {
+			12074 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		1124 1154 4071 4089 4157 7089 9971 10102 12074
+	}
+	manpower=1432600
+	state_category=town
+}

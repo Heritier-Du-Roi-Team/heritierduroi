@@ -1,0 +1,19 @@
+state={
+	id=863
+	name="STATE_863"
+
+	history={
+		owner = FEN
+		add_core_of = FEN
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1590 7158 12403 12432
+	}
+	manpower=1042360
+	state_category=rural
+}

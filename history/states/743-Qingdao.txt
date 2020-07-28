@@ -7,6 +7,7 @@ state={
 		owner = BEA
 		add_core_of = BEA
 		add_core_of = CHI
+		add_core_of = SHD
 		victory_points = {
 			10000 5
 		}
@@ -18,21 +19,18 @@ state={
 				naval_base = 5
 				coastal_bunker = 1
 				bunker = 1
-
 			}
-
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+			}
 		}
-		1938.10.25 = {
-			controller = JAP
-
-		}
-
 	}
 
 	provinces={
 		4205 10000
 	}
 	manpower=385000
-	buildings_max_level_factor=1.000
 	state_category=large_town
 }

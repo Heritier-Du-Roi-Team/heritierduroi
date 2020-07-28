@@ -5,7 +5,7 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = EGY
+		owner = FRA
 		buildings = {
 			infrastructure = 2
 			}
@@ -14,6 +14,6 @@ state = {
 	}
 
 	provinces = {
-		1112 1155 11922 11979 4161 10002 10099 12073 
+		1112 11922 11979 4161 10002 10099 12073 13323 13324
 	}
 }

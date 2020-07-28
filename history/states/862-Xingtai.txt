@@ -1,0 +1,19 @@
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = FEN
+		add_core_of = FEN
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 5
+		}
+	}
+
+	provinces={
+		1188 1203 1519 4469 4538 7092 12062 12078 12344  1139 1169 1180 4058 4114 4144 4606 4634 7074 7571 9987 10421 11933
+	}
+	manpower=9652600
+	state_category=town
+}
