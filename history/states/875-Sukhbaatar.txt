@@ -1,0 +1,20 @@
+state={
+	id=875
+	name="STATE_875"
+
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+		}
+		add_core_of = MON
+
+	}
+
+	provinces={
+		1723 1743 1787 1796 1868 4655 4856 4873 7749 10575 10578 10647 12557 12612 12629
+	}
+	manpower=203210
+	state_category=town
+}

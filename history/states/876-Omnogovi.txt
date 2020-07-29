@@ -1,0 +1,23 @@
+state={
+	id=876
+	name="STATE_876"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = MON
+
+	}
+
+	provinces={
+	   1781 1853 4729 4786 7752 7806 7864 10558 10632 10689 10704 12539 12541 12669 12686 13329 13330
+	}
+	manpower=772000
+	state_category=town
+}

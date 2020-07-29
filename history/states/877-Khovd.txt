@@ -1,0 +1,21 @@
+state={
+	id=877
+	name="STATE_877"
+	resources={
+		chromium=3.000
+	}
+
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = MON
+	}
+
+	provinces={
+		1774 4751 4777 4823 4849 7693 7737 7773 7808 7843 7870 10539 10563 10669 12520 12695 13331
+	}
+	manpower=57320
+	state_category=rural
+}

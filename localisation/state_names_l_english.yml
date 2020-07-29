@@ -86,6 +86,15 @@
  STATE_868:0 "Jelloanam"
  STATE_869:0 "Jeollabuk"
  STATE_870:0 "Daegu"
+ STATE_871:0 "Turkistan"
+ STATE_872:0 "Wakhan"
+ STATE_873:0 "Qandahar"
+ STATE_874:0 "Dornod"
+ STATE_875:0 "Sukhbaatar"
+ STATE_876:0 "Omnogovi"
+ STATE_877:0 "Khovd"
+ STATE_878:0 "Orkhon"
+ STATE_879:0 "Arkhangai"
 
 
 
@@ -411,8 +420,8 @@
  STATE_326:0 "Hong Kong"
  STATE_327:0 "Manila"
  STATE_328:0 "Kirin"
- STATE_329:0 "Tannu Tuva"
- STATE_330:0 "Mongolia"
+ STATE_329:0 "Tuva"
+ STATE_330:0 "Ulaanbaatar"
  STATE_331:0 "Newfoundland"
  STATE_332:0 "Labrador"
  STATE_333:1 "North Borneo"

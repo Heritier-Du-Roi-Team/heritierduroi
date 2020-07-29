@@ -1,0 +1,19 @@
+state={
+	id=872
+	name="STATE_872" # Kabul
+	manpower = 18362
+
+	state_category = town
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = AFG
+	}
+
+	provinces={
+		7519 13326 13327 
+	}
+}
