@@ -1,0 +1,24 @@
+state={
+	id=867
+	name="STATE_867"
+	resources={
+		steel=12.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = KOR
+		buildings = {
+			infrastructure = 3
+      arms_factory = 1
+		}
+		add_core_of = KOR
+
+	}
+
+	provinces={
+	   852 898 906 959 3803 3852 3860 3904 3981 6822 6922 6944 6963 9899 11775 11828 11878
+	}
+	manpower=2057305
+	state_category=town
+}

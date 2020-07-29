@@ -81,6 +81,11 @@
  STATE_863:0 "Zhangjiakou"
  STATE_864:0 "Enshi"
  STATE_865:0 "Heishui"
+ STATE_866:0 "Hwanghae"
+ STATE_867:0 "Donghae"
+ STATE_868:0 "Jelloanam"
+ STATE_869:0 "Jeollabuk"
+ STATE_870:0 "Daegu"
 
 
 
@@ -600,9 +605,9 @@
  STATE_522:0 "Western Australia"
  STATE_523:1 "Papua"
  STATE_524:0 "Taiwan"
- STATE_525:0 "South Korea"
+ STATE_525:0 "Seoul"
  STATE_526:0 "Okinawa"
- STATE_527:0 "North Korea"
+ STATE_527:0 "Pyongyang"
  STATE_528:0 "Kyushu"
  STATE_529:0 "Chugoku"
  STATE_530:0 "Shikoku"
