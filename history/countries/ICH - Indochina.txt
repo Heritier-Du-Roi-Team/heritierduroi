@@ -1,4 +1,4 @@
-capital = 286
+capital = 882
 oob = "ICH_1936"
 
 set_technology = {
