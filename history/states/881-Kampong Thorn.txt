@@ -1,0 +1,19 @@
+state={
+	id=881
+	name="STATE_881"
+
+	history={
+		add_core_of = CAM
+		owner = ICH
+		add_claim_by = ICH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1324 4302 4639 5236 7319 10467 12447 12460 12475
+	}
+	manpower=204560
+	state_category=town
+}

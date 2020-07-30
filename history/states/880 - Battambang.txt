@@ -1,0 +1,20 @@
+state={
+	id=880
+	name="STATE_880"
+
+	history={
+		add_core_of = CAM
+		owner = ICH
+		add_claim_by = ICH
+    add_claim_by = SIA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1353 4251 4359 10134 10177 12191
+	}
+	manpower=693250
+	state_category=rural
+}

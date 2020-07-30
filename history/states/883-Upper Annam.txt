@@ -1,0 +1,26 @@
+state={
+	id=883
+	name="STATE_883"
+	manpower = 1023520
+
+	state_category = town
+
+	resources={
+		chromium=3 # was: 8
+		tungsten=21 # was: 38
+	}
+
+
+	history={
+		add_core_of = VIN
+		owner = ICH
+		add_claim_by = ICH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1302 4379 4397 7280 9988 10016 11909 11936 12297
+	}
+}

@@ -95,6 +95,11 @@
  STATE_877:0 "Khovd"
  STATE_878:0 "Orkhon"
  STATE_879:0 "Arkhangai"
+ STATE_880:0 "Battambang"
+ STATE_881:0 "Kampong Thorn"
+ STATE_882:0 "Cochinchine"
+ STATE_883:0 "Upper Annam"
+ STATE_884:0 "Pakse"
 
 
 
@@ -377,7 +382,7 @@
  STATE_283:0 "Gansu"
  STATE_284:0 "North Island"
  STATE_285:0 "New South Wales"
- STATE_286:1 "Southern Indochina"
+ STATE_286:1 "Lower Annam"
  STATE_287:0 "Taklamakan"
  STATE_288:0 "Burma"
  STATE_289:0 "Siam"
@@ -759,7 +764,7 @@
  STATE_667:0 "Lesser Sunda Islands"
  STATE_668:0 "The Moluccas"
  STATE_669:1 "West Papua"
- STATE_670:0 "Laos"
+ STATE_670:0 "Vientiane"
  STATE_671:0 "Tonkin"
  STATE_672:0 "Sumatra"
  STATE_673:0 "Sulawesi"
@@ -829,7 +834,7 @@
  STATE_738:0 "Aru Islands"
  STATE_739:0 "Haida Gwaii"
  STATE_740:0 "Vancouver Island"
- STATE_741:0 "Cambodia"
+ STATE_741:0 "Kratie"
  STATE_742:0 "Stalinabad"
  STATE_743:0 "Qingdao"
  STATE_744:0 "Xian"
