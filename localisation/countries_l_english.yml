@@ -619,6 +619,11 @@
  HES_national_populism_DEF:0 "Hesse"
  HES_national_populism_ADJ:0 "Hessian"
 
+ # Ireland
+ IRE:0 "Ireland"
+ IRE_DEF:0 "Ireland"
+ IRE_ADJ:0 "Irish"
+
  # Mecklemburg
  MEK_communism:0 "Mecklenburgian Workers State"
  MEK_communism_DEF:0 "Mecklenburg"
@@ -800,6 +805,11 @@
  THU_national_populism:0 "Thuringian State"
  THU_national_populism_DEF:0 "Thuringia"
  THU_national_populism_ADJ:0 "Thuringian"
+
+ # United Kingdom
+ ENG:0 "United Kingdom"
+ ENG_DEF:0 "the United Kingdom"
+ ENG_AJD:0 "British"
 
  # Westphalia
  WST_communism:0 "Westphalian Workers State"
