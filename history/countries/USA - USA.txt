@@ -145,9 +145,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Robert M. La Follette Jr."
-	desc = "POLITICS_ROBERT_LA_FOLETTE_JR_DESC"
-	picture = "Portrait_USA_Robert_La_Folette.tga"
+	name = "Hiram Johnson"
+	desc = "POLITICS_HIRAM_W_JOHNSON_DESC"
+	picture = "Portrait_USA_Hiram_Johnson.tga"
 	expire = "1936.11.3"
 	ideology = liberalism_type
 	traits = {

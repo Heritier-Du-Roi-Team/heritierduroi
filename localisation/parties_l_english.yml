@@ -98,6 +98,24 @@
  PRS_national_populism_party:0 "AdV"
  PRS_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Preußen "
 
+ # Russia
+ RUS_communism_party:0 "Leninists"
+ RUS_communism_party_long:0 "Remnants of the Leninists"
+ RUS_radical_socialism_party:0 "PSR"
+ RUS_radical_socialism_party_long:0 "Party of Socialist-Revolutionaries"
+ RUS_social_democracy_party:0 "LG"
+ RUS_social_democracy_party_long:0 "Labour Group"
+ RUS_liberalism_party:0 "CDP"
+ RUS_liberalism_party_long:0 "Constitutional Democratic Party"
+ RUS_conservatism_party:0 "OP"
+ RUS_conservatism_party_long:0 "Octobrist Party"
+ RUS_authoritarian_democracy_party:0 "OP"
+ RUS_authoritarian_democracy_party_long:0 "Octobrist Party"
+ RUS_absolute_authoritarianism_party:0 "RRP"
+ RUS_absolute_authoritarianism_party_long:0 "Romanov Restoration Party"
+ RUS_national_populism_party:0 "URP"
+ RUS_national_populism_party_long:0 "Union of Russian People"
+
 ### North America ###
 
  # United States
