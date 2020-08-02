@@ -78,7 +78,7 @@ guiTypes = {
 		font = "cg_16b"
 		borderSize = { x=15 y=15 }
 		position = { x= 560 y=10 }
-		maxWidth = 600 #600 #320
+		maxWidth = 800 #600 #320
 		maxHeight = 256
 	}
 
