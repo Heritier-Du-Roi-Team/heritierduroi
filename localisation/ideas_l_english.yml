@@ -38,8 +38,8 @@
 
  SAF_afrikaner_nationalists:0 "Afrikaner Nationalism"
  SAF_afrikaner_nationalists_desc:0 ""
- SAF_uncertain_future:0 "An Uncertain Future"
- SAF_uncertain_future_desc:0 ""
+ #SAF_uncertain_future:0 "An Uncertain Future"
+ #SAF_uncertain_future_desc:0 ""
  SAF_cecil_rhodes:0 "Legacy of Cecil Rhodes"
  SAF_cecil_rhodes_desc:0 ""
  SAF_smuts_reforms:0 "The Smuts Reforms"

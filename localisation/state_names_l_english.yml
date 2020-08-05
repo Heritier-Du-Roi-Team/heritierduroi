@@ -100,6 +100,16 @@
  STATE_882:0 "Cochinchine"
  STATE_883:0 "Upper Annam"
  STATE_884:0 "Pakse"
+ STATE_885:0 "Jejudo"
+ STATE_886:0 "Rhode Island"
+ STATE_887:0 "Connecticut"
+ STATE_888:0 "Vermont"
+ STATE_889:0 "New Hampshire"
+ STATE_890:0 "Maine"
+ STATE_891:0 "Long Island"
+ STATE_892:0 "Delaware"
+ STATE_893:0 "DC"
+ STATE_894:0 "West Virginia"
 
 
 
@@ -452,7 +462,7 @@
  STATE_354:0 "Trabzon"
  STATE_355:0 "Samsun"
  STATE_356:0 "Kastamonu"
- STATE_357:0 "New England"
+ STATE_357:0 "Massachusetts"
  STATE_358:0 "New York"
  STATE_359:0 "New Jersey"
  STATE_360:0 "Pennsylvania"

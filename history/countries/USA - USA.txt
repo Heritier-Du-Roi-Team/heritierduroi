@@ -1,4 +1,4 @@
-﻿capital = 361
+﻿capital = 893
 
 ### OOB 1936 ###
 

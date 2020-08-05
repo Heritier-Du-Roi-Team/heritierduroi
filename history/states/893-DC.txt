@@ -1,0 +1,28 @@
+state={
+	id=893
+	name="STATE_893"
+	manpower = 663091
+
+	state_category = metropolis
+
+	history={
+		owner = USA
+		victory_points = {
+			3957 40
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			air_base = 6
+			3957 = {
+				naval_base = 1
+
+			}
+		}
+		add_core_of = USA
+	}
+
+	provinces={
+		3957
+	}
+}
