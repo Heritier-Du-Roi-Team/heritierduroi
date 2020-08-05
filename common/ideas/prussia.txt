@@ -12,6 +12,22 @@
 ideas = {
 
 	country = {
+		prussian_militarism = {
+			allowed = {
+				always = no
+				}
+			alowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = PRS_prussian_militarism
+			
+			modifier = {
+			conscription = 0.015
+			army_org = 5
+			planning_speed	= 0.10
+			}
+		}
 		sour_loser = {
 			
 			allowed = {

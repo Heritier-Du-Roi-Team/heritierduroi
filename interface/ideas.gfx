@@ -14,6 +14,11 @@ spriteTypes = {
 		name = "GFX_idea_USA_racial_segregation"
 		texturefile = "gfx/interface/ideas/USA_Racial_Segregation.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_idea_PRS_prussian_militarism"
+		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.dds"
+	}
 
 	spriteType = {
 		name = "GFX_idea_USA_divisive_politics"
