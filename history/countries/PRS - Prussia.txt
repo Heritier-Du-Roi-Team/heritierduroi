@@ -18,6 +18,10 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+add_ideas = {
+prussian_militarism
+}
 set_popularities = {
 communism = 0
 radical_socialism = 0
