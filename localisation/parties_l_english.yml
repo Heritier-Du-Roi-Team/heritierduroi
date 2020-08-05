@@ -2,6 +2,24 @@
 
 ### Africa ###
 
+# South Africa
+ SAF_communism_party:0 "SACP"
+ SAF_communism_party_long:0 "South African Communist Party"
+ SAF_radical_socialism_party:0 "SACP"
+ SAF_radical_socialism_party_long:0 "South African Communist Party"
+ SAF_social_democracy_party:0 "LP"
+ SAF_social_democracy_party_long:0 "Labour Party"
+ SAF_liberalism_party:0 "VP"
+ SAF_liberalism_party_long:0 "Verenigde Party"
+ SAF_conservatism_party:0 "VP"
+ SAF_conservatism_party_long:0 "Verenigde Party"
+ SAF_authoritarian_democracy_party:0 "HNP"
+ SAF_authoritarian_democracy_party_long:0 "Herenigde Nasionale Party"
+ SAF_absolute_authoritarianism_party:0 "NP-G"
+ SAF_absolute_authoritarianism_party_long:0 "Nasionale Party - Gematigdes"
+ SAF_national_populism_party:0 "NP-R"
+ SAF_national_populism_party_long:0 "Nasionale Party - Radikale"
+
 ### Asia ###
 
 # China
@@ -114,7 +132,7 @@
  BAD_absolute_authoritarianism_party:0 "Militärclique"
  BAD_absolute_authoritarianism_party_long:0 "Badische Militärclique"
  BAD_national_populism_party:0 "AdV-B"
- BAD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Baden" 
+ BAD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Baden"
 
 # Bavaria
  BAV_communism_party:0 "KPD-B"
@@ -133,8 +151,8 @@
  BAV_absolute_authoritarianism_party_long:0 "Bayrische Militärclique"
  BAV_national_populism_party:0 "AdV-B"
  BAV_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Bayern"
- 
-# Hannover 
+
+# Hannover
  HAN_communism_party:0 "KPD-H"
  HAN_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Hannover"
  HAN_radical_socialism_party:0 "USPD-H"
@@ -152,7 +170,7 @@
  HAN_national_populism_party:0 "AdV-H"
  HAN_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hannover"
 
-# Hessen 
+# Hessen
  HES_communism_party:0 "KPD-H"
  HES_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Hessen"
  HES_radical_socialism_party:0 "USPD-H"
@@ -169,8 +187,8 @@
  HES_absolute_authoritarianism_party_long:0 "Hessische Militärclique"
  HES_national_populism_party:0 "AdV-H"
  HES_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hessen"
- 
-# Mecklenburg 
+
+# Mecklenburg
  MEK_communism_party:0 "KPD-M"
  MEK_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Mecklenburg-Strelitz"
  MEK_radical_socialism_party:0 "USPD-M"
@@ -187,8 +205,8 @@
  MEK_absolute_authoritarianism_party_long:0 "Mecklenburgische Militärclique"
  MEK_national_populism_party:0 "AdV-M"
  MEK_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Mecklenburg-Strelitz"
- 
-# Oldenburg 
+
+# Oldenburg
  OLD_communism_party:0 "KPD-O"
  OLD_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Oldenburg"
  OLD_radical_socialism_party:0 "USPD-O"
@@ -205,8 +223,8 @@
  OLD_absolute_authoritarianism_party_long:0 "Oldenburgische Militärclique"
  OLD_national_populism_party:0 "AdV-O"
  OLD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Oldenburg"
- 
- # Rhineland 
+
+ # Rhineland
  RHI_communism_party:0 "KPD-R"
  RHI_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Rheinland"
  RHI_radical_socialism_party:0 "USPD-R"
@@ -223,8 +241,8 @@
  RHI_absolute_authoritarianism_party_long:0 "Rheinländische Militärregierung"
  RHI_national_populism_party:0 "AdV-R"
  RHI_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Rheinland"
- 
-# Schleswig-Holstein 
+
+# Schleswig-Holstein
  SCH_communism_party:0 "KPD-SH"
  SCH_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Schleswig-Holstein"
  SCH_radical_socialism_party:0 "USPD-SH"
@@ -242,7 +260,7 @@
  SCH_national_populism_party:0 "AdV-SH"
  SCH_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Schleswig-Holstein"
 
-# Saxony 
+# Saxony
  SAX_communism_party:0 "KPD-S"
  SAX_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Sachsen"
  SAX_radical_socialism_party:0 "USPD-S"
@@ -260,7 +278,7 @@
  SAX_national_populism_party:0 "AdV-S"
  SAX_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Sachsen"
 
-# Thuringia 
+# Thuringia
  THU_communism_party:0 "KPD-T"
  THU_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Thüringen"
  THU_radical_socialism_party:0 "USPD-T"
@@ -277,8 +295,8 @@
  THU_absolute_authoritarianism_party_long:0 "Thüringische Militärclique"
  THU_national_populism_party:0 "AdV-T"
  THU_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Thüringen"
- 
-# Westphalia 
+
+# Westphalia
  WST_communism_party:0 "KPD-W"
  WST_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Westfalen"
  WST_radical_socialism_party:0 "USPD-W"
@@ -295,8 +313,8 @@
  WST_absolute_authoritarianism_party_long:0 "Westfälische Militärclique"
  WST_national_populism_party:0 "AdV-W"
  WST_national_populism_party_long:0 "Alldeutscher Verband  - Abteilung Westfalen"
- 
-# Wurttemberg 
+
+# Wurttemberg
  WUR_communism_party:0 "KPD-W"
  WUR_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Württemberg"
  WUR_radical_socialism_party:0 "USPD-W"
@@ -313,7 +331,7 @@
  WUR_absolute_authoritarianism_party_long:0 "Württembergische Militärclique"
  WUR_national_populism_party:0 "AdV-W"
  WUR_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Württemberg"
- 
+
  # Russia
  RUS_communism_party:0 "Leninists"
  RUS_communism_party_long:0 "Remnants of the Leninists"

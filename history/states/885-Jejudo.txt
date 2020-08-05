@@ -1,0 +1,18 @@
+state={
+	id=885
+	name="STATE_885"
+
+	history={
+		owner = KOR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = KOR
+	}
+
+	provinces={
+		1177
+	}
+	manpower=103279
+	state_category=rural
+}
