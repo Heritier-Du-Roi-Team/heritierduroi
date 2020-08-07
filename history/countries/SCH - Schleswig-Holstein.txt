@@ -1,4 +1,4 @@
-capital = 58
+capital = 317
 oob = "SCH_1936"
 
 set_technology = {
@@ -14,18 +14,18 @@ set_war_support = 0.16
 
 
 set_politics = {
-	ruling_party = absolute_authoritarianism
-	last_election = "1931.2.6"
+	ruling_party = authoritarian_democracy
+	last_election = "1933.2.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 1
-radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+communism = 11
+radical_socialism = 4
+social_democracy = 10
+liberalism = 5
+conservatism = 23
+authoritarian_democracy	= 27
+absolute_authoritarianism =	11
+national_populism = 9
 }
