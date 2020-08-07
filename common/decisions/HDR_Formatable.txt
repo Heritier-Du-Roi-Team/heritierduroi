@@ -155,7 +155,7 @@ form_germany_category = {
 			custom_effect_tooltip = form_country_germany_coring_states_tt
 			hidden_effect = {
 				#Denmark
-				817 = { add_core_of = ROOT }
+				817 = { add_claim_by = ROOT }
 				# Schleswig-Holstein
 				816 = { add_core_of = ROOT }
 				58 = { add_core_of = ROOT }

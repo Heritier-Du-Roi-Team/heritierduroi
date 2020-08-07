@@ -19,7 +19,6 @@ state= {
 				naval_base = 7
 			}
 		}
-		add_claim_by = SCH
 		add_core_of = SCH
 		1939.1.1 = {
 			buildings = {
