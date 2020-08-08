@@ -1,0 +1,57 @@
+ideas = {
+  country = {
+    ETH_Undeveloped = {
+      picture = ETH_Undeveloped
+
+      allowed = {
+        always = yes
+      }
+
+      allowed_civil_war = {
+        always = no
+      }
+
+      removal_cost = -1
+
+      modifier = {
+        #
+      }
+    }
+
+    ETH_Illiterate_Population = {
+      picture = ETH_Illiterate_Population
+
+      allowed = {
+        always = yes
+      }
+
+      allowed_civil_war = {
+        always = no
+      }
+
+      removal_cost = -1
+
+      modifier = {
+        #
+      }
+    }
+
+    ETH_Anti_Colonies = {
+      picture = ETH_Anti_Colonies
+
+      allowed = {
+        always = yes
+      }
+
+      allowed_civil_war = {
+        always = no
+      }
+
+      removal_cost = -1
+
+      modifier = {
+        #
+      }
+    }
+  }
+}

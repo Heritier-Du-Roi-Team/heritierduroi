@@ -45,11 +45,18 @@
  SAF_smuts_reforms:0 "The Smuts Reforms"
  SAF_smuts_reforms_desc:0 "Following the depression within South Africa, under the leadership of the Nasionale Parties, Jan Smuts revealed his plans for economic recovery. By increasing the amounts of exports from the nation, and decreasing regulations for export, the nation began a slow recovery. With the reforms, export-oriented sectors of the economy prospered, now that they were free to trade where they wish. While they have brought a recovery, they remain controversial amongst the Labour party and the Afrikaners."
 
-PRS_prussian_militarism:0 "Prussian Militarism"
-PRS_prussian_militarism_desc:0 "'Where some states have an army, the Prussian Army has a state.' \n-Voltaire \n\nThis quite common quote attributed to the Prussian military apparatus could not be more fitting. Whereas other eighteenth-century-kingdoms across Europe spent between 20 to 30% of their annual budget on their military, the Prussian Kingdom financed its military with 3/4 of its annual budget - even during lasting periods of peace. \nTo this day, Prussia has an impressive, and quite sizeable, army, unbeaten by any other German state."
+ prussian_militarism:0 "Prussian Militarism"
+ prussian_militarism_desc:0 "'Where some states have an army, the Prussian Army has a state.' \n-Voltaire \n\nThis quite common quote attributed to the Prussian military apparatus could not be more fitting. Whereas other eighteenth-century-kingdoms across Europe spent between 20 to 30% of their annual budget on their military, the Prussian Kingdom financed its military with 3/4 of its annual budget - even during lasting periods of peace. \nTo this day, Prussia has an impressive, and quite sizeable, army, unbeaten by any other German state."
 
+ LIB_Pepper_Coast:0 "Free Spirit of the Pepper Coast"
+ LIB_Pepper_Coast_desc:0 "As one of the three independent African states, Liberia is seen as a beacon of democracy, albeit flawed democracy to Africans across the continent. This view of our state gives our citizens hope to guide other Africans towards a brighter future led by their example."
 
-
+ ETH_Undeveloped:0 "Undeveloped Countryside"
+ ETH_Undeveloped_desc:0 ""
+ ETH_Illiterate_Population:0 "Illiterate Population"
+ ETH_Illiterate_Population_desc:0 ""
+ ETH_Anti_Colonies:0 "Anti-Colonial Populace"
+ ETH_Anti_Colonies_desc:0 ""
 
 
 

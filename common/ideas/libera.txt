@@ -1,0 +1,21 @@
+ideas = {
+  country = {
+    LIB_Pepper_Coast = {
+      picture = LIB_Pepper_Coast
+
+      allowed = {
+        always = yes
+      }
+
+      allowed_civil_war = {
+        always = no
+      }
+
+      removal_cost = -1
+
+      modifier = {
+        #
+      }
+    }
+  }
+}

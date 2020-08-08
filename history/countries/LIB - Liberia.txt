@@ -1,0 +1,118 @@
+﻿capital = 298
+
+oob = "LIB_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+add_ideas = {
+	LIB_Pepper_Coast
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	last_election = "1931.1.1"
+	election_frequency = 96
+	elections_allowed = yes
+}
+set_popularities = {
+	authoritarian_democracy = 36
+	conservatism = 29
+	liberalism = 18
+	absolute_authoritarianism = 8
+	national_populism = 6
+	communism = 2
+	radical_socialism = 1
+}
+
+create_country_leader = {
+	name = "Charles D. B. King"
+	desc = "POLITICS_CHARLES_KING_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Edwin Barclay"
+	desc = "POLITICS_EDWIN_BARCLAY_DESC"
+	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Thomas J. Faulkner"
+	desc = "POLITICS_THOMAS_FAULKNER_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Momulu Massaquoi"
+	desc = "POLITICS_MOMULU_MASSAQUOI_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = absolute_authoritarianism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Marcus Garvey"
+	desc = "POLITICS_MARCUS_GARVEY_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "George Padmore"
+	desc = "POLITICS_GEORGE_PADMORE_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "George Padmore"
+	desc = "POLITICS_GEORGE_PADMORE_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+		#
+	}
+}
+
+create_corps_commander = {
+	name = "Momulu Massaquoi"
+	portrait_path = ""
+	traits = { infantry_leader }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 1
+}

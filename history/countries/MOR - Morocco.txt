@@ -28,3 +28,14 @@ authoritarian_democracy	= 25
 absolute_authoritarianism = 30
 national_populism = 5
 }
+
+create_country_leader = {
+  name = "Sultan Mohammed V"
+  desc = "POLITICS_SULTAN_MOHAMMAD_DESC"
+  picture = "Portrait_Sultan_Mohammed.tga"
+  expire = "1965.1.1"
+  ideology = absolute_authoritarianism_type
+  traits = {
+    #
+  }
+}

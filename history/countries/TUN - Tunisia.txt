@@ -28,3 +28,25 @@ authoritarian_democracy	= 25
 absolute_authoritarianism = 30
 national_populism = 5
 }
+
+create_country_leader = {
+  name = "Bay al-Moncef"
+  desc = "POLITICS_AL-MONCEF_DESC"
+  picture = "Portrait_al-Moncef.tga"
+  expire = "1965.1.1"
+  ideology = absolute_authoritarianism_type
+  traits = {
+    #
+  }
+}
+
+create_country_leader = {
+  name = "Bay Ahmad II"
+  desc = "POLITICS_AHMAD_II_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = absolute_authoritarianism_type
+  traits = {
+    #
+  }
+}
