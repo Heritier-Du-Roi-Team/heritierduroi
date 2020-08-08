@@ -16,15 +16,15 @@ set_politics = {
 	ruling_party = absolute_authoritarianism
 	last_election = "1931.2.6"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-communism = 1
-radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+communism = 13
+radical_socialism = 10
+social_democracy = 18
+liberalism = 3
+conservatism = 9
+authoritarian_democracy	= 6
+absolute_authoritarianism =	32
+national_populism = 9
 }

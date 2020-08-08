@@ -59,14 +59,14 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 1
+communism = 2
 radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+social_democracy = 16
+liberalism = 7
+conservatism = 24
+authoritarian_democracy	= 43
+absolute_authoritarianism =	6
+national_populism = 1
 }
 
 #create_country_leader = {

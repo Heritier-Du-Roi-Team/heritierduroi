@@ -54,19 +54,19 @@ set_stability = 0.75
 
 set_politics = {
 	ruling_party = authoritarian_democracy
-	last_election = "1931.2.6"
+	last_election = "1935.2.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 1
+communism = 2
 radical_socialism = 1
-social_democracy = 13
-liberalism = 10
-conservatism = 15
-authoritarian_democracy	= 25
-absolute_authoritarianism =	30
-national_populism = 5
+social_democracy = 10
+liberalism = 5
+conservatism = 19
+authoritarian_democracy	= 56
+absolute_authoritarianism =	5
+national_populism = 2
 }
 
 #create_country_leader = {

@@ -14,17 +14,17 @@ set_war_support = 0.13
 
 set_politics = {
 	ruling_party = social_democracy
-	last_election = "1931.2.6"
+	last_election = "1932.2.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 0
-radical_socialism = 10
-social_democracy = 55
-liberalism = 15
-conservatism = 20
+communism = 4
+radical_socialism = 0
+social_democracy = 45
+liberalism = 16
+conservatism = 33
 authoritarian_democracy	= 0
 absolute_authoritarianism =	0
-national_populism = 0
+national_populism = 2
 }
