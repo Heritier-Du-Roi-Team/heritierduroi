@@ -6,56 +6,139 @@ set_technology = {
 	gwtank = 1
 }
 
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+
+	add_ideas = {
+		EGY_Iron_Guard_LAR
+	}
+
+	else = {
+		add_ideas = {
+			EGY_Iron_Guard
+		}
+	}
+}
+
+add_ideas = {
+	#
+}
+
 set_convoys = 20
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	conservatism = 25
+	national_populism = 15
+	authoritarian_democracy = 13
+	absolute_authoritarianism = 12
+	social_democracy = 12
+	liberalism = 11
+	radical_socialism = 11
+	communism = 1
 }
 
 create_country_leader = {
-	name = "Muhammad Naguib"
-	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_democratic1.dds"
-	ideology = liberalism
+	name = "Ahmed Hussayn"
+	desc = "POLITICS_AHMED_HUSSAYN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = national_populism_type
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Ahmed Husayn"
-	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
-	ideology = fascism_ideology
+	name = "Farouk I"
+	desc = "POLITICS_FARKOUK_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = absolute_authoritarianism_type
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Farouk Muhammad Ali"
-	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_land_1.dds"
-	ideology = despotism
+	name = "Farouk I"
+	desc = "POLITICS_FARKOUK_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Hosni al-Arabi"
-	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_navy_3.dds"
-	ideology = leninism
+	name = "Mostafa el-Nahhas Pasha"
+	desc = "POLITICS_MOSTAFA_PASHA_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Makram Ebeid"
+	desc = "POLITICS_MAKRAN_EBEID_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ali Maher Pasha"
+	desc = "POLITICS_ALI_PASHA_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Muhammed Mahmoud Pasha"
+	desc = "POLITICS_MUHAMMED_PASHA_DESC"
+	picture = ""
+	expire = "1941.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hosni Al-Arabi"
+	desc = "POLITICS_HOSNI_ARABI_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Youssef Darwish"
+	desc = "POLITICS_YOUSSEF_DARWISH_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communism_type
 	traits = {
 		#
 	}

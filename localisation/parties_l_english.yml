@@ -2,6 +2,24 @@
 
 ### Africa ###
 
+# Egypt
+ EGY_communism_party:0 "A-F A-J"
+ EGY_communism_party_long:0 "Al-Fajr Al-Jadid"
+ EGY_radical_socialism_party:0 "AAA"
+ EGY_radical_socialism_party_long:0 "Alhizb Alaishtirakiu Almisri"
+ EGY_social_democracy_party:0 "HAD"
+ EGY_social_democracy_party_long:0 "Hizb al-Ahrar al-Dusturiyyin"
+ EGY_liberalism_party:0 "HAA"
+ EGY_liberalism_party_long:0 "Hizb Alhayyat Alsaedia"
+ EGY_conservatism_party:0 "HA"
+ EGY_conservatism_party_long:0 "Hizb Alwafd"
+ EGY_authoritarian_democracy_party:0 "HW"
+ EGY_authoritarian_democracy_party_long:0 "Hizb Wataniun"
+ EGY_absolute_authoritarianism_party:0 "Alawiyya"
+ EGY_absolute_authoritarianism_party_long:0 "Sulalat Aleulwyiyn"
+ EGY_national_populism_party:0 "ME-F"
+ EGY_national_populism_party_long:0 "Misr El-Fata"
+
 # South Africa
  SAF_communism_party:0 "SACP"
  SAF_communism_party_long:0 "South African Communist Party"
