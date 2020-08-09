@@ -5,7 +5,7 @@
  STATE_2:0 "Umbria"
  STATE_8:0 "Brest-Litovsk"
  STATE_23:0 "Vendee"
- STATE_51:0 "East Rhineland"
+ STATE_51:0 "Ostrheinland"
  STATE_58:0 "Holstein"
  STATE_119:0 "Ulster"
  STATE_162:0 "Tuscany"
@@ -110,6 +110,7 @@
  STATE_892:0 "Delaware"
  STATE_893:0 "DC"
  STATE_894:0 "West Virginia"
+ STATE_895:0 "Southern Hungary"
 
 
 
@@ -193,7 +194,7 @@
  STATE_82:0 "Banat"
  STATE_83:0 "Crisana"
  STATE_84:0 "Transylvania"
- STATE_85:0 "Danzig"
+ STATE_85:0 "Westpreußen"
  STATE_86:0 "Posen"
  STATE_87:1 "Łódz"
  STATE_88:0 "Krakow"
@@ -865,7 +866,7 @@
  STATE_759:1 "Kunlun Shan"
  STATE_760:0 "Dabancheng"
  STATE_761:0 "Hulunbuir"
- STATE_762:1 "Katowice"
+ STATE_762:1 "Kattowitz"
  STATE_763:0 "Königsberg"
  STATE_764:0 "West Banat"
  STATE_765:0 "Qatar"

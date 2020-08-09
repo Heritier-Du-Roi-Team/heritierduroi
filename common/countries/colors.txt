@@ -93,6 +93,10 @@ SER = {
 	color = rgb { 48 48 166 }
 	color_ui = rgb { 48 48 166 }
 }
+SLO = {
+	color = rgb { 0 143 143 }
+	color_ui = rgb { 0 143 143 }
+}
 CRO = {
 	color = rgb { 124 36 197 }
 	color_ui = rgb { 124 36 197 }

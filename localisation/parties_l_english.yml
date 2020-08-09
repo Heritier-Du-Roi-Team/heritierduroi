@@ -187,6 +187,23 @@
  HES_absolute_authoritarianism_party_long:0 "Hessische Militärclique"
  HES_national_populism_party:0 "AdV-H"
  HES_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hessen"
+# Hungary
+ HUN_communism_party:0 "KMP"
+ HUN_communism_party_long:0 "Kommunisták Magyarországi Pártja"
+ HUN_radical_socialism_party:0 "MSZMP"
+ HUN_radical_socialism_party_long:0 "Magyarországi Szocialista Munkáspárt"
+ HUN_social_democracy_party:0 "MSZDP"
+ HUN_social_democracy_party_long:0 "Magyar Szociáldemokrata Párt"
+ HUN_liberalism_party:0 "NSZP"
+ HUN_liberalism_party_long:0 "Független Kisgazda Párt"
+ HUN_conservatism_party:0 "FKgP"
+ HUN_conservatism_party_long:0 "Független Kisgazda Párt"
+ HUN_authoritarian_democracy_party:0 "Horthyists"
+ HUN_authoritarian_democracy_party_long:0 "Horthy loyalists"
+ HUN_absolute_authoritarianism_party:0 "Hadsereg"
+ HUN_absolute_authoritarianism_party_long:0 "Magyar Honvédség"
+ HUN_national_populism_party:0 "NAP"
+ HUN_national_populism_party_long:0 "Nemzet Akaratának Pártja"
 
 # Mecklenburg
  MEK_communism_party:0 "KPD-M"
@@ -241,7 +258,7 @@
  PRS_absolute_authoritarianism_party_long:0 "Preußischer Militärbund"
  PRS_national_populism_party:0 "AdV"
  PRS_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Preußen"
-
+ 
  # Rhineland
  RHI_communism_party:0 "KPD-R"
  RHI_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Rheinland"
@@ -259,6 +276,23 @@
  RHI_absolute_authoritarianism_party_long:0 "Rheinländische Militärregierung"
  RHI_national_populism_party:0 "AdV-R"
  RHI_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Rheinland"
+# Romania 
+ ROM_communism_party:0 "PRT"
+ ROM_communism_party_long:0 "Partidul Radical-Taranesc"
+ ROM_radical_socialism_party:0 "PRT"
+ ROM_radical_socialism_party_long:0 "Partidul Radical-Taranesc"
+ ROM_social_democracy_party:0 "PSDR"
+ ROM_social_democracy_party_long:0 "Partidul Social Democrat Roman"
+ ROM_liberalism_party:0 "PNL"
+ ROM_liberalism_party_long:0 "Partidul National Liberal"
+ ROM_conservatism_party:0 "PNT"
+ ROM_conservatism_party_long:0 "Partidul National-Taranist"
+ ROM_authoritarian_democracy_party:0 "-"
+ ROM_authoritarian_democracy_party_long:0 "-"
+ ROM_absolute_authoritarianism_party:0 "Hohenzollern"
+ ROM_absolute_authoritarianism_party_long:0 "Casa Hohenzollern-Sigmaringen"
+ ROM_national_populism_party:0 "LAM"
+ ROM_national_populism_party_long:0 "Legiunea Arhanghelului Mihail"
 
 # Russia
  RUS_communism_party:0 "Leninists"

@@ -4,13 +4,12 @@ state={
 	name="STATE_834"
 
 	history={
-		owner = HUN
+		owner = ROM
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 		}
-		add_core_of = HUN
-    add_claim_by = ROM
+		add_core_of = ROM
 	}
 
 	provinces={
