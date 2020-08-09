@@ -166,6 +166,11 @@ add_ideas = {
 	#
 }
 
+give_military_access = ITA
+ITA = {
+	give_military_access = FRA
+}
+
 create_country_leader = {
 	name = "Charles Maurras"
 	desc = "POLITICS_CHARLES_MAURRAS_DESC"
