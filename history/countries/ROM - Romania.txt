@@ -30,7 +30,7 @@ national_populism = 10
 
 }
 create_country_leader = {
-  name = "Nicholas"
+  name = "Prince Nicholas"
   desc = ""
   picture = "gfx/leaders/ROM/Nicholas.dds"
   expire = "1965.1.1"
@@ -40,7 +40,7 @@ create_country_leader = {
   }
 }
 create_country_leader = {
-  name = "Nicholas"
+  name = "Prince Nicholas"
   desc = ""
   picture = "gfx/leaders/ROM/Nicholas.dds"
   expire = "1965.1.1"
@@ -50,7 +50,7 @@ create_country_leader = {
   }
 }
 create_country_leader = {
-  name = "Nicholas"
+  name = "Prince Nicholas"
   desc = ""
   picture = "gfx/leaders/ROM/Nicholas.dds"
   expire = "1965.1.1"
@@ -60,7 +60,7 @@ create_country_leader = {
   }
 }
 create_country_leader = {
-  name = "Nicholas"
+  name = "Prince Nicholas"
   desc = ""
   picture = "gfx/leaders/ROM/Nicholas.dds"
   expire = "1965.1.1"

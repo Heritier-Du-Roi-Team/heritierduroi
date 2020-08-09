@@ -62,14 +62,14 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 9
+communism = 7
 radical_socialism = 6
 social_democracy = 11 
 liberalism = 9
-conservatism = 15
-authoritarian_democracy	= 31
+conservatism = 12
+authoritarian_democracy	= 41
 absolute_authoritarianism =	4
-national_populism = 15
+national_populism = 10
 }
 
 add_ideas = {
