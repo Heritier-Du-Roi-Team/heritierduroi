@@ -1,0 +1,31 @@
+capital = 47
+oob = "GRE_1936"
+
+set_technology = {
+  early_fighter = 1
+  early_bomber = 1
+  gwtank = 1
+  gw_artillery = 1
+	infantry_weapons = 1
+}
+
+set_stability = 0.79
+set_war_support = 0.16
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	last_election = "1933.12.29"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+  communism = 7
+  radical_socialism = 0
+  social_democracy = 0
+  liberalism = 42
+  conservatism = 30
+  authoritarian_democracy = 11
+  absolute_authoritarianism = 0
+  national_populism = 10
+}

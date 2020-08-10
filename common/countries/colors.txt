@@ -101,6 +101,10 @@ CRO = {
 	color = rgb { 124 36 197 }
 	color_ui = rgb { 124 36 197 }
 }
+YUG = {
+	color = rgb { 0 19 127 }
+	color_ui = rgb { 0 19 127 }
+}
 SOV = {
 	color = rgb { 55 16 133 }
 	color_ui = rgb { 55 16 133 }

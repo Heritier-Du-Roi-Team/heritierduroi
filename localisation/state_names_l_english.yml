@@ -113,7 +113,7 @@
  STATE_895:0 "Southern Hungary"
  STATE_896:0 "Thessaloniki"
  STATE_897:0 "Central Greece"
- STATE_898:0 "Lower Morava"
+ STATE_898:0 "Eastern Morava"
 
 
 
@@ -220,7 +220,7 @@
  STATE_105:0 "Montenegro"
  STATE_106:0 "Macedonia"
  STATE_107:0 "Serbia"
- STATE_108:0 "Morava"
+ STATE_108:0 "Western Morava"
  STATE_109:1 "Zagreb"
  STATE_110:1 "Østlandet"
  STATE_111:0 "Uusimaa"
