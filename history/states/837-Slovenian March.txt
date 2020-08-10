@@ -1,9 +1,9 @@
 
 state={
 	id=837
-	name="STATE_837" 
+	name="STATE_837"
 	manpower = 92295
-	
+
 	state_category = rural
 	history={
 		owner = AUS
@@ -11,6 +11,9 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = AUS
+		add_core_of = SLV
+		add_claim_by = HUN
+		add_claim_by = YUG
 	}
 
 	provinces={

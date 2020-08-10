@@ -1717,6 +1717,64 @@
 
 ### Oceania ###
 
+# Australasia
+ AST_communism:0 "Oceanic People's Republic"
+ AST_communism_DEF:0 "the Oceanic People's Republic"
+ AST_communism_ADJ:0 "Australasian"
+ AST_radical_socialism:0 "Oceanic People's Republic"
+ AST_radical_socialism_DEF:0 "the Oceanic People's Republic"
+ AST_radical_socialism_ADJ:0 "Australasian"
+ AST_social_democracy:0 "Australasia"
+ AST_social_democracy_DEF:0 "Australasia"
+ AST_social_democracy_ADJ:0 "Australasian"
+ AST_liberalism:0 "Australasia"
+ AST_liberalism_DEF:0 "Australasia"
+ AST_liberalism_ADJ:0 "Australasian"
+ AST_conservatism:0 "Australasia"
+ AST_conservatism_DEF:0 "Australasia"
+ AST_conservatism_ADJ:0 "Australasian"
+ AST_authoritarian_democracy:0 "Australasia"
+ AST_authoritarian_democracy_DEF:0 "Australasia"
+ AST_authoritarian_democracy_ADJ:0 "Australasian"
+ AST_absolute_authoritarianism:0 "Australasia"
+ AST_absolute_authoritarianism_DEF:0 "Australasia"
+ AST_absolute_authoritarianism_ADJ:0 "Australasian"
+ AST_national_populism:0 "Greater Emu Empire"
+ AST_national_populism_DEF:0 "the Greater Emu Empire"
+ AST_national_populism_ADJ:0 "Emu"
+
+ FIJ:0 "Fiji"
+ FIJ_DEF:0 "Fiji"
+ FIJ_ADJ:0 "Fiji"
+
+ FSM:0 "Micronesia"
+ FSM_DEF:0 "Micronesia"
+ FSM_ADJ:0 "Micronesian"
+
+ GUM:0 "Mariana Islands"
+ GUM_DEF:0 "Mariana Islands"
+ GUM_ADJ:0 "Mariana"
+
+ HAW:0 "Hawai'i"
+ HAW_DEF:0 "Hawai'i"
+ HAW_ADJ:0 "Hawai'ian"
+
+ PNG:0 "Papua New Guinea"
+ PNG_DEF:0 "Papua New Guinea"
+ PNG_ADJ:0 "Papuan"
+
+ SAM:0 "Samoa"
+ SAM_DEF:0 "Samoa"
+ SAM_ADJ:0 "Samoan"
+
+ SOL:0 "Solomon Islands"
+ SOL_DEF:0 "the Solomon Islands"
+ SOL_ADJ:0 "Solomon"
+
+ TAH:0 "Tahiti"
+ TAH_DEF:0 "Tahiti"
+ TAH_ADJ:0 "Tahitian"
+
 ### South America ###
 
 # Argentina #

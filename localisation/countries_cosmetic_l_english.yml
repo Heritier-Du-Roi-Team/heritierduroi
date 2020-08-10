@@ -39,7 +39,11 @@
  CHI_United_Qing_ADJ:0 "Chinese"
 
  RHI_subject:0 "$OVERLORDADJ$ Rhineland"
- RHI_subject_DEF:0 "the $OVERLORDADJ$ Rhineland" 
+ RHI_subject_DEF:0 "the $OVERLORDADJ$ Rhineland"
+
+ AST_UK_autonomy_dominion:0 "Federation of Australasia"
+ AST_UK_autonomy_dominion_DEF:0 "the Federation of Australasia"
+ AST_UK_subject:0 "$OVERLORDADJ$ Oceania"
 
 
 
