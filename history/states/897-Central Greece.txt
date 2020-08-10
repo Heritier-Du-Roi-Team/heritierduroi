@@ -1,0 +1,27 @@
+state={
+	id=897
+	name="STATE_897"
+	manpower = 602350
+
+	state_category = town
+
+	resources={
+		chromium=8 # was: 20
+		steel = 10 # was: 20
+	}
+
+	history={
+		victory_points = {
+			1205 1
+		}
+		owner = GRE
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = GRE
+	}
+
+	provinces={
+		863 976 1205 3864 3973 6930 11786 11895
+	}
+}

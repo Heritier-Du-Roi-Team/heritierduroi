@@ -111,6 +111,9 @@
  STATE_893:0 "DC"
  STATE_894:0 "West Virginia"
  STATE_895:0 "Southern Hungary"
+ STATE_896:0 "Thessaloniki"
+ STATE_897:0 "Central Greece"
+ STATE_898:0 "Lower Morava"
 
 
 
@@ -157,7 +160,7 @@
  STATE_44:0 "Albania"
  STATE_45:0 "Vojvodina"
  STATE_46:0 "Muntenia"
- STATE_47:0 "Thessaly"
+ STATE_47:0 "Attica"
  STATE_48:0 "Sofia"
  STATE_49:0 "Ankara"
  STATE_50:0 "Württemberg"
@@ -835,7 +838,7 @@
  STATE_728:0 "Guangzhouwan"
  STATE_729:0 "Macau"
  STATE_730:0 "St Pierre and Miquelon"
- STATE_731:0 "Central Macedonia"
+ STATE_731:0 "Lower Macedon"
  STATE_732:0 "Pamir"
  STATE_733:0 "Andaman"
  STATE_734:0 "Nendo"
