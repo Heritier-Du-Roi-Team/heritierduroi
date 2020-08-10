@@ -11,10 +11,15 @@ spriteTypes = {
 	### new tfv nat spirit icons
 
 	spriteType = {
+		name = "GFX_idea_YUG_King_George"
+		textureFile = "gfx/interface/ideas/YUG_King_George.dds"
+	}
+
+	spriteType = {
 		name = "GFX_idea_USA_racial_segregation"
 		texturefile = "gfx/interface/ideas/USA_Racial_Segregation.dds"
 	}
-	
+
 	spriteType = {
 		name = "GFX_idea_PRS_prussian_militarism"
 		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.dds"

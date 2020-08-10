@@ -14,8 +14,8 @@ set_war_support = 0.16
 
 set_politics = {
 	ruling_party = liberalism
-	last_election = "1931.2.6"
-	election_frequency = by evenrt
+	last_election = "1933.12.29"
+	election_frequency = 48
 	elections_allowed = yes
 }
 

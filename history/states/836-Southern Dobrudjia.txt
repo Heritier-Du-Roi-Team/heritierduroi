@@ -3,17 +3,17 @@ state={
 	id=836
 	name="STATE_836"
 	manpower = 378344
-	
+
 	state_category = rural
 
 	history={
-		owner = ROM	
+		owner = BUL	
 		victory_points = { 11597 1 }
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
-			
+
 		}
 		add_core_of = BUL
 		add_core_of = WAL
@@ -21,6 +21,6 @@ state={
 	}
 
 	provinces={
-		9614 11597 
+		9614 11597
 	}
 }

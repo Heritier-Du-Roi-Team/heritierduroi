@@ -13,22 +13,60 @@ set_stability = 0.73
 set_war_support = 0.58
 
 set_politics = {
-	ruling_party = authoritarian_democracy	
+	ruling_party = authoritarian_democracy
 	last_election = "1931.2.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 add_ideas = {
-prussian_militarism
+  prussian_militarism
 }
+
 set_popularities = {
-communism = 0
-radical_socialism = 0
-social_democracy = 0
-liberalism = 0
-conservatism = 7
-authoritarian_democracy	= 78
-absolute_authoritarianism =	15
-national_populism = 0
+  communism = 0
+  radical_socialism = 0
+  social_democracy = 0
+  liberalism = 0
+  conservatism = 7
+  authoritarian_democracy	= 78
+  absolute_authoritarianism =	15
+  national_populism = 0
+}
+
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = absolute_authoritarianism_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = { #
+	}
 }
