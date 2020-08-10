@@ -55,8 +55,8 @@ if = {
 
 set_convoys = 10
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1935.5.3"
+	ruling_party = liberalism
+	last_election = "1933.6.3"
 	election_frequency = 36
 	elections_allowed = yes
 }
@@ -70,11 +70,66 @@ set_popularities = {
 set_stability = 0.6
 
 create_country_leader = {
-	name = "Prince Paul"
-	desc = "POLITICS_PRINCE_PAUL_DESC"
-	picture = "Portrait_Yugoslavia_Prince_Paul.dds"
+	name = "Josip Broz Tito"
+	desc = "POLITICS_JOSIP_BROZ_TITO_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Živko Topalović"
+	desc = "POLITICS_ZIVKO_TOPALOVIC_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jovan Jovanović Pižon"
+	desc = "POLITICS_JOVAN_PIZON_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Svetozar Pribićević"
+	desc = "POLITICS_SVETOZAR_PRIBICEVIC_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Aca Stanojević"
+	desc = "POLITICS_ACA_STANOJEVIC_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Petar Živković"
+	desc = "POLITICS_PETAR_ZIVKOVIC_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy
 	traits = {
 		#
 	}
@@ -83,31 +138,20 @@ create_country_leader = {
 create_country_leader = {
 	name = "Milan Stojadinović"
 	desc = "POLITICS_MILAN_STOJADINOVIC_DESC"
-	picture = "gfx/leaders/YUG/Portrait_Yugoslavia_Milan_Stojadinovic.dds"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = absolute_authoritarianism_type
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Milan Grol"
-	desc = "POLITICS_MILAN_GROL_DESC"
-	picture = "gfx/leaders/YUG/Portrait_Yugoslavia_Milan_Grol.dds"
+	name = "Dimitrije Ljotić"
+	desc = "POLITICS_DIMITRIJE_LJOTIC_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = liberalism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Josip Broz Tito"
-	desc = "POLITICS_JOSIP_BROZ_TITO_DESC"
-	picture = "Portrait_Yugoslavia_Josip_Broz_Tito.dds"
-	expire = "1965.1.1"
-	ideology = leninism
+	ideology = national_populism_type
 	traits = {
 		#
 	}
