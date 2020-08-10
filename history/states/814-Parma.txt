@@ -13,12 +13,10 @@ state={
 			infrastructure = 4
 		}
 		add_core_of = ITA
-		add_core_of = PAR
-
 	}
 
 	provinces={
-		3773 3976 6790 9752 
+		3773 3976 6790 9752
 	}
 	manpower=320240
 	buildings_max_level_factor=1.000
