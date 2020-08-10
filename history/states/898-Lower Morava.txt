@@ -3,9 +3,8 @@ state={
 	name="STATE_898"
 
 	history={
-		owner = BUL
-    add_core_of = BUL
-		add_core_of = YUG
+		owner = YUG
+  		add_core_of = YUG
 		buildings = {
 			infrastructure = 4
 		}
@@ -14,7 +13,7 @@ state={
 	}
 
 	provinces={
-		6940 9756 9849 9874 9890 9906 11832 11857 11868 11887
+		6940 9849 9874 9890 9906 6998 6970 6953 3922 3939
 	}
 	manpower=603210
 	state_category=town
