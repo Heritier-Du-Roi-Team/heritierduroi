@@ -32,3 +32,40 @@ authoritarian_democracy	= 78
 absolute_authoritarianism =	15
 national_populism = 0
 }
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = absolute_authoritarianism_type
+	traits = { # 
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = { # 
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Wilhelm II"
+	desc = ""
+	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = { #
+	}
+}
+
