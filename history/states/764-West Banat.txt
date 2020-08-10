@@ -6,7 +6,10 @@ state={
 	state_category = rural
 
 	history={
-		owner = SER
+		owner = YUG
+		add_core_of = YUG
+		add_claim_by = HUN
+		add_claim_by = ROM
 
 		buildings = {
 			infrastructure = 6

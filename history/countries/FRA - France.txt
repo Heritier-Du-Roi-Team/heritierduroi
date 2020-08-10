@@ -163,7 +163,11 @@ add_to_faction = MOR
 add_to_faction = TUN
 
 add_ideas = {
-	#
+	FRA_Arms_Race
+	FRA_Industrial_Miracle
+	FRA_Old_Guard
+	FRA_French_Superiority
+	FRA_Bloody_Victory
 }
 
 give_military_access = ITA
@@ -189,7 +193,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = absolute_authoritarianism_type
 	traits = {
-		#
+		vive_l_emperor
 	}
 }
 
@@ -200,7 +204,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 	traits = {
-		#
+		vive_l_emperor
 	}
 }
 

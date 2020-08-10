@@ -18,17 +18,18 @@ set_politics = {
 	election_frequency = by evenrt
 	elections_allowed = yes
 }
-set_popularities = {
-communism = 7
-radical_socialism = 0
-social_democracy = 0
-liberalism = 42
-conservatism = 30
-authoritarian_democracy = 11
-absolute_authoritarianism = 0
-national_populism = 10
 
+set_popularities = {
+  communism = 7
+  radical_socialism = 0
+  social_democracy = 0
+  liberalism = 42
+  conservatism = 30
+  authoritarian_democracy = 11
+  absolute_authoritarianism = 0
+  national_populism = 10
 }
+
 create_country_leader = {
   name = "Prince Nicholas"
   desc = ""
@@ -69,5 +70,3 @@ create_country_leader = {
     #
   }
 }
-
-

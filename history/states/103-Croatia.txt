@@ -8,7 +8,8 @@ state={
 
 
 	history={
-		owner = CRO
+		owner = YUG
+		add_core_of = YUG
 		victory_points = {
 			3924 3
 		}
@@ -30,6 +31,6 @@ state={
 	}
 
 	provinces={
-		984 3868 3924 3974 6889 11816 3943 
+		984 3868 3924 3974 6889 11816 3943
 	}
 }

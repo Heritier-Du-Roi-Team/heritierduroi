@@ -38,6 +38,9 @@
  CHI_United_Qing_DEF:0 "Qing"
  CHI_United_Qing_ADJ:0 "Chinese"
 
+ RHI_subject:0 "$OVERLORDADJ$ Rhineland"
+ RHI_subject_DEF:0 "the $OVERLORDADJ$ Rhineland" 
+
 
 
  INS_HOL_democratic:0 "Dutch East Indies"

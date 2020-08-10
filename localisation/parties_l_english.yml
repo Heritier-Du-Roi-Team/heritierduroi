@@ -258,7 +258,7 @@
  PRS_absolute_authoritarianism_party_long:0 "Preußischer Militärbund"
  PRS_national_populism_party:0 "AdV"
  PRS_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Preußen"
- 
+
  # Rhineland
  RHI_communism_party:0 "KPD-R"
  RHI_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Rheinland"
@@ -276,7 +276,7 @@
  RHI_absolute_authoritarianism_party_long:0 "Rheinländische Militärregierung"
  RHI_national_populism_party:0 "AdV-R"
  RHI_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Rheinland"
-# Romania 
+# Romania
  ROM_communism_party:0 "PRT"
  ROM_communism_party_long:0 "Partidul Radical-Taranesc"
  ROM_radical_socialism_party:0 "PRT"
@@ -401,6 +401,24 @@
  WUR_absolute_authoritarianism_party_long:0 "Württembergische Militärclique"
  WUR_national_populism_party:0 "AdV-W"
  WUR_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Württemberg"
+
+# Yugoslavia
+ YUG_communism_party:0 "SKJ"
+ YUG_communism_party_long:0 "Savez Komunista Jugoslavije"
+ YUG_radical_socialism_party:0 "SPJ"
+ YUG_radical_socialism_party_long:0 "Socijalistička Partija Jugoslavije"
+ YUG_social_democracy_party:0 "NSS"
+ YUG_social_democracy_party_long:0 "Narodno-Socijalistička Stranka"
+ YUG_liberalism_party:0 "DS"
+ YUG_liberalism_party_long:0 "Demokratska Stranka"
+ YUG_conservatism_party:0 "Džemijet"
+ YUG_conservatism_party_long:0 "Džemijet"
+ YUG_authoritarian_democracy_party:0 "JNS"
+ YUG_authoritarian_democracy_party_long:0 "Jugoslavenska Nacionalna Stranka"
+ YUG_absolute_authoritarianism_party:0 "JRZ"
+ YUG_absolute_authoritarianism_party_long:0 "Jugoslovenska Radikalna Zajednica"
+ YUG_national_populism_party:0 "JNP"
+ YUG_national_populism_party_long:0 "Jugoslavenski Narodni Pokret"
 
 ### North America ###
 

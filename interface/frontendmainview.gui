@@ -238,9 +238,8 @@ guiTypes = {
 
 		ButtonType = {
 			name = "nudge_button"
-			position = { x = 158 y = 98 }
-			quadTextureSprite ="GFX_main_lobby_button"
-			buttonText = "Nudge!"
+			position = { x = 98 y = 98 }
+			quadTextureSprite ="homepage"
 			buttonFont = "hoi_24header"
 		}
 
@@ -256,7 +255,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "exit_button"
-			position = { x = 16 y = 310 }
+			position = { x = 158 y = 98 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"
 			text = "FE_EXIT"

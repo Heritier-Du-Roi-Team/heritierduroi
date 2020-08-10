@@ -5,6 +5,12 @@ leader_traits = {
 		political_power_factor = -0.10
 	}
 
+	vive_l_emperor = {
+		random = no
+		stability_factor = 0.05
+		political_power_gain = 0.10
+	}
+
 	dictator = {
 		random = no
 		political_power_factor = 0.25
