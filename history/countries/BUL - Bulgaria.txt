@@ -22,10 +22,10 @@ set_politics = {
 set_popularities = {
   communism = 0
   radical_socialism = 0
-  social_democracy = 0
-  liberalism = 0
-  conservatism = 0
-  authoritarian_democracy = 100
-  absolute_authoritarianism = 0
+  social_democracy = 7
+  liberalism = 10
+  conservatism = 13
+  authoritarian_democracy = 57
+  absolute_authoritarianism = 13
   national_populism = 0
 }

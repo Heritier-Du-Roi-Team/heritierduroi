@@ -13,19 +13,19 @@ set_stability = 0.79
 set_war_support = 0.16
 
 set_politics = {
-	ruling_party = authoritarian_democracy
+	ruling_party = absolute_authoritarianism
 	last_election = "1933.12.29"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
-  communism = 0
-  radical_socialism = 0
-  social_democracy = 0
-  liberalism = 0
-  conservatism = 0
-  authoritarian_democracy = 100
-  absolute_authoritarianism = 0
+  communism = 5
+  radical_socialism = 2
+  social_democracy = 20
+  liberalism = 15
+  conservatism = 18
+  authoritarian_democracy = 8
+  absolute_authoritarianism = 32
   national_populism = 0
 }
