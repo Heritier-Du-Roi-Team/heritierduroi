@@ -68,7 +68,7 @@ set_popularities = {
 	absolute_authoritarianism = 7
 	communism = 6
 	radical_socialism = 3
-	national_populism = 2
+	national_populism = 3
 }
 
 set_stability = 0.6
