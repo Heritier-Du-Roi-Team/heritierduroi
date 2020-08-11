@@ -69,6 +69,17 @@ absolute_authoritarianism =	5
 national_populism = 2
 }
 
+create_country_leader = {
+	name = "Prince Georg"
+	desc = "POLITICS_GEORG_SAXONY_DESC"
+	picture = "Portrait_Prince_Georg.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
 #create_country_leader = {
 #	name = "Dennis Fredauer"
 #	desc = ""

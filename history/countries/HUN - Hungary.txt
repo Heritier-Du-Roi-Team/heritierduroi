@@ -64,7 +64,7 @@ set_politics = {
 set_popularities = {
 communism = 7
 radical_socialism = 6
-social_democracy = 11 
+social_democracy = 11
 liberalism = 9
 conservatism = 12
 authoritarian_democracy	= 41
@@ -73,4 +73,170 @@ national_populism = 10
 }
 
 add_ideas = {
+}
+
+create_country_leader = {
+	name = "Ferenc Szálasi"
+	desc = "POLITICS_FERENEC_SZALASI_DESC"
+	picture = "Portrait_Ferenc_Szálasi.tga"
+	expire = "1965.1.1"
+	ideology = national_populism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Béla Imrédy"
+	desc = "POLITICS_BELA_IMREDY_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = absolute_authoritarianism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "István Horthy"
+	desc = "POLITICS_ISTVAN_HORTHY_DESC"
+	picture = "Portrait_Istvan_Horthy.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Zoltán Tildy"
+	desc = "POLITICS_ZOLTAN_TILDY_DESC"
+	picture = "Portrait_Zoltán_Tildy.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Rassay Károly"
+	desc = "POLITICS_RASSAY_KAROLY_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Szakasits Árpád"
+	desc = "POLITICS_SKAKASITS_ARPAD_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Korvin Ottó"
+	desc = "POLITICS_KORVIN_OTTO_DESC"
+	picture = "Portrait_Korvin_Ottó.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tibor Szamuely"
+	desc = "POLITICS_TIBOR_SZAMUELY_DESC"
+	picture = "Portrait_Tibor_Szamuely.tga"
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Imre Nagy"
+	desc = "POLITICS_IMRE_NAGY_DESC"
+	picture = "Portrait_Imre_Nagy.tga"
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Matyas Rákosi"
+	desc = "POLITICS_MATYAS_RAKOSI_DESC"
+	picture = "Portrait_Matyas_Rakosi.tga"
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+		#
+	}
+}
+
+
+create_corps_commander = {
+	name = "Géza Lakatos"
+	gfx = GFX_Portrait_hungary_geza_lakatos
+	traits = {  }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Iván Hindy"
+	gfx = GFX_Portrait_hungary_ivan_hindy
+	traits = {  trickster }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Károly Beregfy"
+	gfx = GFX_Portrait_hungary_karoly_beregfy
+	traits = { }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Lajos Veress"
+	gfx = GFX_Portrait_hungary_lajos_veress
+	traits = { armor_officer }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Ferenc Feketehalmy-Czeydner"
+	gfx = GFX_Portrait_hungary_ferenc_feketehalmy_czeydner
+	traits = { }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
 }
