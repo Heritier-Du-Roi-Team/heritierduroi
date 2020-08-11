@@ -176,7 +176,7 @@ set_popularities = {
 	liberalism = 21
 	radical_socialism = 20
 	communism = 7
-	absolute_authoritarianism = 9
+	paternal_autocrat = 9
 	national_populism = 2
 }
 

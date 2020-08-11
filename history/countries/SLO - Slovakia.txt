@@ -26,7 +26,7 @@ set_popularities = {
   liberalism = 0
   conservatism = 0
   authoritarian_democracy = 
-  absolute_authoritarianism = 0
+  paternal_autocrat = 0
   national_populism = 0
 }
 create_country_leader = {
@@ -54,7 +54,7 @@ create_country_leader = {
 	desc = "POLITICS_RUDOLF_VIEST_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

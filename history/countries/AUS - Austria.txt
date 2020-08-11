@@ -33,7 +33,7 @@ set_politics = {
 set_popularities = {
 	conservatism = 32
 	social_democracy = 28
-	absolute_authoritarianism = 19
+	paternal_autocrat = 19
 	authoritarian_democracy = 1
 	communism = 10
 	radical_socialism = 7
@@ -124,7 +124,7 @@ create_country_leader = {
 	desc = "POLITICS_HABSBURG_DESC"
 	picture = "Portrait_Otto_von_Habsburg.tga"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

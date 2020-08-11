@@ -68,7 +68,7 @@ social_democracy = 11
 liberalism = 9
 conservatism = 12
 authoritarian_democracy	= 41
-absolute_authoritarianism =	4
+paternal_autocrat =	4
 national_populism = 10
 }
 
@@ -91,7 +91,7 @@ create_country_leader = {
 	desc = "POLITICS_BELA_IMREDY_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

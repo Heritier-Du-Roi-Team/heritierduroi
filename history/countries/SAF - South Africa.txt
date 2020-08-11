@@ -64,7 +64,7 @@ set_popularities = {
 	authoritarian_democracy = 30
 	social_democracy = 15
 	liberalism = 10
-	absolute_authoritarianism = 5
+	paternal_autocrat = 5
 	national_populism = 4
 	communism = 2
 }
@@ -107,7 +107,7 @@ create_country_leader = {
 	desc = "POLITICS_C_R_SWART_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

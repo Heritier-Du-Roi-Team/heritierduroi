@@ -23,7 +23,7 @@ set_popularities = {
 	authoritarian_democracy = 36
 	conservatism = 29
 	liberalism = 18
-	absolute_authoritarianism = 8
+	paternal_autocrat = 8
 	national_populism = 6
 	communism = 2
 	radical_socialism = 1
@@ -67,7 +67,7 @@ create_country_leader = {
 	desc = "POLITICS_MOMULU_MASSAQUOI_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

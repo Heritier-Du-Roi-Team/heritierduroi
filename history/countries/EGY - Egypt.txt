@@ -38,7 +38,7 @@ set_popularities = {
 	conservatism = 25
 	national_populism = 15
 	authoritarian_democracy = 13
-	absolute_authoritarianism = 12
+	paternal_autocrat = 12
 	social_democracy = 12
 	liberalism = 11
 	radical_socialism = 11
@@ -61,7 +61,7 @@ create_country_leader = {
 	desc = "POLITICS_FARKOUK_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

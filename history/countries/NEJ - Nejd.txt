@@ -31,7 +31,7 @@ create_country_leader = {
   desc = "POLITICS_ABDULLAH_DESC"
   picture = "Portrait_Hashemites_Abdullah_I.dds"
   expire = "1965.1.1"
-  ideology = absolute_authoritarianism_type
+  ideology = paternal_autocrat_type
   traits = {
     #
   }

@@ -99,13 +99,13 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = absolute_authoritarianism
+	ruling_party = paternal_autocrat
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	absolute_authoritarianism = 60
+	paternal_autocrat = 60
 	conservatism = 13
 	liberalism = 10
 	national_populism = 10
@@ -143,7 +143,7 @@ if = {
 
 RHI = {
 	set_politics = {
-		ruling_party = absolute_authoritarianism
+		ruling_party = paternal_autocrat
 		last_election = "1931.2.6"
 		election_frequency = 48
 		elections_allowed = no
@@ -151,7 +151,7 @@ RHI = {
 
 	set_popularities = {
 		authoritarian_democracy	= 25
-		absolute_authoritarianism = 50
+		paternal_autocrat = 50
 		national_populism = 25
 	}
 }
@@ -191,7 +191,7 @@ create_country_leader = {
 	desc = "POLITICS_NAPOLEON_VI_DESC"
 	picture = "Portrait_France_Napoleon_VI.tga"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		vive_l_emperor
 	}

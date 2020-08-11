@@ -226,7 +226,7 @@ create_country_leader = {
 	desc = "POLITICS_HOWARD_SCOTT_DESC"
 	picture = "Portrait_USA_Howard_Scott.tga"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

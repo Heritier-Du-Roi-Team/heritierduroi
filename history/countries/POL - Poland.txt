@@ -68,7 +68,7 @@ set_popularities = {
 	conservatism = 45
 	liberalism = 21
 	authoritarian_democracy = 15
-	absolute_authoritarianism = 11
+	paternal_autocrat = 11
 	social_democracy = 6
 	national_populism = 1
 	communism = 1
@@ -134,7 +134,7 @@ create_country_leader = {
 	desc = "POLITICS_EDWARD_SMIGLY_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

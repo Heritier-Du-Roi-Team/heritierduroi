@@ -30,7 +30,7 @@ set_popularities = {
   liberalism = 0
   conservatism = 7
   authoritarian_democracy	= 78
-  absolute_authoritarianism =	15
+  paternal_autocrat =	15
   national_populism = 0
 }
 
@@ -39,7 +39,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/PRS/Wilhelm_II.dds"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = { #
 	}
 }

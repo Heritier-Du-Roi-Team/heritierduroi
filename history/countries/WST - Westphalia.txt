@@ -13,7 +13,7 @@ set_stability = 0.79
 set_war_support = 0.16
 
 set_politics = {
-	ruling_party = absolute_authoritarianism
+	ruling_party = paternal_autocrat
 	last_election = "1931.2.6"
 	election_frequency = 48
 	elections_allowed = no
@@ -25,6 +25,6 @@ social_democracy = 18
 liberalism = 3
 conservatism = 9
 authoritarian_democracy	= 6
-absolute_authoritarianism =	32
+paternal_autocrat =	32
 national_populism = 9
 }

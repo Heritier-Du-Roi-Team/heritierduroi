@@ -56,12 +56,12 @@
 
   # PatAut #
 
-  absolute_authoritarianism:0 "Paternal Autocratic"
-  absolute_authoritarianism_desc:0 "Paternal Autocracy"
-  absolute_authoritarianism_noun:0 "Authoritarian Regime"
+  paternal_autocrat:0 "Paternal Autocratic"
+  paternal_autocrat_desc:0 "Paternal Autocracy"
+  paternal_autocrat_noun:0 "Authoritarian Regime"
 
-  absolute_authoritarianism_type:0 "Paternal Autocratic"
-  absolute_authoritarianism_type_desc:0 ""
+  paternal_autocrat_type:0 "Paternal Autocratic"
+  paternal_autocrat_type_desc:0 ""
 
   # NatPop#
 

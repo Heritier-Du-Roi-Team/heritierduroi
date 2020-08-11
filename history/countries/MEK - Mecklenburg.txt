@@ -68,7 +68,7 @@ social_democracy = 26
 liberalism = 0
 conservatism = 17
 authoritarian_democracy	= 51
-absolute_authoritarianism =	3
+paternal_autocrat =	3
 national_populism = 1
 }
 

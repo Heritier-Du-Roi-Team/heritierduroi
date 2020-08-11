@@ -65,7 +65,7 @@ set_popularities = {
 	conservatism = 22
 	authoritarian_democracy = 15
 	social_democracy = 14
-	absolute_authoritarianism = 7
+	paternal_autocrat = 7
 	communism = 6
 	radical_socialism = 3
 	national_populism = 3
@@ -144,7 +144,7 @@ create_country_leader = {
 	desc = "POLITICS_MILAN_STOJADINOVIC_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

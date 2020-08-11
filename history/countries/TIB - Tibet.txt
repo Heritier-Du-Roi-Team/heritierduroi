@@ -8,13 +8,13 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = absolute_authoritarianism
+	ruling_party = paternal_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	absolute_authoritarianism = 83
+	paternal_autocrat = 83
 	national_populism = 8
 	radical_socialism = 5
 	conservatism = 4
@@ -25,7 +25,7 @@ create_country_leader = {
 	desc = "POLITICS_JAMPHEL_YESHE_GYALTSEN_DESC"
 	picture = "Portrait_Tibet_Jamphel_Yeshe_Gyaltsen.dds"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

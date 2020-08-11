@@ -125,7 +125,7 @@ form_germany_category = {
 			}
 			if = {
 				limit = {
-					has_government = absolute_authoritarianism
+					has_government = paternal_autocrat
 				}
 
 				country_event = { id = HDR_Unite.2 }

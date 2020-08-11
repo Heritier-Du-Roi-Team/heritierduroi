@@ -16,13 +16,13 @@ add_ideas = {
 set_convoys = 5
 
 set_politics = {
-	ruling_party = absolute_authoritarianism
+	ruling_party = paternal_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	absolute_authoritarianism = 80
+	paternal_autocrat = 80
 	authoritarian_democracy = 20
 }
 
@@ -31,7 +31,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = absolute_authoritarianism_type
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}

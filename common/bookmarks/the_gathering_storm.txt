@@ -44,7 +44,7 @@ bookmarks = {
 
 		"FRA" = {
 			history = "FRA_GATHERING_STORM_DESC"
-			ideology = absolute_authoritarianism
+			ideology = paternal_autocrat
 			ideas = {
 				#
 			}
