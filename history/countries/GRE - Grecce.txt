@@ -20,12 +20,12 @@ set_politics = {
 }
 
 set_popularities = {
-  communism = 0
-  radical_socialism = 0
-  social_democracy = 0
-  liberalism = 0
-  conservatism = 0
+  communism = 6
+  radical_socialism = 4
+  social_democracy = 13
+  liberalism = 19
+  conservatism = 24
   authoritarian_democracy = 0
-  paternal_autocrat = 45
-  national_populism = 0
+  paternal_autocrat = 27
+  national_populism = 7
 }
