@@ -11,6 +11,16 @@ spriteTypes = {
 	### new tfv nat spirit icons
 
 	spriteType = {
+		name = "GFX_idea_SAF_afrikaner_nationalists"
+		texturefile = "gfx/interface/ideas/SAF_Afrikaner_Nationalism.tga"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SAF_smuts_reforms"
+		textureFile = "gfx/interface/ideas/SAF_Smuts_Reforms.tga"
+	}
+
+	spriteType = {
 		name = "GFX_idea_YUG_King_George"
 		textureFile = "gfx/interface/ideas/YUG_King_George.dds"
 	}

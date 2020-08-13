@@ -45,6 +45,10 @@
  AST_UK_autonomy_dominion_DEF:0 "the Federation of Australasia"
  AST_UK_subject:0 "$OVERLORDADJ$ Oceania"
 
+ NOR_SWE:0 "Kingdom of Norway"
+ NOR_SWE_DEF:0 "the Kingdom of Norway"
+ NOR_SWE_ADJ:0 "Norwegian"
+
 
 
  INS_HOL_democratic:0 "Dutch East Indies"

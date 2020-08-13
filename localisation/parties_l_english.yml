@@ -95,7 +95,7 @@
  ALB_paternal_autocrat_party:0 "Wied"
  ALB_paternal_autocrat_party_long:0 "Shtëpia e Wied"
  ALB_national_populism_party:0 "PUKS"
- ALB_national_populism_party_long:0 "Partia e Unitetit Kombëtar i Shqipërisë" 
+ ALB_national_populism_party_long:0 "Partia e Unitetit Kombëtar i Shqipërisë"
 
 # Baden
  BAD_communism_party:0 "KPD-B"
@@ -131,8 +131,8 @@
  BAV_paternal_autocrat_party:0 "Militärclique"
  BAV_paternal_autocrat_party_long:0 "Bayrische Militärclique"
  BAV_national_populism_party:0 "AdV-B"
- BAV_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Bayern" 
- 
+ BAV_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Bayern"
+
 # Bulgaria
  BUL_communism_party:0 "BKP"
  BUL_communism_party_long:0 "Bëlgarska Komunističeska Partija"
@@ -149,7 +149,7 @@
  BUL_paternal_autocrat_party:0 "Sakskoburggot"
  BUL_paternal_autocrat_party_long:0 "Kŭshta na Sakskoburggot·ski i Gota"
  BUL_national_populism_party:0 "NSD"
- BUL_national_populism_party_long:0 "Narodno sotsialno dvizhenie" 
+ BUL_national_populism_party_long:0 "Narodno sotsialno dvizhenie"
 
 # Great Britain
  ENG_communism_party:0 "CP (BSTI)"
@@ -255,7 +255,7 @@
  GRE_paternal_autocrat_party:0 "Gioúlksmpournk"
  GRE_paternal_autocrat_party_long:0 "Spíti tou Slésvich-Chólstaïn-Sóntermpournk-Gioúlksmpournk"
  GRE_national_populism_party:0 "EEE"
- GRE_national_populism_party_long:0 " Ethniki Enosis Ellados" 
+ GRE_national_populism_party_long:0 " Ethniki Enosis Ellados"
 
 # Mecklenburg
  MEK_communism_party:0 "KPD-M"
@@ -274,6 +274,24 @@
  MEK_paternal_autocrat_party_long:0 "Mecklenburgische Militärclique"
  MEK_national_populism_party:0 "AdV-M"
  MEK_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Mecklenburg-Strelitz"
+
+# Norway
+ NOR_communism_party:0 ""
+ NOR_communism_party_long:0 ""
+ NOR_radical_socialism_party:0 ""
+ NOR_radical_socialism_party_long:0 ""
+ NOR_social_democracy_party:0 ""
+ NOR_social_democracy_party_long:0 ""
+ NOR_liberalism_party:0 ""
+ NOR_liberalism_party_long:0 ""
+ NOR_conservatism_party:0 ""
+ NOR_conservatism_party_long:0 ""
+ NOR_authoritarian_democracy_party:0 ""
+ NOR_authoritarian_democracy_party_long:0 ""
+ NOR_paternal_autocrat_party:0 "Bernadotte"
+ NOR_paternal_autocrat_party_long:0 "House of Bernadotte"
+ NOR_national_populism_party:0 "NS"
+ NOR_national_populism_party_long:0 "Nasjonal Samling" 
 
 # Oldenburg
  OLD_communism_party:0 "KPD-O"
@@ -399,6 +417,7 @@
  SCH_paternal_autocrat_party_long:0 "Schlewig-Holsteinische Militärclique"
  SCH_national_populism_party:0 "AdV-SH"
  SCH_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Schleswig-Holstein"
+
 # Slovakia
  SLO_communism_party:0 "SKS"
  SLO_communism_party_long:0 "Slovenská komunistická strana"
@@ -415,7 +434,25 @@
  SLO_paternal_autocrat_party:0 "Armáda"
  SLO_paternal_autocrat_party_long:0 "Slovenská armáda"
  SLO_national_populism_party:0 "HSĽS-SSNJ"
- SLO_national_populism_party_long:0 "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty" 
+ SLO_national_populism_party_long:0 "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty"
+
+# Sweden
+ SWE_communism_party:0 ""
+ SWE_communism_party_long:0 ""
+ SWE_radical_socialism_party:0 ""
+ SWE_radical_socialism_party_long:0 ""
+ SWE_social_democracy_party:0 "SSA"
+ SWE_social_democracy_party_long:0 "Sveriges Socialdemokratiska Arbetareparti"
+ SWE_liberalism_party:0 "FL"
+ SWE_liberalism_party_long:0 "Frisinnade Landsföreningen"
+ SWE_conservatism_party:0 "CP"
+ SWE_conservatism_party_long:0 "Centerpartiet"
+ SWE_authoritarian_democracy_party:0 ""
+ SWE_authoritarian_democracy_party_long:0 ""
+ SWE_paternal_autocrat_party:0 "Bernadotttes"
+ SWE_paternal_autocrat_party_long:0 "Bernadottes Hus"
+ SWE_national_populism_party:0 "NA"
+ SWE_national_populism_party_long:0 "Nationalsocialistiska Arbetarepartiet"
 
 # Thuringia
  THU_communism_party:0 "KPD-T"
