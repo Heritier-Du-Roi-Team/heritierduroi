@@ -132,6 +132,24 @@
  BAV_paternal_autocrat_party_long:0 "Bayrische Militärclique"
  BAV_national_populism_party:0 "AdV-B"
  BAV_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Bayern"
+ 
+#Belguim
+ BEL_communism_party:0 "PCB/KPB"
+ BEL_communism_party_long:0 "Parti Communiste de Belgique/Kommunistische Partij van België"
+ BEL_radical_socialism_party:0 "POB/BWP"
+ BEL_radical_socialism_party_long:0 "Parti Ouvrier Belge/Belgische Werkliedenpartij"
+ BEL_social_democracy_party:0 "POB/BWP"
+ BEL_social_democracy_party_long:0 "Parti Ouvrier Belge/Belgische Werkliedenpartij"
+ BEL_liberalism_party:0 "PL/LP"
+ BEL_liberalism_party_long:0 "Parti libéral/Liberale Partij"
+ BEL_conservatism_party:0 "PC/KP"
+ BEL_conservatism_party_long:0 " Parti catholique/Katholieke Parti"
+ BEL_authoritarian_democracy_party:0 "Militaire/Leger"
+ BEL_authoritarian_democracy_party_long:0 "Forces armées belges/Belgische strijdkrachten"
+ BEL_paternal_autocrat_party:0 "Saxe-Cobourg/Saksen-Coburg"
+ BEL_paternal_autocrat_party_long:0 "Maison de Saxe-Cobourg et Gotha/Huis van Saksen-Coburg en Gotha"
+ BEL_national_populism_party:0 "REX"
+ BEL_national_populism_party_long:0 "Parti Rexiste/Rexist-partij" 
 
 # Bulgaria
  BUL_communism_party:0 "BKP"
@@ -186,6 +204,25 @@
  FRA_paternal_autocrat_party_long:0 "Maison Bonaparte"
  FRA_national_populism_party:0 "AF"
  FRA_national_populism_party_long:0 "Action Française"
+ 
+# Finnland
+ FIN_communism_party:0 "SKP"
+ FIN_communism_party_long:0 "Suomen Kommunistinen Puolue"
+ FIN_radical_socialism_party:0 "SKP-S"
+ FIN_radical_socialism_party_long:0 "Suomen Kommunistinen Puolue - sosialisti"
+ FIN_social_democracy_party:0 "SDP"
+ FIN_social_democracy_party_long:0 "Suomen sosialidemokraattinen puolue"
+ FIN_liberalism_party:0 "KE"
+ FIN_liberalism_party_long:0 "Kansallinen Edistyspuolue"
+ FIN_conservatism_party:0 "KOK"
+ FIN_conservatism_party_long:0 "Kansallinen Kokoomus"
+ FIN_authoritarian_democracy_party:0 "SP"
+ FIN_authoritarian_democracy_party_long:0 "Suomen puolustusvoimat"
+ FIN_paternal_autocrat_party:0 ""
+ FIN_paternal_autocrat_party_long:0 ""
+ FIN_national_populism_party:0 "IK"
+ FIN_national_populism_party_long:0 "Isänmaallinen kansanliike" 
+ 
 
 # Hannover
  HAN_communism_party:0 "KPD-H"
@@ -205,6 +242,7 @@
  HAN_national_populism_party:0 "AdV-H"
  HAN_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hannover"
 
+
 # Hessen
  HES_communism_party:0 "KPD-H"
  HES_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Hessen"
@@ -222,6 +260,25 @@
  HES_paternal_autocrat_party_long:0 "Hessische Militärclique"
  HES_national_populism_party:0 "AdV-H"
  HES_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hessen"
+ 
+ #Holland
+ HOL_communism_party:0 "CPN"
+ HOL_communism_party_long:0 "Communistische Partij Nederland"
+ HOL_radical_socialism_party:0 "RSP"
+ HOL_radical_socialism_party_long:0 "Revolutionair Socialistische Parti"
+ HOL_social_democracy_party:0 "SDAP"
+ HOL_social_democracy_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+ HOL_liberalism_party:0 "LSP"
+ HOL_liberalism_party_long:0 "Liberale Staatspartij"
+ HOL_conservatism_party:0 "ARP"
+ HOL_conservatism_party_long:0 "Anti-Revolutionaire Partij"
+ HOL_authoritarian_democracy_party:0 "SP"
+ HOL_authoritarian_democracy_party_long:0 "Suomen puolustusvoimat"
+ HOL_paternal_autocrat_party:0 "Oranje-Nassau"
+ HOL_paternal_autocrat_party_long:0 "Huis van Oranje-Nassau"
+ HOL_national_populism_party:0 "ANFB"
+ HOL_national_populism_party_long:0 "Algemeene Nederlandsche Fascisten Bond" 
+ 
 # Hungary
  HUN_communism_party:0 "KMP"
  HUN_communism_party_long:0 "Kommunisták Magyarországi Pártja"
@@ -239,6 +296,7 @@
  HUN_paternal_autocrat_party_long:0 "Magyar Honvédség"
  HUN_national_populism_party:0 "NAP"
  HUN_national_populism_party_long:0 "Nemzet Akaratának Pártja"
+ 
 # Grecce
  GRE_communism_party:0 "KKE"
  GRE_communism_party_long:0 "Kommounistikó Kómma Elládas"
