@@ -1,3 +1,4 @@
+
 state={
 	id=858
 	name="STATE_858"
@@ -9,12 +10,15 @@ state={
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
+
 		}
+
 	}
 
 	provinces={
-		1296 1315 1385 1403 4275 4348 4408 7295 10193 10217 12125 12238 12292
+		1296 1315 1385 1403 4275 4348 4408 7295 10193 10217 12125 12238 12292 
 	}
 	manpower=653400
+	buildings_max_level_factor=1.000
 	state_category=town
 }

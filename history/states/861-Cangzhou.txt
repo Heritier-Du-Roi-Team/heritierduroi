@@ -1,3 +1,4 @@
+
 state={
 	id=861
 	name="STATE_861"
@@ -8,12 +9,15 @@ state={
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 4
+
 		}
+
 	}
 
 	provinces={
-		1084 4137 4144 7160 7189 9969 10003 10119 11944 11962 11980 11996 12093
+		1084 4137 7160 7189 9969 10003 10119 11944 11962 11980 11996 12093 
 	}
 	manpower=5743600
+	buildings_max_level_factor=1.000
 	state_category=town
 }

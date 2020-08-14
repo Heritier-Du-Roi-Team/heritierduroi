@@ -32,7 +32,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_PRS_prussian_militarism"
-		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.dds"
+		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.tga"
 	}
 
 	spriteType = {

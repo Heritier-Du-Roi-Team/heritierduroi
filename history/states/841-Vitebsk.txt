@@ -1,25 +1,28 @@
+
 state={
 	id=841
 	name="STATE_841"
-	manpower =  606353
-
-	state_category = town
 
 	history={
 		owner = RUS
 		add_core_of = POL
 		victory_points = {
-			11241 5
+			11241 5 
 		}
 		buildings = {
 			infrastructure = 5
 			air_base = 5
+
 		}
 		add_core_of = RUS
 		add_core_of = BLR
+
 	}
 
 	provinces={
-		11220 11241
+		11220 11241 
 	}
+	manpower=606353
+	buildings_max_level_factor=1.000
+	state_category=town
 }
