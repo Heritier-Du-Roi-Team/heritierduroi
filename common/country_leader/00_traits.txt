@@ -1,5 +1,10 @@
 leader_traits = {
 
+	military_government = {
+		random = no
+		stability_factor = -0.05
+	}
+
 	foreigner = {
 		random = no
 		political_power_factor = -0.10
@@ -3485,4 +3490,3 @@ leader_traits = {
 			}
 		}
 	}
-}

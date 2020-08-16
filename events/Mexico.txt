@@ -1,0 +1,27 @@
+add_namespace = Mexico
+
+country_event = {
+	id = Mexico.1
+	title = Mexico.1.t
+	desc = Mexico.1.d
+	picture = GFX_report_MEX_victoriano_huerta_funeral
+
+	is_triggered_only = yes
+
+	option = {
+		name = Mexico.1.a
+
+		kill_country_leader = yes
+
+		create_country_leader = {
+			name = "Military Council"
+			desc = ""
+			picture = ""
+			expire = "1965.1.1"
+			ideology = authoritarian_democracy_type
+		}
+
+		add_stability = -0.05
+	}
+
+}
