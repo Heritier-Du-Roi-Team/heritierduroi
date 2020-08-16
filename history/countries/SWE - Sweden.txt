@@ -74,6 +74,18 @@ set_autonomy = {
 
 NOR = {
 	set_cosmetic_tag = NOR_SWE
+	set_politics = {
+	ruling_party = liberalism
+	last_election = "1932.9.18"
+	election_frequency = 48
+	elections_allowed = no
+	}
+set_popularities = {
+	national_populism = 5
+	conservatism = 45
+	liberalism = 50
+	}
+
 }
 
 create_faction = "United Kingdoms"
@@ -81,17 +93,16 @@ add_to_faction = SWE
 add_to_faction = NOR
 
 set_politics = {
-	ruling_party = social_liberalism
+	ruling_party = liberalism
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	integrism = 5
-	socialist = 24
-	social_conservatism = 32
-	social_liberalism = 35
-	totalist = 4
+	national_populism = 5
+	conservatism = 45
+	liberalism = 50
+	
 }
 
 set_convoys = 65
