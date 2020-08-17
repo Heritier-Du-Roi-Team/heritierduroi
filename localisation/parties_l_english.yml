@@ -584,25 +584,27 @@
  YUG_national_populism_party:0 "JNP"
  YUG_national_populism_party_long:0 "Jugoslavenski Narodni Pokret"
 
+### Middle East ###
+
 ### North America ###
 
  # Mexico
- MEX_communism_party:0 "Communist"
- MEX_communism_party_long:0 "Communist"
- MEX_radical_socialism_party:0 "Radical Socialist"
- MEX_radical_socialism_party_long:0 "Radical Socialist"
- MEX_social_democracy_party:0 "Social Democracy"
- MEX_social_democracy_party_long:0 "Social Democracy"
- MEX_liberalism_party:0 "Liberalism"
- MEX_liberalism_party_long:0 "Liberalism"
+ MEX_communism_party:0 "-"
+ MEX_communism_party_long:0 "-"
+ MEX_radical_socialism_party:0 "-"
+ MEX_radical_socialism_party_long:0 "-"
+ MEX_social_democracy_party:0 "-"
+ MEX_social_democracy_party_long:0 "-"
+ MEX_liberalism_party:0 "-"
+ MEX_liberalism_party_long:0 "-"
  MEX_conservatism_party:0 "PAN"
  MEX_conservatism_party_long:0 "Partido Acción Nacional"
  MEX_authoritarian_democracy_party:0 "Huertistas"
  MEX_authoritarian_democracy_party_long:0 "Huertistas"
- MEX_paternal_autocrat_party:0 "Paternal Autocratic"
- MEX_paternal_autocrat_party_long:0 "Paternal Autocratic"
- MEX_national_populism_party:0 "National Populist"
- MEX_national_populism_party_long:0 "National Populist"
+ MEX_paternal_autocrat_party:0 "-"
+ MEX_paternal_autocrat_party_long:0 "-"
+ MEX_national_populism_party:0 "-"
+ MEX_national_populism_party_long:0 "-"
 
  # United States
  USA_communism_party:0 "ACP"

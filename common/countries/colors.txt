@@ -205,7 +205,7 @@ SAU = {
 	color = rgb { 134 186 160 }
 	color_ui = rgb { 134 186 160 }
 }
-NEJ = {
+HEJ = {
 	color = rgb { 84 91 55 }
 	color_ui = rgb { 84 91 55 }
 }

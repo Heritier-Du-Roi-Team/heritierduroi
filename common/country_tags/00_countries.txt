@@ -10,7 +10,7 @@ FEN = "countries/Fengtien Clique.txt"
 SHD = "countries/Shandong Clique.txt"
 SCL = "countries/Sichuan Clique.txt"
 #RAJ = "countries/India.txt"
-NEJ = "countries/Nejd.txt"
+HEJ = "countries/Nejd.txt"
 OTT = "countries/Ottomans.txt"
 #RIY = "countries/Riyad.txt"
 

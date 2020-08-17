@@ -7,7 +7,7 @@ state={
 
 	history={
 		add_core_of = QAT
-		add_claim_by = NEJ
+		add_claim_by = HEJ
 		add_claim_by = SAU
 		owner = ENG
 		victory_points = {

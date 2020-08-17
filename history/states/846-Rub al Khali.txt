@@ -7,11 +7,11 @@ state = {
   impassable = yes
 
 	history={
-		owner = NEJ
+		owner = HEJ
 		buildings = {
 			infrastructure = 9
 		}
-		add_core_of = NEJ
+		add_core_of = HEJ
 		add_core_of = SAU
 	}
 
