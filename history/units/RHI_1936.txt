@@ -1,0 +1,50 @@
+division_template = {
+	name = "Rheinische Garde Division"				
+
+	division_names_group = Rhineland_cocksuckers
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+
+units = { 
+	#Royal Rhenish Army# 
+
+	division= {	
+		#ame = "1. Rheinische Selbstverteidigungskräfte"
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 587
+		division_template = "Rheinische Garde Division"
+		start_experience_factor = 0.3
+	}
+	division= {	
+		#ame = "2. Rheinische Selbstverteidigungskräfte"
+		division_name = {
+				is_name_ordered = yes
+				name_order = 2
+		}
+		location = 587
+		division_template = "Rheinische Garde Division"
+		start_experience_factor = 0.3
+	}
+	division= {	
+		#ame = "3. Rheinische Selbstverteidigungskräfte"
+		division_name = {
+				is_name_ordered = yes
+				name_order = 4
+		}
+		location = 587
+		division_template = "Rheinische Garde Division"
+		start_experience_factor = 0.3
+	}
+
+
