@@ -186,6 +186,24 @@
  ENG_paternal_autocrat_party_long:0 "-"
  ENG_national_populism_party:0 "BUP"
  ENG_national_populism_party_long:0 "British Union of Fascists"
+ 
+ #Estonia
+ EST_communism_party:0 "EKP"
+ EST_communism_party_long:0 "Eestimaa Kommunistlik Partei"
+ EST_radical_socialism_party:0 "ERSP"
+ EST_radical_socialism_party_long:0 "Eesti Radikaalsotsialistlik Partei"
+ EST_social_democracy_party:0 "ESTP"
+ EST_social_democracy_party_long:0 "Eesti Sotsialistlik Tööliste Partei"
+ EST_liberalism_party:0 "RVP"
+ EST_liberalism_party_long:0 "Rahvuslik Vabameelne Partei"
+ EST_conservatism_party:0 "PK"
+ EST_conservatism_party_long:0 "Põllumeeste Kogud"
+ EST_authoritarian_democracy_party:0 "Relvajõud"
+ EST_authoritarian_democracy_party_long:0 "Eesti relvajõud"
+ EST_paternal_autocrat_party:0 "-"
+ EST_paternal_autocrat_party_long:0 "-"
+ EST_national_populism_party:0 "EVL"
+ EST_national_populism_party_long:0 "Eesti Vabadussõjalaste Liit" 
 
 # France
  FRA_communism_party:0 "PCF"
@@ -314,6 +332,24 @@
  GRE_paternal_autocrat_party_long:0 "Spíti tou Slésvich-Chólstaïn-Sóntermpournk-Gioúlksmpournk"
  GRE_national_populism_party:0 "EEE"
  GRE_national_populism_party_long:0 " Ethniki Enosis Ellados"
+ 
+#Latvia
+ LAT_communism_party:0 "LKP"
+ LAT_communism_party_long:0 "Latvijas Komunistiskā partija"
+ LAT_radical_socialism_party:0 "LKP-SS"
+ LAT_radical_socialism_party_long:0 "Latvijas komunistiskā partija - sociālisma spārns"
+ LAT_social_democracy_party:0 "LSDSP"
+ LAT_social_democracy_party_long:0 "Latvijas Sociāldemokrātiskā strādnieku partija"
+ LAT_liberalism_party:0 "-"
+ LAT_liberalism_party_long:0 "-"
+ LAT_conservatism_party:0 "LZS"
+ LAT_conservatism_party_long:0 "Latvijas Zemnieku savienība"
+ LAT_authoritarian_democracy_party:0 "-"
+ LAT_authoritarian_democracy_party_long:0 "-"
+ LAT_paternal_autocrat_party:0 "Latvijas bruņotie spēki"
+ LAT_paternal_autocrat_party_long:0 "Latvijas bruņotie spēki"
+ LAT_national_populism_party:0 "NA"
+ LAT_national_populism_party_long:0 "Nacionālā apvienība" 
 
 # Mecklenburg
  MEK_communism_party:0 "KPD-M"
@@ -589,12 +625,12 @@
 ### North America ###
 
  # Mexico
- MEX_communism_party:0 "-"
- MEX_communism_party_long:0 "-"
- MEX_radical_socialism_party:0 "-"
- MEX_radical_socialism_party_long:0 "-"
- MEX_social_democracy_party:0 "-"
- MEX_social_democracy_party_long:0 "-"
+ MEX_communism_party:0 "PCM"
+ MEX_communism_party_long:0 "Partido Comunista Mexicano"
+ MEX_radical_socialism_party:0 "Zapatistas"
+ MEX_radical_socialism_party_long:0 "Zapatistas"
+ MEX_social_democracy_party:0 "PLM"
+ MEX_social_democracy_party_long:0 "Partido Laborista Mexicano"
  MEX_liberalism_party:0 "-"
  MEX_liberalism_party_long:0 "-"
  MEX_conservatism_party:0 "PAN"

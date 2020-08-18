@@ -16,7 +16,7 @@ country_event = {
 		create_country_leader = {
 			name = "Military Council"
 			desc = ""
-			picture = ""
+			picture = "gfx/leaders/MEX/Mexican_Junta.tga"
 			expire = "1965.1.1"
 			ideology = authoritarian_democracy_type
 		}
