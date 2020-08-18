@@ -21,6 +21,7 @@ set_politics = {
 
 add_ideas = {
   prussian_militarism
+  prussian_revanchism
 }
 
 set_popularities = {

@@ -28,6 +28,25 @@ ideas = {
 			planning_speed	= 0.10
 			}
 		}
+		prussian_revanchism = {
+			allowed = {
+				always = no
+				}
+			alowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = PRS_prussian_revanchism
+			
+			modifier = {
+			war_support_factor = 0.10	
+			}
+			targeted_modifier = {
+				tag = FRA
+				attack_bonus_against = 0.15
+				defense_bonus_against = 0.15
+			}
+		}
 		sour_loser = {
 			
 			allowed = {

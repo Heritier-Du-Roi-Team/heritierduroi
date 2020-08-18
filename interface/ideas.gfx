@@ -34,6 +34,10 @@ spriteTypes = {
 		name = "GFX_idea_PRS_prussian_militarism"
 		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.tga"
 	}
+	spriteType = {
+		name = "GFX_idea_PRS_prussian_revanchism"
+		texturefile = "gfx/interface/ideas/PRS_prussian_revanchism.tga"
+	}
 
 	spriteType = {
 		name = "GFX_idea_USA_divisive_politics"
