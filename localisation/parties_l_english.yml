@@ -659,6 +659,24 @@
  SWE_paternal_autocrat_party_long:0 "Bernadottes Hus"
  SWE_national_populism_party:0 "NA"
  SWE_national_populism_party_long:0 "Nationalsocialistiska Arbetarepartiet"
+ 
+ #Gold land
+ SWI_communism_party:0 "KPS/PCS/PCS"
+ SWI_communism_party_long:0 "Kommunistische Partei der Schweiz/Parti Communiste Suisse/Partito Comunista Svizzero"
+ SWI_radical_socialism_party:0 "SP-S/PS-S/PS-S"
+ SWI_radical_socialism_party_long:0 "Sozialdemokratische Partei der Schweiz - Sozialistisch/Parti Socialiste Suisse - Socialiste/Partito Socialista Svizzero - Socialista"
+ SWI_social_democracy_party:0 "SP/PS/PS"
+ SWI_social_democracy_party_long:0 "Sozialdemokratische Partei der Schweiz/Parti Socialiste Suisse/Partito Socialista Svizzero"
+ SWI_liberalism_party:0 "FDP/PRD/PRL"
+ SWI_liberalism_party_long:0 "Freisinnig-Demokratische Partei/Parti Radical-Démocratique/Partito Liberale-Radicale svizzero"
+ SWI_conservatism_party:0 "CVP/PDC/PPD"
+ SWI_conservatism_party_long:0 "Christlichdemokratische Volkspartei der Schweiz/Parti Démocrate-Chrétien/Partito Popolare Democratico"
+ SWI_authoritarian_democracy_party:0 "Streitkräfte/Forces Armées/Forze Armate"
+ SWI_authoritarian_democracy_party_long:0 "Schweizerische Streitkräfte/Forces Armées Suisses/Forze Armate Svizzere"
+ SWI_paternal_autocrat_party:0 "Streitkräfte/Forces Armées/Forze Armate"
+ SWI_paternal_autocrat_party_long:0 "Schweizerische Streitkräfte/Forces Armées Suisses/Forze Armate Svizzere"
+ SWI_national_populism_party:0 "NF/FN/FN"
+ SWI_national_populism_party_long:0 "Nationale Front/Front National/Fronte Nazional"
 
 # Thuringia
  THU_communism_party:0 "KPD-T"

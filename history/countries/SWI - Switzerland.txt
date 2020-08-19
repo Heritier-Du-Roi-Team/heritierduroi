@@ -67,27 +67,22 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = integrism
+	ruling_party = social_democracy
 	last_election = "1935.10.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	integrism = 56
-	totalist = 2
-	socialist = 4
-	social_conservatism = 18
-	social_liberalism = 9
-	autocracy = 11
+  communism = 2
+  radical_socialism = 3
+  social_democracy = 37
+  liberalism = 35
+  conservatism = 21
+  authoritarian_democracy	= 0
+  paternal_autocrat =	0
+  national_populism = 2
 }
 
-1939.1.1 = {
-	set_popularities = {
-		democratic = 95
-		fascism = 2
-		communism = 3
-	}
-}
 
 add_ideas = {
 	#
@@ -118,38 +113,7 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = "Ernest Béuin"
-	desc = "POLITICS_ERNST_BEGUIN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
 
-create_country_leader = {
-	name = "Dr. Max Leo Keller"
-	desc = "POLITICS_MAX_LEO_KELLER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds" 
-	expire = "1965.1.1"
-	ideology = nazism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Fritz Platten"
-	desc = "POLITICS_FRITZ_PLATTEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	expire = "1965.1.1"
-	ideology = marxism
-	traits = {
-		#
-	}
-}
 
 create_corps_commander = {
 	name = "Henri Guisan"
