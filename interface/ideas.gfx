@@ -20,6 +20,11 @@ spriteTypes = {
 		textureFile = "gfx/interface/ideas/SAF_Smuts_Reforms.tga"
 	}
 
+	spriteType= {
+		name = "GFX_idea_SAF_cecil_rhodes"
+		textureFile = "gfx/interface/ideas/SAF_cecil_rhodes.dds"
+	}
+
 	spriteType = {
 		name = "GFX_idea_YUG_King_George"
 		textureFile = "gfx/interface/ideas/YUG_King_George.dds"
