@@ -1,0 +1,30 @@
+capital = 278
+oob = "ARG_1936"
+
+set_technology = {
+  early_fighter = 1
+  early_bomber = 1
+  gwtank = 1
+  gw_artillery = 1
+	infantry_weapons = 1
+}
+
+set_stability = 0.75
+set_war_support = 0.20
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1931.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  communism = 2
+  radical_socialism = 2
+  social_democracy = 13
+  liberalism = 40
+  conservatism = 37
+  authoritarian_democracy = 2
+  paternal_autocrat = 2
+  national_populism = 2
+}

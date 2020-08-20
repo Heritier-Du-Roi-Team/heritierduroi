@@ -793,3 +793,39 @@
 ### Oceania ###
 
 ### South America ###
+#Beefland
+ ARG_communism_party:0 "PCA"
+ ARG_communism_party_long:0 "Partido Comunista de la Argentina"
+ ARG_radical_socialism_party:0 "PS"
+ ARG_radical_socialism_party_long:0 "Partido Socialista"
+ ARG_social_democracy_party:0 "UCR"
+ ARG_social_democracy_party_long:0 "Unión Cívica Radical"
+ ARG_liberalism_party:0 "PDP"
+ ARG_liberalism_party_long:0 "Partido Demócrata Progresista"
+ ARG_conservatism_party:0 "PDN"
+ ARG_conservatism_party_long:0 "Partido Demócrata Nacional"
+ ARG_authoritarian_democracy_party:0 "Fuerzas Armadas"
+ ARG_authoritarian_democracy_party_long:0 "Fuerzas Armadas Argentinas"
+ ARG_paternal_autocrat_party:0 "Fuerzas Armadas"
+ ARG_paternal_autocrat_party_long:0 "Fuerzas Armadas Argentinas"
+ ARG_national_populism_party:0 "UNF"
+ ARG_national_populism_party_long:0 "Unión Nacional Fascista"
+
+# Chile
+ CHL_communism_party:0 "PCC"
+ CHL_communism_party_long:0 "Partido Comunista de Chile"
+ CHL_radical_socialism_party:0 "PSC"
+ CHL_radical_socialism_party_long:0 "Partido Socialista de Chile"
+ CHL_social_democracy_party:0 "PR-Sd"
+ CHL_social_democracy_party_long:0 "Partido Radical - Socialdemocracia"
+ CHL_liberalism_party:0 "PR"
+ CHL_liberalism_party_long:0 "Partido Radical"
+ CHL_conservatism_party:0 "PC"
+ CHL_conservatism_party_long:0 "Partido Conservador"
+ CHL_authoritarian_democracy_party:0 "Fuerzas Armadas"
+ CHL_authoritarian_democracy_party_long:0 "Fuerzas Armadas de Chile"
+ CHL_paternal_autocrat_party:0 "Fuerzas Armadas"
+ CHL_paternal_autocrat_party_long:0 "Fuerzas Armadas de Chile"
+ CHL_national_populism_party:0 "MNSC"
+ CHL_national_populism_party_long:0 "Movimiento Nacional Socialista de Chile"
+

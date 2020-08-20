@@ -1,0 +1,23 @@
+capital = 279
+oob = "CHL_1936"
+
+
+set_stability = 0.75
+set_war_support = 0.20
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1932.30.10"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+  communism = 3
+  radical_socialism = 15
+  social_democracy = 5
+  liberalism = 60
+  conservatism = 15
+  authoritarian_democracy = 2
+  paternal_autocrat =	0
+  national_populism = 0
+}
