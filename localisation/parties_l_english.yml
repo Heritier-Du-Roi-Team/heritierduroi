@@ -793,6 +793,7 @@
 ### Oceania ###
 
 ### South America ###
+
 #Beefland
  ARG_communism_party:0 "PCA"
  ARG_communism_party_long:0 "Partido Comunista de la Argentina"
@@ -828,4 +829,22 @@
  CHL_paternal_autocrat_party_long:0 "Fuerzas Armadas de Chile"
  CHL_national_populism_party:0 "MNSC"
  CHL_national_populism_party_long:0 "Movimiento Nacional Socialista de Chile"
+
+# Paraguay
+ PAR_communism_party:0 "PCP"
+ PAR_communism_party_long:0 "Partido Comunista Paraguayo"
+ PAR_radical_socialism_party:0 "PSR"
+ PAR_radical_socialism_party_long:0 "Partido Socialista Revolucionario"
+ PAR_social_democracy_party:0 "PLRA"
+ PAR_social_democracy_party_long:0 "Partido Liberal Radical Auténtico"
+ PAR_liberalism_party:0 "PL"
+ PAR_liberalism_party_long:0 "Partido Liberal"
+ PAR_conservatism_party:0 "ANR-PC"
+ PAR_conservatism_party_long:0 "Asociación Nacional Republicana – Partido Colorado"
+ PAR_authoritarian_democracy_party:0 "Fuerzas Armadas"
+ PAR_authoritarian_democracy_party_long:0 "Fuerzas Armadas de Paraguay"
+ PAR_paternal_autocrat_party:0 "Fuerzas Armadas"
+ PAR_paternal_autocrat_party_long:0 "Fuerzas Armadas de Paraguay"
+ PAR_national_populism_party:0 "PM"
+ PAR_national_populism_party_long:0 "Partidarios de Morínigo"
 
