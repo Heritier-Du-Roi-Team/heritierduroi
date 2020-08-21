@@ -1,0 +1,20 @@
+state = {
+	id = 902
+	name = "STATE_902"
+	manpower = 105230
+	
+	state_category = rura;
+	
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PAR
+	}
+
+	provinces={
+		2194 12901 13351 13352 13353 13355
+	}
+	
+}

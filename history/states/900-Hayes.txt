@@ -1,0 +1,25 @@
+state={
+	id=900
+	name="STATE_900"
+	manpower = 31230
+	
+	state_category = town
+	
+	resources={
+		tungsten=3 # was: 4
+		steel=2 # was: 2
+	}
+
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PAR
+		add_claim_by = BOL
+	}
+	
+	provinces={
+		2209 13357 13359 13361 13364 13370 13371
+	}
+}

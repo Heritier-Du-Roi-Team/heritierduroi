@@ -114,6 +114,10 @@
  STATE_896:0 "Thessaloniki"
  STATE_897:0 "Central Greece"
  STATE_898:0 "Eastern Morava"
+ STATE_899:0 "Alto Paraguay"
+ STATE_900:0 "Presidente Hayes"
+ STATE_901:0 "San Pedro"
+ STATE_902:0 "Paraná"
 
 
 
@@ -411,7 +415,7 @@
  STATE_298:0 "Liberia"
  STATE_299:0 "Falkland Islands"
  STATE_300:0 "Uruguay"
- STATE_301:0 "Paraguay"
+ STATE_301:0 "Areguá"
  STATE_302:0 "La Paz"
  STATE_303:0 "Lima"
  STATE_304:1 "Panamá"
@@ -795,7 +799,7 @@
  STATE_684:0 "Caroline Islands"
  STATE_685:1 "Panamá Canal"
  STATE_686:0 "Puerto Rico"
- STATE_688:0 "Chaco Boreal"
+ STATE_688:1 "Boquerón"
  STATE_689:0 "Jamaica"
  STATE_690:0 "Northern Bahamas"
  STATE_691:0 "Trinidad"
