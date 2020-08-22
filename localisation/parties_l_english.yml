@@ -812,6 +812,24 @@
  ARG_national_populism_party:0 "UNF"
  ARG_national_populism_party_long:0 "Unión Nacional Fascista"
 
+# Brasil
+ BRA_communism_party:0 "PCB"
+ BRA_communism_party_long:0 "Partido Comunista Brasileiro"
+ BRA_radical_socialism_party:0 "PSB"
+ BRA_radical_socialism_party_long:0 "Partido Socialista Brasileiro"
+ BRA_social_democracy_party:0 "PTB"
+ BRA_social_democracy_party_long:0 "Partido Trabalhista Brasileiro"
+ BRA_liberalism_party:0 "PRP"
+ BRA_liberalism_party_long:0 "Partido Republicano Paulista"
+ BRA_conservatism_party:0 "PRM"
+ BRA_conservatism_party_long:0 "Partido Republicano Mineiro"
+ BRA_authoritarian_democracy_party:0 "PC"
+ BRA_authoritarian_democracy_party_long:0 "Partido Conservador"
+ BRA_paternal_autocrat_party:0 "FNB"
+ BRA_paternal_autocrat_party_long:0 "Frente Negra Brasileira"
+ BRA_national_populism_party:0 "AIB"
+ BRA_national_populism_party_long:0 "Ação Integralista Brasileira"
+
 # Chile
  CHL_communism_party:0 "PCC"
  CHL_communism_party_long:0 "Partido Comunista de Chile"
