@@ -11,6 +11,16 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_report_PAR_Soldiers_March"
+		texturefile = "gfx/event_pictures/report_event_Paraguay_Military_Protests.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_PAR_Military_Coup"
+		texturefile = "gfx/event_pictures/report_event_Paraguay_Military_Coup.dds"
+	}
+
+	spriteType = {
 		name = "GFX_report_event_canada_ronnie"
 		texturefile = "gfx/event_pictures/report_event_canada_ronnie.dds"
 	}

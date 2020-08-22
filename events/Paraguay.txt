@@ -4,7 +4,7 @@ country_event = {
 	id = HDR_Paraguay.1
 	title = HDR_Paraguay.1.t
 	desc = HDR_Paraguay.1.d
-	picture = GFX_report_event_british_inspect_troops
+	picture = GFX_report_PAR_Soldiers_March
 
 	is_triggered_only = yes
 
@@ -34,7 +34,7 @@ country_event = {
 	id = HDR_Paraguay.3
 	title = HDR_Paraguay.3.t
 	desc = HDR_Paraguay.3.d
-	picture = GFX_report_event_communist_leader
+	picture = GFX_report_PAR_Military_Coup
 
 	is_triggered_only = yes
 
@@ -43,14 +43,14 @@ country_event = {
 
 		hidden_effect = {
 			ELP = {
+				set_state_owner = 902
 				set_state_owner = 899
 				set_state_owner = 688
-				set_state_owner = 301
+				set_state_controller = 902
 				set_state_controller = 899
 				set_state_controller = 688
-				set_state_controller = 301
 
-				set_capital = 301
+				set_capital = 688
 
 				add_state_core = 902
 				add_state_core = 901
@@ -62,7 +62,6 @@ country_event = {
 
 			PAR = {
 				set_province_controller = 11023
-				set_capital = 901
 			}
 		}
 
@@ -92,14 +91,14 @@ country_event = {
 
 		hidden_effect = {
 			ELP = {
+				set_state_owner = 902
 				set_state_owner = 899
 				set_state_owner = 688
-				set_state_owner = 301
+				set_state_controller = 902
 				set_state_controller = 899
 				set_state_controller = 688
-				set_state_controller = 301
 
-				set_capital = 301
+				set_capital = 688
 
 				add_state_core = 902
 				add_state_core = 901
@@ -110,7 +109,6 @@ country_event = {
 			}
 
 			PAR = {
-				set_capital = 901
 				set_province_controller = 11023
 			}
 		}

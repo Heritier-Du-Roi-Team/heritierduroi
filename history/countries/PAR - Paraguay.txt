@@ -10,6 +10,10 @@ set_technology = {
 }
 set_country_flag = monroe_doctrine
 
+country_event = { id = HDR_Paraguay.1 days = 43 } # Military angry
+country_event = { id = HDR_Paraguay.2 days = 91 } # Worker angry
+country_event = { id = HDR_Paraguay.3 days = 105 } # No more Paraguay
+
 set_politics = {
 	ruling_party = liberalism
 	last_election = "1936.1.1"
