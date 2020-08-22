@@ -591,6 +591,52 @@
  YUN_national_populism_DEF:0 "the Yunnan Clique"
  YUN_national_populism_ADJ:0 "Yunnan"
 
+
+
+
+### Malaysian States ###
+
+ MAL_UK:0 "Federated Malay States"
+ MAL_UK_DEF:0 "the Federated Malay States"
+ MAL_UK_ADJ:0 "Malay"
+ MAL:0 "Malaysia"
+ MAL_DEF:0 "Malaysia"
+ MAL_ADJ:0 "Malaysia"
+
+ MSS_UK:0 "Straits Settlements"
+ MSS_DEF:0 "the Straits Settlements"
+ MSS_ADJ:0 "Malaysian"
+ MSS:0 "Singapore"
+ MSS_DEF:0 "Singapore"
+ MSS_ADJ:0 "Singaporian"
+
+ JOH:0 "Sultanate of Johor"
+ JOH_DEF:0 "the Sultinate of Johor"
+ JOH_ADJ:0 "Malaysian"
+
+ TER:0 "Sultanate of Terengganu"
+ TER_DEF:0 "the Sultanate of Terengganu"
+ TER_ADJ:0 "Malaysian"
+
+ KEL:0 "Kelantan Sultanate"
+ KEL_DEF:0 "the Kelantan Sultanate"
+ KEL_ADJ:0 "Malaysian"
+ 
+ KED:0 "Sultanate of Kedah"
+ KED_DEF:0 "the Sultanate of Kedah"
+ KED_ADJ:0 "Malaysian"
+
+ SRA:0 "Raj of Sarawak"
+ SRA_DEF:0 "the Raj of Sarawak"
+ SRA_ADJ:0 "Malaysian"
+
+ BRU_UK:0 "Brunei"
+ BRU_UK_DEF:0 "Brunei"
+ BRU_UK_ADJ:0 "Malaysian"
+ BRU:0 "Brunei"
+ BRU_DEF:0 "Brunei"
+ BRU_ADJ:0 "Bruneian"
+
 ### Europe ###
 
 # Austria-Bohemia

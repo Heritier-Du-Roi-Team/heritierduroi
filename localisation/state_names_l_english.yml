@@ -118,6 +118,20 @@
  STATE_900:0 "Presidente Hayes"
  STATE_901:0 "San Pedro"
  STATE_902:0 "Paraná"
+ STATE_903:0 "Penang"
+ STATE_904:0 "Dinding"
+ STATE_905:0 "Malacca"
+ STATE_906:0 "Kedah"
+ STATE_907:0 "Kelantan"
+ STATE_908:0 "Terengganu"
+ STATE_909:0 "Johor"
+ STATE_910:0 "Pahang"
+ STATE_911:0 "Perak"
+ STATE_912:0 "Riau Archipelago"
+ STATE_913:0 "Brunei"
+ STATE_914:0 "Temburong"
+ STATE_915:0 "Sarawak"
+ STATE_916:0 "Kuching"
 
 
 

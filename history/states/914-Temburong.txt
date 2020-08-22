@@ -1,0 +1,19 @@
+state = {
+	id = 914
+	name = "STATE_914"
+	manpower = 5320
+
+	state_category = town
+
+	history = {
+		owner = BRU
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = BRU
+	}
+
+	provinces = {
+		13396
+	}
+}

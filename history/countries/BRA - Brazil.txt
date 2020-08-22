@@ -45,6 +45,13 @@ if = {
 	}
 	set_naval_oob = "BRA_1936_naval"	
 }
+
+add_ideas = {
+	BRA_Coffee_Milk
+	BRA_North_South
+	BRA_Triumvirate
+}
+
 set_country_flag = monroe_doctrine
 
 set_politics = {

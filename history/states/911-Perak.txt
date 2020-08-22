@@ -1,0 +1,26 @@
+state={
+	id=911
+	name="STATE_911"
+	manpower = 953600
+
+	state_category = town
+
+	resources={
+		rubber=15 # was: 848
+		steel=11 # was: 32
+		tungsten=21 # was: 308
+	}
+
+	history={
+		owner = MAL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = MAL
+	}
+
+	provinces = {
+		1364 4310 12215
+	}
+}

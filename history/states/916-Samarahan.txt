@@ -1,0 +1,25 @@
+state = {
+	id = 916
+	name = "STATE_916"
+	manpower = 581320
+
+	state_category = large_town
+
+	history = {
+		owner = SRA
+		victory_points = {
+			1208 3
+		}
+		buildings = {
+			infrastructure = 5
+			1208 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = SRA
+	}
+
+	provinces = {
+		1208 12905
+	}
+}

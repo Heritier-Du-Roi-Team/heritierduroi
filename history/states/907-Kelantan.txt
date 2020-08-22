@@ -1,0 +1,25 @@
+state={
+	id = 907
+	name = "STATE_907"
+	manpower = 201120
+
+	state_category = town
+
+	history={
+		owner = KEL
+		victory_points = {
+			7329 1
+		}
+		buildings = {
+			infrastructure = 5
+			7329 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = KEL
+	}
+
+	provinces = {
+		7329 10227
+	}
+}

@@ -1,0 +1,19 @@
+state={
+	id = 904
+	name = "STATE_904"
+	manpower = 58120
+
+	state_category = town
+
+	history={
+		owner = MSS 
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = MSS
+	}
+
+	provinces = {
+		13392
+	}
+}

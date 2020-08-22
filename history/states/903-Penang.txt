@@ -1,0 +1,22 @@
+state={
+	id = 903
+	name = "STATE_903"
+	manpower = 41520
+
+	state_category = town
+
+	history={
+		owner = MSS 
+		victory_points = {
+			13394 1
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = MSS
+	}
+
+	provinces = {
+		13394
+	}
+}

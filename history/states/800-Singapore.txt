@@ -6,7 +6,7 @@ state = {
 	state_category = city
 
 	history={
-		owner = BEA
+		owner = MSS
 		victory_points = {
 			12299 10
 		}
@@ -19,10 +19,10 @@ state = {
 				coastal_bunker = 3
 			}
 		}
-		add_core_of = BEA
+		add_core_of = MSS
 	}
 
 	provinces={
-		12113 12299 13265 13266
+		12299 13266
 	}
 }

@@ -1,0 +1,29 @@
+state = {
+	id = 913
+	name = "STATE_913"
+	manpower = 41320
+	resources = {
+		rubber=10 # was: 72
+		oil=3 # was: 18
+	}
+
+	state_category = town
+
+	history = {
+		owner = BRU
+		victory_points = {
+			7387 1
+		}
+		buildings = {
+			infrastructure = 3
+			7387 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = BRU
+	}
+
+	provinces = {
+		7387
+	}
+}
