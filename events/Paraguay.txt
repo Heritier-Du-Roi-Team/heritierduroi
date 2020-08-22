@@ -1,1 +1,135 @@
 add_namespace = HDR_Paraguay
+
+country_event = {
+	id = HDR_Paraguay.1
+	title = HDR_Paraguay.1.t
+	desc = HDR_Paraguay.1.d
+	picture = GFX_report_event_british_inspect_troops
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Paraguay.1.a
+		
+		add_ideas = PAR_Soldiers_March
+	}
+}
+
+country_event = {
+	id = HDR_Paraguay.2
+	title = HDR_Paraguay.2.t
+	desc = HDR_Paraguay.2.d
+	picture = GFX_report_event_communist_leader
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Paraguay.2.a
+		
+		add_ideas = PAR_Workers_Protest
+	}
+}
+
+country_event = {
+	id = HDR_Paraguay.3
+	title = HDR_Paraguay.3.t
+	desc = HDR_Paraguay.3.d
+	picture = GFX_report_event_communist_leader
+
+	is_triggered_only = yes
+
+	option = {
+		name = HDR_Paraguay.3.a
+
+		hidden_effect = {
+			ELP = {
+				set_state_owner = 899
+				set_state_owner = 688
+				set_state_owner = 301
+				set_state_controller = 899
+				set_state_controller = 688
+				set_state_controller = 301
+
+				set_capital = 301
+
+				add_state_core = 902
+				add_state_core = 901
+				add_state_core = 900
+				add_state_core = 899
+				add_state_core = 688
+				add_state_core = 301
+			}
+
+			PAR = {
+				set_province_controller = 11023
+				set_capital = 901
+			}
+		}
+
+		ELP = { change_tag_from = PAR }
+
+		ELP = {
+			declare_war_on = {
+    			target = PAR
+    			type = civil_war
+			}
+		}
+
+		PAR = {
+			retire_country_leader = yes
+
+			create_country_leader = {
+				name = "Republican Council"
+				picture = "Paraguay_Republican_Junta.tga"
+				expire = "1965.1.1"
+				ideology = liberalism_type
+			}
+		}
+	}
+
+	option = {
+		name = HDR_Paraguay.3.b
+
+		hidden_effect = {
+			ELP = {
+				set_state_owner = 899
+				set_state_owner = 688
+				set_state_owner = 301
+				set_state_controller = 899
+				set_state_controller = 688
+				set_state_controller = 301
+
+				set_capital = 301
+
+				add_state_core = 902
+				add_state_core = 901
+				add_state_core = 900
+				add_state_core = 899
+				add_state_core = 688
+				add_state_core = 301
+			}
+
+			PAR = {
+				set_capital = 901
+				set_province_controller = 11023
+			}
+		}
+
+		ELP = {
+			declare_war_on = {
+    			target = PAR
+    			type = civil_war
+			}
+		}
+
+		
+		retire_country_leader = yes
+
+		create_country_leader = {
+			name = "Republican Council"
+			picture = "Paraguay_Republican_Junta.tga"
+			expire = "1965.1.1"
+			ideology = liberalism_type
+		}
+	}
+}

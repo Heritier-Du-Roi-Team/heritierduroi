@@ -22,6 +22,8 @@ OTT = "countries/Ottomans.txt"
 
 #S. AMERICA
 
+ELP = "countries/Paraguay.txt"
+
 #EUROPE
 BAD = "countries/Baden.txt"
 BAV = "countries/Bavaria.txt"
@@ -41,7 +43,6 @@ TUS = "countries/Tuscany.txt"
 PRS = "countries/Prussia.txt"
 VNC = "countries/Venice.txt"
 MEK = "countries/Mecklenburg.txt"
-PAR = "countries/Parma.txt"
 RHI = "countries/Rhineland.txt"
 WST = "countries/Westphalia.txt"
 THU = "countries/Thuringia.txt"

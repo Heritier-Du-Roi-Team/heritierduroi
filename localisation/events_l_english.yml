@@ -1,6 +1,17 @@
 ﻿l_english:
  MINIMIZE_EVENT:0 "§GClick§! to Minimize. Event will be placed in the Event Queue under §HEvents and Decisions§!."
 
+ HDR_Paraguay.1.t:0 "The Soldier's March"
+ HDR_Paraguay.1.d:0 ""
+ HDR_Paraguay.1.a:0 "Those treasonous bastards!"
+ HDR_Paraguay.2.t:0 "Worker's Protest in Asunción"
+ HDR_Paraguay.2.d:0 ""
+ HDR_Paraguay.2.a:0 "Get back to work!"
+ HDR_Paraguay.3.t:0 "Military Coup!"
+ HDR_Paraguay.3.d:0 ""
+ HDR_Paraguay.3.a:0 "The Republic's time has come to an end."
+ HDR_Paraguay.3.b:0 "Those traitors will die!"
+
  Mexico.1.t:0 "Death of President Victoriano Huerta"
  Mexico.1.d:0 "Following his rise to power, the Iron Hand of Mexico, Victoriano Huerta, went about establishing his rule. Through his genius leadership in both politics and on the battlefield, the would-be revolutionaries saw their end. With some very considerate weapons donations from our friends on the northern border, our military acquired the equipment to crush the peasant revolutionaries. His rule, marked by his militarization of society, changed the landscape of Mexican politics. Through harsh punishment and repression, for the first time in years, Mexico saw real stability, albeit under the boot of his strict rule. Mexicans across the state either see him as an impressive figure who brought steadiness back into their lives, while others view him with contempt, a man who oppresses the poor masses. Following the announcement of his death on July 21st, 1936, many wept on the streets, while others danced, celebrating the tyrant's end. Both sides agree on one thing; no one knows where Mexico will go without his guiding hand."
  Mexico.1.a:0 "Descansa bien, Mano de Hierro."

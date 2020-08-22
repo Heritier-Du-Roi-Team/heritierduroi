@@ -2533,6 +2533,33 @@ GRE_national_populism_ADJ:0 "Greek"
  PAR_national_populism_DEF:0 "Gran Paraguay"
  PAR_national_populism_ADJ:0 "Paraguayan"
 
+# Paraguay pt 2 #
+
+ ELP_communism:0 "Commune of Paraguay"
+ ELP_communism_DEF:0 "the Commune of Paraguay"
+ ELP_communism_ADJ:0 "Paraguayan"
+ ELP_radical_socialism:0 "Commune of Paraguay"
+ ELP_radical_socialism_DEF:0 "the Commune of Paraguay"
+ ELP_radical_socialism_ADJ:0 "Paraguayan"
+ ELP_social_democracy:0 "Paraguay"
+ ELP_social_democracy_DEF:0 "Paraguay"
+ ELP_social_democracy_ADJ:0 "Paraguayan"
+ ELP_liberalism:0 "Paraguay"
+ ELP_liberalism_DEF:0 "Paraguay"
+ ELP_liberalism_ADJ:0 "Paraguayan"
+ ELP_conservatism:0 "Paraguay"
+ ELP_conservatism_DEF:0 "Paraguay"
+ ELP_conservatism_ADJ:0 "Paraguayan"
+ ELP_authoritarian_democracy:0 "Estado libre de Paraguay"
+ ELP_authoritarian_democracy_DEF:0 "Estado libre de Paraguay"
+ ELP_authoritarian_democracy_ADJ:0 "Paraguayan"
+ ELP_paternal_autocrat:0 "Estado libre de Paraguay"
+ ELP_paternal_autocrat_DEF:0 "Estado libre de Paraguay"
+ ELP_paternal_autocrat_ADJ:0 "Paraguayan"
+ ELP_national_populism:0 "Gran Paraguay"
+ ELP_national_populism_DEF:0 "Gran Paraguay"
+ ELP_national_populism_ADJ:0 "Paraguayan"
+
 # Peru #
 
  PRU_communism:0 "Revolutionary State of Peru"
