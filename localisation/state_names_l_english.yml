@@ -132,6 +132,11 @@
  STATE_914:0 "Temburong"
  STATE_915:0 "Sarawak"
  STATE_916:0 "Kuching"
+ STATE_917:0 "Hat Yai"
+ STATE_918:0 "Chumphon"
+ STATE_919:0 "Chiang Mai"
+ STATE_920:0 "Upper Thailand"
+ STATE_921:0 "Kanchanaburi"
 
 
 
@@ -417,7 +422,7 @@
  STATE_286:1 "Lower Annam"
  STATE_287:0 "Taklamakan"
  STATE_288:0 "Burma"
- STATE_289:0 "Siam"
+ STATE_289:0 "Bangkok"
  STATE_290:0 "Spanish Africa"
  STATE_291:0 "Baghdad"
  STATE_292:0 "Nejd"
@@ -849,7 +854,7 @@
  STATE_721:0 "Portuguese Timor"
  STATE_722:0 "Petsamo"
  STATE_723:0 "South Island"
- STATE_724:0 "Northern Malay"
+ STATE_724:1 "Surat Thani"
  STATE_725:0 "Nauru"
  STATE_726:0 "Samoa"
  STATE_727:0 "Line Islands"

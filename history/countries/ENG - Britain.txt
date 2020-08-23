@@ -181,6 +181,25 @@ if = {
 	}
 }
 
+MAL = {
+	set_politics = {
+		ruling_party = authoritarian_democracy
+		last_election = "1895.1.1"
+		election_frequency = 96
+		elections_allowed = no
+	}
+
+	set_popularities = {
+		authoritarian_democracy = 50
+		radical_socialism = 18
+		conservatism = 15
+		communism = 10
+		liberalism = 4
+		national_populism = 2
+		paternal_autocrat = 1
+	}
+}
+
 ##### POLITICAL SITUATION 1936 #####
 
 set_stability = 0.6

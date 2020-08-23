@@ -73,11 +73,29 @@ if = {
 
 	add_to_tech_sharing_group = commonwealth_research
 }
+set_politics = {
+	ruling_party = authoritarian_democracy
+	last_election = "1895.1.1"
+	election_frequency = 96
+	elections_allowed = no
+}
 
 set_popularities = {
-	democratic = 33
-	communism = 33
-	neutrality = 34
+	authoritarian_democracy = 50
+	radical_socialism = 18
+	conservatism = 15
+	communism = 10
+	liberalism = 4
+	national_populism = 2
+	paternal_autocrat = 1
+}
+
+create_country_leader = {
+	name = "Malay Federal Council"
+	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
+	picture = "Portrait_Malay_Federal_Council.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
 }
 
 create_country_leader = {
