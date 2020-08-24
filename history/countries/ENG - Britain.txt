@@ -177,26 +177,224 @@ if = {
 	else = {
 		puppet = MAL
 		puppet = RAJ
-		puppet = BEA
+		puppet = MSS
+		puppet = BRU
+		puppet = JOH
+		puppet = KED
+		puppet = KEL
+		puppet = SRA
+		puppet = TER
 	}
 }
 
-MAL = {
-	set_politics = {
-		ruling_party = authoritarian_democracy
-		last_election = "1895.1.1"
-		election_frequency = 96
-		elections_allowed = no
+### Setting Colonial Governments ###
+
+if = {
+	limit = {
+		MAL = {
+			is_subject_of = ENG
+		}
 	}
 
-	set_popularities = {
-		authoritarian_democracy = 50
-		radical_socialism = 18
-		conservatism = 15
-		communism = 10
-		liberalism = 4
-		national_populism = 2
-		paternal_autocrat = 1
+	MAL = {
+		set_politics = {
+			ruling_party = authoritarian_democracy
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			authoritarian_democracy = 50
+			radical_socialism = 18
+			conservatism = 15
+			communism = 10
+			liberalism = 4
+			national_populism = 2
+			paternal_autocrat = 1
+		}
+	}
+}
+
+if = {
+	limit = {
+		MSS = {
+			is_subject_of = ENG
+		}
+	}
+
+	MSS = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		JOH = {
+			is_subject_of = ENG
+		}
+	}
+
+	JOH = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		TER = {
+			is_subject_of = ENG
+		}
+	}
+
+	TER = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		KEL = {
+			is_subject_of = ENG
+		}
+	}
+
+	KEL = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		KED = {
+			is_subject_of = ENG
+		}
+	}
+
+	KED = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		SRA = {
+			is_subject_of = ENG
+		}
+	}
+
+	SRA = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
+	}
+}
+
+if = {
+	limit = {
+		BRU = {
+			is_subject_of = ENG
+		}
+	}
+
+	BRU = {
+		set_politics = {
+			ruling_party = paternal_autocrat
+			last_election = "1895.1.1"
+			election_frequency = 96
+			elections_allowed = no
+		}
+
+		set_popularities = {
+			paternal_autocrat = 50
+			communism = 15
+			radical_socialism = 10
+			conservatism = 10
+			liberalism = 10
+			social_democracy = 5
+		}
 	}
 }
 

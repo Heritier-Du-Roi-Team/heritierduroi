@@ -1,14 +1,14 @@
 #AFRICA
 #ABY = "countries/Ethiopia.txt"
-AFR = "countries/French Africa.txt"
+AFR = "countries/France.txt"
 
 #ASIA
 BEA = "countries/British East Asia.txt"
-ICH = "countries/French Indochina.txt"
-BUR = "countries/French Burma.txt"
-FEN = "countries/Fengtien Clique.txt"
-SHD = "countries/Shandong Clique.txt"
-SCL = "countries/Sichuan Clique.txt"
+ICH = "countries/France.txt"
+BUR = "countries/France.txt"
+FEN = "countries/Manchukou.txt"
+SHD = "countries/China.txt"
+SCL = "countries/China.txt"
 #RAJ = "countries/India.txt"
 HEJ = "countries/Nejd.txt"
 OTT = "countries/Ottomans.txt"

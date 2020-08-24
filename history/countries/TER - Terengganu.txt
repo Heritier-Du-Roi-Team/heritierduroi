@@ -81,47 +81,25 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Onn Jaafar"
+	name = "Sulaiman Badrul Alam Shah"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
+	picture = "gfx/leaders/MAL/Portrait_Sulaiman_Badrul_Alam_Shah.tga"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = paternal_autocrat_type
 	traits = {
 		
 	}
 }
 
-create_country_leader = {
-	name = "Shenton Thomas"
-	desc = ""
-	picture = "GFX_portrait_malaya_shenton_thomas"
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Lai Teck"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ibrahim Hj Yaacob" #this guy supported Japanese during the war, and was imprisoned for it, could be made fascist?
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
-	expire = "1953.3.1"
-	ideology = moderatism
-	traits = {
-		
-	}
+create_field_marshal = {
+	name = "Sulaiman Badrul Alam Shah"
+	picture = "gfx/leaders/MAL/Portrait_Sulaiman_Badrul_Alam_Shah.tga"
+	traits = {  }
+	skill = 2
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
 }
 
 #set_cosmetic_tag = MAL_UK # British Malaya

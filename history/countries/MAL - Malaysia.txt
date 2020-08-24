@@ -95,7 +95,39 @@ create_country_leader = {
 	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
 	picture = "Portrait_Malay_Federal_Council.tga"
 	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
+
+create_country_leader = {
+	name = "Malay Federal Council"
+	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
+	picture = "Portrait_Malay_Federal_Council.tga"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Malay Federal Council"
+	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
+	picture = "Portrait_Malay_Federal_Council.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
+	name = "Malay Federal Council"
+	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
+	picture = "Portrait_Malay_Federal_Council.tga"
+	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Malay Federal Council"
+	desc = "POLITICS_MALAY_FEDERAL_COUNCIL_DESC"
+	picture = "Portrait_Malay_Federal_Council.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
 }
 
 create_country_leader = {
