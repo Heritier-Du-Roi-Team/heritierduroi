@@ -308,7 +308,7 @@
  BUL_national_populism_party:0 "NSD"
  BUL_national_populism_party_long:0 "Narodno sotsialno dvizhenie"
  
- #DENMARK
+# Danemark
  DEN_communism_party:0 "DKP"
  DEN_communism_party_long:0 "Danmarks Kommunistiske Parti"
  DEN_radical_socialism_party:0 "DKP-S"
@@ -333,7 +333,7 @@
  ENG_radical_socialism_party_long:0 "Communist Party of Great Britain - Socialist Section"
  ENG_social_democracy_party:0 "Labour"
  ENG_social_democracy_party_long:0 "Labour Party"
- ENG_liberalism_party:0 "L"
+ ENG_liberalism_party:0 "Liberals"
  ENG_liberalism_party_long:0 "Liberal Party"
  ENG_conservatism_party:0 "CUP"
  ENG_conservatism_party_long:0 "Conservative and Unionist Party"
@@ -345,7 +345,7 @@
  ENG_national_populism_party_long:0 "British Union of Fascists"
  
   
- #Estonia
+# Estonia
  EST_communism_party:0 "EKP"
  EST_communism_party_long:0 "Eestimaa Kommunistlik Partei"
  EST_radical_socialism_party:0 "ERSP"
@@ -381,7 +381,7 @@
  FRA_national_populism_party:0 "AF"
  FRA_national_populism_party_long:0 "Action Française"
  
-# Finnland
+# Finland
  FIN_communism_party:0 "SKP"
  FIN_communism_party_long:0 "Suomen Kommunistinen Puolue"
  FIN_radical_socialism_party:0 "SKP-S"
@@ -398,7 +398,6 @@
  FIN_paternal_autocrat_party_long:0 "-"
  FIN_national_populism_party:0 "IK"
  FIN_national_populism_party_long:0 "Isänmaallinen kansanliike" 
- 
 
 # Hannover
  HAN_communism_party:0 "KPD-H"
@@ -418,7 +417,6 @@
  HAN_national_populism_party:0 "AdV-H"
  HAN_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hannover"
 
-
 # Hessen
  HES_communism_party:0 "KPD-H"
  HES_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Hessen"
@@ -437,7 +435,7 @@
  HES_national_populism_party:0 "AdV-H"
  HES_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hessen"
  
- #Weedland
+ # Weedland
  HOL_communism_party:0 "CPN"
  HOL_communism_party_long:0 "Communistische Partij Nederland"
  HOL_radical_socialism_party:0 "RSP"
@@ -473,7 +471,7 @@
  HUN_national_populism_party:0 "NAP"
  HUN_national_populism_party_long:0 "Nemzet Akaratának Pártja"
 
-#Italy
+# Italy
  ITA_communism_party:0 "PCI"
  ITA_communism_party_long:0 "Partito Comunista d'Italia"
  ITA_radical_socialism_party:0 "PSI"
@@ -491,7 +489,7 @@
  ITA_national_populism_party:0 "PNF"
  ITA_national_populism_party_long:0 "Partito Nazionale Fascista" 
  
- #Ireland
+# Ireland
  IRE_communism_party:0 "PCE"
  IRE_communism_party_long:0 "Páirtí Cumannach na hÉireann"
  IRE_radical_socialism_party:0 "SF"
@@ -508,8 +506,6 @@
  IRE_paternal_autocrat_party_long:0 "-"
  IRE_national_populism_party:0 "-"
  IRE_national_populism_party_long:0 "-"
-
-
  
 # Grecce
  GRE_communism_party:0 "KKE"
@@ -529,7 +525,7 @@
  GRE_national_populism_party:0 "EEE"
  GRE_national_populism_party_long:0 " Ethniki Enosis Ellados"
  
-#Latvia
+# Latvia
  LAT_communism_party:0 "LKP"
  LAT_communism_party_long:0 "Latvijas Komunistiskā partija"
  LAT_radical_socialism_party:0 "LKP-SS"
@@ -601,7 +597,7 @@
  OLD_national_populism_party:0 "AdV-O"
  OLD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Oldenburg"
  
- #POPE
+# The Land of Boy Touchers
  PAP_communism_party:0 "PCI"
  PAP_communism_party_long:0 "Partito Comunista d'Italia - Stato Pontificio"
  PAP_radical_socialism_party:0 "PSI"
@@ -637,7 +633,7 @@
  PRS_national_populism_party:0 "AdV"
  PRS_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Preußen"
  
- #Portugal
+# Portugal
  POR_communism_party:0 "PCP"
  POR_communism_party_long:0 "Partido Comunista Português"
  POR_radical_socialism_party:0 "PSP"
@@ -655,7 +651,7 @@
  POR_national_populism_party:0 "UN"
  POR_national_populism_party_long:0 "União Nacional"
 
- # Rhineland
+# Rhineland
  RHI_communism_party:0 "KPD-R"
  RHI_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Rheinland"
  RHI_radical_socialism_party:0 "USPD-R"
@@ -799,7 +795,7 @@
  SWE_national_populism_party:0 "NA"
  SWE_national_populism_party_long:0 "Nationalsocialistiska Arbetarepartiet"
  
- #Gold land
+# Gold land
  SWI_communism_party:0 "KPS/PCS/PCS"
  SWI_communism_party_long:0 "Kommunistische Partei der Schweiz/Parti Communiste Suisse/Partito Comunista Svizzero"
  SWI_radical_socialism_party:0 "SP-S/PS-S/PS-S"
@@ -893,7 +889,7 @@
 
 ### North America ###
 
- # Mexico
+# Mexico
  MEX_communism_party:0 "PCM"
  MEX_communism_party_long:0 "Partido Comunista Mexicano"
  MEX_radical_socialism_party:0 "Zapatistas"
@@ -911,7 +907,7 @@
  MEX_national_populism_party:0 "-"
  MEX_national_populism_party_long:0 "-"
 
- # United States
+# United States
  USA_communism_party:0 "ACP"
  USA_communism_party_long:0 "American Communist Party"
  USA_radical_socialism_party:0 "CPP"
@@ -951,7 +947,7 @@
  ARG_national_populism_party:0 "UNF"
  ARG_national_populism_party_long:0 "Unión Nacional Fascista"
 
-# Brasil
+# Please come to Brasil!
  BRA_communism_party:0 "PCB"
  BRA_communism_party_long:0 "Partido Comunista Brasileiro"
  BRA_radical_socialism_party:0 "PSB"
@@ -1005,7 +1001,7 @@
  COL_national_populism_party:0 "-"
  COL_national_populism_party_long:0 "-"
  
- # not as much but still Cocaine land
+ # Knockoff Cocaine Land, also Evolution
  ECU_communism_party:0 "PCdE"
  ECU_communism_party_long:0 "Partido Comunista del Ecuador"
  ECU_radical_socialism_party:0 "PSE"
@@ -1058,7 +1054,7 @@
  ELP_national_populism_party:0 "PM"
  ELP_national_populism_party_long:0 "Partidarios de Morínigo"
  
- # not as much but still Cocaine land
+# Little Brazil
  URG_communism_party:0 "PCdU"
  URG_communism_party_long:0 "Partido Comunista del Uruguay"
  URG_radical_socialism_party:0 "PSdU"
@@ -1076,9 +1072,7 @@
  URG_national_populism_party:0 "PNI"
  URG_national_populism_party_long:0 "Partido Nacional Independiente"
 
-
-
-# not as much but still Cocaine land
+# A mess
  VEN_communism_party:0 "PCdV"
  VEN_communism_party_long:0 "Partido Comunista de Venezuela"
  VEN_radical_socialism_party:0 "-"
