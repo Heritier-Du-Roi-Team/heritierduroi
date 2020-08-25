@@ -769,8 +769,8 @@ D50 = {
 	color_ui = rgb { 255 138 61 }
 }
 MEK = {
-	color = rgb { 186 245 86 }
-	color_ui = rgb { 186 245 86 }
+	color = rgb { 31 21 124 }
+	color_ui = rgb { 31 21 124 }
 }
 
 YUG = {
