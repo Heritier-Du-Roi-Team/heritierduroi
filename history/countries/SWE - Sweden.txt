@@ -81,9 +81,14 @@ NOR = {
 	elections_allowed = no
 	}
 set_popularities = {
-	national_populism = 5
-	conservatism = 45
-	liberalism = 50
+	communism = 0
+radical_socialism = 0
+social_democracy = 0
+liberalism = 0
+conservatism = 0
+authoritarian_democracy	= 0
+paternal_autocrat =	0
+national_populism = 0
 	}
 
 }
@@ -99,9 +104,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	national_populism = 5
-	conservatism = 45
-	liberalism = 50
+	
 	
 }
 

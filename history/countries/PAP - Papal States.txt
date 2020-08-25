@@ -59,12 +59,18 @@ set_stability = 1
 set_war_support = 0.26
 
 set_politics = {
-	ruling_party = autocracy
-	last_election = "1922.2.6"
-	election_frequency = 56
+	ruling_party = paternal_autocrat
+	last_election = "1933.2.6"
+	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-  autocracy = 98
-  social_conservatism = 2
+communism = 0
+radical_socialism = 0
+social_democracy = 0
+liberalism = 0
+conservatism = 0
+authoritarian_democracy	= 0
+paternal_autocrat =	100
+national_populism = 0
 }

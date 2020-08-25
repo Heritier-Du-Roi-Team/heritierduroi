@@ -759,23 +759,23 @@
  SLO_national_populism_party:0 "HSĽS-SSNJ"
  SLO_national_populism_party_long:0 "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty"
  
- #Spain
+ #Spain aka just fucking NO
  SPR_communism_party:0 "PCE"
  SPR_communism_party_long:0 "Partido Comunista de España"
  SPR_radical_socialism_party:0 "PSOE-S"
  SPR_radical_socialism_party_long:0 "Partido Socialista Obrero Español - Ala Socialista"
  SPR_social_democracy_party:0 "PSOE-SD"
  SPR_social_democracy_party_long:0 "Partido Socialista Obrero Español - Ala socialdemócrata"
- SPR_liberalism_party:0 "-"
- SPR_liberalism_party_long:0 "-"
- SPR_conservatism_party:0 "-"
- SPR_conservatism_party_long:0 "-"
+ SPR_liberalism_party:0 "UR"
+ SPR_liberalism_party_long:0 "Unión Republicana"
+ SPR_conservatism_party:0 "CEDA"
+ SPR_conservatism_party_long:0 "Confederación Española de Derechas Autónomas"
  SPR_authoritarian_democracy_party:0 "Armadas"
  SPR_authoritarian_democracy_party_long:0 "Fuerzas Armadas Españolas"
  SPR_paternal_autocrat_party:0 "Borbón"
  SPR_paternal_autocrat_party_long:0 "Casa de Borbón-Anjou"
- SPR_national_populism_party:0 "CEDA"
- SPR_national_populism_party_long:0 "Confederación Española de Derechas Autónomas" 
+ SPR_national_populism_party:0 "FE de las JONS"
+ SPR_national_populism_party_long:0 "Falange Española de las Juntas de Ofensiva Nacional Sindicalista" 
 
 # Sweden
  SWE_communism_party:0 "SKP"
@@ -867,7 +867,7 @@
  WUR_national_populism_party:0 "AdV-W"
  WUR_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Württemberg"
 
-# Yugoslavia
+# Yugoslavia aka Genocide Region
  YUG_communism_party:0 "SKJ"
  YUG_communism_party_long:0 "Savez Komunista Jugoslavije"
  YUG_radical_socialism_party:0 "SPJ"
