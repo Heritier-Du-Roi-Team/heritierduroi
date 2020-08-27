@@ -1,0 +1,22 @@
+state={
+	id=923
+	name="STATE_923"
+
+	history={
+		owner = SAN
+		victory_points = {
+			13398 1 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ITA
+		add_core_of = SAN
+	}
+
+	provinces={
+		13398 
+	}
+	manpower=8132
+	state_category=town
+}

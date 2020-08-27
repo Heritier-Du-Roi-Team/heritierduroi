@@ -56,6 +56,7 @@ RHI = "countries/Rhineland.txt"
 WST = "countries/Westphalia.txt"
 THU = "countries/Thuringia.txt"
 OLD = "countries/Oldenburg.txt"
+SAN = "countries/Italy.txt"
 
 ION = "countries/Ionian Islands.txt"
 

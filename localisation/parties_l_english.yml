@@ -705,6 +705,24 @@
  RUS_national_populism_party:0 "SRN"
  RUS_national_populism_party_long:0 "Soyuz russkogo naroda"
 
+# San Marino
+ SAN_communism_party:0 "PCS"
+ SAN_communism_party_long:0 "Partito Comunista Sammarinese"
+ SAN_radical_socialism_party:0 "PSS"
+ SAN_radical_socialism_party_long:0 "Partito Socialista Sammarinese"
+ SAN_social_democracy_party:0 "PSDS"
+ SAN_social_democracy_party_long:0 "Partito Socialista Democratico Sammarinese"
+ SAN_liberalism_party:0 "UDS"
+ SAN_liberalism_party_long:0 "Unione Democratica Sammarinese"
+ SAN_conservatism_party:0 "PDCS"
+ SAN_conservatism_party_long:0 "Partito Democratico Cristiano Sammarinese"
+ SAN_authoritarian_democracy_party:0 "-"
+ SAN_authoritarian_democracy_party_long:0 "-"
+ SAN_paternal_autocrat_party:0 "-"
+ SAN_paternal_autocrat_party_long:0 "-"
+ SAN_national_populism_party:0 "PFS"
+ SAN_national_populism_party_long:0 "Partito Fascista Sammarinese"
+
 # Saxony
  SAX_communism_party:0 "KPD-S"
  SAX_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Sachsen"

@@ -1,0 +1,22 @@
+state={
+	id=925
+	name="STATE_925"
+
+	history={
+		owner = PAP
+		buildings = {
+			infrastructure = 4
+			11751 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = PAP
+
+	}
+
+	provinces={
+		11751 13287 
+	}
+	manpower=984139
+	state_category=city
+}

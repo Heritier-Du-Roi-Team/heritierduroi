@@ -1,0 +1,27 @@
+state={
+	id=924
+	name="STATE_924"
+	manpower = 112310
+
+	state_category = town
+
+	history={
+		owner = FRA
+		victory_points = {
+			13399 1
+		}
+		buildings = {
+			infrastructure = 4
+			13399 = {
+				naval_base = 4
+			}
+		}
+
+		add_core_of = OTT
+		add_core_of = LEB
+	}
+
+	provinces={
+		13399
+	}
+}

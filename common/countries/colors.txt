@@ -817,3 +817,8 @@ BRU = {
 	color = rgb { 210 170 90 }
 	color_ui = rgb { 210 170 90 }
 }
+
+SAN = {
+	color = rgb { 65 150 225 }
+	color_ui = rgb { 65 150 225 }
+}
