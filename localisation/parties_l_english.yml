@@ -777,7 +777,7 @@
  SLO_national_populism_party:0 "HSĽS-SSNJ"
  SLO_national_populism_party_long:0 "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty"
  
- #Spain aka just fucking NO
+# Spain aka just fucking NO
  SPR_communism_party:0 "PCE"
  SPR_communism_party_long:0 "Partido Comunista de España"
  SPR_radical_socialism_party:0 "PSOE-S"
@@ -1019,7 +1019,7 @@
  COL_national_populism_party:0 "-"
  COL_national_populism_party_long:0 "-"
  
- # Knockoff Cocaine Land, also Evolution
+# Knockoff Cocaine Land, also Evolution
  ECU_communism_party:0 "PCdE"
  ECU_communism_party_long:0 "Partido Comunista del Ecuador"
  ECU_radical_socialism_party:0 "PSE"
