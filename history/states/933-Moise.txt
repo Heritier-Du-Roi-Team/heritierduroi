@@ -1,0 +1,19 @@
+state={
+	id=933
+	name="STATE_933"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = SIC
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		3923 3966
+	}
+	manpower=641310
+	state_category=town
+}

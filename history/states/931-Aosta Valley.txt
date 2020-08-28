@@ -1,0 +1,25 @@
+state={
+	id=931
+	name="STATE_931"
+	manpower = 501420
+
+	state_category = town
+	resources={
+		tungsten = 1 # was: 2
+	}
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = SAR
+		add_core_of = ITA
+		add_claim_by = SWI
+		add_claim_by = FRA
+	}
+
+	provinces={
+		611 11570
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=932
+	name="STATE_932"
+
+	history={
+		owner = ITA
+		victory_points = {
+			925 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			925 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = PAP
+		add_core_of = ITA
+	}
+
+	provinces={
+		925 967 6926 11790 11861
+	}
+	manpower=874130
+	state_category=city
+}

@@ -1,0 +1,29 @@
+state={
+	id=928
+	name="STATE_928"
+
+	history={
+		owner = ITA
+		victory_points = {
+			11833 1 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			dockyard = 3
+			11833 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = TUS
+		add_core_of = ITA
+
+	}
+
+	provinces={
+		910 6875 9750 11833
+	}
+	manpower=984130
+	state_category=large_town
+}

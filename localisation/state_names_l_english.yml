@@ -143,6 +143,12 @@
  STATE_925:0 "Bracciano"
  STATE_926:0 "Udine"
  STATE_927:0 "Po Valley"
+ STATE_928:0 "Livorno"
+ STATE_929:0 "Basilicata"
+ STATE_930:0 "Calabria"
+ STATE_931:0 "Aosta Valley"
+ STATE_932:0 "Marche"
+ STATE_933:0 "Moise"
 
 
 
@@ -296,7 +302,7 @@
  STATE_153:0 "Tyrol"
  STATE_154:0 "Alföld"
  STATE_155:0 "Transdanubia"
- STATE_156:0 "Calabria"
+ STATE_156:1 "Apulia"
  STATE_157:0 "Abruzzo"
  STATE_158:0 "Piedmont"
  STATE_159:0 "Lombardy"

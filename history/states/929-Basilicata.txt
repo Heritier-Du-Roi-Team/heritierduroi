@@ -1,0 +1,25 @@
+state={
+	id=929
+	name="STATE_929" # Campania
+	manpower = 2131510
+
+	state_category = city
+	resources={
+		aluminium=3 # was: 16
+		steel = 1 # was: 24
+	}
+
+	history={
+		owner = ITA
+		add_core_of = SIC
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+	}
+
+	provinces={
+		3958 3968 6972 9856
+	}
+}
