@@ -626,12 +626,12 @@
  PAP_liberalism_party_long:0 "Partito Liberale Italiano - Stato Pontificio"
  PAP_conservatism_party:0 "PPI"
  PAP_conservatism_party_long:0 "Partito Popolare Italiano - Stato Pontificio"
- PAP_authoritarian_democracy_party:0 "Helvetiorum Cohortis"
- PAP_authoritarian_democracy_party_long:0 "Helvetiorum Cohortis"
+ PAP_authoritarian_democracy_party:0 "Pontifex"
+ PAP_authoritarian_democracy_party_long:0 "Pontifex Maximus"
  PAP_paternal_autocrat_party:0 "Pontifex"
  PAP_paternal_autocrat_party_long:0 "Pontifex Maximus"
- PAP_national_populism_party:0 "PNF"
- PAP_national_populism_party_long:0 "Partito Nazionale Fascista - Stato Pontificio" 
+ PAP_national_populism_party:0 "Pontifex"
+ PAP_national_populism_party_long:0 "Pontifex Maximus" 
 
 # Prussia
  PRS_communism_party:0 "KPD-P"
