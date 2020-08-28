@@ -1187,7 +1187,7 @@ GRE_national_populism_ADJ:0 "Greek"
  OLD_social_democracy_DEF:0 "the Republic of Oldenburg"
  OLD_social_democracy_ADJ:0 "Oldenburgian"
  OLD_liberalism:0 "Oldenburg"
- OLD_liberalism_DEF:0 "Oldenburg"
+ OLD_liberalism_DEF:0 "the Grand Duchy of Oldenburg"
  OLD_liberalism_ADJ:0 "Oldenburgian"
  OLD_conservatism:0 "Oldenburg"
  OLD_conservatism_DEF:0 "the Grand Duchy of Oldenburg"
@@ -1262,22 +1262,22 @@ GRE_national_populism_ADJ:0 "Greek"
  POR_radical_socialism_DEF:0 "the People's State of Portugal"
  POR_radical_socialism_ADJ:0 "Portuguese"
  POR_social_democracy:0 "Portugal"
- POR_social_democracy_DEF:0 "Portugal"
+ POR_social_democracy_DEF:0 "the Portugese Republic"
  POR_social_democracy_ADJ:0 "Portuguese"
  POR_liberalism:0 "Portugal"
- POR_liberalism_DEF:0 "Portugal"
+ POR_liberalism_DEF:0 "the Portugese Republic"
  POR_liberalism_ADJ:0 "Portuguese"
  POR_conservatism:0 "Portugal"
  POR_conservatism_DEF:0 "Portugal"
  POR_conservatism_ADJ:0 "Portuguese"
  POR_authoritarian_democracy:0 "Portugal"
- POR_authoritarian_democracy_DEF:0 "Portugal"
+ POR_authoritarian_democracy_DEF:0 "the Kingdom of Portugal"
  POR_authoritarian_democracy_ADJ:0 "Portuguese"
  POR_paternal_autocrat:0 "Kingdom of Portugal"
  POR_paternal_autocrat_DEF:0 "the Kingdom of Portugal"
  POR_paternal_autocrat_ADJ:0 "Portuguese"
- POR_national_populism:0 "Greater Portugal"
- POR_national_populism_DEF:0 "Greater Portugal"
+ POR_national_populism:0 "Kingdom of Portugal"
+ POR_national_populism_DEF:0 "the Kingdom of Portugal"
  POR_national_populism_ADJ:0 "Portuguese"
 
 # Prussia
@@ -1384,10 +1384,10 @@ GRE_national_populism_ADJ:0 "Greek"
  RUS_national_populism_DEF:0 "the Russian Empire"
  RUS_national_populism_ADJ:0 "Russian"
 
- # San Marino
+# San Marino
 
- SAN_communism:0 "Commune of San Marino"
- SAN_communism_DEF:0 "the Commune of San Marino"
+ SAN_communism:0 "Worker's State of San Marino"
+ SAN_communism_DEF:0 "the Worker's State of San Marino"
  SAN_communism_ADJ:0 "Sammarinese"
  SAN_radical_socialism:0 "Worker's Republic of San Marino"
  SAN_radical_socialism_DEF:0 "the Worker's Republic of San Marino"
@@ -1411,7 +1411,7 @@ GRE_national_populism_ADJ:0 "Greek"
  SAN_national_populism_DEF:0 "the San Marino Union"
  SAN_national_populism_ADJ:0 "Sammarinese"
 
- # Saxony
+# Saxony
  SAX_communism:0 "Saxonian Workers State"
  SAX_communism_DEF:0 "the Saxonian Workers State"
  SAX_communism_ADJ:0 "Saxonian"
@@ -1437,7 +1437,7 @@ GRE_national_populism_ADJ:0 "Greek"
  SAX_national_populism_DEF:0 "the Saxonian State"
  SAX_national_populism_ADJ:0 "Saxonian"
 
- # Schleswig
+# Schleswig
  SCH_communism:0 "Schleswig-Holsteinisch Workers State"
  SCH_communism_DEF:0 "the Workers State of Schleswig-Holstein"
  SCH_communism_ADJ:0 "Schleswig-Holsteinisch"
@@ -1567,7 +1567,7 @@ GRE_national_populism_ADJ:0 "Greek"
  SWE_national_populism_DEF:0 "the Second Swedish Empire"
  SWE_national_populism_ADJ:0 "Swedish"
 
- # Thuringia
+# Thuringia
  THU_communism:0 "Thuringian Workers State"
  THU_communism_DEF:0 "the Thuringian Workers State"
  THU_communism_ADJ:0 "Thuringian"
@@ -1593,7 +1593,7 @@ GRE_national_populism_ADJ:0 "Greek"
  THU_national_populism_DEF:0 "the Thuringian State"
  THU_national_populism_ADJ:0 "Thuringian"
 
- # Westphalia
+# Westphalia
  WST_communism:0 "Westphalian Workers State"
  WST_communism_DEF:0 "the Westphalian Workers State"
  WST_communism_ADJ:0 "Westphalian"
@@ -1671,6 +1671,7 @@ GRE_national_populism_ADJ:0 "Greek"
  YUG_national_populism_DEF:0 "Radikalna Yugoslavia"
  YUG_national_populism_ADJ:0 "Yugoslavian"
 
+#rest of Europe
  BOS:0 "Bosnia"
  BOS_DEF:0 "Bosnia"
  BOS_ADJ:0 "Bosnian"
@@ -1795,7 +1796,7 @@ GRE_national_populism_ADJ:0 "Greek"
  AFG_national_populism_DEF:0 "the New Kabul Khanate"
  AFG_national_populism_ADJ:0 "Afghan"
 
- # Armenia
+# Armenia
  ARM_communism:0 "Armenian Socialist State"
  ARM_communism_DEF:0 "the Armenian Socialist State"
  ARM_communism_ADJ:0 "Armenian"
@@ -1899,7 +1900,7 @@ GRE_national_populism_ADJ:0 "Greek"
  OTT_national_populism_DEF:0 "the Ottoman Empire"
  OTT_national_populism_ADJ:0 "Ottoman"
 
- # Persia
+# Persia
  PER_communism:0 "Tehran Commune"
  PER_communism_DEF:0 "the Tehran Commune"
  PER_communism_ADJ:0 "Iranian"
@@ -1977,6 +1978,7 @@ GRE_national_populism_ADJ:0 "Greek"
  YEM_national_populism_DEF:0 "the Federation of Yemen"
  YEM_national_populism_ADJ:0 "Yemeni"
 
+# Cacaus and Arabic Pleps
  AZR:0 "Azerbaijan"
  AZR_DEF:0 "Azerbaijan"
  AZR_ADJ:0 "Azerbaijani"
@@ -2142,7 +2144,7 @@ GRE_national_populism_ADJ:0 "Greek"
  HAI_national_populism_DEF:0 "Hispaniola"
  HAI_national_populism_ADJ:0 "Hispaniolan"
 
- # Dominican Republic #
+# Dominican Republic #
 
  DOM_communism:0 "Domician Commune"
  DOM_communism_DEF:0 "the Domician Commune"
@@ -2169,7 +2171,7 @@ GRE_national_populism_ADJ:0 "Greek"
  DOM_national_populism_DEF:0 "Hispaniola"
  DOM_national_populism_ADJ:0 "Hispaniolan"
 
- # Guatemala #
+# Guatemala #
 
  GUA_communism:0 "Union of Guatemala"
  GUA_communism_DEF:0 "the Union of Guatemala"
@@ -2196,7 +2198,7 @@ GRE_national_populism_ADJ:0 "Greek"
  GUA_national_populism_DEF:0 "Corporatist Guatemala"
  GUA_national_populism_ADJ:0 "Guatemalan"
 
- # El Salvador #
+# El Salvador #
 
  ELS_communism:0 "Central American Socialist Union"
  ELS_communism_DEF:0 "the Central American Socialist Union"
@@ -2223,7 +2225,7 @@ GRE_national_populism_ADJ:0 "Greek"
  ELS_national_populism_DEF:0 "Greater Salvador"
  ELS_national_populism_ADJ:0 "Salvadoran"
 
- # Honduras #
+# Honduras #
 
  HON_communism:0 "Honduran Commonwealth"
  HON_communism_DEF:0 "the Honduran Commonwealth"
@@ -2250,7 +2252,7 @@ GRE_national_populism_ADJ:0 "Greek"
  HON_national_populism_DEF:0 "the Honduran Corporate State"
  HON_national_populism_ADJ:0 "Honduran"
 
- # Nicaragua #
+# Nicaragua #
 
  NIC_communism:0 "International Confederation of Nicaragua"
  NIC_communism_DEF:0 "the International Confederation of Nicaragua"
@@ -2277,7 +2279,7 @@ GRE_national_populism_ADJ:0 "Greek"
  NIC_national_populism_DEF:0 "the Natioanl Union of Nicaragua"
  NIC_national_populism_ADJ:0 "Nicaraguan"
 
- # Costa Rica #
+# Costa Rica #
 
  COS_communism:0 "Costa del Pueblo"
  COS_communism_DEF:0 "Costa del Pueblo"
@@ -2304,7 +2306,7 @@ GRE_national_populism_ADJ:0 "Greek"
  COS_national_populism_DEF:0 "Costa Potente"
  COS_national_populism_ADJ:0 "Costa Rican"
 
- # Panama #
+# Panama #
 
  PAN_communism:0 "Free Panamanian Commune"
  PAN_communism_DEF:0 "the Free Panamanian Commune"
@@ -2331,6 +2333,7 @@ GRE_national_populism_ADJ:0 "Greek"
  PAN_national_populism_DEF:0 "Nationalist Panama"
  PAN_national_populism_ADJ:0 "Panamanian"
 
+#They like weed
  BAH:0 "Bahamas"
  BAH_DEF:0 "Bahamas"
  BAH_ADJ:0 "Bahaman"
