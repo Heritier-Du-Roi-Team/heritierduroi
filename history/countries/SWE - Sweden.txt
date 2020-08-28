@@ -75,20 +75,20 @@ set_autonomy = {
 NOR = {
 	set_cosmetic_tag = NOR_SWE
 	set_politics = {
-	ruling_party = liberalism
+	ruling_party = social_democracy
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = no
 	}
 set_popularities = {
-	communism = 0
-radical_socialism = 0
-social_democracy = 0
-liberalism = 0
-conservatism = 0
+	communism = 2
+radical_socialism = 3
+social_democracy = 48
+liberalism = 28
+conservatism = 17
 authoritarian_democracy	= 0
 paternal_autocrat =	0
-national_populism = 0
+national_populism = 2
 	}
 
 }
@@ -98,13 +98,20 @@ add_to_faction = SWE
 add_to_faction = NOR
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = social_democracy
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	
+communism = 3
+radical_socialism = 4
+social_democracy = 46
+liberalism = 27
+conservatism = 18
+authoritarian_democracy	= 0
+paternal_autocrat =	0
+national_populism = 2
 	
 }
 
