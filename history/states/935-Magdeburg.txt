@@ -1,0 +1,25 @@
+state={
+	id=935
+	name="STATE_935"
+	manpower = 1013210
+
+	state_category = city
+
+
+	history={
+		owner = PRS
+		victory_points = {
+			3522 5
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+
+		}
+		add_core_of = PRS
+	}
+
+	provinces={
+		375 3367 3499 3522 6487 9238 9375 9456 9560 11219 11359 11468
+	}
+}

@@ -1,14 +1,11 @@
 state={
 	id=85
 	name="STATE_85"
-	manpower = 1080100
+	manpower = 401410
 
-	state_category = city
+	state_category = large_town
 	history={
 		owner = PRS
-		victory_points = {
-			362 20
-		}
 		victory_points = {
 			3295 5
 		}
@@ -16,19 +13,14 @@ state={
 			279 1
 		}
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			arms_factory = 2
 			industrial_complex = 1
-			dockyard = 1
-			air_base = 3
-			362 = {
-				naval_base = 5
-			}
 		}
 		add_core_of = PRS
 	}
 
 	provinces={
-		243 279 334 362 389 3295 3324 6347 9263
+		243 279 334 389 3295 3324 6347
 	}
 }

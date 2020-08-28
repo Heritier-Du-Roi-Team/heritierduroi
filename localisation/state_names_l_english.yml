@@ -149,6 +149,11 @@
  STATE_931:0 "Aosta Valley"
  STATE_932:0 "Marche"
  STATE_933:0 "Moise"
+ STATE_934:0 "Danzig"
+ STATE_935:0 "Magdeburg"
+ STATE_936:0 "Limburg"
+ STATE_937:0 "Liège"
+ STATE_938:0 "Antwerpen"
 
 
 
@@ -182,7 +187,7 @@
  STATE_31:0 "Midi Pyrenees"
  STATE_32:0 "Alpes"
  STATE_33:0 "Centre-Sud"
- STATE_34:0 "Wallonie"
+ STATE_34:0 "Haute Wallonie"
  STATE_35:0 "Brabant"
  STATE_36:0 "Friesland"
  STATE_37:0 "Sjaelland"
