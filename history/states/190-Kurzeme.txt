@@ -11,7 +11,6 @@ state={
 			9262 3
 		}
 		owner = LAT
-		add_core_of = RUS
 		buildings = {
 			infrastructure = 5
 			9262 = {
