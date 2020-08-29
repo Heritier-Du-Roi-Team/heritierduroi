@@ -1,0 +1,19 @@
+state = {
+	id = 941
+	name="STATE_941"
+	manpower = 87130
+
+	state_category = rural
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		3592 3596
+	}
+}

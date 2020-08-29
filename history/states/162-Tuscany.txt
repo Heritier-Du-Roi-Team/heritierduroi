@@ -9,7 +9,7 @@ state={
 			9907 20 
 		}
 		victory_points = {
-			11833 1 
+			6973 1 
 		}
 		buildings = {
 			infrastructure = 8
@@ -17,27 +17,16 @@ state={
 			industrial_complex = 1
 			dockyard = 3
 			air_base = 2
-			11833 = {
-				naval_base = 4
-
+			6973 = {
+				naval_base = 10
 			}
-
 		}
 		add_core_of = TUS
 		add_core_of = ITA
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 2
-
-			}
-
-		}
-
 	}
 
 	provinces={
-		1616 6946 9879 9907 11889 
+		1616 6946 6973 9879 9907 11889 
 	}
 	manpower=1982314
 	state_category=large_city
