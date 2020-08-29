@@ -1,9 +1,9 @@
 state={
-	id=106
-	name="STATE_106"
+	id=944
+	name="STATE_944"
 	resources={
-		chromium=58
-		aluminium=12
+		chromium=10
+		aluminium=3
 	}
 
 	history={
@@ -12,19 +12,15 @@ state={
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-			air_base = 2
-
 		}
-		victory_points = {
-			3882 5
-		}
+		vic
 		add_claim_by = YUG
 		add_core_of = MAC
 	}
 
 	provinces={
-		833 867 907 974 3833 3865 3882 6886 11856
+		11832 11857 11868
 	}
-	manpower=1062130
-	state_category=town
+	manpower=302130
+	state_category=rural
 }

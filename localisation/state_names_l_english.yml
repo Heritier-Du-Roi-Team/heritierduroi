@@ -159,6 +159,9 @@
  STATE_941:0 "Karlovac"
  STATE_942:0 "Trieste"
  STATE_943:0 "Istria"
+ STATE_944:0 "Vranje"
+ STATE_945:0 "Northern Epirus"
+ STATE_946:0 "Shkodër"
 
 
 
@@ -202,7 +205,7 @@
  STATE_41:0 "Madrid"
  STATE_42:0 "Moselland"
  STATE_43:0 "Northern Hungary"
- STATE_44:0 "Albania"
+ STATE_44:1 "Tirana"
  STATE_45:0 "Vojvodina"
  STATE_46:0 "Muntenia"
  STATE_47:0 "Attica"
