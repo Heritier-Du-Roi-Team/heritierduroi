@@ -27,6 +27,26 @@ set_popularities = {
   national_populism = 3
 }
 
+give_guarantee = ARM
+give_guarantee = AZR
+give_guarantee = GEO
+
+ARM = {
+  give_resource_rights = { receiver = RUS state = 230 }
+  give_military_access = RUS
+}
+
+AZR = {
+  give_resource_rights = { receiver = RUS state = 229 }
+  give_military_access = RUS
+}
+
+GEO = {
+  give_resource_rights = { receiver = RUS state = 231 }
+  give_resource_rights = { receiver = RUS state = 820 }
+  give_military_access = RUS
+}
+
 create_country_leader = {
   name = ""
   desc = ""
