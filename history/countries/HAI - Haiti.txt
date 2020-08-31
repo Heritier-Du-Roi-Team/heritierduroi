@@ -1,0 +1,63 @@
+﻿capital = 318
+
+oob = "HAI_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 5
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarian_democracy = 39
+	paternal_autocrat = 31
+	liberalism = 17
+	conservatism = 8
+	communism = 5
+}
+
+create_country_leader = {
+	name = "Jacques Roumain"
+	desc = "POLITICS_JACQUES_ROUMAIN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communsim_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Élie Lescot"
+	desc = "POLITICS_ELISE_LESCOT_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Louis Borno"
+	desc = "POLIITICS_LOUIS_BORNO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Sténio Vincent"
+	desc = "POLITICS_STENIO_VINCENT_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+	traits = {
+		#
+	}
+}

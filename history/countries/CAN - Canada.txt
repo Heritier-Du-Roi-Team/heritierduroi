@@ -82,33 +82,46 @@ set_popularities = {
 }
 
 create_country_leader = {
+	name = "André Laurendeau"
+	desc = "POLIITCS_ANDRE_LAURENDEAU_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = national_populism_type
+}
+
+create_country_leader = {
+	name = "Arthur Meighen"
+	desc = "POLITICS_ARTHUR_MEIGHEN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+
+create_country_leader = {
+	name = "Edward VIII"
+	desc = "POLITICS_EDWARD_DESC"
+	picture = "gfx/leaders/ENG/Portrait_England_Edward_VIII.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "R. B. Bennett"
+	desc = "POLITICS_RB_BENNETT_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
 	name = "Mackenzie King"
 	desc = "POLITICS_MACKENZIE_KING_DESC"
-	picture = "Portrait_Canada_Mackenzie_King.dds"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = liberalism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Adrien Arcand"
-	desc = "POLITICS_ADRIEN_ARCAND_DESC"
-	picture = "GFX_CAN_adrien_arcand"
-	expire = "1965.1.1"
-	ideology = nazism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Tim Buck"
-	desc = "POLITICS_TIM_BUCK_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	expire = "1965.1.1"
-	ideology = marxism
+	ideology = liberalism_type
 	traits = {
 		#
 	}
@@ -117,9 +130,28 @@ create_country_leader = {
 create_country_leader = {
 	name = "J. S. Woodsworth"
 	desc = "POLITICS_JS_WOODSWORTH_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Humphrey Mitchell"
+	desc = "POLITICS_HUMPHREY_MITCHELL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+}
+
+create_country_leader = {
+	name = "Tim Buck"
+	desc = "POLITICS_TIM_BUCK_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communism_type
 	traits = {
 		#
 	}

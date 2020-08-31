@@ -1,0 +1,51 @@
+﻿capital = 315
+
+oob = "CUB_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	early_fighter = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 20
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1936.1.10"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	liberalism = 51
+	conservatism = 36
+	radical_socialism = 13
+}
+
+create_country_leader = {
+	name = "Blas Roca Calderio"
+	desc = "POLITICS_BLAS_CALDERIO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+}
+
+create_country_leader = {
+	name = "Gerardo Morales"
+	desc = "POLITICS_GERARDO_MORALES_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Federico Laredo Brú"
+	desc = "POLITICS_FEDERICO_LAREDO_BRU_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}

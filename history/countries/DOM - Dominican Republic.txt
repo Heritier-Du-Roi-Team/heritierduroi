@@ -1,0 +1,60 @@
+﻿capital = 319
+
+oob = "DOM_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+}
+set_country_flag = monroe_doctrine
+set_war_support = 0.1
+set_convoys = 5
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1934.5.16"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	paternal_autocrat = 51
+	authoritarian_democracy = 22
+	conservatism = 18
+	liberalism = 9
+}
+
+create_country_leader = {
+	name = "Horacio Vásquez"
+	desc = "POLITICS_HORACIO_VASQUEZ_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Rafael Estrella Ureña"
+	desc = "POLITICS_RAFAEL_ESTRELLA_URENA_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
+	name = "Joaquin Balaguer"
+	desc = "POLITICS_JOAQUIN_BALAGUER_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Rafael Trujillo"
+	desc = "POLITICS_RAFAEL_TRUJILLO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+	traits = {
+		#
+	}
+}
