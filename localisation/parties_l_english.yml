@@ -925,6 +925,24 @@
 
 ### North America ###
 
+# Canada
+ CAN_communism_party:0 "CPC"
+ CAN_communism_party_long:0 "Communist Party of Canada"
+ CAN_radical_socialism_party:0 "Labour"
+ CAN_radical_socialism_party_long:0 "Labour Party"
+ CAN_social_democracy_party:0 "SCP"
+ CAN_social_democracy_party_long:0 "Social Credit Party"
+ CAN_liberalism_party:0 "Liberal"
+ CAN_liberalism_party_long:0 "Liberal Party"
+ CAN_conservatism_party:0 "Conservative"
+ CAN_conservatism_party_long:0 "Conservative Party"
+ CAN_authoritarian_democracy_party:0 "Saxe-Coburg and Gotha"
+ CAN_authoritarian_democracy_party_long:0 "House of Saxe-Coburg and Gotha"
+ CAN_paternal_autocrat_party:0 "UP"
+ CAN_paternal_autocrat_party_long:0 "Unionist Party"
+ CAN_national_populism_party:0 "BPC"
+ CAN_national_populism_party_long:0 "Bloc Populaire Canadien"
+
 # Mexico
  MEX_communism_party:0 "PCM"
  MEX_communism_party_long:0 "Partido Comunista Mexicano"
