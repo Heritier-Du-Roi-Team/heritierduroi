@@ -29,3 +29,11 @@ authoritarian_democracy	= 27
 paternal_autocrat =	11
 national_populism = 9
 }
+
+create_country_leader = {
+	name = "Prince Knud"
+	desc = "POLITICS_PRINCE_KNUD_DESC"
+	picture = "Portrait_Prince_Knud.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}

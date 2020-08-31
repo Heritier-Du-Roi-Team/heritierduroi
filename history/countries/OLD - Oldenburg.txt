@@ -25,3 +25,11 @@ authoritarian_democracy	= 34
 paternal_autocrat =	5
 national_populism = 1
 }
+
+create_country_leader = {
+	name = "Grand Duke Nikolaus"
+	desc = "POLITICS_NIKOLAUS_FRIEDRICH_WILHELM_DESC"
+	picture = "Portrait_Nikolaus_Friedrich_Wilhelm.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
