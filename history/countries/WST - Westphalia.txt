@@ -29,13 +29,3 @@ paternal_autocrat =	32
 national_populism = 9
 }
 
-create_country_leader = {
-	name = "Militärjunta"
-	desc = "POLITICS_WESTPHALIAN_JUNTA_DESC"
-	picture = "gfx/leaders/WST/WST_military_junta.dds"
-	expire = "1965.1.1"
-	ideology = paternal_autocrat_type
-	traits = {
-		#
-	}
-}

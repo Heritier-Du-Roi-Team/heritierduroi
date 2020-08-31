@@ -11,6 +11,9 @@ set_technology = {
 
 set_stability = 0.79
 set_war_support = 0.16
+add_ideas = { 
+BUL_Prussian_Balkans 
+}
 
 set_politics = {
 	ruling_party = authoritarian_democracy
@@ -28,4 +31,24 @@ set_popularities = {
   authoritarian_democracy = 57
   paternal_autocrat = 13
   national_populism = 0
+}
+create_country_leader = {
+	name = "Boris III"
+	desc = "POLITICS_BORIS_III_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "Boris III"
+	desc = "POLITICS_BORIS_III_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
 }

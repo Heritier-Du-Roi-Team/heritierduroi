@@ -11,6 +11,11 @@ spriteTypes = {
 	### new tfv nat spirit icons
 
 	spriteType = {
+		name = "GFX_idea_BUL_Prussian_Balkans"
+		texturefile = "gfx/interface/ideas/BUL_Prussian_Balkans.tga"
+	}
+	
+	spriteType = {
 		name = "GFX_idea_SLO_Fight_for_Independence"
 		texturefile = "gfx/interface/ideas/SLO_Fight_for_Independence.tga"
 	}
