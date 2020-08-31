@@ -49,18 +49,21 @@ if = {
 }
 
 set_politics = {
-	ruling_party = social_conservatism
-	last_election = "1936.1.1"
+	ruling_party = social_democracy
+	last_election = "1935.22.10"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	social_conservatism = 51
-	autocracy = 34
-	social_liberalism = 4
-	socialist = 6
-	totalist = 5
+	communism = 1
+	radical_socialism = 1
+	social_democracy = 46
+	liberalism = 26
+	conservatism = 17
+	authoritarian_democracy	= 0
+	paternal_autocrat =	8
+	national_populism = 1
 }
 
 set_autonomy = {

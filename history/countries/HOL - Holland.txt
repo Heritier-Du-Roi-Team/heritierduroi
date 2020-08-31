@@ -102,15 +102,20 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = conservatism
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 93
-	fascism = 4
-	communism = 3
+communism = 4
+radical_socialism = 2
+social_democracy = 24
+liberalism = 15
+conservatism = 49
+authoritarian_democracy	= 0
+paternal_autocrat =	2
+national_populism = 4
 }
 
 set_convoys = 150

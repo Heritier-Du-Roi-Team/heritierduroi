@@ -12,7 +12,10 @@ set_technology = {
 set_stability = 0.79
 set_war_support = 0.16
 
-
+add_ideas = {
+	SLO_Fight_for_Independence
+	SLO_Failing_Democracy
+}
 set_politics = {
 	ruling_party = conservatism
 	last_election = "1933.2.6"
