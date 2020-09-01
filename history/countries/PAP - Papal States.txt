@@ -115,7 +115,7 @@ create_country_leader = {
 create_country_leader = {
   name = "Pius XI"
   desc = "POLITICS_PIUS_XI_DESC"
-  picture = ""
+  picture = "Portrait_Pius_XI.tga"
   expire = "1965.1.1"
   ideology = authoritarian_democracy_type
 }
