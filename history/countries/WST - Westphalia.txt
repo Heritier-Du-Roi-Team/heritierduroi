@@ -29,3 +29,13 @@ paternal_autocrat =	32
 national_populism = 9
 }
 
+create_country_leader = {
+	name = "Ernst Busch"
+	desc = "POLITICS_ERNST_BUSCH_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+	traits = {
+		#
+	}
+}
