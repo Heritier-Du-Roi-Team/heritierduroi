@@ -1,16 +1,12 @@
-
 state={
-	id=228
-	name="STATE_228" # Voroshilovgrad
-	manpower = 2167411
+	id=954
+	name="STATE_954" # Voroshilovgrad
+	manpower = 984310
 
 	state_category = town
 
 	history={
 		owner = RUS
-		victory_points = {
-			9461 1
-		}
 		buildings = {
 			infrastructure = 5
 		}
@@ -19,6 +15,6 @@ state={
 	}
 
 	provinces={
-		6505 9446 9461
+		523 547 570 3491 6519 9476 11487 11513
 	}
 }

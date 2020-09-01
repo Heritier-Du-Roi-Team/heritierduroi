@@ -13,7 +13,6 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		vic
 		add_claim_by = YUG
 		add_core_of = MAC
 	}

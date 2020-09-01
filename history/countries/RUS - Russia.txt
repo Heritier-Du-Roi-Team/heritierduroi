@@ -38,6 +38,8 @@ ARM = {
 
 AZR = {
   give_resource_rights = { receiver = RUS state = 229 }
+  give_resource_rights = { receiver = RUS state = 947 }
+  give_resource_rights = { receiver = RUS state = 948 }
   give_military_access = RUS
 }
 
