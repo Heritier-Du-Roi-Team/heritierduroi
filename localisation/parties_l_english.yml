@@ -1072,6 +1072,26 @@
  BRA_paternal_autocrat_party_long:0 "Frente Negra Brasileira"
  BRA_national_populism_party:0 "AIB"
  BRA_national_populism_party_long:0 "Ação Integralista Brasileira"
+ 
+ # More Andes
+ BOL_communism_party:0 "-"
+ BOL_communism_party_long:0 "-"
+ BOL_radical_socialism_party:0 "CSTB"
+ BOL_radical_socialism_party_long:0 "Confederación Sindical de Trabajadores de Bolivia"
+ BOL_social_democracy_party:0 "-"
+ BOL_social_democracy_party_long:0 "-"
+ BOL_liberalism_party:0 "PL"
+ BOL_liberalism_party_long:0 "Partido Liberal"
+ BOL_conservatism_party:0 "RPG"
+ BOL_conservatism_party_long:0 "Partido Republicano Genuino"
+ BOL_authoritarian_democracy_party:0 "LEC"
+ BOL_authoritarian_democracy_party_long:0 "Legión de Ex-Combatientes"
+ BOL_paternal_autocrat_party:0 "-"
+ BOL_paternal_autocrat_party_long:0 "-"
+ BOL_national_populism_party:0 "-"
+ BOL_national_populism_party_long:0 "-"
+
+
 
 # Chile
  CHL_communism_party:0 "PCC"
@@ -1161,6 +1181,25 @@
  ELP_paternal_autocrat_party_long:0 "Fuerzas Armadas de Paraguay"
  ELP_national_populism_party:0 "PM"
  ELP_national_populism_party_long:0 "Partidarios de Morínigo"
+#Andesland
+ PRU_communism_party:0 "PCP"
+ PRU_communism_party_long:0 "Partido Comunista Peruano"
+ PRU_radical_socialism_party:0 "PCP-S"
+ PRU_radical_socialism_party_long:0 "Partido Comunista Peruano - Socialista"
+ PRU_social_democracy_party:0 "PAP"
+ PRU_social_democracy_party_long:0 "Partido Aprista Peruano"
+ PRU_liberalism_party:0 "PEdP"
+ PRU_liberalism_party_long:0 "Partido Economista del Perú"
+ PRU_conservatism_party:0 "AR"
+ PRU_conservatism_party_long:0 "Acción Republicana"
+ PRU_authoritarian_democracy_party:0 "-"
+ PRU_authoritarian_democracy_party_long:0 "-"
+ PRU_paternal_autocrat_party:0 "FAdP"
+ PRU_paternal_autocrat_party_long:0 "Fuerzas Armadas del Peru"
+ PRU_national_populism_party:0 "UR"
+ PRU_national_populism_party_long:0 "Unión Revolucionaria"
+
+
  
 # Little Brazil
  URG_communism_party:0 "PCdU"
