@@ -301,6 +301,8 @@
  modern_armor_desc:0 "Modern Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks."
  infantry:0 "Infantry"
  infantry_desc:0 "Meat for the meat grinder."
+ militia:0 "Militia"
+ militia_desc:0 "Undertrained meat for the grinder."
  bicycle_battalion:0 "Bicycle Battalion"
  bicycle_battalion_desc:0 "Meat for the meat grinder, but with extra bits of metal."
  paratrooper:0 "Paratroopers"

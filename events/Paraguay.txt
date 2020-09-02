@@ -78,7 +78,7 @@ country_event = {
 			retire_country_leader = yes
 
 			create_country_leader = {
-				name = "Republican Council"
+				name = "Republican Committee"
 				picture = "Paraguay_Republican_Junta.tga"
 				expire = "1965.1.1"
 				ideology = liberalism_type

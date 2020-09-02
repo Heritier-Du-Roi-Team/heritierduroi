@@ -41,9 +41,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Eusebio Ayala"
-	desc = "POLITICS_EUSEBIO_AYALA_DESC"
-	picture = ""
+	name = "Republican Committee"
+	picture = "gfx/leaders/PAR/Paraguay_Republican_Junta.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -59,7 +58,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Rafael Franco Ojeda"
 	desc = "POLITICS_RAFAEL_FRANCO_OJEDA_DESC"
-	picture = ""
+	picture = "gfx/leaders/PAR/Portrait_Rafael_Franco_Ojeda.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -67,7 +66,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Rafael Franco Ojeda"
 	desc = "POLITICS_RAFAEL_FRANCO_OJEDA_DESC"
-	picture = ""
+	picture = "gfx/leaders/PAR/Portrait_Rafael_Franco_Ojeda.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }

@@ -536,111 +536,112 @@ form_china_category = {
 			}
 		}
 
-			complete_effect = {
-				country_event = { id = HDR_Unite.8 }
-				custom_effect_tooltip = form_country_qing_coring_states_tt
-				hidden_effect = {
-					# Fengtien
-					717 = { add_core_of = ROOT }
-					714 = { add_core_of = ROOT }
-					761 = { add_core_of = ROOT }
-					328 = { add_core_of = ROOT }
-					715 = { add_core_of = ROOT }
-					716 = { add_core_of = ROOT }
-					610 = { add_core_of = ROOT }
-					609 = { add_core_of = ROOT }
-					611 = { add_core_of = ROOT }
-					608 = { add_core_of = ROOT }
-					614 = { add_core_of = ROOT }
+		complete_effect = {
+			country_event = { id = HDR_Unite.8 }
+			custom_effect_tooltip = form_country_qing_coring_states_tt
+			hidden_effect = {
+				# Fengtien
+				717 = { add_core_of = ROOT }
+				714 = { add_core_of = ROOT }
+				761 = { add_core_of = ROOT }
+				328 = { add_core_of = ROOT }
+				715 = { add_core_of = ROOT }
+				716 = { add_core_of = ROOT }
+				610 = { add_core_of = ROOT }
+				609 = { add_core_of = ROOT }
+				611 = { add_core_of = ROOT }
+				608 = { add_core_of = ROOT }
+				614 = { add_core_of = ROOT }
 
-					# Shandong
-					597 = { add_core_of = ROOT }
+				# Shandong
+				597 = { add_core_of = ROOT }
 
-					# Shanxi
-					615 = { add_core_of = ROOT }
-					622 = { add_core_of = ROOT }
-					746 = { add_core_of = ROOT }
+				# Shanxi
+				615 = { add_core_of = ROOT }
+				622 = { add_core_of = ROOT }
+				746 = { add_core_of = ROOT }
 
-					# Xibei San Ma
-					283 = { add_core_of = ROOT }
-					616 = { add_core_of = ROOT }
-					754 = { add_core_of = ROOT }
-					755 = { add_core_of = ROOT }
-					756 = { add_core_of = ROOT }
-					760 = { add_core_of = ROOT }
+				# Xibei San Ma
+				283 = { add_core_of = ROOT }
+				616 = { add_core_of = ROOT }
+				754 = { add_core_of = ROOT }
+				755 = { add_core_of = ROOT }
+				756 = { add_core_of = ROOT }
+				760 = { add_core_of = ROOT }
 
-					# Sinkiang
-					287 = { add_core_of = ROOT }
-					617 = { add_core_of = ROOT }
-					618 = { add_core_of = ROOT }
-					619 = { add_core_of = ROOT }
-					759 = { add_core_of = ROOT }
+				# Sinkiang
+				287 = { add_core_of = ROOT }
+				617 = { add_core_of = ROOT }
+				618 = { add_core_of = ROOT }
+				619 = { add_core_of = ROOT }
+				759 = { add_core_of = ROOT }
 
-					# Sichuan
-					605 = { add_core_of = ROOT }
-					752 = { add_core_of = ROOT }
+				# Sichuan
+				605 = { add_core_of = ROOT }
+				752 = { add_core_of = ROOT }
 
-					# Yunnan
-					325 = { add_core_of = ROOT }
-					747 = { add_core_of = ROOT }
-					751 = { add_core_of = ROOT }
-					753 = { add_core_of = ROOT }
+				# Yunnan
+				325 = { add_core_of = ROOT }
+				747 = { add_core_of = ROOT }
+				751 = { add_core_of = ROOT }
+				753 = { add_core_of = ROOT }
 
-					# ROC
-					594 = { add_core_of = ROOT }
-					591 = { add_core_of = ROOT }
-					592 = { add_core_of = ROOT }
-					599 = { add_core_of = ROOT }
-					593 = { add_core_of = ROOT }
-					603 = { add_core_of = ROOT }
-					602 = { add_core_of = ROOT }
-					600 = { add_core_of = ROOT }
-					595 = { add_core_of = ROOT }
-					748 = { add_core_of = ROOT }
-					750 = { add_core_of = ROOT }
-					620 = { add_core_of = ROOT }
-					749 = { add_core_of = ROOT }
-					596 = { add_core_of = ROOT }
-					613 = { add_core_of = ROOT }
-					606 = { add_core_of = ROOT }
-					598 = { add_core_of = ROOT }
-					607 = { add_core_of = ROOT }
-					744 = { add_core_of = ROOT }
+				# ROC
+				594 = { add_core_of = ROOT }
+				591 = { add_core_of = ROOT }
+				592 = { add_core_of = ROOT }
+				599 = { add_core_of = ROOT }
+				593 = { add_core_of = ROOT }
+				603 = { add_core_of = ROOT }
+				602 = { add_core_of = ROOT }
+				600 = { add_core_of = ROOT }
+				595 = { add_core_of = ROOT }
+				748 = { add_core_of = ROOT }
+				750 = { add_core_of = ROOT }
+				620 = { add_core_of = ROOT }
+				749 = { add_core_of = ROOT }
+				596 = { add_core_of = ROOT }
+				613 = { add_core_of = ROOT }
+				606 = { add_core_of = ROOT }
+				598 = { add_core_of = ROOT }
+				607 = { add_core_of = ROOT }
+				744 = { add_core_of = ROOT }
 
-					# Mongolia
-					612 = { add_core_of = ROOT }
-					811 = { add_core_of = ROOT }
-					621 = { add_core_of = ROOT }
-					330 = { add_core_of = ROOT }
+				# Mongolia
+				612 = { add_core_of = ROOT }
+				811 = { add_core_of = ROOT }
+				621 = { add_core_of = ROOT }
+				330 = { add_core_of = ROOT }
 
-					# Tibet
-					601 = { add_core_of = ROOT }
-					604 = { add_core_of = ROOT }
-					322 = { add_core_of = ROOT }
-					757 = { add_core_of = ROOT }
-					758 = { add_core_of = ROOT }
+				# Tibet
+				601 = { add_core_of = ROOT }
+				604 = { add_core_of = ROOT }
+				322 = { add_core_of = ROOT }
+				757 = { add_core_of = ROOT }
+				758 = { add_core_of = ROOT }
 
-					# Colonies
-					745 = { add_claim_by = ROOT }
-					743 = { add_claim_by = ROOT }
-					326 = { add_claim_by = ROOT }
-					729 = { add_claim_by = ROOT }
-					728 = { add_claim_by = ROOT }
-					524 = { add_claim_by = ROOT }
+				# Colonies
+				745 = { add_claim_by = ROOT }
+				743 = { add_claim_by = ROOT }
+				326 = { add_claim_by = ROOT }
+				729 = { add_claim_by = ROOT }
+				728 = { add_claim_by = ROOT }
+				524 = { add_claim_by = ROOT }
 
-					# Former Territory
-					787 = { add_claim_by = ROOT }
-					441 = { add_claim_by = ROOT }
-					671 = { add_claim_by = ROOT }
-					670 = { add_claim_by = ROOT }
+				# Former Territory
+				787 = { add_claim_by = ROOT }
+				441 = { add_claim_by = ROOT }
+				671 = { add_claim_by = ROOT }
+				670 = { add_claim_by = ROOT }
 			}
-	}
+		}
 
-	ai_will_do = {
-		factor = 200
-		modifier = {
-			factor = 0
-			is_historical_focus_on = yes
+		ai_will_do = {
+			factor = 200
+			modifier = {
+				factor = 0
+				is_historical_focus_on = yes
+			}
 		}
 	}
 }
