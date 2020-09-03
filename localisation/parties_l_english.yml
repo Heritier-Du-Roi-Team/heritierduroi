@@ -1035,6 +1035,44 @@
 
 ### Oceania ###
 
+### Central America ###
+
+# Land that has no army today
+ COS_communism_party:0 "PTA"
+ COS_communism_party_long:0 "Partido de Trabajadores y Agricultores"
+ COS_radical_socialism_party:0 "PTA-S"
+ COS_radical_socialism_party_long:0 "Partido de Trabajadores y Agricultores - Socialista"
+ COS_social_democracy_party:0 "-"
+ COS_social_democracy_party_long:0 "-"
+ COS_liberalism_party:0 "PRN-L"
+ COS_liberalism_party_long:0 "Partido Republicano Nacional - Liberal"
+ COS_conservatism_party:0 "PRN-C"
+ COS_conservatism_party_long:0 "Partido Republicano Nacional - Conservative"
+ COS_authoritarian_democracy_party:0 "Fuerzas Armadas"
+ COS_authoritarian_democracy_party_long:0 "Fuerzas Armadas de Costa Rica"
+ COS_paternal_autocrat_party:0 "Fuerzas Armadas"
+ COS_paternal_autocrat_party_long:0 "Fuerzas Armadas de Costa Rica"
+ COS_national_populism_party:0 "-"
+ COS_national_populism_party_long:0 "-"
+ 
+# Jungleland
+ PAN_communism_party:0 "PPP"
+ PAN_communism_party_long:0 "Partido del Pueblo de Panamá"
+ PAN_radical_socialism_party:0 "PS"
+ PAN_radical_socialism_party_long:0 "Partido Socialista"
+ PAN_social_democracy_party:0 "-"
+ PAN_social_democracy_party_long:0 "-"
+ PAN_liberalism_party:0 "PLN"
+ PAN_liberalism_party_long:0 "Partido Liberal Nacional"
+ PAN_conservatism_party:0 "PC"
+ PAN_conservatism_party_long:0 "Partido Conservador"
+ PAN_authoritarian_democracy_party:0 "Fuerzas Armadas"
+ PAN_authoritarian_democracy_party_long:0 "Fuerzas Armadas de la República de Panamá"
+ PAN_paternal_autocrat_party:0 "Fuerzas Armadas"
+ PAN_paternal_autocrat_party_long:0 "Fuerzas Armadas de la República de Panamá"
+ PAN_national_populism_party:0 "PNR"
+ PAN_national_populism_party_long:0 "Partido Nacional Revolucionario"
+
 ### South America ###
 
 #Beefland
