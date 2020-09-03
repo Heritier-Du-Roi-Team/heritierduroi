@@ -20,8 +20,8 @@ set_politics = {
 }
 
 add_ideas = {
-  prussian_militarism
-  prussian_revanchism
+  PRS_Prussian_Militarism
+  PRS_Prussian_Revanchism
 }
 
 set_popularities = {

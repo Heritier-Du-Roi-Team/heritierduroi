@@ -12,7 +12,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_MEX_Zapatismo_Rebels"
-		texturefile = "gfx/interface/ideas/MEX_Zapatismo_Rebels.dds"
+		texturefile = "gfx/interface/ideas/MEX_Zapatismo.dds"
 	}
 
 	spriteType = {
@@ -56,12 +56,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_idea_PRS_prussian_militarism"
-		texturefile = "gfx/interface/ideas/PRS_prussian_militarism.tga"
+		name = "GFX_idea_PRS_Prussian_Militarism"
+		texturefile = "gfx/interface/ideas/PRS_Prussian_Militarism.tga"
 	}
 	spriteType = {
-		name = "GFX_idea_PRS_prussian_revanchism"
-		texturefile = "gfx/interface/ideas/PRS_prussian_revanchism.tga"
+		name = "GFX_idea_PRS_Prussian_Tevanchism"
+		texturefile = "gfx/interface/ideas/PRS_Prussian_Revanchism.tga"
 	}
 
 	spriteType = {
