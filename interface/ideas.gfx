@@ -60,7 +60,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/PRS_Prussian_Militarism.tga"
 	}
 	spriteType = {
-		name = "GFX_idea_PRS_Prussian_Tevanchism"
+		name = "GFX_idea_PRS_Prussian_Revanchism"
 		texturefile = "gfx/interface/ideas/PRS_Prussian_Revanchism.tga"
 	}
 
