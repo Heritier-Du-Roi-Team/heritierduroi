@@ -71,66 +71,43 @@ set_popularities = {
 country_event = { id = Mexico.1 days = 202 } # Huerta Fuckin' Dies Mate!
 
 create_country_leader = {
-	name = "Victoriano Huerta"
-	desc = "POLITICS_VICTORIANO_HUERTA"
+	name = "Manuel Ávila Camacho"
+	desc = "POLIITICS_MANUEL_CAMACHO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Felix Dias"
+	desc = "POLITICS_FELIX_DIAS_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
+	name = "Pascual Orozco Vazquez Jr."
+	desc = "POLITICS_PASCUAL_VAZQUEZ_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
 
 create_country_leader = {
-	name = "Lázaro Cárdenas"
-	desc = "POLITICS_LAZARO_CARDENAS_DESC"
-	picture = "Portrait_Mexico_Lazaro_Cardenas.dds"
+	name = "Victoriano Huerta"
+	desc = "POLITICS_VICTORIANO_HUERTA"
+	picture = "Portrait_Victoriano_Huerta.tga"
 	expire = "1965.1.1"
-	ideology = moderatism
-	traits = {
-		#
-	}
+	ideology = authoritarian_democracy_type
 }
 
 create_country_leader = {
-	name = "Salvador Abascal"
-	desc = "POLITICS_SALVADOR_ABASCAL_DESC"
-	picture = "GFX_Portrait_MEX_Salvador_Abascal"
+	name = "Pablo Gonzales Garzo"
+	desc = "POLITICS_PABLO_GONZALES_GARZO_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = falangism
-	traits = {
-		fascist_militia_leader
-	}
-}
-
-create_country_leader = { # Exiled until 1935 following a rebellion attempt, allowed back in by Cardenas and joined the cabinet of Avila
-	name = "Adolfo de la Huerta"
-	desc = "POLITICS_ADOLFO_DE_LA_HUERTA_DESC"
-	picture = "GFX_Portrait_MEX_Adolfo_de_la_Huerta"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = { # Stalinist, took over after assassination of Trotsky. 1940-1959
-	name = "Dionisio Encina"
-	desc = "POLITICS_DIONISIO_ENCINA_DESC"
-	picture = "GFX_Portrait_MEX_Dionisio_Encina"
-	expire = "1965.1.1"
-	ideology = stalinism
-	traits = {
-		staunch_stalinist
-	}
-}
-
-create_country_leader = { # Trotskyist, led the PCM 1929-1940
-	name = "Hernán Laborde"
-	desc = "POLITICS_HERNAN_LABORDE_DESC"
-	picture = "GFX_Portrait_MEX_Hernan_Laborde"
-	expire = "1965.1.1"
-	ideology = leninism
-	traits = {
-		devoted_trotskyist
-	}
+	ideology = paternal_autocrat_type
 }
 
 create_field_marshal = {

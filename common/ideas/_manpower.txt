@@ -77,7 +77,6 @@ ideas = {
 				}
 				modifier = {
 					tag = ENG
-					has_idea_with_trait = military_theorist
 					factor = 20
 				}
 			}

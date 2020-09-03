@@ -109,7 +109,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Svetozar Pribićević"
 	desc = "POLITICS_SVETOZAR_PRIBICEVIC_DESC"
-	picture = ""
+	picture = "Portrait_Svetozar_Pribićević"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 	traits = {
@@ -133,7 +133,7 @@ create_country_leader = {
 	desc = "POLITICS_PETAR_ZIVKOVIC_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = authoritarian_democracy
+	ideology = authoritarian_democracy_type
 	traits = {
 		#
 	}

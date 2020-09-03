@@ -24,7 +24,7 @@ ideas = {
 	}
 	
 	MEX_Zapatismo = {
-		picture = MEX_Zapatismo
+		picture = MEX_Zapatismo_Rebels
 
 		allowed = {
 			always = no
