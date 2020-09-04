@@ -34,7 +34,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Gerardo Morales"
 	desc = "POLITICS_GERARDO_MORALES_DESC"
-	picture = ""
+	picture = "Portrait_Gerardo_Machado.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }

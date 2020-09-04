@@ -46,7 +46,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Louis Borno"
 	desc = "POLIITICS_LOUIS_BORNO_DESC"
-	picture = ""
+	picture = "Portrait_Louis_Borno.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }

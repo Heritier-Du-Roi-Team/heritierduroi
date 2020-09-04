@@ -52,8 +52,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Thomas J. Faulkner"
-	desc = "POLITICS_THOMAS_FAULKNER_DESC"
+	name = "William Tubman"
+	desc = "POLITICS_WILLIAM_TUBMAN_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = liberalism_type
