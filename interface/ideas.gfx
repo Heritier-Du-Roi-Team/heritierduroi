@@ -10,6 +10,12 @@ spriteTypes = {
 
 	### new tfv nat spirit icons
 
+	
+	spriteType = {
+		name = "GFX_idea_MEX_Incompetent_Staff"
+		texturefile = "gfx/interface/ideas/MEX_Military_Goverment.tga"
+	}
+	
 	spriteType = {
 		name = "GFX_idea_MEX_Zapatismo_Rebels"
 		texturefile = "gfx/interface/ideas/MEX_Zapatismo.dds"
