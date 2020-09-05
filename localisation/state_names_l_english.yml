@@ -172,6 +172,10 @@
  STATE_954:0 "Skaya"
  STATE_955:0 "Chuhuiv"
  STATE_956:0 "Segezha"
+ STATE_957:0 "Toledo"
+ STATE_958:0 "Occidental"
+ STATE_959:0 "Oriental"
+ STATE_960:0 "Petén"
 
 
 
@@ -479,9 +483,9 @@
  STATE_308:0 "Leeward Islands"
  STATE_309:0 "Suriname"
  STATE_310:0 "French Guiana"
- STATE_311:1 "British Honduras"
+ STATE_311:2 "Belize"
  STATE_312:0 "Honduras"
- STATE_313:0 "Guatemala"
+ STATE_313:1 "Guatemala Metropolitana"
  STATE_314:0 "El Salvador"
  STATE_315:0 "Cuba"
  STATE_316:0 "Costa Rica"

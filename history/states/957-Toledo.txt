@@ -1,0 +1,16 @@
+state = {
+	id=957
+	name="STATE_957"
+	manpower = 19213
+
+	state_category = rural
+	history = {
+		add_core_of = BLZ
+		owner = ENG
+		add_core_of = GUA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces= { 2077 13408 13409 }
+}

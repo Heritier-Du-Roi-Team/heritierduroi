@@ -1,22 +1,21 @@
 state = {
 	id=311
 	name="STATE_311"
-	manpower = 51000
+	manpower = 49210
 
-	state_category = pastoral
+	state_category = town
 	history = {
 		add_core_of = BLZ
 		owner = ENG
-		add_core_of = GUA
 		victory_points = {
-			2077 1
+			13406 1
 		}
 		buildings = {
 			infrastructure = 4
-			2077 = {
+			13406 = {
 				naval_base = 1
 			}
 		}
 	}
-	provinces= { 2077 }
+	provinces= { 13403 13404 13405 13406 13407 }
 }

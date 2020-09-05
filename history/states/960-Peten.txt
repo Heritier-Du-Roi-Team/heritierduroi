@@ -1,0 +1,23 @@
+state={
+	id=960
+	name="STATE_960"
+	manpower = 50130
+	resources={
+		chromium=3 # was: 6
+	}
+	
+	state_category = rural
+
+	history={
+		owner = GUA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = GUA
+	}
+
+	provinces={
+		4991 13410 13411 13412
+	}
+	
+}

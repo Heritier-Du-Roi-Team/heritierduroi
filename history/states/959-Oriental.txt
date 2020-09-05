@@ -1,0 +1,27 @@
+state={
+	id=959
+	name="STATE_959"
+	manpower = 813210
+	resources={
+		chromium=2 # was: 6
+	}
+	
+	state_category = town
+
+	history={
+		owner = GUA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			13085 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = GUA
+	}
+
+	provinces={
+		13085 13414 13415 13416 13417
+	}
+	
+}
