@@ -1132,8 +1132,8 @@
  PAN_communism_party_long:0 "Partido del Pueblo de Panamá"
  PAN_radical_socialism_party:0 "PS"
  PAN_radical_socialism_party_long:0 "Partido Socialista"
- PAN_social_democracy_party:0 "-"
- PAN_social_democracy_party_long:0 "-"
+ PAN_social_democracy_party:0 "PS-S"
+ PAN_social_democracy_party_long:0 "Partido Socialista - Socialdemócrata"
  PAN_liberalism_party:0 "PLN"
  PAN_liberalism_party_long:0 "Partido Liberal Nacional"
  PAN_conservatism_party:0 "PC"
@@ -1198,8 +1198,8 @@
  BOL_authoritarian_democracy_party_long:0 "Legión de Ex-Combatientes"
  BOL_paternal_autocrat_party:0 "Fuerzas Armadas"
  BOL_paternal_autocrat_party_long:0 "Fuerzas Armadas de la República de Bolivia"
- BOL_national_populism_party:0 "-"
- BOL_national_populism_party_long:0 "-"
+ BOL_national_populism_party:0 "FSB" #Only Exists from 1937 on
+ BOL_national_populism_party_long:0 "Falange Socialista Boliviana"
 
 
 
