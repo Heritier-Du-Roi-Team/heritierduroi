@@ -28,3 +28,11 @@ authoritarian_democracy	= 59
 paternal_autocrat = 3
 national_populism = 1
 }
+
+create_country_leader = {
+	name = "King Rupprecht"
+	desc = "POLITICS_RUPPRECHT_DESC"
+	picture = "Portraits_Rupprecht.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
