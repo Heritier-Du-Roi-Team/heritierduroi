@@ -70,29 +70,29 @@ national_populism = 1
 }
 
 create_country_leader = {
-	name = "Albrecht Herzog von Württemberg"
+	name = "Albrecht I"
 	desc = "POLITICS_ALBRECHT_MARIA_DESC"
 	picture = "Portrait_Albrecht_Herzog.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
-	name = "Albrecht  I"
+	name = "Albrecht I"
 	desc = "POLITICS_ALBRECHT_MARIA_DESC"
-	picture = ""
+	picture = "Portrait_Albrecht_Herzog.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
 create_country_leader = {
 	name = "Albrecht I"
 	desc = "POLITICS_ALBRECHT_MARIA_DESC"
-	picture = ""
+	picture = "Portrait_Albrecht_Herzog.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
 create_country_leader = {
-	name = "Albrecht  I"
+	name = "Albrecht I"
 	desc = "POLITICS_ALBRECHT_MARIA_DESC"
-	picture = ""
+	picture = "Portrait_Albrecht_Herzog.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
