@@ -27,9 +27,30 @@ national_populism = 1
 }
 
 create_country_leader = {
-	name = "Grand Duke Nikolaus"
+	name = "Nikolaus I"
 	desc = "POLITICS_NIKOLAUS_FRIEDRICH_WILHELM_DESC"
 	picture = "Portrait_Nikolaus_Friedrich_Wilhelm.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
+}
+create_country_leader = {
+	name = "Nikolaus I"
+	desc = "POLITICS_NIKOLAUS_FRIEDRICH_WILHELM_DESC"
+	picture = "Portrait_Nikolaus_Friedrich_Wilhelm.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+create_country_leader = {
+	name = "Nikolaus I"
+	desc = "POLITICS_NIKOLAUS_FRIEDRICH_WILHELM_DESC"
+	picture = "Portrait_Nikolaus_Friedrich_Wilhelm.tga"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+create_country_leader = {
+	name = "Nikolaus I"
+	desc = "POLITICS_NIKOLAUS_FRIEDRICH_WILHELM_DESC"
+	picture = "Portrait_Nikolaus_Friedrich_Wilhelm.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
 }

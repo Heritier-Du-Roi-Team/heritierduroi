@@ -28,3 +28,31 @@ authoritarian_democracy	= 37
 paternal_autocrat =	9
 national_populism = 4
 }
+create_country_leader = {
+	name = "Berthold I"
+	desc = "POLITICS_BERTHOLD_FRIEDRICH_WILHELM_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+create_country_leader = {
+	name = "Berthold I"
+	desc = "POLITICS_BERTHOLD_FRIEDRICH_WILHELM_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+create_country_leader = {
+	name = "Berthold I"
+	desc = "POLITICS_BERTHOLD_FRIEDRICH_WILHELM_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+create_country_leader = {
+	name = "Berthold I"
+	desc = "POLITICS_BERTHOLD_FRIEDRICH_WILHELM_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
