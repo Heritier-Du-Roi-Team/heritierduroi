@@ -22,6 +22,7 @@ set_politics = {
 add_ideas = {
   PRS_Prussian_Militarism
   PRS_Prussian_Revanchism
+  PRS_Spirit_of_Bismarck
 }
 
 set_popularities = {

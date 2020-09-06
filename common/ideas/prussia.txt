@@ -36,7 +36,20 @@ ideas = {
 				defense_bonus_against = 0.15
 			}
 		}
-		
+		PRS_Spirit_of_Bismarck = {
+			allowed = {
+				always = no
+				}
+			alowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = PRS_Spirit_of_Bismarck
+			
+			modifier = {
+			
+			}
+		}
 
 
 

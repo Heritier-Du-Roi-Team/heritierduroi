@@ -9,7 +9,11 @@ spriteTypes = {
 	}
 
 	### new tfv nat spirit icons
-
+	spriteType = {
+		name = "GFX_idea_PRS_Spirit_of_Bismarck"
+		texturefile = "gfx/interface/ideas/PRS_Spirit_of_Bismarck.tga"
+	}
+	
 	spriteType = {
 		name = "GFX_idea_MEX_Loyalty_Funds"
 		texturefile = "gfx/interface/ideas/MEX_Loyalty_Funds.tga"
