@@ -112,7 +112,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Afrânio de Melo Franco"
 	desc = "POLITICS_AFRAINO_MELO_FRANCO_DESC"
-	picture = ""
+	picture = "Portrait_Afraino_Melo_Franco.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -133,63 +133,51 @@ create_country_leader = {
 	ideology = national_populism_type
 }
 
-create_country_leader = {
-	name = "Getúlio Vargas"
-	desc = "POLITICS_GETULIO_VARGAS_DESC"
-	picture = "Portrait_Brazil_Getulio_Vargas.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
-	}
-}
+#create_country_leader = {
+#	name = "Getúlio Vargas"
+#	desc = "POLITICS_GETULIO_VARGAS_DESC"
+#	picture = "Portrait_Brazil_Getulio_Vargas.dds"
+#	expire = "1965.1.1"
+#	ideology = despotism
+#	traits = {
+#		#
+#	}
+#}
 
-create_country_leader = {
-	name = "Plínio Salgado"
-	desc = "POLITICS_PLINIO_SALGADO_DESC"
-	picture = "Portrait_Brazil_Plinio_Salgado.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-create_country_leader = {
-	name = "Luís Carlos Prestes"
-	desc = "POLITICS_LUIS_CARLOS_PRESTES_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = marxism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Armando Sales"
-	desc = "POLITICS_ARMANDO_SALES_DESC"
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
-}
+#create_country_leader = {
+#	name = "Plínio Salgado"
+#	desc = "POLITICS_PLINIO_SALGADO_DESC"
+#	picture = "Portrait_Brazil_Plinio_Salgado.dds"
+#	expire = "1965.1.1"
+#	ideology = fascism_ideology
+#	traits = {
+#		#
+#	}
+#}
+#create_country_leader = {
+#	name = "Luís Carlos Prestes"
+#	desc = "POLITICS_LUIS_CARLOS_PRESTES_DESC"
+#	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+#	expire = "1965.1.1"
+#	ideology = marxism
+#	traits = {
+#		#
+#	}
+#}
+#
+#create_country_leader = {
+#	name = "Armando Sales"
+#	desc = "POLITICS_ARMANDO_SALES_DESC"
+#	picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+#	expire = "1965.1.1"
+#	ideology = conservatism
+#	traits = {
+#		#
+#	}
+#}
 
 
 set_convoys = 40
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = neutrality
-		last_election = "1934.7.17"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		neutrality = 100
-	}
-}
 
 create_corps_commander = {
 	name = "Eurico Gaspar Dutra"

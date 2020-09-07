@@ -28,3 +28,11 @@ authoritarian_democracy	= 26
 paternal_autocrat =	3
 national_populism = 1
 }
+
+create_country_leader = {
+	name = "Grand Duke Charles Augustus"
+	desc = "POLITICS_CHARLES_AUGUSTUS_DESC"
+	picture = "Portrait_Charles_Augustus.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}

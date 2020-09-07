@@ -29,3 +29,11 @@ set_popularities = {
   paternal_autocrat = 27
   national_populism = 7
 }
+
+create_country_leader = {
+  name = "George II"
+  desc = "POLITICS_GEORGE_II_DESC"
+  picture = "Portrait_George_II.tga"
+  expire = "1965.1.1"
+  ideology = paternal_autocrat_type
+}

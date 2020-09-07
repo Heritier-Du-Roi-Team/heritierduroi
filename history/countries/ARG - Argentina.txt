@@ -28,3 +28,11 @@ set_popularities = {
   paternal_autocrat = 2
   national_populism = 2
 }
+
+create_country_leader = {
+  name = "Lisandro de la Torre"
+  desc = "POLITICS_LISANDRO_TORRE_DESC"
+  picture = "Portrait_Lisandro_Torre.tga"
+  expire = "1965.1.1"
+  ideology = liberalism_type
+}

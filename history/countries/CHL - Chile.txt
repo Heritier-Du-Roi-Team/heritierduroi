@@ -7,7 +7,7 @@ set_war_support = 0.20
 
 set_politics = {
 	ruling_party = liberalism
-	last_election = "1932.30.10"
+	last_election = "1932.10.30"
 	election_frequency = 72
 	elections_allowed = yes
 }
@@ -20,4 +20,12 @@ set_popularities = {
   authoritarian_democracy = 2
   paternal_autocrat =	0
   national_populism = 0
+}
+
+create_country_leader = {
+  name = "Pedo Aguirre Cerda"
+  desc = "POLITICS_PEDO_CERDA_DESC"
+  picture = "Portrait_Pedo_Cerda.tga"
+  expire = "1965.1.1"
+  ideology = liberalism_type
 }
