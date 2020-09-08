@@ -63,14 +63,22 @@ set_politics = {
 }
 set_popularities = {
 	communism = 2
-radical_socialism = 3
-social_democracy = 48
-liberalism = 28
-conservatism = 17
-authoritarian_democracy	= 0
-paternal_autocrat =	0
-national_populism = 2
-	}
+	radical_socialism = 3
+	social_democracy = 48
+	liberalism = 28
+	conservatism = 17
+	authoritarian_democracy	= 0
+	paternal_autocrat =	0
+	national_populism = 2
+}
+
+create_country_leader = {
+	name = "Oscar Torp"
+	desc = "POLITICS_OSCAR_TORP_DESC"
+	picture = "Portrait_Oscar_Torp.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
 
 create_country_leader = {
 	name = "Gustaf V"

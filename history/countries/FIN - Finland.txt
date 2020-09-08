@@ -67,11 +67,19 @@ set_popularities = {
 }
 
 create_country_leader = {
+	name = "Väinö Salovaara"
+	desc = "POLITICS_VAINO_SALOVAARA_DESC"
+	picture = "Portrait_Vaino_Salovaara.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
+
+create_country_leader = {
 	name = "Kyösti Kallio"
 	desc = "POLITICS_KYOSTI_KALLIO_DESC"
 	picture = "Portrait_Finland_Kyosti_Kallio.tga"
 	expire = "1965.1.1"
-	ideology = market_liberals
+	ideology = liberalism_type
 	traits = {
 		#
 	}
@@ -82,7 +90,7 @@ create_country_leader = {
 	desc = "POLITICS_MANNERHEIM_DESC"
 	picture = "Portrait_Finland_Mannerheim.tga"
 	expire = "1965.1.1"
-	ideology = nationalism
+	ideology = paternal_autocrat_type
 	traits = {
 		#
 	}
@@ -93,7 +101,7 @@ create_country_leader = {
 	desc = "POLITICS_SVINHUFVUD_DESC"
 	picture = "Portrait_Finland_Svinhufvud.tga"
 	expire = "1965.1.1"
-	ideology = social_conservatives
+	ideology = conservatism_type
 	traits = {
 		#
 	}

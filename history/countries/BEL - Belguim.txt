@@ -29,21 +29,25 @@ set_politics = {
 }
 
 set_popularities = {
-communism = 6
-radical_socialism = 6
-social_democracy = 34
-liberalism = 27
-conservatism = 12
-authoritarian_democracy	= 0
-paternal_autocrat =	4
-national_populism = 11
-	}
-
-
+	social_democracy = 34
+	liberalism = 27
+	conservatism = 12
+	national_populism = 11
+	communism = 6
+	radical_socialism = 6
+	paternal_autocrat =	4
+}
 
 set_convoys = 80
 set_stability = 0.75
 
+create_country_leader = {
+	name = "Hendrik de Man"
+	desc = "POLITICS_HENDRIK_MAN_DESC"
+	picture = "Portrait_Hendrik_Man.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
 
 create_corps_commander = {
 	name = "M.C.L. Keyaerts"

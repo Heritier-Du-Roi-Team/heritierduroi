@@ -29,3 +29,11 @@ set_popularities = {
   paternal_autocrat = 32
   national_populism = 0
 }
+
+create_country_leader = {
+  name = "Vilhelm I"
+  desc = "POLITICS_VILHELM_DESC"
+  picture = "Portrait_Vilhelm_I.tga"
+  expire = "1965.1.1"
+  ideology = paternal_autocrat_type
+}

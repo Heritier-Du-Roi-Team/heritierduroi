@@ -83,22 +83,8 @@ if = {
 	}
 }
 
-set_variable = { var = gateway_to_europe_influence_pp_total value = 0 }
-
 add_ideas = {
 	HOL_wilhelmina
-}
-
-if = {
-	limit = {
-		has_dlc = "Man the Guns"
-	}
-	add_ideas = {
-		HOL_aloof_neutrality
-		HOL_shell_shocked_spectator_5
-		HOL_de_crisisjaren_5
-		HOL_weak_government
-	}
 }
 
 set_politics = {
@@ -108,14 +94,13 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-communism = 4
-radical_socialism = 2
-social_democracy = 24
-liberalism = 15
-conservatism = 49
-authoritarian_democracy	= 0
-paternal_autocrat =	2
-national_populism = 4
+	conservatism = 49
+	social_democracy = 24
+	liberalism = 15
+	communism = 4
+	national_populism = 4
+	radical_socialism = 2
+	paternal_autocrat =	2
 }
 
 set_convoys = 150
@@ -135,11 +120,11 @@ set_stability = 0.75
 create_country_leader = {
 	name = "Hendrikus Colijn"
 	desc = "POLITICS_HENDRIKUS_COLJIN_DESC"
-	picture = "GFX_portrait_holland_hendrikus_colijn"
+	picture = "Portrait_Hendrikus_Colijn.tga"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservatism_type
 	traits = {
-		strict_austerity_adherent
+		#
 	}
 }
 
