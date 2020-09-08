@@ -51,6 +51,14 @@ set_popularities = {
 }
 
 create_country_leader = {
+	name = "Pauls Kalniņš"
+	desc = "POLITICS_PAULS_KALNINS_DESC"
+	picture = "Portrait_Pauls_Kalnins.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
+
+create_country_leader = {
 	name = "Karlis Ulmanis"
 	desc = "POLITICS_KARLIS_ULMANIS_DESC"
 	picture = "GFX_Portrait_latvia_karlis_ulmanis"

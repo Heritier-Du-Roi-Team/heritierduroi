@@ -50,14 +50,17 @@ set_popularities = {
 	paternal_autocrat = 5
 }
 
+create_country_leader = {
+	name = "Konstantin Päts"
+	desc = "POLITICS_KONSTANTIN_PATS_DESC"
+	picture = "Portrait_Konstantin_Pats.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
 
 ### VARIANTS ###
 # 1939 Start #
 1939.1.1 = {
-	if = {
-		limit = { not = { has_dlc = "Man the Guns" } }
-		# Ship variants #
-	}
 	if = {
 		limit = { has_dlc = "Man the Guns" }
 		# Submarines #
