@@ -31,7 +31,7 @@ national_populism = 1
 }
 
 create_country_leader = {
-	name = "Grand Duke Charles Augustus"
+	name = "Charles Augustus I"
 	desc = "POLITICS_CHARLES_AUGUSTUS_DESC"
 	picture = "Portrait_Charles_Augustus.tga"
 	expire = "1965.1.1"

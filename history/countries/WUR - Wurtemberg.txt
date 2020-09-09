@@ -76,3 +76,4 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
+country_event = { id = Wurttemberg.1 days = 1399  }

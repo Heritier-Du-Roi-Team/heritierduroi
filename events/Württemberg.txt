@@ -1,0 +1,27 @@
+add_namespace = Wurttemberg
+country_event = { #Death of Albrecht
+	id = Wurttemberg.1
+	title = Wurttemberg.1.t
+	desc = Wurttemberg.1.d
+	picture = 
+
+	trigger = {
+		tag = WUR
+	}
+
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	option = {
+		name = Wurttemberg.1.a
+		kill_ideology_leader = authoritarian_democracy_type
+			
+			create_country_leader = {
+				name = "Philipp Albrecht I"
+				desc = ""
+				picture = ""
+				expire = "1965.1.1"
+				ideology = authoritarian_democracy_type
+			}
+}
+}
