@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_hdr_album_art"
+		textureFile = "gfx/interface/hdr_album_art.tga"
+		noOfFrames = 2
+	}
+}
