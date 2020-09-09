@@ -72,3 +72,4 @@ create_country_leader = {
 	traits = { #
 	}
 }
+country_event = { id = Prussia.1 days = 2011  }
