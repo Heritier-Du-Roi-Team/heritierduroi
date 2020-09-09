@@ -72,27 +72,7 @@ add_ideas = {
 }
 
 
-create_country_leader = {
-	name = "Ernst August I"
-	desc = "POLITICS_ERNST_AUGUST_DESC"
-	picture = "Portrait_Ernst_August.dds"
-	expire = "1965.1.1"
-	ideology = conservatism_type
-}
-create_country_leader = {
-	name = "Ernst August I"
-	desc = "POLITICS_ERNST_AUGUST_DESC"
-	picture = "Portrait_Ernst_August.dds"
-	expire = "1965.1.1"
-	ideology = liberalism_type
-}
-create_country_leader = {
-	name = "Ernst August I"
-	desc = "POLITICS_ERNST_AUGUST_DESC"
-	picture = "Portrait_Ernst_August.dds"
-	expire = "1965.1.1"
-	ideology = paternal_autocrat_type
-}
+
 create_country_leader = {
 	name = "Ernst August I"
 	desc = "POLITICS_ERNST_AUGUST_DESC"

@@ -80,35 +80,3 @@ create_country_leader = {
 		#
 	}
 }
-create_country_leader = {
-	name = "Georg I"
-	desc = "POLITICS_GEORG_SAXONY_DESC"
-	picture = "Portrait_Prince_Georg.tga"
-	expire = "1965.1.1"
-	ideology = conservatism_type
-	traits = {
-		#
-	}
-}
-create_country_leader = {
-	name = "Georg I"
-	desc = "POLITICS_GEORG_SAXONY_DESC"
-	picture = "Portrait_Prince_Georg.tga"
-	expire = "1965.1.1"
-	ideology = liberalism_type
-	traits = {
-		#
-	}
-}
-create_country_leader = {
-	name = "Georg I"
-	desc = "POLITICS_GEORG_SAXONY_DESC"
-	picture = "Portrait_Prince_Georg.tga"
-	expire = "1965.1.1"
-	ideology = paternal_autocrat_type
-	traits = {
-		#
-	}
-}
-
-
