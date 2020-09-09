@@ -1,0 +1,27 @@
+add_namespace = Slovakia
+country_event = { #Death of Halinka
+	id = Slovakia.1
+	title = Slovakia.1.t
+	desc = Slovakia.1.d
+	picture = 
+
+	trigger = {
+		tag = SLO
+	}
+
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	option = {
+		name = Slovakia.1.a
+		kill_ideology_leader = national_populism_type
+			
+			create_country_leader = {
+				name = "Jozef Tiso"
+				desc = ""
+				picture = ""
+				expire = "1965.1.1"
+				ideology = national_populism_type
+			}
+}
+}
