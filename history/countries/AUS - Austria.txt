@@ -27,7 +27,7 @@ set_politics = {
 	ruling_party = conservatism
 	last_election = "1930.11.9"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {

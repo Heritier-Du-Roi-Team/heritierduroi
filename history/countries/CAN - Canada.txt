@@ -70,7 +70,7 @@ set_politics = {
 	ruling_party = liberalism
 	last_election = "1935.10.14"
 	election_frequency = 60
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {

@@ -9,7 +9,7 @@ set_politics = {
 	ruling_party = liberalism
 	last_election = "1932.10.30"
 	election_frequency = 72
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
   communism = 3

@@ -13,7 +13,7 @@ set_politics = {
 	ruling_party = social_conservatism
 	last_election = "1931.2.6"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
   social_conservatism = 37
