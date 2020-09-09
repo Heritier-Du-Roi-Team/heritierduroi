@@ -28,3 +28,10 @@ authoritarian_democracy	= 0
 paternal_autocrat =	0
 national_populism = 2
 }
+
+create_country_leader = {
+	name = "Georg-August Zinn"
+	desc = "POLITICS_GEORG-AUGUST_ZINN_DESC"
+	picture = "Portrait_Georg-August_Zinn.tga"
+	ideology = social_democracy_type
+}

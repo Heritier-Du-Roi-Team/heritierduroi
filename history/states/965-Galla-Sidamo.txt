@@ -1,0 +1,22 @@
+state={
+	id=965
+	name="STATE_965"
+	resources={
+		rubber=3
+	}
+
+	history={
+		owner = ETH
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ETH
+
+	}
+
+	provinces={
+		2009 7912 8019 8062 10734 12856 13252
+	}
+	manpower=3214106
+	state_category=town
+}

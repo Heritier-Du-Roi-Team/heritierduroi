@@ -1,0 +1,23 @@
+state={
+	id=963
+	name="STATE_963" # Rhone
+	manpower = 432100
+	resources={
+		steel=32 # was: 128
+		aluminium=9 # was: 72
+	}
+
+	state_category = town
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		641 3650 6639 6668 9590
+	}
+}

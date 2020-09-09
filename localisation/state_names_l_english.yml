@@ -176,6 +176,11 @@
  STATE_958:0 "Occidental"
  STATE_959:0 "Oriental"
  STATE_960:0 "Petén"
+ STATE_961:0 "Nancy"
+ STATE_962:0 "Sedan"
+ STATE_963:0 "Jura"
+ STATE_964:0 "Amhara"
+ STATE_965:0 "Gambela"
 
 
 
@@ -443,7 +448,7 @@
  STATE_268:0 "Djibouti"
  STATE_269:0 "Somaliland"
  STATE_270:0 "Pitcairn Island"
- STATE_271:0 "Ethiopia"
+ STATE_271:1 "Oromiya"
  STATE_272:0 "Senegal"
  STATE_273:0 "Murzuq"
  STATE_274:0 "Ghana"
