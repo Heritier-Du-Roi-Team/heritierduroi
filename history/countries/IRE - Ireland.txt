@@ -12,89 +12,86 @@ set_technology = {
 set_convoys = 10
 
 add_ideas = {
-	IRE_pact_of_neutrality
-	IRE_the_day_has_come
-	IRE_orangemen
 }
 
 set_politics = {
-	ruling_party = autocracy
-	last_election = "1923.1.24"
+	ruling_party = conservatism
+	last_election = "1933.1.24"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	autocracy = 40
-	social_conservatism = 15
-	social_liberalism = 13
-	socialist = 12
-	integrism = 15
-	totalist = 5
+    
+  communism = 0
+  radical_socialism = 7
+  social_democracy = 10
+  liberalism = 34
+  conservatism = 45
+  authoritarian_democracy = 0
+  paternal_autocrat = 0
+  national_populism = 4
 }
-
-create_country_leader = {
-	name = "Prince Joachim"
-	desc = "POLITICS_JOACHIM_DESC"
-	picture = "Portrait_Ireland_Joachim.dds"
-	expire = "1965.1.1"
-	ideology = absolute_monarchist
-	traits = {
-		#
-	}
-}
-
 create_country_leader = {
 	name = "Éamon de Valera"
-	desc = "POLITICS_ÉAMON_DE_VALERA_DESC"
-	picture = "Portrait_Ireland_Eamon_de_Valera.dds"
+	desc = "POLITICS_EAMON_VALERA_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = social_conservatives
-	traits = {
-		#
+	ideology = conservatism_type
+	traits = { #
 	}
 }
-
 create_country_leader = {
-	name = "Peadar O'Donnel"
-	desc = "POLITICS_DONNEL_DESC"
-	picture = "Portrait_Ireland_Peadar_o_Donnell.dds"
+	name = "James Larkin Jnr"
+	desc = "POLITICS_JAMES_LARKIN_JNR_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = libertarian_socialists
-	traits = {
-		#
+	ideology = communism_type
+	traits = { #
 	}
 }
-
 create_country_leader = {
-	name = "Eoin O'Duffy"
-	desc = "POLITICS_EOIN_ODUFFY_DESC"
-	picture = "Portrait_Ireland_Eoin_o_Duffy.dds"
+	name = "Michael O'Flanagan"
+	desc = "POLITICS_MICHAEL_O_FLANAGAN_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = resurrectionism
-	traits = {
-		#
+	ideology = radical_socialism_type
+	traits = { #
 	}
 }
-
 create_country_leader = {
-	name = "Douglas Hyde"
-	desc = "POLITICS_HYDE_DESC"
-	picture = "Portrait_Ireland_Douglas_Hyde.dds"
+	name = "William X. O'Brien"
+	desc = "POLITICS_WILLIAM_X_O_BRIEN_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = progressive
-	traits = {
-		#
+	ideology = social_democracy_type
+	traits = { #
 	}
 }
-
 create_country_leader = {
-	name = "James Larkin"
-	desc = "POLITICS_JAMES_LARKIN_DESC"
-	picture = "Portrait_Ireland_James_Larkin.dds"
+	name = "W. T. Cosgrave"
+	desc = "POLITICS_W_COSGRAVE_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = desolationism
-	traits = {
-		#
+	ideology = liberalism_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Michael Collins"
+	desc = "POLITICS_MICHAEL_COLLINS_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = { #
+	}
+}
+create_country_leader = {
+	name = "Ernest Blythe"
+	desc = "POLITICS_ERNEST_BLYTHE_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = national_populism_type
+	traits = { #
 	}
 }
 
