@@ -1,0 +1,21 @@
+ideas = {
+
+	country = {
+		HES_German_Democracy = {
+			picture = HES_German_Democracy
+
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = { #Will be Figured out Later
+			}
+		}
+	}
+}

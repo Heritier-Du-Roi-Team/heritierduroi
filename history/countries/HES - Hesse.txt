@@ -11,7 +11,12 @@ set_technology = {
 
 set_stability = 0.49
 set_war_support = 0.13
+add_ideas = { 
+HES_German_Democracy
 
+
+
+}
 set_politics = {
 	ruling_party = social_democracy
 	last_election = "1932.2.6"

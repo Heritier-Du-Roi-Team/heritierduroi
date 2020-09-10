@@ -10,6 +10,22 @@ spriteTypes = {
 
 	### new tfv nat spirit icons
 	spriteType = {
+		name = "GFX_idea_PAR_Workers_Protest"
+		texturefile = "gfx/interface/ideas/PAR_Workers_Protest.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_FRA_Arms_Race"
+		texturefile = "gfx/interface/ideas/FRA_Arms_Race.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_BRA_North_South"
+		texturefile = "gfx/interface/ideas/BRA_North_South.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_HES_German_Democracy"
+		texturefile = "gfx/interface/ideas/HES_German_Democracy.tga"
+	}
+	spriteType = {
 		name = "GFX_idea_PRS_Spirit_of_Bismarck"
 		texturefile = "gfx/interface/ideas/PRS_Spirit_of_Bismarck.tga"
 	}
