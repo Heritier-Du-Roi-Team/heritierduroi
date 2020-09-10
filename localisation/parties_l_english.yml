@@ -502,8 +502,8 @@
  IRE_conservatism_party_long:0 "Fianna Fáil"
  IRE_authoritarian_democracy_party:0 "Fórsaí Armtha"
  IRE_authoritarian_democracy_party_long:0 "Fórsaí Armtha na hÉireann"
- IRE_paternal_autocrat_party:0 "-"
- IRE_paternal_autocrat_party_long:0 "-"
+ IRE_paternal_autocrat_party:0 "APE"
+ IRE_paternal_autocrat_party_long:0 "Arm Poblachtach na hÉireann"
  IRE_national_populism_party:0 "PNC"
  IRE_national_populism_party_long:0 "Páirtí Náisiúnta Corparáidíoch"
  
