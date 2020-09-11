@@ -60,7 +60,7 @@ create_country_leader = {
 create_country_leader = {
   name = "Viktor Chernov"
   desc = "POLITICS_VIKTOR_CHERNOV_DESC"
-  picture = ""
+  picture = "Portrait_Viktor_Chernov.tga"
   expire = "1965.1.1"
   ideology = radical_socialism_type
 }
@@ -76,7 +76,7 @@ create_country_leader = {
 create_country_leader = {
   name = "Aleksandr Konovalov"
   desc = "POLITICS_ALEKSANDR_KONOVALOV_DESC"
-  picture = ""
+  picture = "Portrait_Aleksandr_Konovalov.tga"
   expire = "1965.1.1"
   ideology = liberalism_type
 }
@@ -84,7 +84,7 @@ create_country_leader = {
 create_country_leader = {
   name = "Alexander Ivanovich Guchkov"
   desc = "POLITICS_ALEXANDER_GUCHKOV_DESC"
-  picture = ""
+  picture = "Portrait_Alexander_Guchkov.tga"
   expire = "1965.1.1"
   ideology = conservatism_type
 }
@@ -116,7 +116,7 @@ create_country_leader = {
 create_country_leader = {
   name = "Alexander Dubrovin"
   desc = "POLITICS_ALEXANDER_DUBROVIN_DESC"
-  picture = ""
+  picture = "Portrait_Alexander_Dubrovin.tga"
   expire = "1965.1.1"
   ideology = national_populism_type
 }

@@ -181,9 +181,6 @@ create_country_leader = {
 	picture = "Portrait_France_Charles_Maurras.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -211,23 +208,17 @@ create_country_leader = {
 create_country_leader = {
 	name = "Pierre Laval"
 	desc = "POLITICS_PIERRE_LAVAL_DESC"
-	picture = ""
+	picture = "Portrait_Pierre_Laval.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Édouard Daladier"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = ""
+	picture = "Portrait_Edouard_Daladier.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -236,31 +227,22 @@ create_country_leader = {
 	picture = "Portrait_France_Marcel_Cachin.dds"
 	expire = "1965.1.1"
 	ideology = communism_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Benoît Frachon"
 	desc = "POLITICS_BENOIT_FRACHON_DESC"
-	picture = ""
+	picture = "Portrait_Benoit_Frachon.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "André Tardieu"
 	desc = "POLITICS_ANDRE_TARDIEU_DESC"
-	picture = ""
+	picture = "Portrait_Andre_Tardieu.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
-	traits = {
-		#
-	}
 }
 
 

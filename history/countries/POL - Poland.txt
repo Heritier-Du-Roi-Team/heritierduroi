@@ -121,7 +121,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Wladyslaw Eugeniusz Sikorski"
 	desc = "POLITICS_WLADYSLAW_SIKORSKI_DESC"
-	picture = ""
+	picture = "Portrait_Wladyslaw_Eugeniusz_Sikorsk.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 	traits = {
@@ -132,7 +132,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Edward Rydz-Śmigły"
 	desc = "POLITICS_EDWARD_SMIGLY_DESC"
-	picture = ""
+	picture = "Portrait_Rydz_Smigly.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 	traits = {
@@ -182,6 +182,17 @@ create_country_leader = {
 	traits = {
 		#
 	}
+}
+
+create_field_marshal = {
+	name = "Gustaw Orlicz-Dreszer"
+	picture = "Portrait_Gustaw_Orlicz-Dreszer.tga"
+	traits = { defensive_doctrine }
+	skill = 4
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 3
 }
 
 create_corps_commander = {
