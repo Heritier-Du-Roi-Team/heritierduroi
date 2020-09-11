@@ -181,6 +181,9 @@
  STATE_963:0 "Jura"
  STATE_964:0 "Amhara"
  STATE_965:0 "Gambela"
+ STATE_966:0 "Channel Islands"
+ STATE_967:0 "Lempira"
+ STATE_968:0 "Francisco Morazán"
 
 
 
@@ -489,7 +492,7 @@
  STATE_309:0 "Suriname"
  STATE_310:0 "French Guiana"
  STATE_311:2 "Belize"
- STATE_312:0 "Honduras"
+ STATE_312:1 "Olancho"
  STATE_313:1 "Guatemala Metropolitana"
  STATE_314:0 "El Salvador"
  STATE_315:0 "Cuba"

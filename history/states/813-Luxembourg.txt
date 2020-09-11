@@ -2,9 +2,6 @@
 state={
 	id=813
 	name="STATE_813"
-	resources={
-		#
-	}
 
 	history={
 		owner = FRA
@@ -15,7 +12,8 @@ state={
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_core_of = FRA
+		add_claim_by = FRA
+		add_core_of = LUX
 	}
 
 	provinces={

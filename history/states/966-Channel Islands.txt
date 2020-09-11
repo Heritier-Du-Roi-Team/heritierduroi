@@ -1,0 +1,20 @@
+state={
+	id=966
+	name="STATE_966"
+	manpower = 37210
+	state_category = town
+
+	history={
+		owner = ENG
+		victory_points = { 13433 1 }
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ENG
+		add_claim_by = FRA
+	}
+
+	provinces={
+		13432 13433 
+	}
+}
