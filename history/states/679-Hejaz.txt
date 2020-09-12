@@ -18,6 +18,7 @@ state={
 		}
 		add_core_of = HEJ
 		add_core_of = SAU
+		add_core_of = JAB
 	}
 
 	provinces={

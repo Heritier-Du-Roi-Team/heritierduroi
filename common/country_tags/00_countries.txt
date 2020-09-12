@@ -1,19 +1,15 @@
-#AFRICA
-#ABY = "countries/Ethiopia.txt"
-AFR = "countries/France.txt"
+# Africa
 
-#ASIA
+
+
+# Asia
+
 BEA = "countries/British East Asia.txt"
 ICH = "countries/France.txt"
 BUR = "countries/France.txt"
 FEN = "countries/Manchukou.txt"
 SHD = "countries/China.txt"
 SCL = "countries/China.txt"
-#RAJ = "countries/India.txt"
-HEJ = "countries/Nejd.txt"
-OTT = "countries/Ottomans.txt"
-#RIY = "countries/Riyad.txt"
-
 MAL = "countries/Malaysia.txt"
 MSS = "countries/Malaysia.txt"
 JOH = "countries/Malaysia.txt"
@@ -23,17 +19,27 @@ KED = "countries/Malaysia.txt"
 SRA = "countries/Malaysia.txt"
 BRU = "countries/Malaysia.txt"
 
-#N. AMERICA
+# Middle East
 
-#CARRIBEAN
+HEJ = "countries/Hejaz.txt"
+OTT = "countries/Ottomans.txt"
+SAU = "countries/Saudi Arabia.txt"
+JAB = "countries/Jabal Shammar.txt"
 
-#C.AMERICA
+# North America
 
-#S. AMERICA
+
+
+# Central America / Caribbean
+
+
+
+# South America
 
 ELP = "countries/Paraguay.txt"
 
-#EUROPE
+# Europe
+
 BAD = "countries/Baden.txt"
 BAV = "countries/Bavaria.txt"
 #CON = "countries/Constantinople.txt"
@@ -63,7 +69,7 @@ ION = "countries/Ionian Islands.txt"
 MDV = "countries/Moldavia.txt"
 WAL = "countries/Wallachia.txt"
 
-#AUSTRALIA, OCEANIA
+# Oceania
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
@@ -125,7 +131,6 @@ PER = "countries/Persia.txt"
 PHI = "countries/Philippines.txt"
 PRU = "countries/Peru.txt"
 SAF = "countries/South Africa.txt"
-SAU = "countries/Saudi Arabia.txt"
 SIA = "countries/Siam.txt"
 SIK = "countries/Sinkiang.txt"
 TIB = "countries/Tibet.txt"

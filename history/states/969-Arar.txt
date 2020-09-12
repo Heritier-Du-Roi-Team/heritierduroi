@@ -1,0 +1,25 @@
+state = {
+	id = 969
+	name = "STATE_969"
+	manpower = 105310
+
+	state_category = rural
+
+	history={
+		owner = OTT
+		buildings = {
+			infrastructure = 4
+		}
+
+		add_core_of = OTT
+		add_core_of = HEJ
+		add_core_of = SAU
+		add_core_of = JAB
+	}
+
+	provinces={
+		13235 13236 13456 13457 13458
+
+		# 13235 13236
+	}
+}

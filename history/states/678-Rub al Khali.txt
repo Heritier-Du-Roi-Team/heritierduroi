@@ -6,7 +6,7 @@ state={
 	state_category = town
 
 	history={
-		owner = HEJ
+		owner = SAU
 		victory_points = {
 			12727 5
 		}
@@ -15,6 +15,7 @@ state={
 		}
 		add_core_of = SAU
 		add_core_of = HEJ
+		add_core_of = JAB
 	}
 
 	provinces={

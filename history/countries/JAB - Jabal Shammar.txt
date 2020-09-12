@@ -1,0 +1,36 @@
+capital = 798
+oob = "JAB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+}
+
+set_stability = 0.51
+set_war_support = 0.61
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1931.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  paternal_autocrat = 100
+}
+
+create_country_leader = {
+  name = "Muhammad bin Talāl"
+  desc = "POLITICS_MUHAMMAD_TALAL_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+  name = "Muhammad bin Talāl"
+  desc = "POLITICS_MUHAMMAD_TALAL_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = paternal_autocrat_type
+}

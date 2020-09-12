@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = HEJ
+		owner = JAB
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -16,6 +16,7 @@ state={
 		}
 		add_core_of = HEJ
 		add_core_of = SAU
+		add_core_of = JAB
 	}
 
 	provinces={

@@ -1,0 +1,22 @@
+state = {
+	id = 971
+	name = "STATE_971"
+	manpower = 43210
+
+	state_category = rural
+
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 3
+		}
+
+		add_core_of = HEJ
+		add_core_of = SAU
+		add_core_of = JAB
+	}
+
+	provinces={
+		13459
+	}
+}

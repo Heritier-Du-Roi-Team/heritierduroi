@@ -2,14 +2,11 @@ capital = 850
 oob = "HEJ_1936"
 
 set_technology = {
-  early_fighter = 1
-  early_bomber = 1
-  gwtank = 1
-  gw_artillery = 1
 	infantry_weapons = 1
+	gwtank = 1
 }
 
-set_stability = 0.93
+set_stability = 0.81
 set_war_support = 0.48
 
 set_politics = {
@@ -34,13 +31,13 @@ create_country_leader = {
   ideology = authoritarian_democracy_type
 }
 
-#create_country_leader = {
-#  name = "Abdullah I"
-#  desc = "POLITICS_ABDULLAH_DESC"
-#  picture = ""
-#  expire = "1965.1.1"
-#  ideology = paternal_autocrat_type
-#}
+create_country_leader = {
+  name = "Abdullah I"
+  desc = "POLITICS_ABDULLAH_DESC"
+  picture = ""
+  expire = "1965.1.1"
+  ideology = paternal_autocrat_type
+}
 
 create_country_leader = {
   name = "'Abd Al-llah"

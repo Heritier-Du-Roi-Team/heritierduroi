@@ -1,0 +1,23 @@
+state = {
+	id = 970
+	name = "STATE_970"
+	manpower = 31420
+
+	state_category = pastoral
+
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = OTT
+		add_core_of = HEJ
+		add_core_of = SAU
+		add_core_of = JAB
+	}
+
+	provinces={
+		13242
+	}
+}
