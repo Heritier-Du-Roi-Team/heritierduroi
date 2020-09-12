@@ -1,0 +1,62 @@
+﻿capital = 294
+
+oob = "OMA_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+set_war_support = 0.1
+set_stability = 0.8
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	paternal_autocrat = 94
+	conservatism = 4
+	national_populism = 2
+}
+
+create_country_leader = {
+	name = "Said bin Taimur"
+	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Taimur bin Feisal"
+	desc = "POLITICS_TAIMUR_FEISAL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Said bin Taimur"
+	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+
+create_country_leader = {
+	name = "Taimur bin Feisal"
+	desc = "POLITICS_TAIMUR_FEISAL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+
+create_country_leader = {
+	name = "Muhammad ibn Abdullah Al Khalili"
+	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_land_1.dds"
+	ideology = national_populism_type
+}

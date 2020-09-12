@@ -922,6 +922,42 @@
  YUG_national_populism_party_long:0 "Jugoslavenski Narodni Pokret"
 
 ### Middle East ###
+ 
+# Oman
+ OMA_communism_party:0 "TAA"
+ OMA_communism_party_long:0 "Tahrir Alshaeb Aleumanii"
+ OMA_radical_socialism_party:0 "TA"
+ OMA_radical_socialism_party_long:0 "Tahaluf Alhuriya"
+ OMA_social_democracy_party:0 "TA"
+ OMA_social_democracy_party_long:0 "Tahaluf Alhuriya"
+ OMA_liberalism_party:0 "TA"
+ OMA_liberalism_party_long:0 "Tahaluf Alhuriya"
+ OMA_conservatism_party:0 "AA"
+ OMA_conservatism_party_long:0 "Altahaluf Aldiymuqratiu"
+ OMA_authoritarian_democracy_party:0 "Al Busaidi"
+ OMA_authoritarian_democracy_party_long:0 "Al Busaidi dynasty"
+ OMA_paternal_autocrat_party:0 "Al Busaidi"
+ OMA_paternal_autocrat_party_long:0 "Al Busaidi dynasty"
+ OMA_national_populism_party:0 "JIA"
+ OMA_national_populism_party_long:0 "Jamaeat al'Iikhwan Almuslimin"
+
+# Yemen
+ YEM_communism_party:0 "AAA"
+ YEM_communism_party_long:0 "Alhizb Alshuyueiu Alyamaniu"
+ YEM_radical_socialism_party:0 "HA"
+ YEM_radical_socialism_party_long:0 "Hizb Althawra"
+ YEM_social_democracy_party:0 "HK"
+ YEM_social_democracy_party_long:0 "Haflat Khadira'"
+ YEM_liberalism_party:0 "DS"
+ YEM_liberalism_party_long:0 "Dimuqratiun Shaebiun"
+ YEM_conservatism_party:0 "AA"
+ YEM_conservatism_party_long:0 "Alhizb Aldstwryu"
+ YEM_authoritarian_democracy_party:0 "Rashid"
+ YEM_authoritarian_democracy_party_long:0 "House of Al-Mutawakkil"
+ YEM_paternal_autocrat_party:0 "Rashid"
+ YEM_paternal_autocrat_party_long:0 "House of Al-Mutawakkil"
+ YEM_national_populism_party:0 "JIA"
+ YEM_national_populism_party_long:0 "Jamaeat al'Iikhwan Almuslimin"
 
 ### North America ###
 
