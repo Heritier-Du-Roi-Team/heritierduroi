@@ -1,0 +1,22 @@
+capital = 760
+
+oob = "HUB_1936"
+
+set_stability = 0.2
+set_war_support = 0.5
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1933.2.6"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  communism = 0
+  radical_socialism = 0
+  social_democracy = 0
+  liberalism = 0
+  conservatism = 0
+  authoritarian_democracy = 0
+  paternal_autocrat = 0
+  national_populism = 0
+}

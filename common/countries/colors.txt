@@ -323,7 +323,10 @@ AST = {
 	color = rgb { 87 139 138 }
 	color_ui = rgb { 87 139 138 }
 }
-
+HUB = { 
+	color = rgb { 148 148 74 }
+	color_ui = rgb { 148 148 74}
+}
 ARG = {
 	color = rgb { 145 157 236 }
 	color_ui = rgb { 189 204 255 }
@@ -821,4 +824,8 @@ BRU = {
 SAN = {
 	color = rgb { 65 150 225 }
 	color_ui = rgb { 65 150 225 }
+}
+KUM = {
+color = rgb { 130 100 65 }
+color_ui = rgb { 130 100 65 }
 }

@@ -4,7 +4,8 @@ state={
 	name="STATE_744"
 
 	history={
-		owner = CHI
+		owner = SHX
+		add_core_of = SHX
 		add_core_of = CHI
 		victory_points = {
 			7418 1
@@ -17,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1603 1976 4256 4547 5092 6932 7301 7406 11931 12408 12713
+		 1976 4256  5092 7301 7406  12408 12713 10257 2006 4295 4167 7418 8072 7019
 	}
 	manpower=9000000
 	buildings_max_level_factor=1.000

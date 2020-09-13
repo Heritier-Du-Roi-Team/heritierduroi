@@ -3,8 +3,7 @@ state={
 	name="STATE_863"
 
 	history={
-		owner = FEN
-		add_core_of = FEN
+		owner = CHI
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 3
@@ -12,7 +11,7 @@ state={
 	}
 
 	provinces={
-		1590 7158 12403 12432
+		1590  1137 10480 1027 6828 4208 10053 7000 4093
 	}
 	manpower=1042360
 	state_category=rural
