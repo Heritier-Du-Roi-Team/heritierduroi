@@ -15,6 +15,7 @@ ideas = {
 			conscription = 0.015
 			army_org = 5
 			planning_speed	= 0.10
+			mobilization_speed = 0.1
 			}
 		}
 		PRS_Prussian_Revanchism = {
@@ -47,7 +48,8 @@ ideas = {
 			picture = PRS_Spirit_of_Bismarck
 			
 			modifier = {
-			
+			political_power_gain = 0.25
+			war_support_factor = 0.10
 			}
 		}
 
