@@ -650,6 +650,24 @@
  PRS_paternal_autocrat_party_long:0 "Preußischer Militärbund"
  PRS_national_populism_party:0 "AdV"
  PRS_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Preußen"
+
+# Intermarium
+ POL_communism_party:0 "SKRL"
+ POL_communism_party_long:0 "Socjaldemokracja Królestwa Polskiego i Litwy"
+ POL_radical_socialism_party:0 "LKP"
+ POL_radical_socialism_party_long:0 "Lietuvos Komunistų Partija"
+ POL_social_democracy_party:0 "PPS"
+ POL_social_democracy_party_long:0 "Polska Partia Socjalistyczna"
+ POL_liberalism_party:0 "PSLP"
+ POL_liberalism_party_long:0 "Polskie Stronnictwo Ludowe \"Piast\""
+ POL_conservatism_party:0 "ZLN"
+ POL_conservatism_party_long:0 "Związek Ludowo-Narodowy"
+ POL_authoritarian_democracy_party:0 "BBWR"
+ POL_authoritarian_democracy_party_long:0 "Bezpartyjny Blok Współpracy z Rządem"
+ POL_paternal_autocrat_party:0 "SZRP"
+ POL_paternal_autocrat_party_long:0 "Siły Zbrojne Rzeczypospolitej Polskiej"
+ POL_national_populism_party:0 "ONR"
+ POL_national_populism_party_long:0 "Obóz Narodowo-Radykalny" 
  
 # Portugal
  POR_communism_party:0 "PCP"
