@@ -6,25 +6,57 @@ set_technology = {
   early_bomber = 1
   gwtank = 1
   gw_artillery = 1
-	infantry_weapons = 1
+  infantry_weapons = 1
 }
 
-set_stability = 0.79
-set_war_support = 0.16
+set_stability = 0.41
+set_war_support = 0.19
 
 set_politics = {
-	ruling_party = social_democracy
+	ruling_party = authoritarian_democracy
 	last_election = "1933.11.19"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-communism = 0
-radical_socialism = 0
-social_democracy = 0
-liberalism = 0
-conservatism = 0
-authoritarian_democracy	= 0
-paternal_autocrat =	0
-national_populism = 0
+	authoritarian_democracy = 31
+	liberalism = 21
+	conservatism = 13
+	national_populism = 11
+	radical_socialism = 10 
+	communism = 8
+	social_democracy = 3
+	paternal_autocrat = 2
+}
+
+create_country_leader = {
+	name = "Jaime I"
+	desc = "POLITICS_SPAIN_JAIME_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Alfonso XIII"
+	desc = "POLITICS_SPAIN_ALFONSO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Jaime I"
+	desc = "POLITICS_SPAIN_JAIME_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+
+create_country_leader = {
+	name = "Alfonso XIII"
+	desc = "POLITICS_SPAIN_ALFONSO_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
 }

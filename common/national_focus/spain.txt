@@ -32,7 +32,7 @@ focus_tree = {
 		id = SPR_Abandonista
 		icon = GFX_goal_abandonista
 
-		x = 6
+		x = 8
 		y = 0
 
 		cost = 1
@@ -68,7 +68,7 @@ focus_tree = {
 		icon = GFX_goal_rif_conference
 		relative_position_id = SPR_Africanista
 
-		x = 2
+		x = 3
 		y = 1
 
 		cost = 1
@@ -104,7 +104,7 @@ focus_tree = {
 
 	focus = {
 		id = SPR_Exploit_Colonies
-		icon = GFX_focus_generic_africa_factory
+		icon = GFX_goal_exploit_africa
 		relative_position_id = SPR_Africanista
 
 		x = 0
@@ -123,7 +123,7 @@ focus_tree = {
 
 	focus = {
 		id = SPR_Foreign_Investors
-		icon = GFX_focus_generic_concessions
+		icon = GFX_goal_invite_investors
 		relative_position_id = SPR_Abandonista
 
 		x = 0
@@ -133,6 +133,185 @@ focus_tree = {
 
 		prerequisite = {
 			focus = SPR_Treasure_Within
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_French_Association
+		icon = GFX_goal_befriend_france
+		relative_position_id = SPR_Rif_Conference
+
+		x = -1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Rif_Conference
+		}
+
+		mutually_exclusive = {
+			focus = SPR_British_Support
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_British_Support
+		icon = GFX_goal_befriend_uk
+		relative_position_id = SPR_Rif_Conference
+
+		x = 1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Rif_Conference
+		}
+
+		mutually_exclusive = {
+			focus = SPR_French_Association
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Saharan_Mining
+		icon = GFX_focus_generic_aluminum
+		relative_position_id = SPR_Exploit_Colonies
+
+		x = -1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Exploit_Colonies
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Native_Labour
+		icon = GFX_focus_prc_infiltration
+		relative_position_id = SPR_Exploit_Colonies
+
+		x = 1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Exploit_Colonies
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Develop_Morocco
+		icon = GFX_goal_generic_construct_infrastructure
+		relative_position_id = SPR_Exploit_Colonies
+
+		x = -1
+		y = 2
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Saharan_Mining
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Buried_Treasure
+		icon = GFX_goal_generic_construction2
+		relative_position_id = SPR_Foreign_Investors
+
+		x = -1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Foreign_Investors
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Foreign_Markets
+		icon = GFX_goal_generic_intelligence_exchange
+		relative_position_id = SPR_Foreign_Investors
+
+		x = 1
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Foreign_Investors
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Steel_Production
+		icon = GFX_focus_generic_steel
+		relative_position_id = SPR_Foreign_Investors
+
+		x = -1
+		y = 2
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Buried_Treasure
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Economic_Chauvinism
+		icon = GFX_goal_generic_construct_civilian
+		relative_position_id = SPR_Foreign_Investors
+
+		x = 1
+		y = 2
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Foreign_Markets
 		}
 
 		completion_reward = {

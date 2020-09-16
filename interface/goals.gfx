@@ -2,28 +2,49 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_goal_africanista"
-		textureFile = "gfx/interface/goals/SPR_Africanistas.tga"
+		textureFile = "gfx/interface/goals/SPR/SPR_Africanistas.tga"
 	}
 
 	SpriteType = {
 		name = "GFX_goal_abandonista"
-		textureFile = "gfx/interface/goals/SPR_Abandondistas.tga"
+		textureFile = "gfx/interface/goals/SPR/SPR_Abandondistas.tga"
 	}
 
 	SpriteType = {
 		name = "GFX_goal_blood_and_treasure"
-		textureFile = "gfx/interface/goals/SPR_Blood and Treasure.tga"
+		textureFile = "gfx/interface/goals/SPR/SPR_Blood and Treasure.tga"
 	}
 
 	SpriteType = {
 		name = "GFX_goal_rif_conference"
-		textureFile = "gfx/interface/goals/SPR_Rif_Conference.tga"
+		textureFile = "gfx/interface/goals/SPR/SPR_Rif_Conference.tga"
 	}
 
 	SpriteType = {
 		name = "GFX_goal_treasure_within"
-		textureFile = "gfx/interface/goals/SPR_Treasure_Within.tga"
+		textureFile = "gfx/interface/goals/SPR/SPR_Treasure_Within.tga"
 	}
+
+	SpriteType = {
+		name = "GFX_goal_befriend_uk"
+		textureFile = "gfx/interface/goals/SPR/SPR_Befriend_Britan.tga"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_befriend_france"
+		textureFile = "gfx/interface/goals/SPR/SPR_Befriend_France.tga"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_exploit_africa"
+		textureFile = "gfx/interface/goals/SPR/SPR_Exploit_the_colonies.tga"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_invite_investors"
+		textureFile = "gfx/interface/goals/SPR/SPR_Invite_Investors.tga"
+	}
+
 
 
 	#### Generic continuous goal icons
