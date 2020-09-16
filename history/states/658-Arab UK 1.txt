@@ -12,8 +12,6 @@ state={
 
 	history={
 		add_core_of = UAE
-		add_claim_by = HEJ
-		add_claim_by = SAU
 		owner = ENG
 		victory_points = {
 			7960 1
