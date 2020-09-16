@@ -186,6 +186,11 @@
  STATE_968:0 "Francisco Morazán"
  STATE_969:0 "Arar"
  STATE_970:0 "Altubaiq"
+ STATE_971:0 "Bir Ibn Hirmas"
+ STATE_972:0 "Qingyang"
+ STATE_973:0 "Miskito"
+ STATE_974:0 "Bluefields"
+ STATE_975:0 "Estelli"
 
 
 
@@ -499,7 +504,7 @@
  STATE_314:0 "El Salvador"
  STATE_315:0 "Cuba"
  STATE_316:0 "Costa Rica"
- STATE_317:0 "Nicaragua"
+ STATE_317:1 "Managua"
  STATE_318:0 "Haiti"
  STATE_319:0 "Dominican Republic"
  STATE_320:0 "French India"

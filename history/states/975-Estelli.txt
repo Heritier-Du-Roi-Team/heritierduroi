@@ -1,0 +1,22 @@
+state={
+	id=975
+	name="STATE_975"
+
+	state_category = large_town
+
+	history={
+		owner = NIC
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = NIC
+
+	}
+
+	provinces={
+		10728 13468 13469 13470 13471 13472 13473 13475
+	}
+	manpower=301420
+}
