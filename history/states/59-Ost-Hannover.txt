@@ -29,17 +29,10 @@ state={
 		}
 		add_core_of = HAN
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 6
-				arms_factory = 4
-				industrial_complex = 3
-				dockyard = 3
-			}
-		}
+		
 	}
 
 	provinces={
-		374 526 3271 3326 3395 6218 6263 6298 6325 6349 6377 6513 9264 11402 11493 
+		374 526 3271 3326  6218 6263 6298 6325 6349 6377 6513 9264 11402 11493 
 	}
 }

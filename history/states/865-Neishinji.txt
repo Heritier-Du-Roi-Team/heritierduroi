@@ -6,6 +6,10 @@ state={
 		owner = SCL
 		add_core_of = SCL
 		add_core_of = CHI
+		victory_points = {
+			2045 1
+		}
+		
 		buildings = {
 			infrastructure = 2
 		}

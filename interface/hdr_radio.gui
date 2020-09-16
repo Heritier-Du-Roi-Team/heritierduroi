@@ -1,6 +1,6 @@
 guiTypes = {
 	containerWindowType = {
-		name = "hdr_music_faceplate"
+		name = "hdr_faceplate"
 		position = { x =0 y=0 }
 		size = { width = 590 height = 46 }
 
@@ -111,7 +111,7 @@ guiTypes = {
 	}
 
 	containerWindowType={
-		name = "hdr_music_stations_entry"
+		name = "hdr_radio_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {

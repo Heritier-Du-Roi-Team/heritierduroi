@@ -1,4 +1,4 @@
-music_station = "hdr_soundtrack"
+music_station = "hdr_radio"
 
 music = {
 	song = "maintheme"
@@ -13,29 +13,16 @@ music = {
 music = {
 	song = "chanson_de_loignon"
 	
-	chance = {
-		modifier = {
-			factor = 2
-		}		
-	}	
+	
 }
 
 music = {
 	song = "die_wacht_am_rhein"
 	
-	chance = {
-		modifier = {
-			factor = 2
-		}		
-	}	
+	
 }
 
 music = {
 	song = "was_ist_des_deutschen_vaterlands"
 	
-	chance = {
-		modifier = {
-			factor = 2
-		}		
-	}	
 }
