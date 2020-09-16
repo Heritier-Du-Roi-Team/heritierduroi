@@ -1,0 +1,143 @@
+focus_tree = {
+	id = spanish_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = SPR
+		}
+	}
+
+	default = no
+
+	focus = {
+		id = SPR_Africanista
+		icon = GFX_goal_africanista
+
+		x = 2
+		y = 0
+
+		cost = 1
+
+		mutually_exclusive = { focus = SPR_Abandonista }
+
+		completion_reward = {
+		
+		}
+	}
+
+	focus = {
+		id = SPR_Abandonista
+		icon = GFX_goal_abandonista
+
+		x = 6
+		y = 0
+
+		cost = 1
+
+		mutually_exclusive = { focus = SPR_Africanista }
+
+		completion_reward = {
+		
+		}
+	}
+
+	focus = {
+		id = SPR_Blood_and_Treasure
+		icon = GFX_goal_blood_and_treasure
+		relative_position_id = SPR_Africanista
+
+		x = 0
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Africanista
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Rif_Conference
+		icon = GFX_goal_rif_conference
+		relative_position_id = SPR_Africanista
+
+		x = 2
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Abandonista
+			focus = SPR_Africanista
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = SPR_Treasure_Within
+		icon = GFX_goal_treasure_within
+		relative_position_id = SPR_Abandonista
+
+		x = 0
+		y = 1
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Abandonista
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = SPR_Exploit_Colonies
+		icon = GFX_focus_generic_africa_factory
+		relative_position_id = SPR_Africanista
+
+		x = 0
+		y = 2
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Blood_and_Treasure
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+	focus = {
+		id = SPR_Foreign_Investors
+		icon = GFX_focus_generic_concessions
+		relative_position_id = SPR_Abandonista
+
+		x = 0
+		y = 2
+
+		cost = 1
+
+		prerequisite = {
+			focus = SPR_Treasure_Within
+		}
+
+		completion_reward = {
+			
+		}
+	}
+
+}
