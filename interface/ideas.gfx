@@ -10,6 +10,10 @@ spriteTypes = {
 
 	### new tfv nat spirit icons
 	spriteType = {
+		name = "GFX_idea_POR_Manuel_II"
+		texturefile = "gfx/interface/ideas/POR_Manuel_II.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_PAR_Workers_Protest"
 		texturefile = "gfx/interface/ideas/PAR_Workers_Protest.tga"
 	}

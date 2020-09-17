@@ -22,6 +22,10 @@
 
 ###################################
 
+ POR_Kingdom:0 "Kingdom of Portugal"
+ POR_Kingdom_DEF:0 "the Kingdom of Portugal"
+ POR_Kingdom_ADJ:0 "Portuguese"
+
  GER_Unified_Monarchist:0 "Deutsches Kaiserreich"
  GER_Unified_Monarchist_DEF:0 "Das Deutsche Kaiserreich"
  GER_Unified_Military:0 "Deutsches Reich"

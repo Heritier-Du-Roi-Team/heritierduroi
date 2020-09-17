@@ -1,4 +1,9 @@
 
+POR_Kingdom = {
+	color = rgb { 60 100 130 }
+	color_ui = rgb { 60 100 130 }
+}
+
 NOR_SWE = {
   color = rgb { 56 140 182 }
   color_ui = rgb { 56 140 182 }
