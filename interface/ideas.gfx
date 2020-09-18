@@ -7,8 +7,48 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
 		noOfFrames = 15
 	}
-
+	
 	### new tfv nat spirit icons
+	spriteType = {
+		name = "GFX_idea_POR_Politicized_Army"
+		texturefile = "gfx/interface/ideas/POR_Politicized_Army.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POR_Pluricontinentalism"
+		texturefile = "gfx/interface/ideas/POR_Pluricontinentalism.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_FRA_Bloody_Victory"
+		texturefile = "gfx/interface/ideas/FRA_Bloody_Victory.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_FRA_French_Superiority"
+		texturefile = "gfx/interface/ideas/FRA_French_Superiority.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_FRA_Old_Guard"
+		texturefile = "gfx/interface/ideas/FRA_Old_Guard.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POL_Isolationism"
+		texturefile = "gfx/interface/ideas/POL_Isolationism.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POL_Illiterate_Peasants"
+		texturefile = "gfx/interface/ideas/POL_Illiterate_Peasants.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POL_Outdated_Army"
+		texturefile = "gfx/interface/ideas/POL_Outdated_Army.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POL_Agrarian_Society"
+		texturefile = "gfx/interface/ideas/POL_Agrarian_Society.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_POL_Polish_Domination"
+		texturefile = "gfx/interface/ideas/POL_Polish_Domination.tga"
+	}
 	spriteType = {
 		name = "GFX_idea_POR_Manuel_II"
 		texturefile = "gfx/interface/ideas/POR_Manuel_II.dds"

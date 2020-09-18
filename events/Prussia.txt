@@ -6,7 +6,7 @@ country_event = { #Death of Wilhelm
 	picture = 
 
 	trigger = {
-		tag = WUR
+		tag = PRS
 	}
 
 	fire_only_once = yes
