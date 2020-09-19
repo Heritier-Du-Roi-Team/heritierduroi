@@ -3,16 +3,15 @@ state = {
 	name = "STATE_805"
 
 	history={
-		owner = PER
+		owner = AZR
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = GEO
-		add_core_of = PER
-	}
+		add_core_of = AZR
+		}
 
 	provinces = {
-		 13283
+		  12434 4473 
 	}
 	manpower = 44200
 	state_category = rural
