@@ -73,694 +73,634 @@ ideas = {
 
 	political_advisor = {
 	
-			POR_fernando_dos_santos_costa = {
+		POR_fernando_dos_santos_costa = {
 	
-				picture = generic_political_advisor_europe_2
+			picture = generic_political_advisor_europe_2
 					
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { war_industrialist }
+			allowed = {
+				original_tag = POR
 			}
-	
-			POR_jaime_cortesao_2 = {
-	
-				picture = generic_political_advisor_europe_4
 				
-				allowed = {
-					original_tag = POR
-				}
+			traits = { war_industrialist }
+		}
+	
+		POR_jaime_cortesao_2 = {
+	
+			picture = generic_political_advisor_europe_4
+				
+			allowed = {
+				original_tag = POR
+			}
 
-				name = POR_jaime_cortesao
+			name = POR_jaime_cortesao
 				
-				traits = { compassionate_gentleman }
+			traits = { compassionate_gentleman }
+		}
+	
+		POR_francisco_craveiro_lopes_2 = {
+	
+			picture = generic_political_advisor_europe_3
+				
+			allowed = {
+				original_tag = POR
 			}
-	
-			POR_francisco_craveiro_lopes_2 = {
-	
-				picture = generic_political_advisor_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
 
-				name = POR_francisco_craveiro_lopes
-				
-				traits = { quartermaster_general }
-			}
-	
-			POR_jose_adriano_pequito_rebelo = {
-	
-				picture = generic_fascist_demagogue_western_european_2d
+			name = POR_francisco_craveiro_lopes
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { financial_expert }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
+			traits = { quartermaster_general }
+		}
 	
-			POR_francisco_da_cunha_leal = {
-	
-				picture = generic_political_advisor_europe_5
+		POR_jose_adriano_pequito_rebelo = {
+
+			picture = generic_fascist_demagogue_western_european_2d
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { silent_workhorse }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { financial_expert }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-			POR_bento_de_jesus_caraca = {
+		POR_francisco_da_cunha_leal = {
 	
-				picture = generic_political_advisor_europe_4
+			picture = generic_political_advisor_europe_5
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { financial_expert }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { silent_workhorse }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-			POR_alberto_monsaraz = {
+		POR_bento_de_jesus_caraca = {
 	
-				picture = generic_political_advisor_europe_6
+			picture = generic_political_advisor_europe_4
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { national_integralist }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { financial_expert }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-			POR_duarte_jose_pacheco = {
+		POR_alberto_monsaraz = {
 	
-				picture = generic_political_advisor_europe_2
+			picture = generic_political_advisor_europe_6
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { technocrat }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { national_integralist }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-			POR_alfredo_da_silva = {
+		POR_duarte_jose_pacheco = {
 	
-				picture = generic_political_advisor_europe_1
+			picture = generic_political_advisor_europe_2
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { captain_of_industry }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { technocrat }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-			POR_maria_lamas = {
+		POR_alfredo_da_silva = {
 	
-				picture = generic_political_advisor_female_europe
+			picture = generic_political_advisor_europe_1
+		
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { captain_of_industry }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		#POR_maria_lamas = {
+		#
+		#	picture = generic_political_advisor_female_europe
+		#	
+		#	allowed = {
+		#		original_tag = POR
+		#	}
+		#		
+		#	traits = { liberal_journalist }
+		#		
+		#	ai_will_do = {
+		#		factor = 1
+		#	}
+		#}
+	
+		#POR_joao_francisco_de_barbosa_azevedo = {
+		#
+		#	picture = generic_political_advisor_europe_3
+		#	
+		#	allowed = {
+		#		original_tag = POR
+		#	}
+		#
+		#	traits = { traditionalist_theorist }
+		#		
+		#	ai_will_do = {
+		#		factor = 1
+		#	}
+		#}
+	
+		POR_joao_de_azevedo_coutinho = {
+	
+			picture = generic_army_europe_1
 			
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { liberal_journalist }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
 	
-			POR_joao_francisco_de_barbosa_azevedo = {
+			traits = { fortification_engineer }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 	
-				picture = generic_political_advisor_europe_3
+		POR_manuel_goncalves_cerejeira = {
+	
+			picture = generic_political_advisor_europe_6
 			
-				allowed = {
-					original_tag = POR
-				}
-	
-				traits = { traditionalist_theorist }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
 	
-			POR_joao_de_azevedo_coutinho = {
-	
-				picture = generic_army_europe_1
+			traits = { appeaser }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
 			
-				allowed = {
-					original_tag = POR
-				}
+		POR_augusto_de_vasconcelos = {
 	
-				traits = { fortification_engineer }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			picture = generic_political_advisor_europe_1
+	
+			allowed = {
+				original_tag = POR
 			}
-	
-			POR_manuel_goncalves_cerejeira = {
-	
-				picture = generic_political_advisor_europe_6
-			
-				allowed = {
-					original_tag = POR
-				}
-	
-				available = {
-					has_completed_focus = POR_concordat_with_the_holy_see				
-				}
-	
-				traits = { appeaser }
 				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-			
-			POR_augusto_de_vasconcelos = {
+			traits = { compassionate_gentleman }
+		}
 	
-				picture = generic_political_advisor_europe_1
+		POR_raul_brandao = {
 	
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { compassionate_gentleman }
-			}
-	
-			POR_raul_brandao = {
-	
-				picture = generic_political_advisor_europe_2
+			picture = generic_political_advisor_europe_2
 					
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { silent_workhorse }
+			allowed = {
+				original_tag = POR
 			}
+				
+			traits = { silent_workhorse }
 		}
+	}
 	
-		theorist = {
+	theorist = {
 
-			POR_jose_norton_de_matos = {
+		POR_jose_norton_de_matos = {
 				
-				picture = generic_army_europe_1
+			picture = generic_army_europe_1
 	
-				allowed = {
-					original_tag = POR
-				}
-
-				ledger = army
-				
-				research_bonus = {
-					land_doctrine = 0.10
-				}
-				
-				traits = { military_theorist }
+			allowed = {
+				original_tag = POR
 			}
+
+			ledger = army
+				
+			research_bonus = {
+				land_doctrine = 0.10
+			}
+				
+			traits = { military_theorist }
+		}
 			
-			POR_jose_manuel_sarmento_de_beires = {
+		POR_jose_manuel_sarmento_de_beires = {
 				
-				picture = generic_air_europe_2
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				research_bonus = {
-					air_doctrine = 0.10
-				}
-
-				ledger = air
-				
-				traits = { air_warfare_theorist }
-			}
-	
-			POR_ortins_manuel_bettencourt = {
-	
-				picture = generic_navy_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				research_bonus = {
-					naval_doctrine = 0.10
-				}
-
-				ledger = navy
-				
-				traits = { naval_theorist }
-			}
-		}
-	
-	
-	
-		army_chief = {
-	
-			POR_domingos_oliveira = {
-				
-				picture = generic_army_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_chief_old_guard }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_vieira_da_rocha = {
-				
-				picture = generic_army_europe_4
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_chief_offensive_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_julio_botelho_moniz = {
-				
-				picture = generic_army_europe_5
-				
-				allowed = {
-					original_tag = POR
-				}
-	
-				available = {
-					has_completed_focus = POR_estado_novo					
-				}
-				
-				traits = { army_chief_reform_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-
-			POR_rolao_pretea = {
-				
-				picture = generic_army_europe_1
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_chief_morale_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_humberto_carmona = {
-				
-				picture = generic_army_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
-
-				traits = { army_chief_drill_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_lobato_guerra = {
-				
-				picture = generic_army_europe_4
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_chief_defensive_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-		}
-	
-		air_chief = {
+			picture = generic_air_europe_2
 			
-			POR_manuel_gouveia = {
-				
-				picture = generic_air_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-	
-				
-				traits = { air_chief_safety_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
+				
+			research_bonus = {
+				air_doctrine = 0.10
+			}
+
+			ledger = air
+				
+			traits = { air_warfare_theorist }
+		}
 	
-			POR_humberto_delgado = {
-				
-				picture = generic_air_europe_1
-				
-				allowed = {
-					original_tag = POR
-				}
-				
+		POR_ortins_manuel_bettencourt = {
 	
+			picture = generic_navy_europe_3
 				
-				traits = { air_chief_ground_support_2 }
+			allowed = {
+				original_tag = POR
+			}
 				
-				ai_will_do = {
-					factor = 1
-				}
+			research_bonus = {
+				naval_doctrine = 0.10
+			}
+
+			ledger = navy
+				
+			traits = { naval_theorist }
+		}
+	}
+	
+	army_chief = {
+	
+		POR_domingos_oliveira = {
+				
+			picture = generic_army_europe_3
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { army_chief_old_guard }
+				
+			ai_will_do = {
+				factor = 1
 			}
 		}
 	
-		navy_chief = {
-			
-	
-			POR_jaime_afreixo = {
+		POR_vieira_da_rocha = {
 				
-				picture = POR_jaime_afreixo
+			picture = generic_army_europe_4
 				
-				allowed = {
-					original_tag = POR
-				}
-				
-	
-				
-				traits = { navy_chief_reform_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			allowed = {
+				original_tag = POR
 			}
-	
-			POR_americo_tomas = {
 				
-				picture = POR_americo_thomaz
+			traits = { army_chief_offensive_2 }
 				
-				allowed = {
-					original_tag = POR
-				}
-	
-				traits = { navy_chief_maneuver_2 }
-				
-				ai_will_do = {
-					factor = 1
-				}
+			ai_will_do = {
+				factor = 1
 			}
 		}
 	
-	
-		high_command = {
-	
-			POR_manuel_quintao_meireles = {
-				ledger = navy
-		
-				picture = POR_manuel_quintao_meireles
+		POR_julio_botelho_moniz = {
 				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { navy_fleet_logistics_2 }
-
-				ledger = navy
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_antonio_oscar_carmona = {
-				ledger = army
-		
-				picture = generic_army_europe_6
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_logistics_2 }
-
-				ledger = army
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_francisco_da_costa_gomes = {
-				ledger = army
-		
-				picture = generic_army_europe_3
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_infantry_2 }
-
-				ledger = army
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_jose_filipe_de_barros_rodrigues = {
-				ledger = army
-	
-				picture = generic_army_europe_5
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { army_artillery_2 }
-
-				ledger = army
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-	
-			POR_francisco_craveiro_lopes = {
-	
-				picture = generic_air_europe_2
-				
-				allowed = {
-					original_tag = POR
-				}
-				
-				traits = { air_air_combat_training_2 }
-
-				ledger = army
-				
-				ai_will_do = {
-					factor = 1
-				}
-			}
-		}	
-	
-		aircraft_manufacturer = { 
+			picture = generic_army_europe_5
 			
-			designer = yes
-			
-			ogma = {
+			allowed = {
+				original_tag = POR
+			}
 				
-				picture = por_ogma
-	
+			traits = { army_chief_reform_2 }
 				
-				allowed = {
-					original_tag = POR
-				}
-	
-	
-				available = { 
-					has_completed_focus = POR_ogma
-				}
-					
-				
-				research_bonus = {
-					light_air = 0.15
-				}
-				
-				traits = { light_aircraft_manufacturer }
-				
-				equipment_bonus = {
-					# military production didn't really start until 1950
-				}
-				
-				ai_will_do = {
-					factor = 1
-				}
+			ai_will_do = {
+				factor = 1
 			}
 		}
-		
-		naval_manufacturer = { 
-			
-			designer = yes
-			
-			arsenal_alfeite = {
+
+		POR_rolao_pretea = {
 				
-				picture = generic_naval_manufacturer_1
-	
+			picture = generic_army_europe_1
 				
-				allowed = {
-					original_tag = POR
-				}
-				
-				research_bonus = {
-					naval_equipment = 0.15
-				}
-				
-				equipment_bonus = {
-					# need to find information on ships made
-				}
-				
-				traits = { naval_manufacturer }
-				
-				modifier = {
-				}
+			allowed = {
+				original_tag = POR
 			}
-		}
-		
-		materiel_manufacturer = {
 				
-			designer = yes		
-	
-			fnmal = {
+			traits = { army_chief_morale_2 }
 				
-				picture = generic_infantry_equipment_manufacturer_2
-	
-				
-				allowed = {
-					original_tag = POR
-				}
-	
-				research_bonus = {
-					infantry_weapons = 0.15
-				}
-							
-				traits = { infantry_equipment_manufacturer }
-				
-				modifier = {
-				}
-			}
-	
-			ogme = {
-				
-				picture = por_ogme
-	
-				
-				allowed = {
-					original_tag = POR
-				}
-				available = {
-					has_completed_focus = POR_ogme
-				}
-	
-				research_bonus = {
-					motorized_equipment = 0.15
-				}
-				
-				equipment_bonus = {
-					# rifles (mauser 98k) and light artillery
-				}
-				
-				traits = { motorized_equipment_manufacturer }
-				
-				modifier = {
-				}
-			}
-	
-			fma = {
-				
-				picture = generic_artillery_manufacturer_2
-	
-				
-				allowed = {
-					original_tag = POR
-				}
-				available = {
-					has_completed_focus = POR_portuguese_artillery
-				}
-	
-				research_bonus = {
-					artillery = 0.15
-				}
-				
-				traits = { artillery_manufacturer }
-				
-				modifier = {
-				}
+			ai_will_do = {
+				factor = 1
 			}
 		}
 	
-		industrial_concern = {	
-	
-			companhia_uniao_fabril = {
-	
-				picture = generic_industrial_concern_2
+		POR_humberto_carmona = {
 				
-				allowed = {
-					original_tag = POR
-				}
+			picture = generic_army_europe_3
 				
-				research_bonus = {
-					industry = 0.15
-				}
+			allowed = {
+				original_tag = POR
+			}
+
+			traits = { army_chief_drill_2 }
 				
-				traits = { industrial_concern }
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		POR_lobato_guerra = {
 				
-				modifier = {
-				}
+			picture = generic_army_europe_4
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { army_chief_defensive_2 }
+				
+			ai_will_do = {
+				factor = 1
 			}
 		}
 	}
+	
+	air_chief = {
+			
+		POR_manuel_gouveia = {
+				
+			picture = generic_air_europe_3
+				
+			allowed = {
+				original_tag = POR
+			}
+			
+			traits = { air_chief_safety_2 }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_humberto_delgado = {
+				
+			picture = generic_air_europe_1
+			
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { air_chief_ground_support_2 }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	
+	navy_chief = {
+			
+	
+		POR_jaime_afreixo = {
+				
+			picture = POR_jaime_afreixo
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { navy_chief_reform_2 }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_americo_tomas = {
+				
+			picture = POR_americo_thomaz
+				
+			allowed = {
+				original_tag = POR
+			}
+	
+			traits = { navy_chief_maneuver_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	
+	
+	high_command = {
+	
+		POR_manuel_quintao_meireles = {
+			ledger = navy
+		
+			picture = POR_manuel_quintao_meireles
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { navy_fleet_logistics_2 }
 
+			ledger = navy
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_antonio_oscar_carmona = {
+			ledger = army
+		
+			picture = generic_army_europe_6
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { army_logistics_2 }
+
+			ledger = army
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_francisco_da_costa_gomes = {
+			ledger = army
+		
+			picture = generic_army_europe_3
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { army_infantry_2 }
+
+			ledger = army
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_jose_filipe_de_barros_rodrigues = {
+			ledger = army
+	
+			picture = generic_army_europe_5
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { army_artillery_2 }
+
+			ledger = army
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	
+		POR_francisco_craveiro_lopes = {
+	
+			picture = generic_air_europe_2
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			traits = { air_air_combat_training_2 }
+
+			ledger = army
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}	
+	
+	aircraft_manufacturer = { 
+			
+		designer = yes
+			
+		ogma = {
+				
+			picture = por_ogma
+	
+			allowed = {
+				original_tag = POR
+			}
+					
+			research_bonus = {
+				light_air = 0.15
+			}
+				
+			traits = { light_aircraft_manufacturer }
+				
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+		
+	naval_manufacturer = { 
+			
+		designer = yes
+			
+		arsenal_alfeite = {
+				
+			picture = generic_naval_manufacturer_1
+		
+			allowed = {
+				original_tag = POR
+			}
+				
+			research_bonus = {
+				naval_equipment = 0.15
+			}
+				
+			traits = { naval_manufacturer }
+		}
+	}
+		
+	materiel_manufacturer = {
+				
+		designer = yes		
+	
+		fnmal = {
+				
+			picture = generic_infantry_equipment_manufacturer_2
+	
+				
+			allowed = {
+				original_tag = POR
+			}
+	
+			research_bonus = {
+				infantry_weapons = 0.15
+			}
+							
+			traits = { infantry_equipment_manufacturer }
+		}
+	
+		ogme = {
+				
+			picture = por_ogme
+	
+				
+			allowed = {
+				original_tag = POR
+			}
+	
+			research_bonus = {
+				motorized_equipment = 0.15
+			}
+				
+			traits = { motorized_equipment_manufacturer }
+		}
+	
+		fma = {
+				
+			picture = generic_artillery_manufacturer_2
+	
+			allowed = {
+				original_tag = POR
+			}
+	
+			research_bonus = {
+				artillery = 0.15
+			}
+				
+			traits = { artillery_manufacturer }
+		}
+	}
+	
+	industrial_concern = {	
+	
+		companhia_uniao_fabril = {
+	
+			picture = generic_industrial_concern_2
+				
+			allowed = {
+				original_tag = POR
+			}
+				
+			research_bonus = {
+				industry = 0.15
+			}
+				
+			traits = { industrial_concern }
+		}
+	}
 }

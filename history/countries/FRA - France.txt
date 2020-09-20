@@ -134,10 +134,16 @@ if = {
 		autonomous_state = autonomy_colony
 		freedom_level = 0.5
 	}
+	set_autonomy = {
+		target = ICH
+		autonomous_state = autonomy_colony
+		freedom_level = 0.21
+	}
 	else = {
 		puppet = TUN
 		puppet = MOR
 		puppet = RHI
+		puppet = ICH
 	}
 }
 
@@ -161,6 +167,7 @@ add_to_faction = FRA
 add_to_faction = RHI
 add_to_faction = MOR
 add_to_faction = TUN
+add_to_faction = ICH
 
 add_ideas = {
 	FRA_Arms_Race

@@ -98,7 +98,7 @@ create_country_leader = {
 
 create_country_leader = {
   name = "Ovidio Bressan"
-  desc = "POLITICS_OVIDIO_BRESSAN_DESC"
+  desc = "POLITICS_OVIDIO_BRESSAN_DESC" 
   picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
   expire = "1965.1.1"
   ideology = liberalism_type

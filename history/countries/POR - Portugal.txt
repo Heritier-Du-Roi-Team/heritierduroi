@@ -126,7 +126,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "António de Oliveira Salazar"
 	desc = "POLITICS_ANTONIO_SALAZAR_DESC"
-	picture = ""
+	picture = "Portrait_Antonio_Salazar.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
