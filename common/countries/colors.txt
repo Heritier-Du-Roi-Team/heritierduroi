@@ -21,6 +21,11 @@ LIB = {
 	color_ui = rgb { 198 169 248 }
 }
 
+MOR = {
+	color = rgb { 100 50 0 }
+	color_ui = rgb { 102 51 0 }
+}
+
 SOM = {
 	color = rgb { 93 146 207 }
 	color_ui = rgb { 93 146 207 }
@@ -29,6 +34,11 @@ SOM = {
 SAF = {
 	color = rgb { 210 150 105 }
 	color_ui = rgb { 210 150 105 }
+}
+
+TUN = {
+	color = rgb { 140 140 125 }
+	color_ui = rgb { 140 140 125 }
 }
 
 
@@ -65,14 +75,19 @@ FEN = {
 	color_ui = rgb { 126 87 52 }
 }
 
+GXC = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 71 113 97 }
+}
+
 HUB = { 
 	color = rgb { 148 148 74 }
 	color_ui = rgb { 148 148 74}
 }
 
 ICH = {
-	color = rgb { 84 20 119 }
-	color_ui = rgb { 84 20 119 }
+	color = rgb { 42 117 150 }
+	color_ui = rgb { 42 117 150 }
 }
 
 JAP = {

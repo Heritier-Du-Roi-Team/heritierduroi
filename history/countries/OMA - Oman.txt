@@ -34,7 +34,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Taimur bin Feisal"
 	desc = "POLITICS_TAIMUR_FEISAL_DESC"
-	picture = ""
+	picture = "Portrait_Taimur_Feisal.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -50,7 +50,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Taimur bin Feisal"
 	desc = "POLITICS_TAIMUR_FEISAL_DESC"
-	picture = ""
+	picture = "Portrait_Taimur_Feisal.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
