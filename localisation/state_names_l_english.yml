@@ -195,7 +195,9 @@
  STATE_977:0 "Chrdiloet Oseti"
  STATE_978:0 "Batum"
  STATE_979:0 "Artsakhi"
-
+ STATE_980:0 "Grigioni"
+ STATE_981:0 "Wallis"
+ STATE_982:0 "Romandie"
 
  STATE_1:0 "Corse"
  STATE_3:0 "Schweiz"

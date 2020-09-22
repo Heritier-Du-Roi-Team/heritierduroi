@@ -1,0 +1,24 @@
+
+state={
+	id=982
+	name="STATE_982"
+	manpower = 683284
+	
+	state_category = rural
+
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 3
+			
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		6666 9622 6683 11590  
+	}
+}

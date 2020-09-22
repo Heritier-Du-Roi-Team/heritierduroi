@@ -13,7 +13,6 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = SAR
 		add_core_of = ITA
 		add_claim_by = SWI
 		add_claim_by = FRA

@@ -21,7 +21,6 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = TUS
 		add_core_of = ITA
 	}
 

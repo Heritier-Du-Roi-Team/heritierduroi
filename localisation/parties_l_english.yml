@@ -542,7 +542,25 @@
  GER_paternal_autocrat_party_long:0 "Deutsches Heer"
  GER_national_populism_party:0 "AdV"
  GER_national_populism_party_long:0 "Alldeutscher Verband"
- 
+
+# Georgia
+ GEO_communism_party:0 "-"
+ GEO_communism_party_long:0 "-"
+ GEO_radical_socialism_party:0 "-"
+ GEO_radical_socialism_party_long:0 "-"
+ GEO_social_democracy_party:0 "SSDP"
+ GEO_social_democracy_party_long:0 "Sakartvelos Sotsial-demok'rat'iuli Pe'art'ia"
+ GEO_liberalism_party:0 "-"
+ GEO_liberalism_party_long:0 "-"
+ GEO_conservatism_party:0 "-"
+ GEO_conservatism_party_long:0 "-"
+ GEO_authoritarian_democracy_party:0 "-"
+ GEO_authoritarian_democracy_party_long:0 "-"
+ GEO_paternal_autocrat_party:0 "-"
+ GEO_paternal_autocrat_party_long:0 "-"
+ GEO_national_populism_party:0 "-"
+ GEO_national_populism_party_long:0 "-"
+
 # Latvia
  LAT_communism_party:0 "LKP"
  LAT_communism_party_long:0 "Latvijas Komunistiskā partija"

@@ -9,7 +9,6 @@ state=
 	history=
 	{
 		owner = ITA
-		add_core_of = SAR
 		add_core_of = ITA
 		victory_points = {
 			11773 3

@@ -9,7 +9,6 @@ state= {
 	state_category = large_town
 
 	history= {
-		add_claim_by = GRE
 		owner = OTT
 		victory_points = {
 			9833 40
