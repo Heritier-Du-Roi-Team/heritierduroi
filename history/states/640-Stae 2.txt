@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		add_core_of = BUR
+		add_core_of = BRM
 		owner = RAJ
 		add_core_of = RAJ
 		buildings = {

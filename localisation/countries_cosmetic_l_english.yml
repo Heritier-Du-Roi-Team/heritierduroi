@@ -53,6 +53,10 @@
  NOR_SWE_DEF:0 "the Kingdom of Norway"
  NOR_SWE_ADJ:0 "Norwegian"
 
+ ICH_subject:0 "$OVERLORDADJ$ Indochina"
+ ICH_subject_DEF:0 "$OVERLORDADJ$ Indochina"
+ ICH_subject_ADJ:0 "$OVERLORDADJ$ Indochinese"
+
 
 
  INS_HOL_democratic:0 "Dutch East Indies"

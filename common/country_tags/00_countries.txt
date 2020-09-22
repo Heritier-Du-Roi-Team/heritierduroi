@@ -4,9 +4,7 @@
 
 # Asia
 
-BEA = "countries/British East Asia.txt"
 ICH = "countries/France.txt"
-BUR = "countries/France.txt"
 FEN = "countries/Manchukou.txt"
 SHD = "countries/China.txt"
 SCL = "countries/China.txt"
