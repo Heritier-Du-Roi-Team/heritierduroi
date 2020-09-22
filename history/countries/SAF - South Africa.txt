@@ -94,7 +94,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "J. G. Strijdom"
 	desc = "POLITICS_J_G_SRJIJDOM_DESC"
-	picture = ""
+	picture = "Portrait_J_G_Strijdom.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 	traits = {
@@ -105,7 +105,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "C. R. Swart"
 	desc = "POLITICS_C_R_SWART_DESC"
-	picture = ""
+	picture = "Portrait_C_R_Swart.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 	traits = {
@@ -127,7 +127,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Walter Madeley"
 	desc = "POLITICS_WALTER_MADELEY_DESC"
-	picture = ""
+	picture = "Portrait_Walter_Madeley.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 	traits = {
@@ -136,9 +136,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Bill Andrews"
-	desc = "POLITICS_BILL_ANDREWS_DESC"
-	picture = ""
+	name = "Yusuf Dadoo"
+	desc = "POLITICS_YUSUF_DADOO_DESC"
+	picture = "Portrait_Yusuf_Dadoo.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 	traits = {
@@ -147,9 +147,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Bill Andrews"
-	desc = "POLITICS_BILL_ANDREWS_DESC"
-	picture = ""
+	name = "Yusuf Dadoo"
+	desc = "POLITICS_YUSUF_DADOO_DESC"
+	picture = "Portrait_Yusuf_Dadoo.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
 	traits = {
@@ -157,27 +157,27 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = "Moses Kotane"
-	desc = "POLITICS_MOSES_KOTANE_DESC"
-	picture = "GFX_SAF_moses_kotane"
-	expire = "1965.1.1"
-	ideology = marxism
-	traits = {
-		#
-	}
-}
+#create_country_leader = {
+#	name = "Moses Kotane"
+#	desc = "POLITICS_MOSES_KOTANE_DESC"
+#	picture = "GFX_SAF_moses_kotane"
+#	expire = "1965.1.1"
+#	ideology = marxism
+#	traits = {
+#		#
+#	}
+#}
 
-create_country_leader = {
-	name = "Pixley Ka Isaka Seme"
-	desc = "POLITICS_PIXLEY_SEME_DESC"
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
+#create_country_leader = {
+#	name = "Pixley Ka Isaka Seme"
+#	desc = "POLITICS_PIXLEY_SEME_DESC"
+#	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+#	expire = "1965.1.1"
+#	ideology = centrism
+#	traits = {
+#		#
+#	}
+#}
 
 create_corps_commander = {
 	name = "George Edwin Brink"
