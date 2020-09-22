@@ -7,18 +7,22 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = DAG
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = RUS
+		add_core_of = DAG
+		add_claim_by = RUS
+		victory_points = {
+			3668 5
+		}
 
 	}
 
 	provinces={
-		3668 3682 3711 4463 6689 6701 7554 9645 
+		3668 3682 3711 4463 6689 6701 7554 9645 7624 1450 13279 700 6748 6730 712 728
 	}
-	manpower=983210
+	manpower=952200
 	state_category=rural
 }

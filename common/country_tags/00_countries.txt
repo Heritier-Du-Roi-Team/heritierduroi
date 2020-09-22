@@ -270,3 +270,5 @@ OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 
 KUM = "countries/Kumul Khanate.txt"
+CHE = "countries/Chechnya.txt"
+DAG = "countries/Dagestan.txt"

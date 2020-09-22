@@ -5,18 +5,12 @@ state={
 
 	history={
 		owner = GEO
-		victory_points = {
-			3653 3
-		}
+		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 2
-			3653 = {
-				naval_base = 2
-				coastal_bunker = 1
-
-			}
+			
 
 		}
 		add_claim_by = RUS
@@ -33,9 +27,9 @@ state={
 	}
 
 	provinces={
-		654 672 772 3653 3656 3658 11599 11617
+		654  772  3656 3658 6674
 	}
-	manpower=1249413
+	manpower=948020
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

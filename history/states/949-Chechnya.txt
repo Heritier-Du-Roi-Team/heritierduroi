@@ -6,19 +6,20 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = CHE
 		buildings = {
 			infrastructure = 5
 		}
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = RUS
+		add_core_of = CHE
+		add_claim_by = RUS
 
 	}
 
 	provinces={
-		666 670 1455 3667 3672 
+		666 670 1455  3672 11632 683
 	}
 	manpower=1032120
 	state_category=town

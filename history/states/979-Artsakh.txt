@@ -1,0 +1,21 @@
+
+state={
+	id=979
+	name="STATE_979"
+
+	history={
+		owner = ARM
+		buildings = {
+			infrastructure = 2
+		}
+		add_claim_by = AZR
+		add_core_of = ARM
+	}
+
+	provinces={
+		1467 9715
+        }
+	manpower= 150837	
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

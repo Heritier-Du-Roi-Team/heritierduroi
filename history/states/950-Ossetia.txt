@@ -11,13 +11,11 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = RUS
-		victory_points = {
-			9628 3
-		}
+		
 	}
 
 	provinces={
-		685 6674 9628 9632 9647 9649 11609 11614
+		685 9632 9647 9649  
 	}
 	manpower=874310
 	state_category=rural

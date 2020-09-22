@@ -1,0 +1,96 @@
+﻿capital = 949
+
+oob = "CHE_1936"
+
+set_popularities = {
+        communism = 
+        radical_socialism = 
+        social_democracy = 
+        liberalism = 
+        conservatism = 
+        authoritarian_democracy = 
+        paternal_autocrat = 
+        national_populism = 
+
+}
+
+set_politics = {
+	
+	ruling_party = authoritarian_democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = communism_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "To Be Added"
+	desc = ""
+	picture = "To_be_added.dds"
+	expire = "1965.1.1"
+	ideology = national_populism_type
+	traits = {
+	}
+}

@@ -2,7 +2,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_hdr_radio_album_art"
-		texturefile = "gfx/interface/topbar/musicplayer/hdr_radio_album_art.dds"
+		texturefile = "gfx//interface//topbar//musicplayer//hdr_radio_album_art.dds"
 		noOfFrames = 2
 	}
 }

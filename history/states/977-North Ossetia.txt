@@ -1,0 +1,27 @@
+
+state={
+	id=977
+	name="STATE_977"
+
+	history={
+		owner = GEO
+		buildings = {
+			infrastructure = 3
+			}
+            victory_points = {
+			9628 3
+		}
+	
+		add_claim_by = RUS
+		add_core_of = GEO
+		}
+
+	
+
+	provinces={
+	9628 11614  
+    }
+	manpower= 41412
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

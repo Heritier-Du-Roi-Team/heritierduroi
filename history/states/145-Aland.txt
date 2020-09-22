@@ -8,7 +8,6 @@ state=
 
 	history = {
 		owner = FIN
-		add_core_of = RUS
 		add_claim_by = SWE
 		buildings = {
 			infrastructure = 5

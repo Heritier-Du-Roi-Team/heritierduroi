@@ -1,0 +1,25 @@
+
+state={
+	id=976
+	name="STATE_976"
+
+	history={
+		owner = GEO
+		buildings = {
+			infrastructure = 3
+			}
+
+	
+		add_claim_by = RUS
+		add_core_of = GEO
+		}
+
+	
+
+	provinces={
+	672 11599 11617 11647
+	}
+	manpower=311885
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
