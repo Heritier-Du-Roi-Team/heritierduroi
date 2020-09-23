@@ -632,6 +632,24 @@
  OLD_paternal_autocrat_party_long:0 "Oldenburgische Militärclique"
  OLD_national_populism_party:0 "AdV-O"
  OLD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Oldenburg"
+
+# Kebab land
+ OTT_communism_party:0 "TKP"
+ OTT_communism_party_long:0 "Türkiye Komünist Partisi"
+ OTT_radical_socialism_party:0 "OSF"
+ OTT_radical_socialism_party_long:0 "Osmanlı Sosyalist Fırkası"
+ OTT_social_democracy_party:0 "CHP"
+ OTT_social_democracy_party_long:0 "Cumhuriyet Halk Partisi"
+ OTT_liberalism_party:0 "HIF"
+ OTT_liberalism_party_long:0 "Hürriyet ve İtilâf Fırkası"
+ OTT_conservatism_party:0 "GT"
+ OTT_conservatism_party_long:0 "Genç Türkler"
+ OTT_authoritarian_democracy_party:0 "OSK"
+ OTT_authoritarian_democracy_party_long:0 "Osmanlı Silahlı Kuvvetleri"
+ OTT_paternal_autocrat_party:0 "SS"
+ OTT_paternal_autocrat_party_long:0 "Sultan Sadıklar"
+ OTT_national_populism_party:0 "IRP"
+ OTT_national_populism_party_long:0 "İslami Restorasyon Partisi"
  
 # The Land of Boy Touchers
  PAP_communism_party:0 "PCI"

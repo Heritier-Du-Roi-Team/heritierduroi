@@ -80,11 +80,6 @@ if = {
 	}
 	set_naval_oob = "ITA_1936_naval_mtg"
 }
-if = {
-	limit = {
-		has_dlc = "Man the Guns"
-	}
-}
 
 give_guarantee = ALB
 
@@ -96,8 +91,9 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+
 set_popularities = {
-	liberalism =  = 38
+	liberalism = 38
 	paternal_autocrat = 24
 	national_populism = 14
 	authoritarian_democracy = 12
