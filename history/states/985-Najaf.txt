@@ -1,0 +1,21 @@
+state={
+	id=985
+	name="STATE_985"
+	manpower = 104310
+
+	state_category = pastoral
+
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = JAB
+		add_core_of = SAU
+		add_core_of = HEJ
+	}
+
+	provinces={
+		10744 13458 13494 13495 13496 13497 13498
+	}
+}

@@ -1,0 +1,23 @@
+state={
+	id=984
+	name="STATE_984"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = DAG
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = DAG
+		add_claim_by = RUS
+
+	}
+
+	provinces={
+		700 712 728 6730 6748
+	}
+	manpower=91320
+	state_category=rural
+}

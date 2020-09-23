@@ -128,6 +128,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13334;905;sea;8518;-1;-1;-1;-1;;Mass Islands-Cape Cod
 13433;13432;sea;2871;-1;-1;-1;-1;;Channel Islands
 13433;6449;sea;2871;-1;-1;-1;-1;;Channel Islands to Normandy
+849;9887;sea;7678;-1;-1;-1;-1;;Dardanelles
 5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
 5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
 2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund

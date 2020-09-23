@@ -6,20 +6,17 @@ state = {
 	state_category = rural
 
 	history={
-		owner = OTT
+		owner = JAB
 		buildings = {
 			infrastructure = 4
 		}
 
-		add_core_of = OTT
 		add_core_of = HEJ
 		add_core_of = SAU
 		add_core_of = JAB
 	}
 
 	provinces={
-		13235 13236 13456 13457 13458
-
-		# 13235 13236
+		4562 13235 13236 13456 13457 13499 13500
 	}
 }

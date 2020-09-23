@@ -11,13 +11,12 @@ state = {
 			infrastructure = 2
 		}
 
-		add_core_of = OTT
 		add_core_of = HEJ
 		add_core_of = SAU
 		add_core_of = JAB
 	}
 
 	provinces={
-		13242
+		4603 13242 13501
 	}
 }

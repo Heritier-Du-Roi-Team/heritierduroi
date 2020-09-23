@@ -1,4 +1,3 @@
-
 state={
 	id=55
 	name="STATE_55"
@@ -9,7 +8,6 @@ state={
 			infrastructure = 7
 			arms_factory = 1
 			industrial_complex = 2
-
 		}
 		victory_points = {
 			6488 20.0 
@@ -18,21 +16,11 @@ state={
 			564 3 
 		}
 		add_core_of = HES
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-				arms_factory = 4
-
-			}
-
-		}
-
 	}
 
 	provinces={
-		3397 6488 11445 589 3574 6549 3524 9486 9524 564 11533 6444
+		3397 6488 11445 6549 3524 9486 9524 564 11533 6444
 	}
-	manpower=3798235
-	buildings_max_level_factor=1.000
+	manpower=3695925
 	state_category=large_city
 }

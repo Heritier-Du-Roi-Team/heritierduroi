@@ -1,0 +1,24 @@
+state={
+	id=983
+	name="STATE_983"
+
+	history={
+		owner = HES
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			6488 20.0 
+		}
+		victory_points = {
+			564 3 
+		}
+		add_core_of = HES
+	}
+
+	provinces={
+		589 3574
+	}
+	manpower=102310
+	state_category=town
+}
