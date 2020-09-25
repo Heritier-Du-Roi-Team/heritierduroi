@@ -1125,6 +1125,24 @@
 
 ### Oceania ###
 
+# Desert
+ AST_communism_party:0 "CPA"
+ AST_communism_party_long:0 "Communist Party of Australia"
+ AST_radical_socialism_party:0 "CPA"
+ AST_radical_socialism_party_long:0 "Communist Party of Australia"
+ AST_social_democracy_party:0 "ALP"
+ AST_social_democracy_party_long:0 "Australian Labor Party"
+ AST_liberalism_party:0 "UAP"
+ AST_liberalism_party_long:0 "United Australia Party"
+ AST_conservatism_party:0 "CP"
+ AST_conservatism_party_long:0 "Country Party"
+ AST_authoritarian_democracy_party:0 "Governoring Council"
+ AST_authoritarian_democracy_party_long:0 "Governoring Council"
+ AST_paternal_autocrat_party:0 "CP"
+ AST_paternal_autocrat_party_long:0 "Centre Party"
+ AST_national_populism_party:0 "AFM"
+ AST_national_populism_party_long:0 "Australia First Movement"
+
 ### Central America ###
 
 # Land that has no army today
