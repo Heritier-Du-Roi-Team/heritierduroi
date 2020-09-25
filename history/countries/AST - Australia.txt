@@ -69,93 +69,141 @@ if = {
 #set_cosmetic_tag = AST_UK
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = liberalism
 	last_election = "1934.9.15"
 	election_frequency = 36
 	elections_allowed = no
 }
 
 set_popularities = {
-	autocracy = 38
-	social_liberalism = 26
-	social_conservatism = 20
-	socialist = 8
-	totalist = 6
-	integrism = 2
-}
-
-create_country_leader = {
-	name = "John Curtin"
-	desc = "POLITICS_JOHN_CURTIN_DESC"
-	picture = "Portrait_Australia_John_Curtin.dds"
-	expire = "1965.1.1"
-	ideology = socialism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Eric Campbell"
-	desc = "POLITICS_ERIC_CAMPBELL_DESC"
-	picture = "GFX_AST_eric_campbell"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
+	liberalism = 44
+	social_democracy = 39
+	conservatism = 13
+	authoritarian_democracy = 2
+	communism = 1
+	national_populism = 1
 }
 
 create_country_leader = {
 	name = "Richard Dixon"
 	desc = "POLITICS_RICHARD_DIXON_DESC"
-	picture = "GFX_AST_richard_dixon"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = stalinism
-	traits = {
-		#
-	}
+	ideology = communism_type
+}
+
+create_country_leader = {
+	name = "Richard Dixon"
+	desc = "POLITICS_RICHARD_DIXON_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+}
+
+create_country_leader = {
+	name = "James Scullin"
+	desc = "POLITICS_JAMES_SCULLIN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
+
+create_country_leader = {
+	name = "Joseph Lyons"
+	desc = "POLITICS_JOSEPH_LYONS_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
 }
 
 create_country_leader = {
 	name = "Earle Page"
 	desc = "POLITICS_EARLE_PAGE_DESC"
-	picture = "GFX_AST_earle_page"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
+	ideology = conservatism_type
 }
 
 create_country_leader = {
-	name = "Rod Hull"
-	desc = ""
-	picture = "Portrait_Australia_Rod_Hull.dds"
+	name = "Alexander Hore-Ruthven"
+	desc = "POLITICS_ALEXANDER_HORE-RUTHVEN_DESC"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = authoritarian_democracy_type
 }
+
+create_country_leader = {
+	name = "Eric Campbell"
+	desc = "POLITICS_ERIC_CAMPBELL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
+}
+
+create_country_leader = {
+	name = "Percy Stephensen"
+	desc = "POLITICS_PERCY_STEPHENSEN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = national_populism_type
+}
+
+#create_country_leader = {
+#	name = "John Curtin"
+#	desc = "POLITICS_JOHN_CURTIN_DESC"
+#	picture = "Portrait_Australia_John_Curtin.dds"
+#	expire = "1965.1.1"
+#	ideology = socialism
+#	traits = {
+#		#
+#	}
+#}
+
+#create_country_leader = {
+#	name = "Eric Campbell"
+#	desc = "POLITICS_ERIC_CAMPBELL_DESC"
+#	picture = "GFX_AST_eric_campbell"
+#	expire = "1965.1.1"
+#	ideology = fascism_ideology
+#	traits = {
+#		#
+#	}
+#}
+
+#create_country_leader = {
+#	name = "Richard Dixon"
+#	desc = "POLITICS_RICHARD_DIXON_DESC"
+#	picture = "GFX_AST_richard_dixon"
+#	expire = "1965.1.1"
+#	ideology = stalinism
+#	traits = {
+#		#
+#	}
+#}
+
+#create_country_leader = {
+#	name = "Earle Page"
+#	desc = "POLITICS_EARLE_PAGE_DESC"
+#	picture = "GFX_AST_earle_page"
+#	expire = "1965.1.1"
+#	ideology = centrism
+#	traits = {
+#		#
+#	}
+#}
+
+#create_country_leader = {
+#	name = "Rod Hull"
+#	desc = ""
+#	picture = "Portrait_Australia_Rod_Hull.dds"
+#	expire = "1965.1.1"
+#	ideology = despotism
+#	traits = {
+#		#
+#	}
+#}
 
 set_convoys = 100
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1937.10.23"
-		election_frequency = 36
-		elections_allowed = no
-	}
-
-	set_popularities = {
-		democratic = 99
-		communism = 1
-	}
-
-	set_convoys = 100
-}
 
 create_corps_commander = {
 	name = "Leslie Morshead"
