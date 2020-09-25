@@ -8,18 +8,20 @@ state={
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
-			air_base = 5
+			
 
 		}
+		victory_points = {
+			442 3 
+		}
 		add_core_of = POL
-		add_core_of = UKR
-
+		
 	}
 
 	provinces={
-		9468 6483 6431 6460 
+		3434 9494 466 6522 11507 6499 442 3410
 	}
-	manpower=327800
+	manpower=928001
 	buildings_max_level_factor=1.000
 	state_category=town
 }

@@ -209,7 +209,7 @@ form_germany_category = {
 				935 = { add_core_of = ROOT }
 				# Bohemia
 				69 = { add_claim_by = ROOT }
-				72 = { add_claim_by = ROOT }
+				830 = { add_claim_by = ROOT }
 				74 = { add_claim_by = ROOT }
 				831 = { add_claim_by = ROOT }
 			}

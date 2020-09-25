@@ -18,11 +18,17 @@ state={
 			anti_air_building = 5
 			air_base = 5
 		}
+		victory_points = {
+			6418 5 
+		}
+		victory_points = {
+			9569 5 
+		}
 		add_core_of = AUS
 		add_core_of = CZE
 	}
 
 	provinces={
-		583 6440 9429 11542 11556
+		583 6440 9429 11542 11556 445 494 3462 9414 9569 9541 9421 6418 6592 13289
 	}
 }

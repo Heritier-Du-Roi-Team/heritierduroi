@@ -156,9 +156,13 @@ RHI = {
 	}
 
 	set_popularities = {
-		authoritarian_democracy	= 25
-		paternal_autocrat = 50
-		national_populism = 25
+		authoritarian_democracy	= 19
+		paternal_autocrat = 8
+		national_populism = 23
+		liberalism = 10
+		conservatism = 6
+		social_democracy = 13
+		communism = 21
 	}
 }
 

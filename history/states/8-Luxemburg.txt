@@ -7,21 +7,19 @@ state={
 	}
 
 	history={
-		owner = POL
-		add_core_of = POL
+		owner = ARM
+		add_core_of = ARM
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 		}
-		victory_points = {
-			3392 1
-		}
+		
 		
 	}
 
 	provinces={
-		3392 6546 11441
+	 4660 6642 6997 	
 	}
-	manpower=94500
+	manpower= 510082
 	state_category=town
 }

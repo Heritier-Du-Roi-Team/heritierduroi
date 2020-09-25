@@ -6,6 +6,9 @@ state={
 		victory_points = {
 			9304 1
 		}
+		victory_points = {
+			3393 3
+		}
 		owner = POL
 		add_core_of = POL
 		buildings = {
