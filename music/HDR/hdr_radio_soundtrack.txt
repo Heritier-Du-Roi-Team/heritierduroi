@@ -3,26 +3,17 @@ music_station = "hdr_radio"
 music = {
 	song = "maintheme"
 
-	chance = {
-		modifier = {
-			factor = 5
-		}
-	}
 }
-
 music = {
 	song = "chanson_de_loignon"
 	
-	
 }
-
 music = {
 	song = "die_wacht_am_rhein"
 	
-	
 }
 
 music = {
-	song = "was_ist_des_deutschen_vaterlands"
-	
+	song = "was_ist_des_deutschen_vaterland"
+
 }

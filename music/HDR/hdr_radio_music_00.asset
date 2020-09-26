@@ -1,0 +1,23 @@
+music = {
+	name = "maintheme"
+	file = "hdr_Le_Chant_Du_Depart_2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "chanson_de_loignon"
+	file = "hdr_Chanson_de_l'oignon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "die_wacht_am_rhein"
+	file = "hdr_Die_Wacht_am_Rhein.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "was_ist_des_deutschen_vaterland"
+	file = "hdr_Was_ist_des_Deutschen_Vaterland.ogg"
+	volume = 0.65
+}
