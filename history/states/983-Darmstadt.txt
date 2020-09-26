@@ -7,12 +7,7 @@ state={
 		buildings = {
 			infrastructure = 5
 		}
-		victory_points = {
-			6488 20.0 
-		}
-		victory_points = {
-			564 3 
-		}
+		
 		add_core_of = HES
 	}
 

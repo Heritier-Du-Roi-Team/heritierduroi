@@ -13315,7 +13315,7 @@
 13314;70;38;246;land;false;desert;5
 13315;136;53;0;land;false;desert;5
 13316;43;215;107;land;false;desert;5
-13317;89;103;158;land;false;deser;5
+13317;89;103;158;land;false;desert;5
 13318;139;6;175;land;false;desert;5
 13319;115;175;207;land;false;desert;5
 13320;56;202;72;land;false;desert;5
@@ -13500,3 +13500,4 @@
 13499;219;45;60;land;false;desert;7
 13500;205;238;31;land;false;desert;7
 13501;230;77;65;land;false;desert;7
+13502;87;0;127;land;false;plains;1

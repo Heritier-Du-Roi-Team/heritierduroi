@@ -156,6 +156,41 @@ form_germany_category = {
 			# Norway
 			custom_effect_tooltip = form_country_germany_coring_states_tt
 			hidden_effect = {
+				set_party_name = { 
+    			ideology = communism 
+   				long_name = GER_communism_party_long
+   				name = GER_communism_party 
+				}
+				set_party_name = { 
+    			ideology = radical_socialism 
+   				long_name = GER_radical_socialism_party_long
+   				name = GER_radical_socialism_party
+				}
+				set_party_name = { 
+    			ideology = social_democracy 
+   				long_name = GER_social_democracy_party_long
+   				name = GER_social_democracy_party
+				}
+				set_party_name = { 
+    			ideology = liberalism 
+   				long_name = GER_liberalism_party_long
+   				name = GER_liberalism_party
+				}
+				set_party_name = { 
+    			ideology = conservatism 
+   				long_name = GER_conservatism_party_long
+   				name = GER_conservatism_party
+				}
+				set_party_name = { 
+    			ideology = paternal_autocrat 
+   				long_name = GER_paternal_autocrat_party_long
+   				name = GER_paternal_autocrat_party
+				}
+				set_party_name = { 
+    			ideology = national_populism
+   				long_name = GER_national_populism_party_long
+   				name = GER_national_populism_party
+				}
 				#Denmark
 				817 = { add_claim_by = ROOT }
 				# Schleswig-Holstein

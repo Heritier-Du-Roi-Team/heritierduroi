@@ -22,7 +22,7 @@ state={
 	}
 
 	provinces={
-		529 3512 6469 6570 9482  
+		529 3512 6469 6570 9482 
 	}
 	manpower=3486958
 	buildings_max_level_factor=1.000

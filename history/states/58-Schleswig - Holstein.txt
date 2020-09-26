@@ -9,6 +9,9 @@ state= {
 		victory_points = {
 			9347 20
 		}
+		victory_points = {
+			6389 10
+		}
 		owner = SCH
 		buildings = {
 			infrastructure = 6
@@ -16,22 +19,18 @@ state= {
 			industrial_complex = 2
 			dockyard = 2
 			air_base = 2
+			6389 ={
+				naval_base = 7
+			}
 			9347 ={
 				naval_base = 3
 			}
 		}
 		add_core_of = SCH
-		1939.1.1 = {
-			buildings = {
-				synthetic_refinery = 3
-				anti_air_building = 5
-				dockyard = 7
-				arms_factory = 4
-			}
-		}
+		
 	}
 
 	provinces= {
-		3368 6257 9320 9347 11331
+		3368 6257 9320 9347 11331 6389
  	}
 }

@@ -6,31 +6,20 @@ state= {
 
 	history=
 	{
-		victory_points = {
-			6389 10
-		}
+		
 		owner = SCH
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
 			dockyard = 4
 			air_base = 3
-			6389 ={
-				naval_base = 7
-			}
+			
 		}
 		add_core_of = SCH
-		1939.1.1 = {
-			buildings = {
-				synthetic_refinery = 3
-				anti_air_building = 5
-				dockyard = 7
-				arms_factory = 4
-			}
-		}
+		
 	}
 
 	provinces= {
-		317 3231 6389 11366
+		317 3231  11366
  	}
 }

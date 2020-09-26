@@ -445,8 +445,8 @@ THU = {
 }
 
 WST = {
-	color = rgb {142 139 81}
-	color_ui = rgb { 142 139 81}
+	color = rgb {165 162 96}
+	color_ui = rgb {165 162 96}
 }
 
 WUR = {
