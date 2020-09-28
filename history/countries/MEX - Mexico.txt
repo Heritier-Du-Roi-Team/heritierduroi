@@ -73,7 +73,7 @@ country_event = { id = Mexico.1 days = 202 } # Huerta Fuckin' Dies Mate!
 create_country_leader = {
 	name = "Manuel Ávila Camacho"
 	desc = "POLIITICS_MANUEL_CAMACHO_DESC"
-	picture = ""
+	picture = "Portrait_Manuel_Ávila_Camacho.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -81,7 +81,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Felix Dias"
 	desc = "POLITICS_FELIX_DIAS_DESC"
-	picture = ""
+	picture = "Portrait_Félix_Díaz.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -89,7 +89,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Pascual Orozco Vazquez Jr."
 	desc = "POLITICS_PASCUAL_VAZQUEZ_DESC"
-	picture = ""
+	picture = "Portrait_Pascual_Orozco_Vázquez_Jr.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -105,7 +105,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Pablo Gonzales Garzo"
 	desc = "POLITICS_PABLO_GONZALES_GARZO_DESC"
-	picture = ""
+	picture = "Portrait_Pablo_Gonzales_Garzo.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }

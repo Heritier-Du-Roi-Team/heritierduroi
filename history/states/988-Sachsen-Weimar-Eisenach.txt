@@ -1,0 +1,23 @@
+state={
+	id=988
+	name="STATE_988"
+	manpower = 601421
+	resources={
+		chromium = 3 # was: 4
+	}
+
+	state_category = city
+
+	history={
+		owner = THU
+		victory_points = { 425 3 }
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = THU
+	}
+
+	provinces={
+		425 3561 6582 11402 11468
+	}
+}

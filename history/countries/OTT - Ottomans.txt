@@ -57,7 +57,7 @@ set_stability = 0.39
 set_war_support = 0.46
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = paternal_autocrat
 	last_election = "1922.2.6"
 	election_frequency = 56
 	elections_allowed = no

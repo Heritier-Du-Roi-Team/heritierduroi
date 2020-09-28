@@ -1,4 +1,4 @@
-capital = 60
+capital = 988
 oob = "THU_1936"
 
 set_technology = {

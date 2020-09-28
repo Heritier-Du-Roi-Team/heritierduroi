@@ -1,0 +1,27 @@
+state= {
+	id=987
+	name="STATE_987"	#Holstein
+	manpower = 218335
+	state_category = town
+
+	history = {
+		victory_points = {
+			6389 10
+		}
+		owner = SCH
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			air_base = 1
+			6389 ={
+				naval_base = 7
+			}
+		}
+		add_core_of = SCH
+		
+	}
+
+	provinces= {
+		6389
+ 	}
+}

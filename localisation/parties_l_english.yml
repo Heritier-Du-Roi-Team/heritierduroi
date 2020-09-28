@@ -630,24 +630,6 @@
  OLD_paternal_autocrat_party_long:0 "Oldenburgische Militärclique"
  OLD_national_populism_party:0 "AdV-O"
  OLD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Oldenburg"
-
-# Kebab land
- OTT_communism_party:0 "TKP"
- OTT_communism_party_long:0 "Türkiye Komünist Partisi"
- OTT_radical_socialism_party:0 "OSF"
- OTT_radical_socialism_party_long:0 "Osmanlı Sosyalist Fırkası"
- OTT_social_democracy_party:0 "CHP"
- OTT_social_democracy_party_long:0 "Cumhuriyet Halk Partisi"
- OTT_liberalism_party:0 "HIF"
- OTT_liberalism_party_long:0 "Hürriyet ve İtilâf Fırkası"
- OTT_conservatism_party:0 "GT"
- OTT_conservatism_party_long:0 "Genç Türkler"
- OTT_authoritarian_democracy_party:0 "OSK"
- OTT_authoritarian_democracy_party_long:0 "Osmanlı Silahlı Kuvvetleri"
- OTT_paternal_autocrat_party:0 "SS"
- OTT_paternal_autocrat_party_long:0 "Sultan Sadıklar"
- OTT_national_populism_party:0 "IRP"
- OTT_national_populism_party_long:0 "İslami Restorasyon Partisi"
  
 # The Land of Boy Touchers
  PAP_communism_party:0 "PCI"
@@ -974,6 +956,24 @@
  YUG_national_populism_party_long:0 "Jugoslavenski Narodni Pokret"
 
 ### Middle East ###
+
+# Persia
+ PER_communism_party:0 "HTI"
+ PER_communism_party_long:0 "Ḥezb-e Tūde-ye Īrān"
+ PER_radical_socialism_party:0 "HTI"
+ PER_radical_socialism_party_long:0 "Ḥezb-e Tūde-ye Īrān"
+ PER_social_democracy_party:0 "DZT"
+ PER_social_democracy_party_long:0 "Demokratha-ye Zedd-e Taskili"
+ PER_liberalism_party:0 "FE"
+ PER_liberalism_party_long:0 "Ferqa'ye Ejtemā'īyūn-e 'āmmīyūn"
+ PER_conservatism_party:0 "HE"
+ PER_conservatism_party_long:0 "Ḥezb-e Eṣlāḥṭalabān"
+ PER_authoritarian_democracy_party:0 "Qājār"
+ PER_authoritarian_democracy_party_long:0 "Selsele-ye Qājār"
+ PER_paternal_autocrat_party:0 "Qājār"
+ PER_paternal_autocrat_party_long:0 "Selsele-ye Qājār"
+ PER_national_populism_party:0 "HET"
+ PER_national_populism_party_long:0 "Ḥezb-e Taraqqi"
  
 # Oman
  OMA_communism_party:0 "TAA"
@@ -992,6 +992,24 @@
  OMA_paternal_autocrat_party_long:0 "Al Busaidi dynasty"
  OMA_national_populism_party:0 "JIA"
  OMA_national_populism_party_long:0 "Jamaeat al'Iikhwan Almuslimin"
+
+# Kebab land
+ OTT_communism_party:0 "TKP"
+ OTT_communism_party_long:0 "Türkiye Komünist Partisi"
+ OTT_radical_socialism_party:0 "OSF"
+ OTT_radical_socialism_party_long:0 "Osmanlı Sosyalist Fırkası"
+ OTT_social_democracy_party:0 "CHP"
+ OTT_social_democracy_party_long:0 "Cumhuriyet Halk Partisi"
+ OTT_liberalism_party:0 "HIF"
+ OTT_liberalism_party_long:0 "Hürriyet ve İtilâf Fırkası"
+ OTT_conservatism_party:0 "GT"
+ OTT_conservatism_party_long:0 "Genç Türkler"
+ OTT_authoritarian_democracy_party:0 "OSK"
+ OTT_authoritarian_democracy_party_long:0 "Osmanlı Silahlı Kuvvetleri"
+ OTT_paternal_autocrat_party:0 "SS"
+ OTT_paternal_autocrat_party_long:0 "Sultan Sadıklar"
+ OTT_national_populism_party:0 "IRP"
+ OTT_national_populism_party_long:0 "İslami Restorasyon Partisi"
 
 # Yemen
  YEM_communism_party:0 "AAA"
