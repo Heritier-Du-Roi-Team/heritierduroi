@@ -1,0 +1,27 @@
+state={
+	id=991
+	name="STATE_991"
+	manpower = 403211
+	
+	
+	state_category = town
+	
+	resources={
+		steel=15 # was: 20 . Changed to 23 (from 15) due to Portugal Setup
+	}
+
+	history={
+		owner = SPR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			13503 5
+		}
+	}
+
+	provinces={
+		13503 
+	}
+}
