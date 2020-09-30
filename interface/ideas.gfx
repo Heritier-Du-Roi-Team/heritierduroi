@@ -103,8 +103,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_idea_SLO_Failing_Democracy"
-		texturefile = "gfx/interface/ideas/SLO_Failing_Democracy.tga"
+		name = "GFX_idea_SLO_Factionalism"
+		texturefile = "gfx/interface/ideas/SLO_Factionalism.tga"
 	}
 	
 	spriteType = {

@@ -14,14 +14,16 @@ ideas = {
 
 			removal_cost = -1
 
-			modifier = { #Will be Figured out Later
-			
+			modifier = { 
+			stability_factor = -0.15
+			war_support_factor = -0.25
+			political_power_factor = -0.30
 				
 			}
 			
 		}
-		SLO_Failing_Democracy = {
-			picture = SLO_Failing_Democracy
+		SLO_Factionalism = {
+			picture = SLO_Factionalism
 
 			allowed = {
 				always = yes
@@ -34,9 +36,9 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-				drift_defence_factor = -0.15
-				stability_factor = -0.15
-				war_support_factor = -0.10
+				planning_speed = -0.80
+				army_defence_factor = -0.2
+				army_attack_factor = -0.2
 			}
 		}
 	}

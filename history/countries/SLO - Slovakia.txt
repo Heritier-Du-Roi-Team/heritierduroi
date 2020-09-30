@@ -14,7 +14,7 @@ set_war_support = 0.16
 
 add_ideas = {
 	SLO_Large_Hungarian
-	SLO_Failing_Democracy
+	SLO_Factionalism
 }
 set_politics = {
 	ruling_party = conservatism
@@ -27,9 +27,9 @@ set_popularities = {
   radical_socialism = 2
   social_democracy = 4
   liberalism = 13
-  conservatism = 25
-  authoritarian_democracy = 6
-  paternal_autocrat = 19
+  conservatism = 38
+  authoritarian_democracy = 0
+  paternal_autocrat = 12
   national_populism = 18
 }
 create_country_leader = {
