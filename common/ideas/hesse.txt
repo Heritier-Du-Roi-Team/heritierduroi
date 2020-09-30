@@ -14,10 +14,26 @@ ideas = {
 
 			removal_cost = -1
 
-			modifier = { #Will be Figured out Later
+			modifier = { 
 			stability_factor = 0.10
 			drift_defence_factor = 0.50
 			
+			}
+		}
+		HES_Communist_Sentiment = {
+			picture = HES_Communist_Sentiment
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = { #i have no idea
+
+
+
 			}
 		}
 	}

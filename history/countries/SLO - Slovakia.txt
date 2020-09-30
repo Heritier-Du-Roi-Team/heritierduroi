@@ -13,7 +13,7 @@ set_stability = 0.79
 set_war_support = 0.16
 
 add_ideas = {
-	SLO_Fight_for_Independence
+	SLO_Large_Hungarian
 	SLO_Failing_Democracy
 }
 set_politics = {

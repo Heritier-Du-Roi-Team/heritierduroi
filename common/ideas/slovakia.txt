@@ -1,8 +1,8 @@
 ideas = {
 
 	country = {
-		SLO_Fight_for_Independence = {
-			picture = SLO_Fight_for_Independence
+		SLO_Large_Hungarian = {
+			picture = SLO_Large_Hungarian
 
 			allowed = {
 				always = yes
@@ -15,10 +15,10 @@ ideas = {
 			removal_cost = -1
 
 			modifier = { #Will be Figured out Later
-			surrender_limit	= 0.40
+			
 				
 			}
-			targeted_modifier = { tag = HUN defense_bonus_against = 0.1 }
+			
 		}
 		SLO_Failing_Democracy = {
 			picture = SLO_Failing_Democracy
