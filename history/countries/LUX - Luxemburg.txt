@@ -1,0 +1,95 @@
+﻿capital = 8
+
+oob = "LUX_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	tech_support = 1		
+	tech_engineers = 1
+	early_fighter = 1
+}
+set_war_support = 0.1
+set_stability = 0.8
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1934.6.3"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	conservatism = 42
+	social_democracy = 29
+	liberalism = 22
+	communism = 5
+	authoritarian_democracy = 2
+}
+
+create_country_leader = {
+	name = "Charles Marx"
+	desc = "POLITICS_CHARLES_MARX_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = communism_type
+}
+
+create_country_leader = {
+	name = "Gaston Diderich"
+	desc = "POLITICS_GASTON_DIBERICH_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+}
+
+create_country_leader = {
+	name = "Victor Bodson"
+	desc = "POLITICS_VICTOR_BODSON_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+}
+
+create_country_leader = {
+	name = "Marcel Cahen"
+	desc = "POLITICS_MARCEL_CAHEN_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = liberalism_type
+}
+
+create_country_leader = {
+	name = "Joseph Bech"
+	desc = "POLITICS_JOSEPH_BECH"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
+	name = "Grand Duchess Charlotte"
+	desc = "POLITICS_DUCHESS_CHARLOTTE_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Damian Kratzenberg"
+	desc = "POLITICS_DAMIAN_KRATZENBERG_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = national_populism_type
+}
+
+#create_country_leader = {
+#	name = "Joseph Bech"
+#	desc = "POLITICS_JOSEPH_BECH_DESC"
+#	picture = "GFX_portrait_luxembourg_joseph_bech"
+#	expire = "1965.1.1"
+#	ideology = conservatism
+#	traits = {
+#		#
+#	}
+#}

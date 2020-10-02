@@ -577,6 +577,24 @@
  LAT_national_populism_party:0 "NA"
  LAT_national_populism_party_long:0 "Nacionālā apvienība" 
 
+# Luxembourg
+ LUX_communism_party:0 "KPL/PCL"
+ LUX_communism_party_long:0 "Kommunistesch Partei vu Lëtzebuerg/Parti Communiste Luxembourgeois/Kommunistische Partei Luxemburgs"
+ LUX_radical_socialism_party:0 "RP/PR"
+ LUX_radical_socialism_party_long:0 "Radikal Partei/Parti Radical/Radikale Partei"
+ LUX_social_democracy_party:0 "LSA/POSL"
+ LUX_social_democracy_party_long:0 "Lëtzebuerger Sozialistesch Aarbechterpartei/Parti Ouvrier Socialiste Luxembourgeois/Luxemburger Sozialistische Arbeiterpartei"
+ LUX_liberalism_party:0 "RLP/PRL"
+ LUX_liberalism_party_long:0 "Radikal-Liberal Partei/Parti Radical Libéral"
+ LUX_conservatism_party:0 "RP/PD"
+ LUX_conservatism_party_long:0 "Rietspartei/Parti de la Droite/Rechtspartei"
+ LUX_authoritarian_democracy_party:0 "Nassau-Weilburg"
+ LUX_authoritarian_democracy_party_long:0 "Haus vun Nassau-Weilburg/Maison de Nassau-Weilburg/Haus von Nassau-Weilburg"
+ LUX_paternal_autocrat_party:0 "LA"
+ LUX_paternal_autocrat_party_long:0 "Lëtzebuerger Arméi"
+ LUX_national_populism_party:0 "VB"
+ LUX_national_populism_party_long:0 "Volksdeutsche Bewegung" 
+
 # Mecklenburg
  MEK_communism_party:0 "KPD-M"
  MEK_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Mecklenburg-Strelitz"
