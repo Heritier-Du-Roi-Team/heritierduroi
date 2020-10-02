@@ -1,16 +1,3 @@
-
-################# ACTIVE ####################
-
-#papal influence
-#premature unity
-#lack of motors
-
-############### PASSIVE ###################
-
-#
-
-
-
 ideas = {
 	country = {
 		victor_emmanuel = {

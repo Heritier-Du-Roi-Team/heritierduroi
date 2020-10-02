@@ -4743,6 +4743,6 @@ COR = {
 		Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli
 	
-	 }
+	}
 	callsigns = { Buzzard Dusty Falcon Hawk Hammer Viper Banshee "The Baron" Lightning Duce Raven "Two Shot" Rosso }
 }

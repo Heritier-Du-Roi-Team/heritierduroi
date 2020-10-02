@@ -1,15 +1,3 @@
-
-################# ACTIVE ####################
-
-#brutal oppression
-#totalist mobs
-#famine
-
-############### PASSIVE ###################
-
-#
-
-
 ideas = {
 	country = {
 		militarized_schools = {

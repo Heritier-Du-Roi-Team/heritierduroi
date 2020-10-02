@@ -1,16 +1,3 @@
-
-
-################# ACTIVE ####################
-
-#puppet emperor
-#brilliant education
-#public violence
-
-############### PASSIVE ###################
-
-#
-
-
 ideas = {
 
 	country = {

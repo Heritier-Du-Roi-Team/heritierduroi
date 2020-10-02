@@ -1,22 +1,3 @@
-################# ACTIVE ####################
-
-#fragile coalition (- stability /+ ideas cost)
-#rule brittania (+ defence on core terriorty /+ surrender limit)
-#brittania rules the waves (+ navy stuff)
-#George V/Edward VIII (+ stability)
-#sore loser (+ war support)
-#powerful unions (- stability / + socialism influence / - production cap)
-
-############### PASSIVE ###################
-
-#political chaos
-#weak unions
-#crushed unions
-#imperial legacy
-#
-
-#############################################################
-
 ideas = {
 
 	country = {

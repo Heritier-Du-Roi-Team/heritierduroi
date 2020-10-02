@@ -27,7 +27,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Horacio Vásquez"
 	desc = "POLITICS_HORACIO_VASQUEZ_DESC"
-	picture = ""
+	picture = "Portrait_Horacio_Vásquez.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -35,7 +35,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Rafael Estrella Ureña"
 	desc = "POLITICS_RAFAEL_ESTRELLA_URENA_DESC"
-	picture = ""
+	picture = "Portrait_Rafael_Estrella_Ureña.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -43,7 +43,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Joaquin Balaguer"
 	desc = "POLITICS_JOAQUIN_BALAGUER_DESC"
-	picture = ""
+	picture = "Portrait_Joaquín_Balaguer.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }

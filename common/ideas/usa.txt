@@ -1,13 +1,3 @@
-################# ACTIVE ####################
-
-#racial divisions (- conscription/stability/national unity)
-#welfare state
-#military-industrial complex
-
-############### PASSIVE ###################
-
-#manifest destiny
-#
 ideas = {
 
 	country = {

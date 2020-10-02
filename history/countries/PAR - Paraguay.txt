@@ -32,7 +32,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Lucas Ibarrola"
 	desc = "POLITICS_LUCAS_IBARROLA_DESC"
-	picture = ""
+	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
 	expire = "1965.1.1"
 	ideology = communism_type
 }
@@ -40,7 +40,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Rufino Recalde Milesi"
 	desc = "POLITICS_RUFINO_RECALDE_MILESI_DESC"
-	picture = ""
+	picture = "Portrait_Rufino_Recalde_Milesi.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -56,7 +56,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Juan Manuel Frutos"
 	desc = "POLITICS_EUSEBIO_AYALA_DESC"
-	picture = ""
+	picture = "Portrait_Juan_Manuel_Frutos.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -80,7 +80,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Higinio Morínigo"
 	desc = "POLITICS_HIGINIO_MORINIGO_DESC"
-	picture = ""
+	picture = "Portrait_Higinio_Morinigo.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }
