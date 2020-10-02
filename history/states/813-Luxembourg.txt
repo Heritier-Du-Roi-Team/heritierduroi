@@ -4,7 +4,7 @@ state={
 	name="STATE_813"
 
 	history={
-		owner = FRA
+		owner = LUX
 		victory_points = {
 			6583 5 
 		}
@@ -12,7 +12,6 @@ state={
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_claim_by = FRA
 		add_core_of = LUX
 	}
 
