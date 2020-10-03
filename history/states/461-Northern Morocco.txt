@@ -12,7 +12,6 @@ state={
 
 	history={
 		owner = MOR
-		add_claim_by = FRA
 		add_core_of = MOR
 		victory_points = {
 			7069 10
