@@ -18,16 +18,12 @@ state={
 				coastal_bunker = 1
 				bunker = 1
 			}
-			4205 = {
-				naval_base = 2
-				coastal_bunker = 1
-				bunker = 1
-			}
+		
 		}
 	}
 
 	provinces={
-		4205 10000
+		 10000
 	}
 	manpower=385000
 	state_category=large_town

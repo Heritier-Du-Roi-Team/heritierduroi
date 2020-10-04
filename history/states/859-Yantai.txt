@@ -11,10 +11,15 @@ state={
 			industrial_complex = 1
 			air_base = 3
     }
+		4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+			}
 	}
 
 	provinces={
-		1104 1184 1200 4186 7105 10018
+		1104 1184 1200 4186 7105 10018 4205
 	}
 	manpower=905320
 	state_category=town
