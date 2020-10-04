@@ -84,7 +84,7 @@ set_popularities = {
 create_country_leader = {
 	name = "André Laurendeau"
 	desc = "POLIITCS_ANDRE_LAURENDEAU_DESC"
-	picture = ""
+	picture = "Portrait_André_Laurendeau.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }
@@ -92,7 +92,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Arthur Meighen"
 	desc = "POLITICS_ARTHUR_MEIGHEN_DESC"
-	picture = ""
+	picture = "Portrait_Arthur_Meighen.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
@@ -103,15 +103,12 @@ create_country_leader = {
 	picture = "gfx/leaders/ENG/Portrait_England_Edward_VIII.dds"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "R. B. Bennett"
 	desc = "POLITICS_RB_BENNETT_DESC"
-	picture = ""
+	picture = "Portrait_R._B._Bennett.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -122,26 +119,20 @@ create_country_leader = {
 	picture = "Portrait_Mackenzie_King.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "J. S. Woodsworth"
 	desc = "POLITICS_JS_WOODSWORTH_DESC"
-	picture = ""
+	picture = "Portrait_J._S._Woodsworth.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Humphrey Mitchell"
 	desc = "POLITICS_HUMPHREY_MITCHELL_DESC"
-	picture = ""
+	picture = "Portrait_Humphrey_Mitchell.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -149,12 +140,9 @@ create_country_leader = {
 create_country_leader = {
 	name = "Tim Buck"
 	desc = "POLITICS_TIM_BUCK_DESC"
-	picture = ""
+	picture = "Portrait_Tim_Buck.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
-	traits = {
-		#
-	}
 }
 
 set_convoys = 100

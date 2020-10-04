@@ -41,3 +41,11 @@ create_country_leader = {
 	picture = "Portrait_Georg-August_Zinn.tga"
 	ideology = social_democracy_type
 }
+
+create_country_leader = {
+	name = "Georg Donatus"
+	desc = "POLITICS_GEORG_DONATUS_DESC"
+	picture = "Portrait_Georg_Donatus.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+}
