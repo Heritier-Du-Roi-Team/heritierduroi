@@ -86,11 +86,13 @@ form_germany_category = {
 			custom_trigger_tooltip = {
 				tooltip = form_country_hessen_required_states_tt
 				controls_state = 55
+				controls_state = 983
 			}
 			# Thurgien
 			custom_trigger_tooltip = {
 				tooltip = form_country_thurgien_required_states_tt
 				controls_state = 60
+				controls_state = 988
 			}
 			# Saxony
 			custom_trigger_tooltip = {
@@ -196,6 +198,7 @@ form_germany_category = {
 				# Schleswig-Holstein
 				816 = { add_core_of = ROOT }
 				58 = { add_core_of = ROOT }
+				987 = {add_core_of = ROOT}
 				# Oldenburg
 				56 = { add_core_of = ROOT }
 				# Hanover
@@ -219,8 +222,10 @@ form_germany_category = {
 				50 = { add_core_of = ROOT }
 				# Hessen
 				55 = { add_core_of = ROOT }
+				983 = {add_core_of = ROOT}
 				# Thurgien
 				60 = { add_core_of = ROOT }
+				988 = { add_core_of = ROOT }
 				# Saxony
 				65 = { add_core_of = ROOT }
 				# Bavaria
@@ -247,6 +252,14 @@ form_germany_category = {
 				830 = { add_claim_by = ROOT }
 				74 = { add_claim_by = ROOT }
 				831 = { add_claim_by = ROOT }
+				# Austria
+				4 = { add_claim_by = ROOT }
+				828 = { add_claim_by = ROOT }
+				152 = { add_claim_by = ROOT }
+				153 = { add_claim_by = ROOT }
+				827 = { add_claim_by = ROOT }
+				39 = { add_claim_by = ROOT }
+				804 = { add_claim_by = ROOT }
 			}
 		}
 

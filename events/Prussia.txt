@@ -15,13 +15,37 @@ country_event = { #Death of Wilhelm
 	option = {
 		name = Prussia.1.a
 		kill_ideology_leader = authoritarian_democracy_type
-			
+		kill_ideology_leader = paternal_autocrat_type
+		kill_ideology_leader = conservatism_type
+		kill_ideology_leader = liberalism_type
+				
 			create_country_leader = {
 				name = "Wilhem VII"
 				desc = ""
 				picture = ""
 				expire = "1965.1.1"
 				ideology = authoritarian_democracy_type
+			}
+			create_country_leader = {
+				name = "Wilhem VII"
+				desc = ""
+				picture = ""
+				expire = "1965.1.1"
+				ideology = paternal_autocrat_type
+			}
+			create_country_leader = {
+				name = "Wilhem VII"
+				desc = ""
+				picture = ""
+				expire = "1965.1.1"
+				ideology = conservatism_type
+			}
+			create_country_leader = {
+				name = "Wilhem VII"
+				desc = ""
+				picture = ""
+				expire = "1965.1.1"
+				ideology = liberalism_type
 			}
 }
 }
