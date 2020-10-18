@@ -24,10 +24,7 @@ focus_tree = {
 		mutually_exclusive = { focus = SPR_Abandonista }
 
 		completion_reward = {
-			set_victory_points = {
-				province = 3954
-				value = -10
-			}
+			
 		}
 	}
 
