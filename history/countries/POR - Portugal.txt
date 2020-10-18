@@ -78,7 +78,7 @@ set_war_support = 0.46
 create_country_leader = {
 	name = "Bento António Gonçalves"
 	desc = "POLITICS_BENTO_GONCALVES_DESC"
-	picture = ""
+	picture = "Portrait_Bento_Antonio_Goncalves.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
 }
@@ -86,7 +86,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Amílcar Ramada Curto"
 	desc = "POLITICS_AMILCAR_CURTO_DESC"
-	picture = ""
+	picture = "Portrait_Amilcar_Ramada_Curto.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -94,7 +94,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "António Resende"
 	desc = "POLITICS_ANTONIO_RESENDS_DESC"
-	picture = ""
+	picture = "Portrait_Antonio_Resende.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 }
@@ -102,7 +102,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Afonso Costa"
 	desc = "POLITICS_AFONSO_COSTA_DESC"
-	picture = ""
+	picture = "Portrait_Afonso_Costa.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -110,7 +110,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Alberto Pinheiro Torres"
 	desc = "POLITICS_ALBERTO_TORRES_DESC"
-	picture = ""
+	picture = "Portrait_Alberto_Pinheiro_Torres.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -118,7 +118,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Manuel II"
 	desc = "POLITICS_MANUEL_II_DESC"
-	picture = ""
+	picture = "Portrait_Manuel_II.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -126,7 +126,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "António de Oliveira Salazar"
 	desc = "POLITICS_ANTONIO_SALAZAR_DESC"
-	picture = "Portrait_Antonio_Salazar.tga"
+	picture = "Portrait_António_Oliveira_Salazar.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
@@ -134,7 +134,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Francisco Rolão Preto"
 	desc = "POLITICS_FRANCISCO_PRETO_DESC"
-	picture = ""
+	picture = "Portrait_Francisco_Rolao_Preto.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }

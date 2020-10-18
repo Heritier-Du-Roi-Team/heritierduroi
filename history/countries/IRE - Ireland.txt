@@ -27,13 +27,6 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Éamon de Valera"
-	desc = "POLITICS_EAMON_VALERA_DESC"
-	picture = "Portrait_Ireland_Eamon_de_Valera.dds"
-	expire = "1965.1.1"
-	ideology = conservatism_type
-}
-create_country_leader = {
 	name = "James Larkin"
 	desc = "POLITICS_JAMES_LARKIN_DESC"
 	picture = "Portrait_Ireland_James_Larkin.dds"
@@ -43,35 +36,51 @@ create_country_leader = {
 create_country_leader = {
 	name = "Michael O'Flanagan"
 	desc = "POLITICS_MICHAEL_O_FLANAGAN_DESC"
-	picture = ""
+	picture = "Portrait_Michael_O'Flanagan.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
 create_country_leader = {
 	name = "William X. O'Brien"
 	desc = "POLITICS_WILLIAM_X_O_BRIEN_DESC"
-	picture = ""
+	picture = "Portrait_William_X_O'Brien.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 }
 create_country_leader = {
 	name = "W. T. Cosgrave"
 	desc = "POLITICS_W_COSGRAVE_DESC"
-	picture = ""
+	picture = "Portrait_W_T_Cosgrave.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
 create_country_leader = {
+	name = "Éamon de Valera"
+	desc = "POLITICS_EAMON_VALERA_DESC"
+	picture = "Portrait_Ireland_Eamon_de_Valera.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+}
+
+create_country_leader = {
 	name = "Michael Collins"
 	desc = "POLITICS_MICHAEL_COLLINS_DESC"
-	picture = ""
+	picture = "Portrait_Michael_Collins.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
+}
+
+create_country_leader = {
+	name = "Eoin O'Duffy"
+	desc = "POLITICS_EOIN_DUFFY_DESC"
+	picture = "Portrait_Ireland_Eoin_o_Duffy.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_type
 }
 create_country_leader = {
 	name = "Ernest Blythe"
 	desc = "POLITICS_ERNEST_BLYTHE_DESC"
-	picture = ""
+	picture = "Portrait_Ernest_Blythe.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }
@@ -88,12 +97,12 @@ create_field_marshal = {
 }
 
 create_corps_commander = {
-	name = "Michael Costello"
-	portrait_path = "Portrait_Ireland_Michael_Costello.dds"
+	name = "Robert Blair Mayne"
+	portrait_path = "Portrait_Robert_Blair_Mayne.tga"
 	traits = {  }
-	skill = 2
+	skill = 3
 	attack_skill = 2
-	defense_skill = 2
+	defense_skill = 3
 	planning_skill = 1
 	logistics_skill = 2
 }

@@ -111,7 +111,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Joseph Lyons"
 	desc = "POLITICS_JOSEPH_LYONS_DESC"
-	picture = ""
+	picture = "Portrait_Joseph_Lyons.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }

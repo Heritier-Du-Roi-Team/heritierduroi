@@ -501,25 +501,31 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_small_pol_piechart_frame"
 		textureFile = "gfx//interface//small_pol_piechart_frame.dds"
-		alwaystransparent = yes
-	}
-
+		alwaystransparent = yes			
+	}	
+	
 	spriteType = {
 		name = "GFX_small_pol_piechart_overlay"
 		textureFile = "gfx//interface//small_pol_piechart_overlay.dds"
-		alwaystransparent = yes
+		alwaystransparent = yes			
+	}	
+
+	spriteType = {
+		name = "GFX_pol_piechart_overlay_110x110"
+		textureFile = "gfx//interface//pol_piechart_overlay_110x110.dds"
+		alwaystransparent = yes			
 	}
 
 	spriteType = {
 		name = "GFX_pol_piechart_overlay_63x63"
 		textureFile = "gfx//interface//pol_piechart_overlay_63x63.dds"
-		alwaystransparent = yes
+		alwaystransparent = yes			
 	}
-
+	
 	spriteType = {
 		name = "GFX_pol_piechart_overlay"
 		textureFile = "gfx//interface//pol_piechart_overlay.dds"
-		alwaystransparent = yes
+		alwaystransparent = yes			
 	}
 
 	spriteType = {
@@ -592,7 +598,7 @@ spriteTypes = {
 
 	pieChartType = {
 		name = "GFX_political_chart"
-		size = 27
+		size = 48
 	}
 
 	pieChartType = {
