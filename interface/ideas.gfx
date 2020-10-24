@@ -9,6 +9,12 @@ spriteTypes = {
 	}
 	
 	### new tfv nat spirit icons
+
+	spriteType = {
+		name = "GFX_idea_EGY_Iron_Guard"
+		texturefile = "gfx/interface/ideas/EGY_Iron_Guard.tga"
+	}
+
 	spriteType = {
 		name = "GFX_idea_SLO_Large_Hungarian"
 		texturefile = "gfx/interface/ideas/SLO_Large_Hungarian.tga"

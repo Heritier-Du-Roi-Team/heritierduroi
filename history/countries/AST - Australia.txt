@@ -87,7 +87,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Richard Dixon"
 	desc = "POLITICS_RICHARD_DIXON_DESC"
-	picture = ""
+	picture = "Portrait_Richard_Dixon.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
 }
@@ -95,7 +95,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Richard Dixon"
 	desc = "POLITICS_RICHARD_DIXON_DESC"
-	picture = ""
+	picture = "Portrait_Richard_Dixon.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -103,7 +103,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "James Scullin"
 	desc = "POLITICS_JAMES_SCULLIN_DESC"
-	picture = ""
+	picture = "Portrait_James_Scullin.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 }
@@ -119,7 +119,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Earle Page"
 	desc = "POLITICS_EARLE_PAGE_DESC"
-	picture = ""
+	picture = "Portrait_Earle_Page.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -127,7 +127,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Alexander Hore-Ruthven"
 	desc = "POLITICS_ALEXANDER_HORE-RUTHVEN_DESC"
-	picture = ""
+	picture = "Portrait_Alexander_Hore-Ruthven.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -135,7 +135,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Eric Campbell"
 	desc = "POLITICS_ERIC_CAMPBELL_DESC"
-	picture = ""
+	picture = "Portrait_Eric_Campbell.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }
@@ -143,7 +143,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Percy Stephensen"
 	desc = "POLITICS_PERCY_STEPHENSEN_DESC"
-	picture = ""
+	picture = "Portrait_Percy_Stephensen.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }
