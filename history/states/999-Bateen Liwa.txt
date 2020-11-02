@@ -1,0 +1,22 @@
+state={
+	id=999
+	name="STATE_999"
+	manpower = 406
+
+	state_category = wasteland
+
+	impassable = yes
+
+	history={
+		add_core_of = UAE
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		2048 13550 13551 13552 13553 13554
+	}
+}

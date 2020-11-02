@@ -2,31 +2,21 @@
 state={
 	id=294
 	name="STATE_294"
-	manpower = 369000
+	manpower = 1021
 	
 	state_category = rural
-	
-	resources={
-		oil=2 # was: 2
-	}
+
+	impassable = yes
 
 	history={
 		owner = OMA
 		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 1 
-			10760 = {
-				naval_base = 3
-			}
-		}
-		victory_points = {
-			10760 3 
+			infrastructure = 1
 		}
 		add_core_of = OMA
 	}
 
 	provinces={
-		1947 2018 2059 2103 4993 5049 8002 8020 10760 13237
+		2018 2059 2103 5049 8002 13530 13531 13532 13533 13534 13535 13536 13537
 	}
 }

@@ -1139,23 +1139,23 @@
  MEX_national_populism_party:0 "-"
  MEX_national_populism_party_long:0 "-"
 
-# United States
- USA_communism_party:0 "ACP"
- USA_communism_party_long:0 "American Communist Party"
- USA_radical_socialism_party:0 "CPP"
- USA_radical_socialism_party_long:0 "Christian People's Party"
+# Obesity
+ USA_communism_party:0 "CPUSA"
+ USA_communism_party_long:0 "Communist Party of the United States of America"
+ USA_radical_socialism_party:0 "SPUSA"
+ USA_radical_socialism_party_long:0 "Socialist Party of the United States of America"
  USA_social_democracy_party:0 "PP"
  USA_social_democracy_party_long:0 "Progressive Party"
  USA_liberalism_party:0 "GOP/RP"
  USA_liberalism_party_long:0 "Grand Old Party/Republican Party"
  USA_conservatism_party:0 "DP"
- USA_conservatism_party_long:0 "Democratic Party"
- USA_authoritarian_democracy_party:0 "SRDP"
- USA_authoritarian_democracy_party_long:0 "State's Rights Democratic Party"
+ USA_conservatism_party_long:0 "Democratic Party - Libertarian"
+ USA_authoritarian_democracy_party:0 "DP"
+ USA_authoritarian_democracy_party_long:0 "Democratic Party - Authoritarian"
  USA_paternal_autocrat_party:0 "TA"
  USA_paternal_autocrat_party_long:0 "Technocratic Alliance"
- USA_national_populism_party:0 "ANA"
- USA_national_populism_party_long:0 "American Nationalist Alliance"
+ USA_national_populism_party:0 "AFP"
+ USA_national_populism_party_long:0 "America First Party"
 
 ### Oceania ###
 

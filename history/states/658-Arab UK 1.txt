@@ -14,11 +14,11 @@ state={
 		add_core_of = UAE
 		owner = ENG
 		victory_points = {
-			7960 1
+			13542 1
 		}
 		buildings = {
 			infrastructure = 2
-			7960 = {
+			13542 = {
 				naval_base = 3
 			}
 		}
@@ -26,6 +26,6 @@ state={
 	}
 
 	provinces={
-		2048 7960 8108 10904 13241
+		8108 10904 13541 13542 13543 13544 13545 13546 13547
 	}
 }

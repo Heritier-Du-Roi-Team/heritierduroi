@@ -1,0 +1,19 @@
+state={
+	id=997
+	name="STATE_997"
+	manpower = 29110
+	
+	state_category = town
+
+	history={
+		owner = OMA
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = OMA
+	}
+
+	provinces={
+		13237
+	}
+}

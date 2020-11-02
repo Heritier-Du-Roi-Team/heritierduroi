@@ -1,0 +1,26 @@
+state={
+	id=996
+	name="STATE_996"
+	manpower = 87310
+	
+	state_category = rural
+	
+	resources={
+		oil=2 # was: 2
+	}
+
+	history={
+		owner = OMA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10760 1
+		}
+		add_core_of = OMA
+	}
+
+	provinces={
+		1947 4993 8020 10760 13522 13523 13524
+	}
+}

@@ -150,72 +150,6 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Theodore Roosevelt Jr."
-	desc = "POLITICS_TEDDY_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Teddy_Roosevelt.tga"
-	expire = "1965.1.1"
-	ideology = liberalism_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Hiram Johnson"
-	desc = "POLITICS_HIRAM_W_JOHNSON_DESC"
-	picture = "Portrait_USA_Hiram_Johnson.tga"
-	expire = "1936.11.3"
-	ideology = liberalism_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Richard Russell Jr."
-	desc = "POLITICS_RICHARD_RUSSELL_DESC"
-	picture = "Portrait_USA_Richard_Russell.tga"
-	expire = "1965.1.1"
-	ideology = conservatism_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Huey Long"
-	desc = "POLITICS_HUEY_LONG_DESC"
-	picture = "Portrait_USA_Huey_Long.tga"
-	expire = "1965.1.1"
-	ideology = social_democracy_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Strom Thurmond"
-	desc = "POLITICS_STROM_THURMOND_DESC"
-	picture = "Portrait_USA_Strom_Thurmond.tga"
-	expire = "1965.1.1"
-	ideology = authoritarian_democracy_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Harry Byrd"
-	desc = "POLITICS_HARRY_BYRD_DESC"
-	picture = "Portrait_USA_Harry_Byrd.tga"
-	expire = "1965.1.1"
-	ideology = authoritarian_democracy_type
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "William Z. Foster"
 	desc = "POLITICS_WILLIAM_FOSTER_DESC"
 	picture = "Portrait_USA_William_Foster.tga"
@@ -238,6 +172,81 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Norman Thomas"
+	desc = "POLITICS_NORMAN_THOMAS_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = radical_socialism_type
+}
+
+create_country_leader = {
+	name = "Huey Long"
+	desc = "POLITICS_HUEY_LONG_DESC"
+	picture = "Portrait_USA_Huey_Long.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Theodore Roosevelt Jr."
+	desc = "POLITICS_TEDDY_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Teddy_Roosevelt.tga"
+	expire = "1965.1.1"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hiram Johnson"
+	desc = "POLITICS_HIRAM_W_JOHNSON_DESC"
+	picture = "Portrait_USA_Hiram_Johnson.tga"
+	expire = "1936.11.3"
+	ideology = liberalism_type
+	traits = {
+		#
+	}
+}
+
+
+create_country_leader = {
+	name = "Harry Byrd"
+	desc = "POLITICS_HARRY_BYRD_DESC"
+	picture = "Portrait_USA_Harry_Byrd.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Richard Russell Jr."
+	desc = "POLITICS_RICHARD_RUSSELL_DESC"
+	picture = "Portrait_USA_Richard_Russell.tga"
+	expire = "1965.1.1"
+	ideology = conservatism_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Strom Thurmond"
+	desc = "POLITICS_STROM_THURMOND_DESC"
+	picture = "Portrait_USA_Strom_Thurmond.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democracy_type
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Howard Scott"
 	desc = "POLITICS_HOWARD_SCOTT_DESC"
 	picture = "Portrait_USA_Howard_Scott.tga"
@@ -253,7 +262,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_PELLEY_DESC"
 	picture = "Portrait_USA_William_Pelley.tga"
 	expire = "1965.1.1"
-	ideology = radical_socialism_type
+	ideology = national_populism_type
 	traits = {
 		#
 	}

@@ -25,15 +25,15 @@ set_popularities = {
 create_country_leader = {
 	name = "Abdossamad Kambakhsh"
 	desc = "POLITICS_ABDOSSAMAD_KAMBAKHSH_DESC"
-	picture = ""
+	picture = "Portrait_Abdossamad_Kambakhsh.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
 }
 
 create_country_leader = {
-	name = "Utah Eskandari"
-	desc = "POLITICS_UTAH_ESKANDARI_DESC"
-	picture = ""
+	name = "Iraj Eskandari"
+	desc = "POLITICS_IRAJ_ESKANDARI_DESC"
+	picture = "Portrait_Iraj_Eskandari.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -41,7 +41,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Hassan Taqizadeh"
 	desc = "POLITICS_HASSAN_TAQIZADEH_DESC"
-	picture = ""
+	picture = "Portrait_Hassan_Taqizadeh.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 }
@@ -49,7 +49,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Haydar Khan Amo-oghli"
 	desc = "POLITICS_HAYDAR_KHAN_DESC"
-	picture = ""
+	picture = "Portrait_Haydar_Khan_Amo-oghli.tga"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -57,7 +57,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Qavan os-Saltaneh"
 	desc = "POLITICS_QAVAN_SALTANEH_DESC"
-	picture = ""
+	picture = "Portrait_Qavam_os-Saltaneh.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -65,7 +65,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Mohammad Hassan Mirza"
 	desc = "POLITICS_MOHAMMAD_HASSAN_MIRZA"
-	picture = ""
+	picture = "Portrait_Mohammad_Hassan_Mirza.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Mohammad Hassan Mirza"
 	desc = "POLITICS_MOHAMMAD_HASSAN_MIRZA"
-	picture = ""
+	picture = "Portrait_Mohammad_Hassan_Mirza.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_type
 }

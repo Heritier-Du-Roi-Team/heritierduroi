@@ -1,0 +1,24 @@
+state={
+	id=998
+	name="STATE_998"
+	manpower = 38106
+	resources={
+		oil=2
+	}
+
+	state_category = rural
+
+
+	history={
+		add_core_of = UAE
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		7960 13241 13547 13548 13549
+	}
+}

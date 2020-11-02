@@ -1,0 +1,29 @@
+state={
+	id=1000
+	name="STATE_1000"
+	manpower = 743120
+
+	state_category = town
+
+	history={
+		owner = ENG
+		victory_points = {
+			5074 1
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			5074 = {
+				naval_base = 3
+			}
+			8000 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = YEM
+	}
+
+	provinces={
+		5074 8000 13555 13556 13557 13558 13559 13560 13561 13562 13563 13564
+	}
+}

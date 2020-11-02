@@ -1,0 +1,31 @@
+state={
+	id=993
+	name="STATE_993"
+	manpower = 208310
+	
+	state_category = town
+	
+	resources={
+		oil=3
+	}
+
+	history={
+		owner = OMA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1 
+			13509 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			13509 3 
+		}
+		add_core_of = OMA
+	}
+
+	provinces={
+		13508 13509 13510 13511 13512 13513 13514 13515 13538 13539 13540
+	}
+}
