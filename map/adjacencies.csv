@@ -6,15 +6,15 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 8857;2284;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama
 2729;2408;sea;6389;-1;-1;-1;-1;KIEL_CANAL;Kiel
 5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
-299;211;sea;2282;-1;-1;-1;-1;;Småland-Öland
-6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
+299;211;sea;2282;-1;-1;-1;-1;;Smï¿½land-ï¿½land
+6345;6287;sea;2382;-1;-1;-1;-1;;Skï¿½ne-Sjaelland
 3260;3325;;2408;-1;-1;-1;-1;;Sjaelland-Fyn
 3260;3374;;2408;-1;-1;2973;1625;;Sjaelland-SdFyn
 3277;3325;;2408;-1;-1;-1;-1;;Fyn-Jylland
 11251;3325;;2408;2956;1628;2960;1629;;Fyn-SdrJylland
-83;185;sea;1885;-1;-1;-1;-1;;Estonia-Ösel
-185;6201;sea;1885;-1;-1;-1;-1;;Ösel-Dagö
-83;6201;sea;1660;-1;-1;-1;-1;;Dagö-Estonia
+83;185;sea;1885;-1;-1;-1;-1;;Estonia-ï¿½sel
+185;6201;sea;1885;-1;-1;-1;-1;;ï¿½sel-Dagï¿½
+83;6201;sea;1660;-1;-1;-1;-1;;Dagï¿½-Estonia
 6891;3838;sea;5579;-1;-1;-1;-1;;Sardinia-Corsica
 9990;4159;sea;5681;-1;-1;-1;-1;;Calabria-Sicily
 9793;9845;sea;8871;-1;-1;-1;-1;;Menorca-Mallorca
@@ -58,7 +58,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4252;1085;sea;5868;-1;-1;-1;-1;;Santa Isabel-Malaita
 1085;10291;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
 1742;7868;sea;2510;-1;-1;-1;-1;;Sakhalin-Siberia
-12661;7884;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
+13627;7884;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
 11985;1025;sea;7932;-1;-1;-1;-1;;Japan-Kyushu
 4094;7212;sea;8791;-1;-1;-1;-1;;Shikoku-Chugoku
 9965;7072;sea;8791;-1;-1;-1;-1;;Shikoku-Kansai
@@ -73,7 +73,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1123;7115;sea;8318;-1;-1;-1;-1;;Okinawa 2
 3995;13024;sea;2855;-1;-1;-1;-1;;Saipan-Tinian
 1135;13090;sea;6471;-1;-1;-1;-1;;Amlia-Unalaska
-13090;10694;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
+13090;13639;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
+13640;13641;sea;8538;-1;-1;-1;-1;;Aleneva-Port Lions
 10048;7195;sea;8384;-1;-1;-1;-1;;Hawaii-Maui
 7195;4180;sea;8410;-1;-1;-1;-1;;Maui-Honolulu
 4180;7112;sea;5339;-1;-1;-1;-1;;Honolulu-Kauai
@@ -129,9 +130,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13433;13432;sea;2871;-1;-1;-1;-1;;Channel Islands
 13433;6449;sea;2871;-1;-1;-1;-1;;Channel Islands to Normandy
 849;9887;sea;7678;-1;-1;-1;-1;;Dardanelles
+13599;13600;sea;2691;-1;-1;-1;-1;;Bahrain-Qatar
+13599;12702;sea;2691;-1;-1;-1;-1;;Bahrain-Dammam
+13544;13543;sea;2666;-1;-1;-1;-1;;Abu Al Abyad-Tarif
+13513;13514;sea;2716;-1;-1;-1;-1;;Ghalat-Masirah
 5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
 5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
-2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
+2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;ï¿½resund
 5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
 10825;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
 10825;8029;impassable;-1;-1;-1;-1;-1;;Himalayas

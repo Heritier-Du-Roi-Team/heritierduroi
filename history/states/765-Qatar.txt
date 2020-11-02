@@ -2,8 +2,8 @@
 state={
 	id=765
 	name="STATE_765"
-	manpower = 51600
-	state_category = pastoral
+	manpower = 28410
+	state_category = rural
 
 	history={
 		add_core_of = QAT
@@ -20,6 +20,6 @@ state={
 	}
 
 	provinces={
-		8051
+		8051 13600 13601
 	}
 }

@@ -1,0 +1,21 @@
+state={
+	id=1003
+	name="STATE_1003"
+	manpower = 63210
+	state_category = town
+
+	history={
+		add_core_of = QAT
+		owner = ENG
+		victory_points = {
+			8051 1
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		13599
+	}
+}

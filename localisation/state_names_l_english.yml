@@ -218,6 +218,12 @@
  STATE_1000:0 "Aden"
  STATE_1001:0 "Zamakh"
  STATE_1002:0 "Ma'Rib"
+ STATE_1003:0 "Bahrain"
+ STATE_1004:0 "Glacier Bay"
+ STATE_1005:0 "Kluane"
+ STATE_1006:0 "Anchorage"
+ STATE_1007:0 "Upper Alaska"
+ STATE_1008:0 "Aleutian Islands"
 
 
  STATE_1:0 "Corse"
@@ -675,7 +681,7 @@
  STATE_460:0 "Constantin"
  STATE_461:0 "Aldaar Albayda'"
  STATE_462:0 "Marrakish"
- STATE_463:0 "Alaska"
+ STATE_463:1 "Inner Alaska"
  STATE_464:0 "Nova Scotia"
  STATE_465:0 "New Brunswick"
  STATE_466:0 "Quebec"

@@ -1,0 +1,27 @@
+state={
+	id=1006
+	name="STATE_1006"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			13622 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = USA
+		victory_points = {
+			13622 3 
+		}
+
+	}
+
+	provinces={
+		7884 13622 13623 13624 13625 13626 13627 13628 13629 13640 13641
+	}
+	manpower=46210
+	state_category = town
+}
