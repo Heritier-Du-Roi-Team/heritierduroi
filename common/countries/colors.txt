@@ -270,13 +270,13 @@ AUS = {
 }
 
 BAD = {
-	color = rgb { 134 131 82 }
-	color_ui = rgb { 134 131 82 }
+	color = rgb { 250 173 13 }
+	color_ui = rgb { 250 173 13 }
 }
 
 BAV = {
-	color = rgb { 69 117 230 }
-	color_ui = rgb { 69 117 230 }
+	color = rgb { 29 62 175 }
+	color_ui = rgb { 29 62 175 }
 }
 
 BEL = {
@@ -355,8 +355,8 @@ LAT = {
 }
 
 MEK = {
-	color = rgb { 31 21 124 }
-	color_ui = rgb { 31 21 124 }
+	color = rgb { 98 103 240 }
+	color_ui = rgb { 98 103 240 }
 }
 
 NOR = {
@@ -365,8 +365,8 @@ NOR = {
 }
 
 OLD = {
-	color = rgb {62 124 255}
-	color_ui = rgb {62 124 255}
+	color = rgb {0 85 255 }
+	color_ui = rgb {0 85 255 }
 }
 
 PAP = {
@@ -440,12 +440,12 @@ SWI = {
 }
 
 THU = {
-	color = rgb {45 205 208}
-	color_ui = rgb { 45 205 208}
+	color = rgb {213 47 47}
+	color_ui = rgb { 213 47 47 }
 }
 
 WST = {
-	color = rgb {165 162 96}
+	color = rgb {165 162 96 }
 	color_ui = rgb {165 162 96}
 }
 
