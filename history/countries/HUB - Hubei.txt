@@ -10,13 +10,18 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+set_technology = {
+	infantry_weapons = 1
+}
+
 set_popularities = {
-  communism = 0
-  radical_socialism = 0
-  social_democracy = 0
-  liberalism = 0
-  conservatism = 0
-  authoritarian_democracy = 0
-  paternal_autocrat = 0
-  national_populism = 0
+        communism = 7
+        radical_socialism = 1
+        social_democracy = 12
+        liberalism = 5
+        conservatism = 10
+        authoritarian_democracy = 20
+        paternal_autocrat = 40
+        national_populism = 5
+
 }
