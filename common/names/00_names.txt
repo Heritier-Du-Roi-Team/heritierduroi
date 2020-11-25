@@ -1765,6 +1765,62 @@ SAU = {
 	}
 	callsigns = { }
 }
+HJZ = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+JAB= {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
 TUR = {
 	male = {
 		names = {  
@@ -2038,6 +2094,111 @@ LBA = {
 	callsigns = { }
 }
 
+###Caucasus
+CHE = {
+	male = {
+		names = {  Abbas Timirbulat  Yaqub Ortsa Nazyr Timirsolts Salamu "Khunkar-Pasha" Yakhya Mukhamed Shukurbi Dzhamaldi
+			Alaudin Sokharbet Alu Sulimbek Saidakhmad Ismail Mayrkhan Usman Rashed Movlid Alik Yandardi Zubaira Yulim
+			Shirvan Dugurkhan Ayubkhan Payzulla Ziyard Dukuvakha Khasu Magomedemi Tasho Rasul Yusup Turpalali Isa Abubakar
+			Anzor Elimkhan Ziyauddi Abu Bekmarza Khyzyr Alkhazur Khamzat Kadyr Olkhazar Dzhamalay Borz Medni Valid Yunadi
+		}
+	}
+	female = {
+		names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	surnames = { Bargishev Murtazaliev Aydamirov Tashayev Ryzaev Dudin Baxayev Elmurzaev Magomediv Alaxanov Batukayev Aliev Varayev
+		Nuradilov Masaev Isaev Shervshidze Dzhokharov Kuriyev Vakhaev Avtorkanov Usamov Kurbanov Sultygov Chichigov  Sheripov Alixadijiyev
+		Barsukov Khadziev Dudaev Rushisvili
+	}
+	callsigns = { }
+}
+DAG = {
+	male = {
+		names = {  Abbas Timirbulat  Yaqub Ortsa Nazyr Timirsolts Salamu "Khunkar-Pasha" Yakhya Mukhamed Shukurbi Dzhamaldi
+			Alaudin Sokharbet Alu Sulimbek Saidakhmad Ismail Mayrkhan Usman Rashed Movlid Alik Yandardi Zubaira Yulim
+			Shirvan Dugurkhan Ayubkhan Payzulla Ziyard Dukuvakha Khasu Magomedemi Tasho Rasul Yusup Turpalali Isa Abubakar
+			Anzor Elimkhan Ziyauddi Abu Bekmarza Khyzyr Alkhazur Khamzat Kadyr Olkhazar Dzhamalay Borz Medni Valid Yunadi
+		}
+	}
+	female = {
+		names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	surnames = { Bargishev Murtazaliev Aydamirov Tashayev Ryzaev Dudin Baxayev Elmurzaev Magomediv Alaxanov Batukayev Aliev Varayev
+		Nuradilov Masaev Isaev Shervshidze Dzhokharov Kuriyev Vakhaev Avtorkanov Usamov Kurbanov Sultygov Chichigov  Sheripov Alixadijiyev
+		Barsukov Khadziev Dudaev Rushisvili
+	}
+	callsigns = { }
+}
+GEO = {
+	male = {
+		names = {  Imeda Adam Avtandil Amiran Valerian Pridon Vepkhia Kokhta Giorgi Goga Eduard Nika Daviti Avzo Zaal Husik Pridon
+		Terenti Nodar Ramazi Vaso Simoni Reziko Vakhtang Archil Tedore Teodor Bagrat Levan Ambrosi Akim Eldar Gocha Korneli Artyom
+		Giuli Temuri Levan Valeri Avto Meliton Alexei Zura Lado Iuri Pridoni Grigol Avi Ioane Aleksandr Vladimer Akaki Vladimer Okropir
+		}
+	}
+	female = {
+		names = { Marie Irina Manana Marine Eliso Tsisia Tinatini Maiko Nino Nestani Salome Manana Marine Eka Natali Gulisa Sopio Yelena
+		}
+	}
+	surnames = { Agiashvili  Akhalkatsi  Akhalaia  Akhaladze  Akhvlediani  Alasania  Alavidze  Aleksidze  Altunashvili  Amilakhvari  Amirejibi
+		Amiranashvili  Amirkhanashvili  Andguladze Anchabadze  Andriadze Brokishvili Babadishvili Bagrationi Bakhsoliani Bakradze Bakhia 
+		Chabukiani Chachkhiani Chanturia Chankseliani Charkviani Chavchavadze Dolaberidze Dadiani Dadeshkeliani Darchidze Darsalia Davitaia 
+		Davituliani Esadze Zhorzholiani
+	}
+	callsigns = { }
+}
+ARM = {
+	male = {
+		names = { Aghvan Alexander Andranik Andreas Arakel Aram Areg Armen Armenak Arsen Arshak Arshavir Artak Artyom Ashot Avetik Avetis Baghdasar 
+			Barsegh Boghos Dikran Diran Gagik Gevorg Ghazar Ghazaros Ghevont Gurgen Hagop Harutyun Hayko Henrikh Hmayak Hovhannes Hovsep Hrach Hrant 
+			Hratch Hrayr Jirair Karapet Karo Khoren Khosrow Krikor Kristapor Levon Manoug Manouk Manuk Martiros  Masis Mesrob Mkhitar Mkrtich Mushegh 
+			Nazaret Nerses Raffi Samvel Sargis Serj Sevag Tigran Tigranes Vagharshak Vahagn Vahan Vahe Vahram Vardan Vartan Varuzhan Vigen
+		}
+	}
+	female = {
+		names = { Marie Irina Manana Marine Eliso Tsisia Tinatini Maiko Nino Nestani Salome Manana Marine Eka Natali Gulisa Sopio Yelena
+		}
+	}
+	surnames = { Aslanyan Asratyan Atchabahian Avagian Avagyan Avak'yan Avakian Avanesyan Avedisian Avetisyan Avoyan Azaryan Babadzhanian Babayan
+		Badalyan Bagdasarian Bagramian Bagramyan Baronian Barsamian Barsamyan Barseghyan Chookaszian Darbinyan Davidyan Davtyan Demirchyan Derderian
+		Hovnanian Hovsepian Janjigian Karapetyan Kartalian Kasabian Katchadourian Keosayan Kerkorian Kevorkian Khachatryan Khachaturian Khajag Khanjian
+		Kharatyan Kirakosyan Kocharyan Kostanyan Krikorian Kurkjian Madoyan Malyan Mamikonian Manoogian Manougian Manoukian Manoyan Manucharyan Manukyan
+	}
+	callsigns = { }
+}
+AZR = {
+	male = {
+		names = { Abbas Mahomet Ahmed Mammad Agabey Alikhan Dadash Elchin Eldar Elmar Fazil Fuad Heydar Kamran Khosrow Mustafa Nijat Samir Vidadi Khorshid
+		Aziz Shams Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Fazlollah Hamzeh Hasan Karim Mahmoud  Mohammad Murad Muhsin  Nosret Reza  
+			Afshin  Ardashir Aria Arshad Arman Armand Ammar Amir Arash Arvin Atash
+			Bijan Babak Bardia Basir Dalir Dariush Derafsh Ebrahim Ervin Ehsan Esmail Izad
+			Farhad Farbod Farrokh Farshid Hamid Hassan Hossein Hormuzd Jamshid Kamran Kasra Khashayar
+		}
+	}
+	female = {
+		names = { Aydan Nadia Naira Nasrin Oksana
+		}
+	}
+	surnames = { Abbasguliyev Abbasov Abdulayev Abdulin Abdullayev Abdulov Abiyev Afandiyev Aghayev Ahmadov Alakbarov Alasgarov Aliyev Babayev
+		Bülbül Dadashov Gadzhiyev Gambarov Garayev Gashimov Ibragimov İbrahimoğlu Iravani Hasanov Heydarov Huseynov Jafarov Kazimov Khalilov
+		Mamedyarov Mammad Mammadbeyov Mammadov Mustafa Mustafayev Nabiyev Naiditsch Orujov Rzayev Sadykhov Salmanov Samedov Sayadov Sharifov
+		Taskin Temirkhan Vakilov Valiyev Vazirov Vidadi Zadeh
+	}
+	callsigns = { "Karim" }
+}
 ###############################################################
 # Asia
 ###############################################################

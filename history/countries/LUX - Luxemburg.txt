@@ -19,13 +19,19 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
+
 set_popularities = {
-	conservatism = 42
-	social_democracy = 29
-	liberalism = 22
-	communism = 5
-	authoritarian_democracy = 2
+        communism = 7
+        radical_socialism = 1
+        social_democracy = 12
+        liberalism = 20
+        conservatism = 40
+        authoritarian_democracy = 5
+        paternal_autocrat = 10
+        national_populism = 5
+
 }
+
 
 create_country_leader = {
 	name = "Charles Marx"
