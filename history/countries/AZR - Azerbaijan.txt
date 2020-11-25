@@ -1,9 +1,12 @@
-﻿capital = 760
+capital = 229 #Tbilisi
 
-oob = "KUM_1936"
+set_research_slots = 2
+
+oob = "AZR_1936"
 
 set_technology = {
 	infantry_weapons = 1
+	tech_mountaineers = 1
 }
 
 set_popularities = {
@@ -20,9 +23,8 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = paternal_autocrat 
+	ruling_party = paternal_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-

@@ -10,14 +10,14 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = paternal_autocrat
 	last_election = "1931.2.6"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-  social_conservatism = 16
-  autocracy = 57
-  social_liberalism = 23
-  integrism = 4
+  conservatism = 16
+  paternal_autocrat = 57
+  liberalism = 23
+  national_populism = 4
 }

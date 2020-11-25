@@ -2,21 +2,27 @@
 
 oob = "CHE_1936"
 
+set_research_slots = 2
+
+set_technology = {
+	infantry_weapons = 1
+}
+
 set_popularities = {
-        communism = 
-        radical_socialism = 
-        social_democracy = 
-        liberalism = 
-        conservatism = 
-        authoritarian_democracy = 
-        paternal_autocrat = 
-        national_populism = 
+        communism = 7
+        radical_socialism = 1
+        social_democracy = 12
+        liberalism = 5
+        conservatism = 10
+        authoritarian_democracy = 20
+        paternal_autocrat = 40
+        national_populism = 5
 
 }
 
 set_politics = {
 	
-	ruling_party = authoritarian_democracy
+	ruling_party = paternal_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -26,7 +32,7 @@ create_country_leader = {
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"
-	ideology = communism_type
+	ideology = paternal_autocrat
 	traits = {
 	}
 }

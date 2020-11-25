@@ -16,16 +16,16 @@ if = {
 }
 
 set_politics = {
-	ruling_party = totalist
+	ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 54
+	communism = 54
 	socialism = 18
-	integrism = 4
-	autocracy = 18
+	national_populism = 4
+	paternal_autocrat = 18
 	social_liberalism = 6
 }
 

@@ -75,10 +75,17 @@ if = {
 }
 
 set_popularities = {
-	democratic = 33
-	communism = 33
-	neutrality = 34
+        communism = 7
+        radical_socialism = 1
+        social_democracy = 12
+        liberalism = 5
+        conservatism = 10
+        authoritarian_democracy = 20
+        paternal_autocrat = 40
+        national_populism = 5
+
 }
+
 
 create_country_leader = {
 	name = "Sultan Ismali Muhammad IV"
