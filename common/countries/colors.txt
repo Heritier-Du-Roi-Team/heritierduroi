@@ -355,8 +355,8 @@ LAT = {
 }
 
 MEK = {
-	color = rgb { 98 103 240 }
-	color_ui = rgb { 98 103 240 }
+	color = rgb { 111 75 193}
+	color_ui = rgb { 111 75 193 }
 }
 
 NOR = {
@@ -410,8 +410,8 @@ SAX = {
 }
 
 SCH = {
-	color = rgb { 165 36 99 }
-	color_ui = rgb { 165 36 99 }
+	color = rgb {  155 121 63  }
+	color_ui = rgb {  155 121 63  }
 }
 
 SIL = {
