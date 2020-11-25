@@ -81,7 +81,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Abdolhossein Teymourtash"
 	desc = "POLITICS_ABDOLHOSSEIN_TEYMOURTASH_DESC"
-	picture = ""
+	picture = "Portrait_Abdolhossein_Teymourtash.tga"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }

@@ -174,7 +174,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Norman Thomas"
 	desc = "POLITICS_NORMAN_THOMAS_DESC"
-	picture = ""
+	picture = "Portrait_USA_Norman_Thomas.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }

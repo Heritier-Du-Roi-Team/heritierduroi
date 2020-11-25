@@ -30,7 +30,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Charles Marx"
 	desc = "POLITICS_CHARLES_MARX_DESC"
-	picture = ""
+	picture = "Portrait_Charles_Marx.tga"
 	expire = "1965.1.1"
 	ideology = communism_type
 }
@@ -38,7 +38,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Gaston Diderich"
 	desc = "POLITICS_GASTON_DIBERICH_DESC"
-	picture = ""
+	picture = "Portrait_Gaston_Diderich.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialism_type
 }
@@ -46,7 +46,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Victor Bodson"
 	desc = "POLITICS_VICTOR_BODSON_DESC"
-	picture = ""
+	picture = "Portrait_Victor_Bodson.tga"
 	expire = "1965.1.1"
 	ideology = social_democracy_type
 }
@@ -54,7 +54,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Marcel Cahen"
 	desc = "POLITICS_MARCEL_CAHEN_DESC"
-	picture = ""
+	picture = "gfx/leaders/Europe/portrait_europe_generic_5.dds"
 	expire = "1965.1.1"
 	ideology = liberalism_type
 }
@@ -62,7 +62,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Joseph Bech"
 	desc = "POLITICS_JOSEPH_BECH"
-	picture = ""
+	picture = "Portrait_Joseph_Bech.tga"
 	expire = "1965.1.1"
 	ideology = conservatism_type
 }
@@ -70,7 +70,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Grand Duchess Charlotte"
 	desc = "POLITICS_DUCHESS_CHARLOTTE_DESC"
-	picture = ""
+	picture = "Portrait_Grand_Duchess_Charlotte.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democracy_type
 }
@@ -78,7 +78,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Damian Kratzenberg"
 	desc = "POLITICS_DAMIAN_KRATZENBERG_DESC"
-	picture = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1965.1.1"
 	ideology = national_populism_type
 }
