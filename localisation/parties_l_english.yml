@@ -597,9 +597,9 @@
 
 # Mecklenburg
  MEK_communism_party:0 "KPD-M"
- MEK_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Mecklenburg-Strelitz"
+ MEK_communism_party_long:0 "Kommunistische Partei Deutschlands - Abteilung Mecklenburg"
  MEK_radical_socialism_party:0 "USPD-M"
- MEK_radical_socialism_party_long:0 "Unabhänige Sozialdemokratische Partei Deutschlands - Abteilung Mecklenburg-Strelitz"
+ MEK_radical_socialism_party_long:0 "Unabhänige Sozialdemokratische Partei Deutschlands - Abteilung Mecklenburg"
  MEK_social_democracy_party:0 "SPM"
  MEK_social_democracy_party_long:0 "Sozialdemokratische Partei Mecklenburgs"
  MEK_liberalism_party:0 "MFP"
@@ -607,11 +607,11 @@
  MEK_conservatism_party:0 "MKP"
  MEK_conservatism_party_long:0 "Mecklenburgische Konservative Partei"
  MEK_authoritarian_democracy_party:0 "Mecklenburg"
- MEK_authoritarian_democracy_party_long:0 "Haus von Mecklenburg-Strelitz"
+ MEK_authoritarian_democracy_party_long:0 "Haus von Mecklenburg"
  MEK_paternal_autocrat_party:0 "Militärclique"
  MEK_paternal_autocrat_party_long:0 "Mecklenburgische Militärclique"
  MEK_national_populism_party:0 "AdV-M"
- MEK_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Mecklenburg-Strelitz"
+ MEK_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Mecklenburg"
 
 # Norway
  NOR_communism_party:0 "NKP-K"
