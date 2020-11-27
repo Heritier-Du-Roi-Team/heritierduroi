@@ -1179,7 +1179,7 @@
 
 ### Central America ###
 
-# Consta Rica
+# Costa Rica
  COS_communism_party:0 "PTA"
  COS_communism_party_long:0 "Partido de Trabajadores y Agricultores"
  COS_radical_socialism_party:0 "PTA-S"
@@ -1343,8 +1343,6 @@
  BOL_national_populism_party:0 "FSB" #Only Exists from 1937 on
  BOL_national_populism_party_long:0 "Falange Socialista Boliviana"
 
-
-
 # Chile
  CHL_communism_party:0 "PCC"
  CHL_communism_party_long:0 "Partido Comunista de Chile"
@@ -1417,7 +1415,7 @@
  PAR_national_populism_party:0 "PM"
  PAR_national_populism_party_long:0 "Partidarios de Morínigo"
 
-# ???
+# Paraguay no. 2, electric boogaloo
  ELP_communism_party:0 "PCP"
  ELP_communism_party_long:0 "Partido Comunista Paraguayo"
  ELP_radical_socialism_party:0 "PSR"
