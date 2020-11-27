@@ -201,7 +201,7 @@
 
 ### Europe ###
 
- # Schnitzel and Methland
+ # Austria
  AUS_communism_party:0 "KPÖ"
  AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
  AUS_radical_socialism_party:0 "SDAPÖ"
@@ -308,7 +308,7 @@
  BUL_national_populism_party:0 "NSD"
  BUL_national_populism_party_long:0 "Narodno sotsialno dvizhenie"
  
-# Danemark
+# Denmark
  DEN_communism_party:0 "DKP"
  DEN_communism_party_long:0 "Danmarks Kommunistiske Parti"
  DEN_radical_socialism_party:0 "DKP-S"
@@ -435,7 +435,7 @@
  HES_national_populism_party:0 "AdV-H"
  HES_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Hessen"
  
- # Weedland
+ # The Netherlands
  HOL_communism_party:0 "CPN"
  HOL_communism_party_long:0 "Communistische Partij Nederland"
  HOL_radical_socialism_party:0 "RSP"
@@ -507,7 +507,7 @@
  IRE_national_populism_party:0 "PNC"
  IRE_national_populism_party_long:0 "Páirtí Náisiúnta Corparáidíoch"
  
-# Grecce
+# Greece
  GRE_communism_party:0 "KKE"
  GRE_communism_party_long:0 "Kommounistikó Kómma Elládas"
  GRE_radical_socialism_party:0 "DSKE"
@@ -649,7 +649,7 @@
  OLD_national_populism_party:0 "AdV-O"
  OLD_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Oldenburg"
  
-# The Land of Boy Touchers
+# The Papal State
  PAP_communism_party:0 "PCI"
  PAP_communism_party_long:0 "Partito Comunista d'Italia - Stato Pontificio"
  PAP_radical_socialism_party:0 "PSI"
@@ -847,7 +847,7 @@
  SLO_national_populism_party:0 "HSĽS-SSNJ"
  SLO_national_populism_party_long:0 "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty"
  
-# Spain aka just fucking NO
+# Spain
  SPR_communism_party:0 "PCE"
  SPR_communism_party_long:0 "Partido Comunista de España"
  SPR_radical_socialism_party:0 "PRRS"
@@ -883,7 +883,7 @@
  SWE_national_populism_party:0 "NA"
  SWE_national_populism_party_long:0 "Nationalsocialistiska Arbetarepartiet"
  
-# Gold land
+# Switzerland
  SWI_communism_party:0 "KPS/PCS/PCS"
  SWI_communism_party_long:0 "Kommunistische Partei der Schweiz/Parti Communiste Suisse/Partito Comunista Svizzero"
  SWI_radical_socialism_party:0 "SP-S/PS-S/PS-S"
@@ -955,7 +955,7 @@
  WUR_national_populism_party:0 "AdV-W"
  WUR_national_populism_party_long:0 "Alldeutscher Verband - Abteilung Württemberg"
 
-# Yugoslavia aka Genocide Region
+# Yugoslavia
  YUG_communism_party:0 "SKJ"
  YUG_communism_party_long:0 "Savez Komunista Jugoslavije"
  YUG_radical_socialism_party:0 "SPJ"
@@ -975,7 +975,7 @@
 
 ### Middle East ###
 
-# Persia
+# Persia/Iran
  PER_communism_party:0 "HTI"
  PER_communism_party_long:0 "Ḥezb-e Tūde-ye Īrān"
  PER_radical_socialism_party:0 "HTI"
@@ -1011,7 +1011,7 @@
  OMA_national_populism_party:0 "JIA"
  OMA_national_populism_party_long:0 "Jamaeat al'Iikhwan Almuslimin"
 
-# Kebab land
+# Ottomans
  OTT_communism_party:0 "TKP"
  OTT_communism_party_long:0 "Türkiye Komünist Partisi"
  OTT_radical_socialism_party:0 "OSF"
@@ -1139,7 +1139,7 @@
  MEX_national_populism_party:0 "-"
  MEX_national_populism_party_long:0 "-"
 
-# Obesity
+# America
  USA_communism_party:0 "CPUSA"
  USA_communism_party_long:0 "Communist Party of the United States of America"
  USA_radical_socialism_party:0 "SPA"
@@ -1159,7 +1159,7 @@
 
 ### Oceania ###
 
-# Desert
+# Australia
  AST_communism_party:0 "CPA"
  AST_communism_party_long:0 "Communist Party of Australia"
  AST_radical_socialism_party:0 "CPA"
@@ -1179,7 +1179,7 @@
 
 ### Central America ###
 
-# Land that has no army today
+# Consta Rica
  COS_communism_party:0 "PTA"
  COS_communism_party_long:0 "Partido de Trabajadores y Agricultores"
  COS_radical_socialism_party:0 "PTA-S"
@@ -1197,7 +1197,7 @@
  COS_national_populism_party:0 "-"
  COS_national_populism_party_long:0 "-"
 
-# FOOOOOTBAAAAAALLLLLLLL
+# El Salvador
  ELS_communism_party:0 "PCES"
  ELS_communism_party_long:0 "Partido Comunista de El Salvador"
  ELS_radical_socialism_party:0 "PRUD"
@@ -1215,7 +1215,7 @@
  ELS_national_populism_party:0 "PNPP"
  ELS_national_populism_party_long:0 "Partido Nacional Pro-Patria"
 
-# Little Mexico
+# Guatemala
  GUA_communism_party:0 "PCG"
  GUA_communism_party_long:0 "Partido Comunista de Guatemala"
  GUA_radical_socialism_party:0 "PRG"
@@ -1233,7 +1233,7 @@
  GUA_national_populism_party:0 "FRM"
  GUA_national_populism_party_long:0 "Fiesta de la Resurrección Maya" 
 
-# Crime land
+# Honduras
  HON_communism_party:0 "PCH"
  HON_communism_party_long:0 "Partido Comunista de Honduras"
  HON_radical_socialism_party:0 "PDRH"
@@ -1251,7 +1251,7 @@
  HON_national_populism_party:0 "CDI"
  HON_national_populism_party_long:0 "Consejo de Derechos Indígenas"
 
-# Fake Canal
+# Nicaragua
  NIC_communism_party:0 "PSN"
  NIC_communism_party_long:0 "Partido Socialista Nicaragüense"
  NIC_radical_socialism_party:0 "FSLN"
@@ -1269,7 +1269,7 @@
  NIC_national_populism_party:0 "CDI"
  NIC_national_populism_party_long:0 "Consejo de Derechos Indígenas"
  
-# Jungleland
+# Panama
  PAN_communism_party:0 "PPP"
  PAN_communism_party_long:0 "Partido del Pueblo de Panamá"
  PAN_radical_socialism_party:0 "PS"
@@ -1289,7 +1289,7 @@
 
 ### South America ###
 
-#Beefland
+# Argentinia
  ARG_communism_party:0 "PCA"
  ARG_communism_party_long:0 "Partido Comunista de la Argentina"
  ARG_radical_socialism_party:0 "PS"
@@ -1307,7 +1307,7 @@
  ARG_national_populism_party:0 "UNF"
  ARG_national_populism_party_long:0 "Unión Nacional Fascista"
 
-# Please come to Brasil!
+# Brazil
  BRA_communism_party:0 "PCB"
  BRA_communism_party_long:0 "Partido Comunista Brasileiro"
  BRA_radical_socialism_party:0 "PSB"
@@ -1325,7 +1325,7 @@
  BRA_national_populism_party:0 "AIB"
  BRA_national_populism_party_long:0 "Ação Integralista Brasileira"
  
- # More Andes
+ # Bolivia
  BOL_communism_party:0 "-"
  BOL_communism_party_long:0 "-"
  BOL_radical_socialism_party:0 "CSTB"
@@ -1363,7 +1363,7 @@
  CHL_national_populism_party:0 "MNSC"
  CHL_national_populism_party_long:0 "Movimiento Nacional Socialista de Chile"
  
- # Cocaine land
+ # Colombia
  COL_communism_party:0 "PCC"
  COL_communism_party_long:0 "Partido Comunista Colombiano"
  COL_radical_socialism_party:0 "-"
@@ -1381,7 +1381,7 @@
  COL_national_populism_party:0 "-"
  COL_national_populism_party_long:0 "-"
  
-# Knockoff Cocaine Land, also Evolution
+# Ecuador
  ECU_communism_party:0 "PCdE"
  ECU_communism_party_long:0 "Partido Comunista del Ecuador"
  ECU_radical_socialism_party:0 "PSE"
@@ -1417,6 +1417,7 @@
  PAR_national_populism_party:0 "PM"
  PAR_national_populism_party_long:0 "Partidarios de Morínigo"
 
+# ???
  ELP_communism_party:0 "PCP"
  ELP_communism_party_long:0 "Partido Comunista Paraguayo"
  ELP_radical_socialism_party:0 "PSR"
@@ -1433,7 +1434,8 @@
  ELP_paternal_autocrat_party_long:0 "Fuerzas Armadas de Paraguay"
  ELP_national_populism_party:0 "PM"
  ELP_national_populism_party_long:0 "Partidarios de Morínigo"
-#Andesland
+ 
+# Peru
  PRU_communism_party:0 "PCP"
  PRU_communism_party_long:0 "Partido Comunista Peruano"
  PRU_radical_socialism_party:0 "PCP-S"
@@ -1451,9 +1453,7 @@
  PRU_national_populism_party:0 "UR"
  PRU_national_populism_party_long:0 "Unión Revolucionaria"
 
-
- 
-# Little Brazil
+# Uruguay
  URG_communism_party:0 "PCdU"
  URG_communism_party_long:0 "Partido Comunista del Uruguay"
  URG_radical_socialism_party:0 "PSdU"
@@ -1471,7 +1471,7 @@
  URG_national_populism_party:0 "PNI"
  URG_national_populism_party_long:0 "Partido Nacional Independiente"
 
-# A mess
+# Venezuela
  VEN_communism_party:0 "PCdV"
  VEN_communism_party_long:0 "Partido Comunista de Venezuela"
  VEN_radical_socialism_party:0 "-"
