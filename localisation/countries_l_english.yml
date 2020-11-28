@@ -877,17 +877,17 @@
  BAD_radical_socialism:0 "Badische Räterepublik
  BAD_radical_socialism_DEF:0 "the Badische Räterepublik
  BAD_radical_socialism_ADJ:0 "Badisch"
- BAD_social_democracy:0 "Großherzogtum Baden"
- BAD_social_democracy_DEF:0 "the Großherzogtum Baden"
+ BAD_social_democracy:0 "Republic of Baden"
+ BAD_social_democracy_DEF:0 "the Republic of Baden"
  BAD_social_democracy_ADJ:0 "Badisch"
- BAD_liberalism:0 "Großherzogtum Baden"
- BAD_liberalism_DEF:0 "the Großherzogtum Baden"
+ BAD_liberalism:0 "Republic of Baden"
+ BAD_liberalism_DEF:0 "the Republic of Baden"
  BAD_liberalism_ADJ:0 "Badisch"
- BAD_conservatism:0 "Großherzogtum Baden"
- BAD_conservatism_DEF:0 "the Großherzogtum Baden"
+ BAD_conservatism:0 "Republic of Baden"
+ BAD_conservatism_DEF:0 "the Republic of Baden"
  BAD_conservatism_ADJ:0 "Badisch"
- BAD_authoritarian_democracy:0 "Großherzogtum Baden"
- BAD_authoritarian_democracy_DEF:0 "the Großherzogtum Baden"
+ BAD_authoritarian_democracy:0 "Grand Duchy of Baden"
+ BAD_authoritarian_democracy_DEF:0 "the Grand Duchy Baden"
  BAD_authoritarian_democracy_ADJ:0 "Badisch"
  BAD_paternal_autocrat:0 "Badische Militärjunta"
  BAD_paternal_autocrat_DEF:0 "the Badische Militärjunta"
@@ -958,11 +958,11 @@
  BAV_social_democracy:0 "Republic of Bavaria"
  BAV_social_democracy_DEF:0 "the Republic of Bavaria"
  BAV_social_democracy_ADJ:0 "Bavarian"
- BAV_liberalism:0 "Kingdom of Bavaria"
- BAV_liberalism_DEF:0 "the Kingdom of Bavaria"
+ BAV_liberalism:0 "Republic of Bavaria"
+ BAV_liberalism_DEF:0 "the Republic of Bavaria"
  BAV_liberalism_ADJ:0 "Bavarian"
- BAV_conservatism:0 "Kingdom of Bavaria"
- BAV_conservatism_DEF:0 "the Kingdom of Bavaria"
+ BAV_conservatism:0 "Republic of Bavaria"
+ BAV_conservatism_DEF:0 "the Republic of Bavaria"
  BAV_conservatism_ADJ:0 "Bavarian"
  BAV_authoritarian_democracy:0 "Kingdom of Bavaria"
  BAV_authoritarian_democracy_DEF:0 "the Kingdom of Bavaria"
@@ -1538,13 +1538,13 @@
  RHI_national_populism_ADJ:0 "Rhinish"
 
 # Romania
- ROM_communism:0 "Romanian Workers State"
- ROM_communism_DEF:0 "the Romanian Workers State"
+ ROM_communism:0 "Romanian Socialist Republic"
+ ROM_communism_DEF:0 "the Romanian Socialist Republic"
  ROM_communism_ADJ:0 "Romanian"
- ROM_radical_socialism:0 "Workers Republic of Romania"
- ROM_radical_socialism_DEF:0 "the Workers Republic of Romania"
+ ROM_radical_socialism:0 "Romanian Socialist Republic"
+ ROM_radical_socialism_DEF:0 "the Romanian Socialist Republic"
  ROM_radical_socialism_ADJ:0 "Romanian"
- ROM_social_democracy:0 "Romania"
+ ROM_social_democracy:0 "Kingdom of Romania"
  ROM_social_democracy_DEF:0 "the Kingdom of Romania"
  ROM_social_democracy_ADJ:0 "Romanian"
  ROM_liberalism:0 "Kingdom of Romania"
@@ -1564,29 +1564,29 @@
  ROM_national_populism_ADJ:0 "Romanian"
 
 # Russia
- RUS_communism:0 "Soviet Republic of Russia"
- RUS_communism_DEF:0 "the Soviet Republic of Russia"
- RUS_communism_ADJ:0 "Russian"
- RUS_radical_socialism:0 "Soviet Republic of Russia"
- RUS_radical_socialism_DEF:0 "the Soviet Republic of Russia"
+ RUS_communism:0 "Okay, cheater"
+ RUS_communism_DEF:0 "Okay, cheater"
+ RUS_communism_ADJ:0 "Cheating"
+ RUS_radical_socialism:0 "Union of Soviet Socialist Republics"
+ RUS_radical_socialism_DEF:0 "the Union of Soviet Socialist Republics"
  RUS_radical_socialism_ADJ:0 "Russian"
- RUS_social_democracy:0 "Russia"
+ RUS_social_democracy:0 "Republic of Russia"
  RUS_social_democracy_DEF:0 "the Republic of Russia"
  RUS_social_democracy_ADJ:0 "Russian"
- RUS_liberalism:0 "Russia"
- RUS_liberalism_DEF:0 "the Tsardom of Russia"
+ RUS_liberalism:0 "Republic of Russia"
+ RUS_liberalism_DEF:0 "the Republic of Russia"
  RUS_liberalism_ADJ:0 "Russian"
- RUS_conservatism:0 "Russia"
+ RUS_conservatism:0 "Tsardom of Russia"
  RUS_conservatism_DEF:0 "the Tsardom of Russia"
  RUS_conservatism_ADJ:0 "Russian"
- RUS_authoritarian_democracy:0 "Russia"
- RUS_authoritarian_democracy_DEF:0 "the Tsardom of Russia"
- RUS_authoritarian_democracy_ADJ:0 "Russian"
+ RUS_authoritarian_democracy:0 "Okay, cheater"
+ RUS_authoritarian_democracy_DEF:0 "Okay, cheater"
+ RUS_authoritarian_democracy_ADJ:0 "Cheating"
  RUS_paternal_autocrat:0 "Russian Empire"
  RUS_paternal_autocrat_DEF:0 "the Russian Empire"
  RUS_paternal_autocrat_ADJ:0 "Russian"
- RUS_national_populism:0 "Russian Empire"
- RUS_national_populism_DEF:0 "the Russian Empire"
+ RUS_national_populism:0 "Russian State"
+ RUS_national_populism_DEF:0 "the Russian State"
  RUS_national_populism_ADJ:0 "Russian"
 
 # San Marino
@@ -1617,55 +1617,55 @@
  SAN_national_populism_ADJ:0 "Sammarinese"
 
 # Saxony
- SAX_communism:0 "Saxonian Workers State"
- SAX_communism_DEF:0 "the Saxonian Workers State"
+ SAX_communism:0 "Sächsische Räterepublik"
+ SAX_communism_DEF:0 "the Sächsische Räterepublik"
  SAX_communism_ADJ:0 "Saxonian"
- SAX_radical_socialism:0 "Saxonian Workers Republic"
- SAX_radical_socialism_DEF:0 "the Saxonian Workers Republic"
+ SAX_radical_socialism:0 "Sächsische Räterepublik"
+ SAX_radical_socialism_DEF:0 "the Sächsische Räterepublik"
  SAX_radical_socialism_ADJ:0 "Saxonian"
- SAX_social_democracy:0 "Saxony"
+ SAX_social_democracy:0 "Republic of Saxony"
  SAX_social_democracy_DEF:0 "the Republic of Saxony"
  SAX_social_democracy_ADJ:0 "Saxonian"
- SAX_liberalism:0 "Saxony"
- SAX_liberalism_DEF:0 "the Kingdom of Saxony"
+ SAX_liberalism:0 "Republic of Saxony"
+ SAX_liberalism_DEF:0 "the Republic of Saxony"
  SAX_liberalism_ADJ:0 "Saxonian"
- SAX_conservatism:0 "Saxony"
- SAX_conservatism_DEF:0 "the Kingdom of Saxony"
+ SAX_conservatism:0 "Republic of Saxony"
+ SAX_conservatism_DEF:0 "the Republic of Saxony"
  SAX_conservatism_ADJ:0 "Saxonian"
- SAX_authoritarian_democracy:0 "Saxony"
+ SAX_authoritarian_democracy:0 "Kingdom of Saxony"
  SAX_authoritarian_democracy_DEF:0 "the Kingdom of Saxony"
  SAX_authoritarian_democracy_ADJ:0 "Saxonian"
- SAX_paternal_autocrat:0 "Kingdom of Saxony"
- SAX_paternal_autocrat_DEF:0 "the Kingdom of Saxony"
+ SAX_paternal_autocrat:0 "Sächsische Militärjunta"
+ SAX_paternal_autocrat_DEF:0 "the Sächsische Militärjunta"
  SAX_paternal_autocrat_ADJ:0 "Saxonian"
- SAX_national_populism:0 "Saxonian State"
- SAX_national_populism_DEF:0 "the Saxonian State"
+ SAX_national_populism:0 "Sächsischer Staat"
+ SAX_national_populism_DEF:0 "the Sächsischer Staat"
  SAX_national_populism_ADJ:0 "Saxonian"
 
-# Schleswig
- SCH_communism:0 "Schleswig-Holsteinisch Workers State"
- SCH_communism_DEF:0 "the Workers State of Schleswig-Holstein"
+# Schleswig-Holstein
+ SCH_communism:0 "Schleswig-Holsteinische Räterepublik"
+ SCH_communism_DEF:0 "the Schleswig-Holsteinische Räterepublik"
  SCH_communism_ADJ:0 "Schleswig-Holsteinisch"
- SCH_radical_socialism:0 "Schleswig-Holsteinische Workers Republic"
- SCH_radical_socialism_DEF:0 "the Workers Republic of Schleswig-Holstein"
+ SCH_radical_socialism:0 "Schleswig-Holsteinische Räterepublik"
+ SCH_radical_socialism_DEF:0 "the Schleswig-Holsteinische Räterepublik"
  SCH_radical_socialism_ADJ:0 "Schleswig-Holsteinisch"
- SCH_social_democracy:0 "Schleswig-Holstein"
+ SCH_social_democracy:0 "Republic of Schleswig-Holstein"
  SCH_social_democracy_DEF:0 "the Republic of Schleswig-Holstein"
  SCH_social_democracy_ADJ:0 "Schleswig-Holsteinisch"
- SCH_liberalism:0 "Schleswig-Holstein"
- SCH_liberalism_DEF:0 "the Duchy of Schleswig and Holstein"
+ SCH_liberalism:0 "Republic of Schleswig-Holstein"
+ SCH_liberalism_DEF:0 "the Republic of Schleswig-Holstein"
  SCH_liberalism_ADJ:0 "Schleswig-Holsteinisch"
- SCH_conservatism:0 "Schleswig-Holstein"
- SCH_conservatism_DEF:0 "the Duchy of Schleswig and Holstein"
+ SCH_conservatism:0 "Republic of Schleswig-Holstein"
+ SCH_conservatism_DEF:0 "the Republic of Schleswig-Holstein"
  SCH_conservatism_ADJ:0 "Schleswig-Holsteinisch"
- SCH_authoritarian_democracy:0 "Schleswig-Holstein"
+ SCH_authoritarian_democracy:0 "Duchy of Schleswig-Holstein"
  SCH_authoritarian_democracy_DEF:0 "the Duchy of Schleswig and Holstein"
  SCH_authoritarian_democracy_ADJ:0 "Schleswig-Holsteinisch"
- SCH_paternal_autocrat:0 "Duchy of Schleswig and Holstein"
- SCH_paternal_autocrat_DEF:0 "the Duchy of Schleswig and Holstein"
+ SCH_paternal_autocrat:0 "Schleswig-Holsteinische Militärclique"
+ SCH_paternal_autocrat_DEF:0 "the Schleswig-Holsteinische Militärclique"
  SCH_paternal_autocrat_ADJ:0 "Schleswig-Holsteinisch"
- SCH_national_populism:0 "Schleswig-Holsteinischer State"
- SCH_national_populism_DEF:0 "the National State of Schleswig-Holstein"
+ SCH_national_populism:0 "Schleswig-Holsteinischer Staat"
+ SCH_national_populism_DEF:0 "the Schleswig-Holsteinischer Staat"
  SCH_national_populism_ADJ:0 "Schleswig-Holsteinisch"
 
 # Slovakia
@@ -1695,49 +1695,49 @@
  SLO_national_populism_ADJ:0 "Slovakian "
 
 # Spain
- SPR_communism:0 "Republican Spain"
- SPR_communism_DEF:0 "Republican Spain"
+ SPR_communism:0 "Socialist Republic of Spain"
+ SPR_communism_DEF:0 "the Socialist Republic of Spain"
  SPR_communism_ADJ:0 "Spanish"
- SPR_radical_socialism:0 "Republican Spain"
- SPR_radical_socialism_DEF:0 "Republican Spain"
+ SPR_radical_socialism:0 "Socialist Republic of Spain"
+ SPR_radical_socialism_DEF:0 "the Socialist Republic of Spain"
  SPR_radical_socialism_ADJ:0 "Spanish"
- SPR_social_democracy:0 "Spain"
- SPR_social_democracy_DEF:0 "Spain"
+ SPR_social_democracy:0 "Republic of Spain"
+ SPR_social_democracy_DEF:0 "the Republic of Spain"
  SPR_social_democracy_ADJ:0 "Spanish"
- SPR_liberalism:0 "Spain"
- SPR_liberalism_DEF:0 "Spain"
+ SPR_liberalism:0 "Republic of Spain"
+ SPR_liberalism_DEF:0 "the Republic of Spain"
  SPR_liberalism_ADJ:0 "Spanish"
- SPR_conservatism:0 "Spain"
- SPR_conservatism_DEF:0 "Spain"
+ SPR_conservatism:0 "Kingdom of Spain"
+ SPR_conservatism_DEF:0 "the Kingdom of Spain"
  SPR_conservatism_ADJ:0 "Spanish"
- SPR_authoritarian_democracy:0 "Spain"
- SPR_authoritarian_democracy_DEF:0 "Spain"
+ SPR_authoritarian_democracy:0 "Kingdom of Spain"
+ SPR_authoritarian_democracy_DEF:0 "the Kingdom of Spain"
  SPR_authoritarian_democracy_ADJ:0 "Spanish"
  SPR_paternal_autocrat:0 "Kingdom of Spain"
  SPR_paternal_autocrat_DEF:0 "the Kingdom of Spain"
  SPR_paternal_autocrat_ADJ:0 "Spanish"
- SPR_national_populism:0 "Nationalist Spain"
- SPR_national_populism_DEF:0 "Nationalist Spain"
+ SPR_national_populism:0 "Empire of Spain"
+ SPR_national_populism_DEF:0 "the Empire of Spain"
  SPR_national_populism_ADJ:0 "Spanish"
 
 # Switzerland
- SWI_communism:0 "Swiss Worker's State"
- SWI_communism_DEF:0 "the Swiss Worker's State"
+ SWI_communism:0 "Socialist Federative Republic of Switzerland"
+ SWI_communism_DEF:0 "the Socialist Federative Republic of Switzerland"
  SWI_communism_ADJ:0 "Swiss"
- SWI_radical_socialism:0 "Swiss Federal Republic"
- SWI_radical_socialism_DEF:0 "the Swiss Federal Republic"
+ SWI_radical_socialism:0 "Socialist Federative Republic of Switzerland"
+ SWI_radical_socialism_DEF:0 "the Socialist Federative Republic of Switzerland"
  SWI_radical_socialism_ADJ:0 "Swiss"
- SWI_social_democracy:0 "Switzerland"
- SWI_social_democracy_DEF:0 "Switzerland"
+ SWI_social_democracy:0 "Swiss Confederation"
+ SWI_social_democracy_DEF:0 "the Swiss Confederation"
  SWI_social_democracy_ADJ:0 "Swiss"
- SWI_liberalism:0 "Switzerland"
- SWI_liberalism_DEF:0 "Switzerland"
+ SWI_liberalism:0 "Swiss Confederation"
+ SWI_liberalism_DEF:0 "the Swiss Confederation"
  SWI_liberalism_ADJ:0 "Swiss"
- SWI_conservatism:0 "Switzerland"
- SWI_conservatism_DEF:0 "Switzerland"
+ SWI_conservatism:0 "Swiss Confederation"
+ SWI_conservatism_DEF:0 "the Swiss Confederation"
  SWI_conservatism_ADJ:0 "Swiss"
- SWI_authoritarian_democracy:0 "Switzerland"
- SWI_authoritarian_democracy_DEF:0 "Switzerland"
+ SWI_authoritarian_democracy:0 "Swiss Confederation"
+ SWI_authoritarian_democracy_DEF:0 "the Swiss Confederation"
  SWI_authoritarian_democracy_ADJ:0 "Swiss"
  SWI_paternal_autocrat:0 "Swiss Imperial Confederation"
  SWI_paternal_autocrat_DEF:0 "the Swiss Imperial Confederation"
@@ -1750,8 +1750,8 @@
  SWE_communism:0 "Commune of Sweden"
  SWE_communism_DEF:0 "the Commune of Sweden"
  SWE_communism_ADJ:0 "Swedish"
- SWE_radical_socialism:0 "Workers Republic of Sweden"
- SWE_radical_socialism_DEF:0 "the Workers Republic of Sweden"
+ SWE_radical_socialism:0 "Commune of Sweden"
+ SWE_radical_socialism_DEF:0 "the Commune of Sweden"
  SWE_radical_socialism_ADJ:0 "Swedish"
  SWE_social_democracy:0 "Kingdom of Sweden"
  SWE_social_democracy_DEF:0 "the Kingdom of Sweden"
@@ -1773,89 +1773,89 @@
  SWE_national_populism_ADJ:0 "Swedish"
 
 # Thuringia
- THU_communism:0 "Thuringian Workers State"
- THU_communism_DEF:0 "the Thuringian Workers State"
+ THU_communism:0 "Thüringische Räterepublik"
+ THU_communism_DEF:0 "the Thüringische Räterepublik"
  THU_communism_ADJ:0 "Thuringian"
- THU_radical_socialism:0 "Thuringian Workers Republic"
- THU_radical_socialism_DEF:0 "the Thuringian Workers Republic"
+ THU_radical_socialism:0 "Thüringische Räterepublik"
+ THU_radical_socialism_DEF:0 "the Thüringische Räterepublik"
  THU_radical_socialism_ADJ:0 "Thuringian"
- THU_social_democracy:0 "the Republic of Thuringia"
- THU_social_democracy_DEF:0 "Thuringia"
+ THU_social_democracy:0 "Republic of Thuringia"
+ THU_social_democracy_DEF:0 "the Republic of Thuringia"
  THU_social_democracy_ADJ:0 "Thuringian"
- THU_liberalism:0 "Thuringia"
+ THU_liberalism:0 "Republic of Thuringia"
  THU_liberalism_DEF:0 "the Republic of Thuringia"
  THU_liberalism_ADJ:0 "Thuringian"
- THU_conservatism:0 "Thuringia"
+ THU_conservatism:0 "Republic of Thuringia"
  THU_conservatism_DEF:0 "the Republic of Thuringia"
  THU_conservatism_ADJ:0 "Thuringian"
- THU_authoritarian_democracy:0 "Thuringia"
- THU_authoritarian_democracy_DEF:0 "the Grand Princpality of Thuringia"
+ THU_authoritarian_democracy:0 "United Duchies and Principalities of Thuringia"
+ THU_authoritarian_democracy_DEF:0 "the United Duchies and Principalities of Thuringia"
  THU_authoritarian_democracy_ADJ:0 "Thuringian"
- THU_paternal_autocrat:0 "Confederation of Thuringia"
- THU_paternal_autocrat_DEF:0 "the Confederation of Thuringia"
+ THU_paternal_autocrat:0 "Thüringische Militärjunta"
+ THU_paternal_autocrat_DEF:0 "the Thüringische Militärjunta"
  THU_paternal_autocrat_ADJ:0 "Thuringian"
- THU_national_populism:0 "Thuringian State"
- THU_national_populism_DEF:0 "the Thuringian State"
+ THU_national_populism:0 "Thüringischer Staat"
+ THU_national_populism_DEF:0 "the Thüringischer Staat"
  THU_national_populism_ADJ:0 "Thuringian"
 
 # Westphalia
- WST_communism:0 "Westphalian Workers State"
- WST_communism_DEF:0 "the Westphalian Workers State"
+ WST_communism:0 "Westfälische Räterepublik"
+ WST_communism_DEF:0 "the Westfälische Räterepublik"
  WST_communism_ADJ:0 "Westphalian"
- WST_radical_socialism:0 "Westphalian Workers Republic"
- WST_radical_socialism_DEF:0 "the Westphalian Workers Republic"
+ WST_radical_socialism:0 "Westfälische Räterepublik"
+ WST_radical_socialism_DEF:0 "the Westfälische Räterepublik"
  WST_radical_socialism_ADJ:0 "Westphalian"
- WST_social_democracy:0 "Westphalia"
+ WST_social_democracy:0 "Republic of Westphalia"
  WST_social_democracy_DEF:0 "the Republic of Westphalia"
  WST_social_democracy_ADJ:0 "Westphalian"
- WST_liberalism:0 "Westphalia"
+ WST_liberalism:0 "Republic of Westphalia"
  WST_liberalism_DEF:0 "the Republic of Westphalia"
  WST_liberalism_ADJ:0 "Westphalian"
- WST_conservatism:0 "Westphalia"
+ WST_conservatism:0 "Republic of Westphalia"
  WST_conservatism_DEF:0 "the Republic of Westphalia"
  WST_conservatism_ADJ:0 "Westphalian"
- WST_authoritarian_democracy:0 "Westphalia"
+ WST_authoritarian_democracy:0 "Kingdom of Westphalia"
  WST_authoritarian_democracy_DEF:0 "the Kingdom of Westphalia"
  WST_authoritarian_democracy_ADJ:0 "Westphalian"
- WST_paternal_autocrat:0 "Westphalia"
- WST_paternal_autocrat_DEF:0 "the Kingdom of Westphalia"
+ WST_paternal_autocrat:0 "Westfälische Militärclique"
+ WST_paternal_autocrat_DEF:0 "the Westfälische Militärclique"
  WST_paternal_autocrat_ADJ:0 "Westphalian"
- WST_national_populism:0 "Westphalian State"
- WST_national_populism_DEF:0 "the Westphalian State"
+ WST_national_populism:0 "Westfälischer Staat"
+ WST_national_populism_DEF:0 "the Westfälischer Staat"
  WST_national_populism_ADJ:0 "Westphalian"
 
- # Wurttemberg
- WUR_communism:0 "Württembergian Workers State"
- WUR_communism_DEF:0 "the Württembergian Workers State"
+ # Württemberg
+ WUR_communism:0 "Württembergische Räterepublik"
+ WUR_communism_DEF:0 "the Württembergische Räterepublik"
  WUR_communism_ADJ:0 "Württembergian"
- WUR_radical_socialism:0 "Württembergian Workers Republic"
- WUR_radical_socialism_DEF:0 "the Württembergian Workers Republic"
+ WUR_radical_socialism:0 "Württembergische Räterepublik"
+ WUR_radical_socialism_DEF:0 "the Württembergische Räterepublik"
  WUR_radical_socialism_ADJ:0 "Württembergian"
- WUR_social_democracy:0 "Württemberg"
+ WUR_social_democracy:0 "Republic of Württemberg"
  WUR_social_democracy_DEF:0 "the Republic of Württemberg"
  WUR_social_democracy_ADJ:0 "Württembergian"
- WUR_liberalism:0 "Württemberg"
- WUR_liberalism_DEF:0 "the Kingdom of Württemberg"
+ WUR_liberalism:0 "Republic of Württemberg"
+ WUR_liberalism_DEF:0 "the Republic of Württemberg"
  WUR_liberalism_ADJ:0 "Württembergian"
- WUR_conservatism:0 "Württemberg"
- WUR_conservatism_DEF:0 "the Kingdom of Württemberg"
+ WUR_conservatism:0 "Republic of Württemberg"
+ WUR_conservatism_DEF:0 "the Republic of Württemberg"
  WUR_conservatism_ADJ:0 "Württembergian"
- WUR_authoritarian_democracy:0 "Württemberg"
+ WUR_authoritarian_democracy:0 "Kingdom of Württemberg"
  WUR_authoritarian_democracy_DEF:0 "the Kingdom of Württemberg"
  WUR_authoritarian_democracy_ADJ:0 "Württembergian"
- WUR_paternal_autocrat:0 "Kingdom of Württemberg"
- WUR_paternal_autocrat_DEF:0 "the Kingdom of Württemberg"
+ WUR_paternal_autocrat:0 "Württembergische Militärclique"
+ WUR_paternal_autocrat_DEF:0 "the Württembergische Militärclique"
  WUR_paternal_autocrat_ADJ:0 "Württembergian"
- WUR_national_populism:0 "Württembergian State"
- WUR_national_populism_DEF:0 "the Württembergian State"
+ WUR_national_populism:0 "Württembergischer Staat"
+ WUR_national_populism_DEF:0 "the Württembergischer Staat"
  WUR_national_populism_ADJ:0 "Württembergian"
 
 # Yugoslavia
- YUG_communism:0 "Socialist State of Yugoslavia"
- YUG_communism_DEF:0 "the Socialist State of Yugoslavia"
+ YUG_communism:0 "Socialist Federal Republic of Yugoslavia"
+ YUG_communism_DEF:0 "the Socialist Federal Republic of Yugoslavia"
  YUG_communism_ADJ:0 "Yugoslavian"
- YUG_radical_socialism:0 "Socialist Republic of Yugoslavia"
- YUG_radical_socialism_DEF:0 "the Socialist Republic of Yugoslavia"
+ YUG_radical_socialism:0 "Socialist Federal Republic of Yugoslavia"
+ YUG_radical_socialism_DEF:0 "the Socialist Federal Republic of Yugoslavia"
  YUG_radical_socialism_ADJ:0 "Yugoslavian"
  YUG_social_democracy:0 "Kingdom of Yugoslavia"
  YUG_social_democracy_DEF:0 "the Kingdom of Yugoslavia"
@@ -1869,14 +1869,14 @@
  YUG_authoritarian_democracy:0 "Kingdom of Yugoslavia"
  YUG_authoritarian_democracy_DEF:0 "the Kingdom of Yugoslavia"
  YUG_authoritarian_democracy_ADJ:0 "Yugoslavian"
- YUG_paternal_autocrat:0 "Kingdom of Yugoslavia"
- YUG_paternal_autocrat_DEF:0 "the Kingdom of Yugoslavia"
- YUG_paternal_autocrat_ADJ:0 "Yugoslavian"
- YUG_national_populism:0 "Radikalna Yugoslavia"
- YUG_national_populism_DEF:0 "Radikalna Yugoslavia"
- YUG_national_populism_ADJ:0 "Yugoslavian"
+ YUG_paternal_autocrat:0 "Kingdom of Greater Serbia"
+ YUG_paternal_autocrat_DEF:0 "the Kingdom of Greater Serbia"
+ YUG_paternal_autocrat_ADJ:0 "Greater Serbian"
+ YUG_national_populism:0 "State of Yugoslavia"
+ YUG_national_populism_DEF:0 "State of Greater Serbia"
+ YUG_national_populism_ADJ:0 "Greater Serbian"
 
-#rest of Europe
+# rest of Europe
  BOS:0 "Bosnia"
  BOS_DEF:0 "Bosnia"
  BOS_ADJ:0 "Bosnian"
@@ -1945,8 +1945,8 @@
  SER_DEF:0 "Serbia"
  SER_ADJ:0 "Serbian"
 
- SIC:0 "Two-Sicilies"
- SIC_DEF:0 "Two-Sicilies"
+ SIC:0 "Two Sicilies"
+ SIC_DEF:0 "Two Sicilies"
  SIC_ADJ:0 "Sicilian"
 
  SLV:0 "Slovenia"
@@ -1965,9 +1965,9 @@
  VNC_DEF:0 "Venice"
  VNC_ADJ:0 "Venitian"
 
- WAL:0 "Walachia"
- WAL_DEF:0 "Walachia"
- WAL_ADJ:0 "Walachian"
+ WAL:0 "Wallachia"
+ WAL_DEF:0 "Wallachia"
+ WAL_ADJ:0 "Wallachian"
 
  WLS:0 "Wales"
  WLS_DEF:0 "Wales"
@@ -2106,8 +2106,8 @@
  HEJ_national_populism_ADJ:0 "Arabian"
 
 # Jabal Shammar
- JAB_communism:0 "Muslim Independant Commune"
- JAB_communism_DEF:0 "the Muslim Independant Commune"
+ JAB_communism:0 "Muslim Independent Commune"
+ JAB_communism_DEF:0 "the Muslim Independent Commune"
  JAB_communism_ADJ:0 "Muslim"
  JAB_radical_socialism:0 "Arabic Worker's Republic"
  JAB_radical_socialism_DEF:0 "the Arabic Worker's Republic"
@@ -2184,11 +2184,11 @@
  OTT_national_populism_ADJ:0 "Ottoman"
 
 # Persia
- PER_communism:0 "Tehran Commune"
- PER_communism_DEF:0 "the Tehran Commune"
+ PER_communism:0 "Iranian Commune"
+ PER_communism_DEF:0 "the Iranian Commune"
  PER_communism_ADJ:0 "Iranian"
- PER_radical_socialism:0 "Tehran Commune"
- PER_radical_socialism_DEF:0 "the Tehran Commune"
+ PER_radical_socialism:0 "Iranian Commune"
+ PER_radical_socialism_DEF:0 "the Iranian Commune"
  PER_radical_socialism_ADJ:0 "Iranian"
  PER_social_democracy:0 "Republic of Iran"
  PER_social_democracy_DEF:0 "the Republic of Iran"
@@ -2210,11 +2210,11 @@
  PER_national_populism_ADJ:0 "Persian"
 
 # Nejd
- SAU_communism:0 "Workers State of Nejd"
- SAU_communism_DEF:0 "the Workers State of Nejd"
+ SAU_communism:0 "Worker's State of Nejd"
+ SAU_communism_DEF:0 "the Worker's State of Nejd"
  SAU_communism_ADJ:0 "Arabian"
- SAU_radical_socialism:0 "Workers Commune of Nejd"
- SAU_radical_socialism_DEF:0 "the Workers Commune of Nejd"
+ SAU_radical_socialism:0 "Worker's Commune of Nejd"
+ SAU_radical_socialism_DEF:0 "the Worker's Commune of Nejd"
  SAU_radical_socialism_ADJ:0 "Arabian"
  SAU_social_democracy:0 "Republic of Nejd"
  SAU_social_democracy_DEF:0 "the Republic of Nejd"
@@ -2236,11 +2236,11 @@
  SAU_national_populism_ADJ:0 "Arabic"
 
 # Yemen
- YEM_communism:0 "Workers State of Yemen"
- YEM_communism_DEF:0 "the Workers State of Yemen"
+ YEM_communism:0 "Worker's State of Yemen"
+ YEM_communism_DEF:0 "the Worker's State of Yemen"
  YEM_communism_ADJ:0 "Yemeni"
- YEM_radical_socialism:0 "Workers Union of Yemen"
- YEM_radical_socialism_DEF:0 "the Workers Union of Yemen"
+ YEM_radical_socialism:0 "Worker's Union of Yemen"
+ YEM_radical_socialism_DEF:0 "the Worker's Union of Yemen"
  YEM_radical_socialism_ADJ:0 "Yemeni"
  YEM_social_democracy:0 "Yemeni Republic"
  YEM_social_democracy_DEF:0 "the Yemeni Republic"
@@ -2261,7 +2261,8 @@
  YEM_national_populism_DEF:0 "the Federation of Yemen"
  YEM_national_populism_ADJ:0 "Yemeni"
 
-# Cacaus and Arabic Pleps
+# Cacasus and Arabic Plebs
+
  #AZR:0 "Azerbaijan"
  #AZR_DEF:0 "Azerbaijan"
  #AZR_ADJ:0 "Azerbaijani"
@@ -2292,7 +2293,7 @@
 
 ### North America ###
 
-# Canada #
+# Canada
 
  CAN_communism:0 "People's Commune of Canada"
  CAN_communism_DEF:0 "the People's Commune of Canada"
@@ -2319,7 +2320,7 @@
  CAN_national_populism_DEF:0 "the United Canadian Provinces"
  CAN_national_populism_ADJ:0 "Canadian"
 
-# USA #
+# USA
 
  USA_communism:0 "Communist States of America"
  USA_communism_DEF:0 "the Communist States of America"
@@ -2346,7 +2347,7 @@
  USA_national_populism_DEF:0 "the New Confederation of America"
  USA_national_populism_ADJ:0 "American"
 
-# Mexico #
+# Mexico
 
  MEX_communism:0 "Mexican Worker's State"
  MEX_communism_DEF:0 "the Mexican Worker's State"
@@ -2373,7 +2374,7 @@
  MEX_national_populism_DEF:0 "el Nuevo Imperio Mexicano"
  MEX_national_populism_ADJ:0 "Mexican"
 
-# Cuba #
+# Cuba
 
  CUB_communism:0 "People's Republic of Cuba"
  CUB_communism_DEF:0 "the People's Republic of Cuba"
@@ -2400,7 +2401,7 @@
  CUB_national_populism_DEF:0 "Falangist Cuba"
  CUB_national_populism_ADJ:0 "Cuban"
 
-# Haiti #
+# Haiti
 
  HAI_communism:0 "Haitian Socialist Republic"
  HAI_communism_DEF:0 "the Haitian Socialist Republic"
@@ -2427,7 +2428,7 @@
  HAI_national_populism_DEF:0 "Hispaniola"
  HAI_national_populism_ADJ:0 "Hispaniolan"
 
-# Dominican Republic #
+# Dominican Republic
 
  DOM_communism:0 "Domician Commune"
  DOM_communism_DEF:0 "the Domician Commune"
@@ -2454,7 +2455,7 @@
  DOM_national_populism_DEF:0 "Hispaniola"
  DOM_national_populism_ADJ:0 "Hispaniolan"
 
-# Guatemala #
+# Guatemala
 
  GUA_communism:0 "Union of Guatemala"
  GUA_communism_DEF:0 "the Union of Guatemala"
@@ -2481,7 +2482,7 @@
  GUA_national_populism_DEF:0 "Corporatist Guatemala"
  GUA_national_populism_ADJ:0 "Guatemalan"
 
-# El Salvador #
+# El Salvador
 
  ELS_communism:0 "Central American Socialist Union"
  ELS_communism_DEF:0 "the Central American Socialist Union"
@@ -2508,7 +2509,7 @@
  ELS_national_populism_DEF:0 "Greater Salvador"
  ELS_national_populism_ADJ:0 "Salvadoran"
 
-# Honduras #
+# Honduras
 
  HON_communism:0 "Honduran Commonwealth"
  HON_communism_DEF:0 "the Honduran Commonwealth"
@@ -2535,7 +2536,7 @@
  HON_national_populism_DEF:0 "the Honduran Corporate State"
  HON_national_populism_ADJ:0 "Honduran"
 
-# Nicaragua #
+# Nicaragua
 
  NIC_communism:0 "International Confederation of Nicaragua"
  NIC_communism_DEF:0 "the International Confederation of Nicaragua"
@@ -2562,7 +2563,7 @@
  NIC_national_populism_DEF:0 "the Natioanl Union of Nicaragua"
  NIC_national_populism_ADJ:0 "Nicaraguan"
 
-# Costa Rica #
+# Costa Rica
 
  COS_communism:0 "Costa del Pueblo"
  COS_communism_DEF:0 "Costa del Pueblo"
@@ -2589,7 +2590,7 @@
  COS_national_populism_DEF:0 "Costa Potente"
  COS_national_populism_ADJ:0 "Costa Rican"
 
-# Panama #
+# Panama
 
  PAN_communism:0 "Free Panamanian Commune"
  PAN_communism_DEF:0 "the Free Panamanian Commune"
@@ -2616,7 +2617,8 @@
  PAN_national_populism_DEF:0 "Nationalist Panama"
  PAN_national_populism_ADJ:0 "Panamanian"
 
-#They like weed
+# Caribbean nations
+
  BAH:0 "Bahamas"
  BAH_DEF:0 "Bahamas"
  BAH_ADJ:0 "Bahaman"
@@ -2647,7 +2649,7 @@
 
 ### Oceania ###
 
-# Australasia
+# Australia
  AST_communism:0 "Australia People's State"
  AST_communism_DEF:0 "the Australia People's State"
  AST_communism_ADJ:0 "Australian"
@@ -2707,7 +2709,7 @@
 
 ### South America ###
 
-# Argentina #
+# Argentina
 
  ARG_communism:0 "Argentina"
  ARG_communism_DEF:0 "Argentina"
@@ -2734,7 +2736,7 @@
  ARG_national_populism_DEF:0 "Argentine League"
  ARG_national_populism_ADJ:0 "Argentinan"
 
-# Bolivia #
+# Bolivia
 
  BOL_communism:0 "Bolivia Izquerdista"
  BOL_communism_DEF:0 "Bolivia Izquerdista"
@@ -2761,7 +2763,7 @@
  BOL_national_populism_DEF:0 "Greater Bolivia"
  BOL_national_populism_ADJ:0 "Bolivian"
 
-# Brazil #
+# Brazil
 
  BRA_communism:0 "Brazilian Socialist State"
  BRA_communism_DEF:0 "the Brazilian Socialist State"
@@ -2788,7 +2790,7 @@
  BRA_national_populism_DEF:0 "Integralist Brazil"
  BRA_national_populism_ADJ:0 "Brazilian"
 
-# Chile #
+# Chile
 
  CHL_communism:0 "Chilean Communist State"
  CHL_communism_DEF:0 "the Chilean Communist State"
@@ -2815,7 +2817,7 @@
  CHL_national_populism_DEF:0 "Vanguard Chile"
  CHL_national_populism_ADJ:0 "Chilean"
 
-# Colombia #
+# Colombia
 
  COL_communism:0 "Greater South American Union"
  COL_communism_DEF:0 "the Greater South American Union"
@@ -2842,7 +2844,7 @@
  COL_national_populism_DEF:0 "Nueva Gran Colombia"
  COL_national_populism_ADJ:0 "Colombian"
 
-# Ecuador #
+# Ecuador
 
  ECU_communism:0 "Equatorial Communist Republic"
  ECU_communism_DEF:0 "the Equatorial Communist Republic"
@@ -2869,7 +2871,7 @@
  ECU_national_populism_DEF:0 "the Ecuadorian Authority"
  ECU_national_populism_ADJ:0 "Ecuadorian"
 
-# Paraguay #
+# Paraguay
 
  PAR_communism:0 "Commune of Paraguay"
  PAR_communism_DEF:0 "the Commune of Paraguay"
@@ -2896,7 +2898,7 @@
  PAR_national_populism_DEF:0 "Gran Paraguay"
  PAR_national_populism_ADJ:0 "Paraguayan"
 
-# Paraguay pt 2 #
+# Paraguay part 2
 
  ELP_communism:0 "Commune of Paraguay"
  ELP_communism_DEF:0 "the Commune of Paraguay"
@@ -2923,7 +2925,7 @@
  ELP_national_populism_DEF:0 "Gran Paraguay"
  ELP_national_populism_ADJ:0 "Paraguayan"
 
-# Peru #
+# Peru
 
  PRU_communism:0 "Revolutionary State of Peru"
  PRU_communism_DEF:0 "the Revolutionary State of Peru"
@@ -2950,7 +2952,7 @@
  PRU_national_populism_DEF:0 "the Peruvian Independent State"
  PRU_national_populism_ADJ:0 "Peruvian"
 
-# Uruguay #
+# Uruguay
 
  URG_communism:0 "Uruguayan Commune"
  URG_communism_DEF:0 "the Uruguayan Commune"
@@ -2977,7 +2979,7 @@
  URG_national_populism_DEF:0 "Constitutional Uruguay"
  URG_national_populism_ADJ:0 "Uruguayan"
 
-# Venezuela #
+# Venezuela
 
  VEN_communism:0 "People's Republic of Venezuela"
  VEN_communism_DEF:0 "the People's Republic of Venezuela"
@@ -3018,16 +3020,16 @@
  CHE_radical_socialism:0 "Chechen Soviet Republic"
  CHE_radical_socialism_DEF:0 "the Chechen Soviet Republic"
  CHE_radical_socialism_ADJ:0 "Chechen"
- CHE_social_democracy:0 "Chechen Republic"
+ CHE_social_democracy:0 "Republic of Chechnya"
  CHE_social_democracy_DEF:0 "the Republic of Chechnya"
  CHE_social_democracy_ADJ:0 "Chechen"
- CHE_liberalism:0 "Chechen Republic"
+ CHE_liberalism:0 "Republic of Chechnya"
  CHE_liberalism_DEF:0 "the Republic of Chechnya"
  CHE_liberalism_ADJ:0 "Chechen"
- CHE_conservatism:0 "Chechen Republic"
+ CHE_conservatism:0 "Republic of Chechnya"
  CHE_conservatism_DEF:0 "the Republic of Chechnya"
  CHE_conservatism_ADJ:0 "Chechen"
- CHE_authoritarian_democracy:0 "Chechnya"
+ CHE_authoritarian_democracy:0 "Republic of Chechnya"
  CHE_authoritarian_democracy_DEF:0 "the Republic of Chechnya"
  CHE_authoritarian_democracy_ADJ:0 "Chechen"
  CHE_paternal_autocrat:0 "Chechen Imamate"
