@@ -2261,15 +2261,7 @@
  YEM_national_populism_DEF:0 "the Federation of Yemen"
  YEM_national_populism_ADJ:0 "Yemeni"
 
-# Cacasus and Arabic Plebs
-
- #AZR:0 "Azerbaijan"
- #AZR_DEF:0 "Azerbaijan"
- #AZR_ADJ:0 "Azerbaijani"
-
- #GEO:0 "Georgia"
- #GEO_DEF:0 "Georgia"
- #GEO_ADJ:0 "Georgian"
+# Arabic nations
 
  KUW:0 "Kuwait"
  KUW_DEF:0 "Kuwait"
