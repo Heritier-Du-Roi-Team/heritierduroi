@@ -19,9 +19,12 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-authoritarian_democracy	= 25
-paternal_autocrat = 50
-national_populism = 25
+communism = 6
+social_democracy = 10
+conservatism = 13
+authoritarian_democracy	= 26
+paternal_autocrat = 38
+national_populism = 7
 }
 
 create_country_leader = {
