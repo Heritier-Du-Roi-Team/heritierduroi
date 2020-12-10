@@ -1303,7 +1303,7 @@
  LAT_national_populism_DEF:0 "the Greater Latvian Union"
  LAT_national_populism_ADJ:0 "Latvian"
 
-# Luxembourg
+#  Luxembourg
  LUX_communism:0 "Luxembourgish Commune"
  LUX_communism_DEF:0 "the Luxembourgish Commune"
  LUX_communism_ADJ:0 "Luxembourgish"
@@ -1316,7 +1316,7 @@
  LUX_liberalism:0 "Grand Duchy of Luxembourg"
  LUX_liberalism_DEF:0 "the Grand Duchy of Luxembourg"
  LUX_liberalism_ADJ:0 "Luxembourgish"
- LUX_conservatism:0 Grand Duchy of "Luxembourg"
+ LUX_conservatism:0 "Grand Duchy of Luxembourg"
  LUX_conservatism_DEF:0 "the Grand Duchy of Luxembourg"
  LUX_conservatism_ADJ:0 "Luxembourgish"
  LUX_authoritarian_democracy:0 "Grand Duchy of Luxembourg"
