@@ -1,0 +1,6 @@
+#
+ do_german_renames = { 
+  }
+ do_french_renames = {
+  }
+ 

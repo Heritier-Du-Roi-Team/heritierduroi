@@ -28,9 +28,9 @@ national_populism = 7
 }
 
 create_country_leader = {
-  name = "Temporary Leader"
+  name = "Military Council of the Rhineland"
   desc = ""
-  picture = "gfx/leaders/FRA/Portrait_France_Generic_land_3.dds"
+  picture = "gfx/leaders/RHI/Portrait_RHI_Military_Council.tga"
   expire = "1965.1.1"
   ideology = paternal_autocrat_type
   traits = {

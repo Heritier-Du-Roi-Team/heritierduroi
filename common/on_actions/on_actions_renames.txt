@@ -1,0 +1,58 @@
+on_actions = {
+	#ROOT is new controller #FROM is old controller #FROM.FROM is state ID
+	on_state_control_changed = {
+		effect = {
+			FROM.FROM = {	
+
+					### German ###
+					if = {
+						limit = {
+							ROOT = {
+								OR = {
+										  tag = GER
+								  		  is_subject_of = GER
+										  tag = AUS
+										  is_subject_of = AUS
+										  tag = PRS
+										  is_subject_of = PRS
+										  tag = MEK
+										  is_subject_of = MEK
+										  tag = SAX
+										  is_subject_of = SAX
+										  tag = THU
+										  is_subject_of = THU
+										  tag = HAN
+										  is_subject_of = HAN
+										  tag = OLD
+										  is_subject_of = OLD
+										  tag = WST
+										  is_subject_of = WST
+										  tag = HES
+										  is_subject_of = HES
+										  tag = BAY
+										  is_subject_of = BAY
+										  tag = WUR
+										  is_subject_of = WUR
+										  tag = BAD
+										  is_subject_of = BAD
+									}
+										  }										
+						}
+						do_german_renames = yes
+					}
+					
+					
+					### French ###
+					if = {
+						limit = {
+							ROOT = {OR = {tag = FRA
+							              is_subject_of = FRA
+										  }}
+						}
+						do_french_renames = yes
+					}
+					
+			}
+		}
+	}
+}
