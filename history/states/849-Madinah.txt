@@ -7,9 +7,7 @@ state={
 
 	history={
 		owner = HEJ
-		victory_points = {
-			12758 1
-		}
+		
 		buildings = {
 			infrastructure = 3
 		}
@@ -19,6 +17,6 @@ state={
 	}
 
 	provinces={
-		2033 4981 7934 8092 10748 10835 12758
+		2033  8092   
 	}
 }

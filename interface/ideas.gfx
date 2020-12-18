@@ -9,7 +9,23 @@ spriteTypes = {
 	}
 	
 	### new tfv nat spirit icons
-
+	
+	spriteType = {
+		name = "GFX_idea_SPR_Wasted_Past"
+		texturefile = "gfx/interface/ideas/SPR_Wasted_Past.tga"
+	}	
+	spriteType = {
+		name = "GFX_idea_SPR_Catalonia"
+		texturefile = "gfx/interface/ideas/SPR_Catalonia.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_SPR_Illiteracy"
+		texturefile = "gfx/interface/ideas/SPR_Illiteracy.tga"
+	}
+	spriteType = {
+		name = "GFX_idea_SPR_Republicanism"
+		texturefile = "gfx/interface/ideas/SPR_Republicanism.tga"
+	}
 	spriteType = {
 		name = "GFX_idea_EGY_Iron_Guard"
 		texturefile = "gfx/interface/ideas/EGY_Iron_Guard.tga"

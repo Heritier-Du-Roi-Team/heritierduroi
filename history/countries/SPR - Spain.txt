@@ -8,7 +8,12 @@ set_technology = {
   gw_artillery = 1
   infantry_weapons = 1
 }
-
+add_ideas = {
+		SPR_Wasted_Past
+		SPR_Illiteracy 
+		SPR_Catalonia
+		SPR_Republicanism
+	}
 set_stability = 0.41
 set_war_support = 0.19
 
