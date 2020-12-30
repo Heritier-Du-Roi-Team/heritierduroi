@@ -225,6 +225,9 @@
  STATE_1007:0 "Upper Alaska"
  STATE_1008:0 "Aleutian Islands"
  STATE_1009:0 "Rojava"
+ STATE_1010:0 "Níngxià"
+ STATE_1011:0 "Ganliang"
+ STATE_1012:0 "Liaocheng"
 
 
  STATE_1:0 "Corse"
@@ -834,7 +837,7 @@
  STATE_613:2 "Shànghai"
  STATE_614:0 "Héběi"
  STATE_615:0 "Shānxī"
- STATE_616:0 "Níngxià"
+ STATE_616:0 "Xitaomenggu"
  STATE_617:0 "Urumqi"
  STATE_618:0 "Dzungaria"
  STATE_619:0 "Yarkand"
@@ -973,7 +976,7 @@
  STATE_753:0 "Gannan"
  STATE_754:0 "Golog"
  STATE_755:0 "Haixi"
- STATE_756:0 "Jiuquan"
+ STATE_756:0 "Ansu"
  STATE_757:0 "Shigatse"
  STATE_758:0 "Ngari"
  STATE_759:1 "Kunlun Shan"

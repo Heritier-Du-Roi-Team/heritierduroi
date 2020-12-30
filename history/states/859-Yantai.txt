@@ -3,19 +3,21 @@ state={
 	name="STATE_859"
 
 	history={
-		owner = CHI
-		add_core_of = CHI
+		owner = SHD
+		add_core_of = SHD
+		add_core_of = FEN
+		add_core_of = BEI
 
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 3
-    }
-		4205 = {
+			4205 = {
 				naval_base = 2
 				coastal_bunker = 1
 				bunker = 1
 			}
+		}
 	}
 
 	provinces={

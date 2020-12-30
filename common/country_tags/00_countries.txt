@@ -4,10 +4,9 @@
 
 # Asia
 
-ICH = "countries/France.txt"
-FEN = "countries/Manchukou.txt"
-SHD = "countries/China.txt"
-SCL = "countries/China.txt"
+#FEN = "countries/Manchukou.txt"
+#SHD = "countries/China.txt"
+#SCL = "countries/China.txt"
 MAL = "countries/Malaysia.txt"
 MSS = "countries/Malaysia.txt"
 JOH = "countries/Malaysia.txt"
@@ -16,7 +15,8 @@ KEL = "countries/Malaysia.txt"
 KED = "countries/Malaysia.txt"
 SRA = "countries/Malaysia.txt"
 BRU = "countries/Malaysia.txt"
-HUB = "countries/Hubei.txt"
+#HUB = "countries/Hubei.txt"
+ICH = "countries/France.txt"
 
 # Middle East
 
@@ -107,7 +107,7 @@ BHU = "countries/Bhutan.txt"
 BOL = "countries/Bolivia.txt"
 BRA = "countries/Brazil.txt"
 CAN = "countries/Canada.txt"
-CHI = "countries/China.txt"
+#CHI = "countries/China.txt"
 CHL = "countries/Chile.txt"
 COL = "countries/Colombia.txt"
 COS = "countries/Costa Rica.txt"
@@ -131,11 +131,11 @@ PHI = "countries/Philippines.txt"
 PRU = "countries/Peru.txt"
 SAF = "countries/South Africa.txt"
 SIA = "countries/Siam.txt"
-SIK = "countries/Sinkiang.txt"
-TIB = "countries/Tibet.txt"
+#SIK = "countries/Sinkiang.txt"
+#TIB = "countries/Tibet.txt"
 URG = "countries/Uruguay.txt"
 VEN = "countries/Venezula.txt"
-YUN = "countries/Yunnan.txt"
+#YUN = "countries/Yunnan.txt"
 USA = "countries/USA.txt"
 MON = "countries/Mongolia.txt"
 TAN = "countries/Tannu Tuva.txt"
@@ -148,10 +148,10 @@ OMA = "countries/Oman.txt"
 SLO = "countries/Slovakia.txt"
 RAJ = "countries/British Raj.txt"
 CRO = "countries/Croatia.txt"
-GXC = "countries/Guangxi.txt"
+#GXC = "countries/Guangxi.txt"
 PRC = "countries/ComChina.txt"
-SHX = "countries/Shanxi.txt"
-XSM = "countries/Xibei San Ma.txt"
+#SHX = "countries/Shanxi.txt"
+#XSM = "countries/Xibei San Ma.txt"
 ICE = "countries/Iceland.txt"
 LEB = "countries/Lebanon.txt"
 JOR = "countries/Jordan.txt"
@@ -269,6 +269,26 @@ BRI = "countries/Brittany.txt"
 OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 
-KUM = "countries/Kumul Khanate.txt"
+#KUM = "countries/Kumul Khanate.txt"
 CHE = "countries/Chechnya.txt"
 DAG = "countries/Dagestan.txt"
+
+
+
+# China Temporary Rework
+
+BEI = "countries/Chinese_States.txt" # Beiyang
+FEN = "countries/Chinese_States.txt" # Fengtien
+GAN = "countries/Chinese_States.txt" # Gansu
+GNG = "countries/Chinese_States.txt" # Guangdong
+GXC = "countries/Chinese_States.txt" # Guangxi
+GUI = "countries/Chinese_States.txt" # Guizhou
+KUM = "countries/Chinese_States.txt" # Kumul
+NIN = "countries/Chinese_States.txt" # Ningxia
+SCL = "countries/Chinese_States.txt" # Sichuan
+SHD = "countries/Chinese_States.txt" # Shandong
+SHX = "countries/Chinese_States.txt" # Shanxi
+SIK = "countries/Chinese_States.txt" # Xinjiang
+TIB = "countries/Chinese_States.txt" # Tibet
+XSM = "countries/Chinese_States.txt" # Qinghai
+YUN = "countries/Chinese_States.txt" # Yunnan

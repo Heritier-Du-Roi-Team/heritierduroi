@@ -17,8 +17,5 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-  conservatism = 16
-  paternal_autocrat = 57
-  liberalism = 23
-  national_populism = 4
+  paternal_autocrat = 100
 }

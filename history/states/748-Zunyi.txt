@@ -4,9 +4,9 @@ state={
 	name="STATE_748"
 
 	history={
-		owner = YUN
+		owner = GUI
+		add_core_of = GUI
 		add_core_of = YUN
-		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1010 4141 4325 4431 9939
+		1010 4041 4141 4325 4431 4896 7201 7279 7665 9939 10006 10304 10335 10822
 	}
 	manpower=1500000
 	buildings_max_level_factor=1.000

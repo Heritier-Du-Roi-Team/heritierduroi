@@ -1,0 +1,18 @@
+state={
+	id=1011
+	name="STATE_1011"
+	provinces={
+		1630 2028 5057 5100 7511 12327
+	}
+	manpower=508310
+	state_category = pastoral
+	history={
+		owner = GAN
+		add_core_of = GAN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+}

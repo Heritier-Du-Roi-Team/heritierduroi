@@ -9,9 +9,8 @@ state={
 
 	history=
 	{
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
+		owner = SHX
+		add_core_of = SHX
 		
 
 		buildings = {

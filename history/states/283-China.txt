@@ -7,9 +7,8 @@ state={
 	}
 
 	history={
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
+		owner = GAN
+		add_core_of = GAN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -19,7 +18,7 @@ state={
 	}
 
 	provinces={
-		531 556 1630  2022  4313 6638 7397 7911  12797 12882
+		531 556 2022  4313 6638 7397 7911  12797 12882
 	}
 	manpower=3705400
 	buildings_max_level_factor=1.000

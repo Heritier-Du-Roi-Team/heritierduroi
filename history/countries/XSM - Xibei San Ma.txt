@@ -27,7 +27,7 @@ set_politics = {
 set_popularities = {
 	national_populism = 26
 	paternal_autocrat = 57
-	totalist = 17
+	communism = 17
 }
 
 create_country_leader = {

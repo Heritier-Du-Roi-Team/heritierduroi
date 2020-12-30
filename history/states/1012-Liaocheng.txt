@@ -1,0 +1,19 @@
+state={
+	id=1012
+	name="STATE_1012"
+
+	history={
+		owner = BEI
+		add_core_of = BEI
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		1139 4606 7074
+	}
+	manpower=1043215
+	state_category=rural
+}

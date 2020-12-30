@@ -1,0 +1,20 @@
+state={
+	id=1010
+	name="STATE_1010"
+
+	history={
+		owner = NIN
+		add_core_of = NIN
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		8081 8127 10724
+	}
+	manpower=263210
+	state_category=pastoral
+}
