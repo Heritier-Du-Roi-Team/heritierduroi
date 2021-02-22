@@ -7,4 +7,9 @@ focus_tree = {
 	
 	default = yes
 	reset_on_civilwar = no
+
+	shared_focus = GEN_Industrial_Matters
+	shared_focus = GEN_Armed_Forces
+
+	continuous_focus_position = { x = 50 y = 1200 }
 }

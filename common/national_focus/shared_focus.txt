@@ -1,0 +1,795 @@
+#.___            .___              __                 
+#|   | ____    __| _/_ __  _______/  |________ ___.__.
+#|   |/    \  / __ |  |  \/  ___/\   __\_  __ <   |  |
+#|   |   |  \/ /_/ |  |  /\___ \  |  |  |  | \/\___  |
+#|___|___|  /\____ |____//____  > |__|  |__|   / ____|
+#         \/      \/          \/               \/     
+
+shared_focus = {
+	id = GEN_Industrial_Matters
+	icon = GFX_goal_generic_construct_civ_factory
+
+	x = 1
+	y = 0
+
+	cost = 10
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_Arms_Production
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Industrial_Matters
+	}
+
+	x = -1
+	y = 1
+
+	completion_reward = { 
+
+	}
+}
+
+shared_focus = {
+	id = GEN_Preparations_For_War
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Expand_Arms_Production
+	}
+
+	x = -1
+	y = 2
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Greater_Military_Production
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Preparations_For_War
+	}
+
+	x = -1
+	y = 3
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Promote_Local_Industries
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Industrial_Matters
+	}
+
+	x = 1
+	y = 1
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Promote_Market_Subsudies
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Promote_Local_Industries
+	}
+
+	x = 1
+	y = 2
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Industrial_Miracle
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Promote_Market_Subsudies
+	}
+
+	x = 1
+	y = 3
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_The_Roads
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Industrial_Miracle
+	}
+
+	prerequisite = {
+		focus = GEN_Greater_Military_Production
+	}
+
+	x = 0
+	y = 4
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_The_Railway
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Expand_The_Roads
+	}
+
+	x = 0
+	y = 5
+
+	completion_reward = { 
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_The_Capital_University
+	icon = GFX_goal_generic_construct_civ_factory
+
+	cost = 10
+
+	relative_position_id = GEN_Industrial_Matters
+
+	prerequisite = {
+		focus = GEN_Expand_The_Railway
+	}
+
+	x = 0
+	y = 6
+
+	completion_reward = { 
+		
+	}
+}
+
+#   _____                           .___ ___________                                
+#  /  _  \_______  _____   ____   __| _/ \_   _____/__________   ____  ____   ______
+# /  /_\  \_  __ \/     \_/ __ \ / __ |   |    __)/  _ \_  __ \_/ ___\/ __ \ /  ___/
+#/    |    \  | \/  Y Y  \  ___// /_/ |   |     \(  <_> )  | \/\  \__\  ___/ \___ \ 
+#\____|__  /__|  |__|_|  /\___  >____ |   \___  / \____/|__|    \___  >___  >____  >
+#        \/            \/     \/     \/       \/                    \/    \/     \/ 
+
+shared_focus = {
+	id = GEN_Armed_Forces
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	x = 12
+	y = 0
+
+	completion_reward = {
+		
+	}
+}
+
+#   _____  .__         ___________                         
+#  /  _  \ |__|______  \_   _____/__________   ____  ____  
+# /  /_\  \|  \_  __ \  |    __)/  _ \_  __ \_/ ___\/ __ \ 
+#/    |    \  ||  | \/  |     \(  <_> )  | \/\  \__\  ___/ 
+#\____|__  /__||__|     \___  / \____/|__|    \___  >___  >
+#        \/                 \/                    \/    \/ 
+
+shared_focus = {
+	id = GEN_Air_Force
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Armed_Forces
+	}
+	relative_position_id = GEN_Armed_Forces
+
+	x = -7
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_The_Airports
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Air_Force
+	}
+	relative_position_id = GEN_Air_Force
+
+	x = 0
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Fighter_Investments
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_The_Airports
+	}
+	relative_position_id = GEN_Air_Force
+
+	x = -1
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Bomber_Investments
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_The_Airports
+	}
+	relative_position_id = GEN_Air_Force
+
+	x = 1
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_CAS_Investments
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_The_Airports
+	}
+	relative_position_id = GEN_Air_Force
+
+	x = 0
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Prioritize_Fighters
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Fighter_Investments
+	}
+	prerequisite = {
+		focus = GEN_Bomber_Investments
+	}
+	relative_position_id = GEN_Air_Force
+	mutually_exclusive = {
+		focus = GEN_Prioritize_Bombers
+	}
+
+	x = -1
+	y = 4
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Prioritize_Bombers
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Fighter_Investments
+	}
+	prerequisite = {
+		focus = GEN_Bomber_Investments
+	}
+	mutually_exclusive = {
+		focus = GEN_Prioritize_Fighters
+	}
+	relative_position_id = GEN_Air_Force
+
+	x = 1
+	y = 4
+
+	completion_reward = {
+		
+	}
+}
+
+#   _____  .__.__  .__  __                       
+#  /     \ |__|  | |__|/  |______ _______ ___.__.
+# /  \ /  \|  |  | |  \   __\__  \\_  __ <   |  |
+#/    Y    \  |  |_|  ||  |  / __ \|  | \/\___  |
+#\____|__  /__|____/__||__| (____  /__|   / ____|
+#        \/                      \/       \/     
+
+shared_focus = {
+	id = GEN_Military
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Armed_Forces
+	}
+	relative_position_id = GEN_Armed_Forces
+
+	x = 0
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_General_Staff
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Military
+	}
+	relative_position_id = GEN_Military
+
+	x = 0
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Produce_More_Equipment
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_General_Staff
+	}
+	relative_position_id = GEN_Military
+
+	x = -2
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Field_Equipment
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Produce_More_Equipment
+	}
+	relative_position_id = GEN_Military
+
+	x = -4
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Provide_For_Our_Infantry
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Produce_More_Equipment
+	}
+	relative_position_id = GEN_Military
+
+	x = -2
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Utilize_New_Technologies
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Produce_More_Equipment
+	}
+	relative_position_id = GEN_Military
+
+	x = 1
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Motorized_Vehicles
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Utilize_New_Technologies
+	}
+	relative_position_id = GEN_Military
+
+	x = -1
+	y = 4
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Mechanized_Vehicles
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Utilize_New_Technologies
+	}
+	relative_position_id = GEN_Military
+
+	x = 1
+	y = 4
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Armoured_Vehicles
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Utilize_New_Technologies
+	}
+	relative_position_id = GEN_Military
+
+	x = 3
+	y = 4
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Promote_Special_Forces
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Provide_For_Our_Infantry
+	}
+	prerequisite = {
+		focus = GEN_Field_Equipment
+	}
+	prerequisite = {
+		focus = GEN_Motorized_Vehicles
+	}
+	prerequisite = {
+		focus = GEN_Mechanized_Vehicles
+	}
+	prerequisite = {
+		focus = GEN_Armoured_Vehicles
+	}
+	relative_position_id = GEN_Military
+
+	x = -2
+	y = 5
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Prioritize_Our_Plans
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_General_Staff
+	}
+	relative_position_id = GEN_Military
+
+	x = 4
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Begin_War_Games
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Prioritize_Our_Plans
+	}
+	relative_position_id = GEN_Military
+
+	x = 4
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
+
+# _______                      
+# \      \ _____ ___  _____.__.
+# /   |   \\__  \\  \/ <   |  |
+#/    |    \/ __ \\   / \___  |
+#\____|__  (____  /\_/  / ____|
+#        \/     \/      \/     
+
+shared_focus = {
+	id = GEN_Navy
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Armed_Forces
+	}
+	relative_position_id = GEN_Armed_Forces
+
+	x = 10
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Expand_Our_Dockyards
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Armed_Forces
+	}
+	relative_position_id = GEN_Navy
+
+	x = 0
+	y = 1
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Increase_Battleship_Production
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_Our_Dockyards
+	}
+	relative_position_id = GEN_Navy
+
+	x = -4
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Increase_Destroyer_Production
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_Our_Dockyards
+	}
+	relative_position_id = GEN_Navy
+
+	x = -2
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Increase_Carrier_Production
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_Our_Dockyards
+	}
+	relative_position_id = GEN_Navy
+
+	x = 0
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Increase_Cruiser_Production
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_Our_Dockyards
+	}
+	relative_position_id = GEN_Navy
+
+	x = 2
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Increase_Submarine_Production
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Expand_Our_Dockyards
+	}
+	relative_position_id = GEN_Navy
+
+	x = 4
+	y = 2
+
+	completion_reward = {
+		
+	}
+}
+
+shared_focus = {
+	id = GEN_Prioritize_A_Naval_Doctrine
+	icon = GFX_goal_generic_axis_build_infantry
+
+	cost = 10
+
+	prerequisite = {
+		focus = GEN_Increase_Battleship_Production
+	}
+	prerequisite = {
+		focus = GEN_Increase_Destroyer_Production
+	}
+	prerequisite = {
+		focus = GEN_Increase_Carrier_Production
+	}
+	prerequisite = {
+		focus = GEN_Increase_Cruiser_Production
+	}
+	prerequisite = {
+		focus = GEN_Increase_Submarine_Production
+	}
+	relative_position_id = GEN_Navy
+
+	x = 0
+	y = 3
+
+	completion_reward = {
+		
+	}
+}
