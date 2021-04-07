@@ -18,6 +18,8 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+set_cosmetic_tag = OTT_SYR
+
 set_popularities = {
 communism = 0
 radical_socialism = 0

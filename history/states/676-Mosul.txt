@@ -11,17 +11,17 @@ state={
 
 
 	history={
-		owner = OTT
+		owner = KUR
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
-			10106 1
+			10106 5
 		}
-		add_core_of = OTT
+		add_core_of = KUR
 	}
 
 	provinces={
-		1600 1938 3916 5014 6826 8123 10106 10793 10804 10811 12372
+		1600 1938 3916 5014 6826 8123 10106 10804 10811 12372
 	}
 }

@@ -16,9 +16,58 @@ set_technology = {
 }
 
 if = {
+		limit = { OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Waking the Tiger"
+			has_dlc = "Death or Dishonor"
+		} }
+    OTT = {
+			set_autonomy = {
+				target = SYR
+				autonomy_state = autonomy_vilayet
+				freedom_level = 0.4
+			}
+      set_autonomy = {
+				target = IRQ
+				autonomy_state = autonomy_vilayet
+				freedom_level = 0.4
+			}
+      set_autonomy = {
+				target = KUR
+				autonomy_state = autonomy_vilayet
+				freedom_level = 0.4
+      }
+      set_autonomy = {
+				target = LEB
+				autonomy_state = autonomy_vilayet
+				freedom_level = 0.4
+			}
+			hidden_effect = { DSS = { load_prevous_ideologies = yes } }
+		}
+}
+  if = {
+		limit = { NOT = { OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Waking the Tiger"
+			has_dlc = "Death or Dishonor"
+		} } }
+		OTT = { puppet = SYR } 
+    OTT = { puppet = IRQ } 
+    OTT = { puppet = KUR }
+    OTT = { puppet = LEB }
+  }
+if = {
   limit = {
     has_dlc = "Man the Guns"
   }
+
+
+create_faction = "Ottoman Empire"
+add_to_faction = OTT
+add_to_faction = KUR
+add_to_faction = IRQ
+add_to_faction = SYR
+add_to_faction = LEB
 
   set_technology = {
     early_ship_hull_light = 1

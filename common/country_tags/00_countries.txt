@@ -4,6 +4,7 @@
 
 # Asia
 
+
 #FEN = "countries/Manchukou.txt"
 #SHD = "countries/China.txt"
 #SCL = "countries/China.txt"
@@ -19,6 +20,7 @@ BRU = "countries/Malaysia.txt"
 ICH = "countries/France.txt"
 
 # Middle East
+KUR = "countries/Kurdistan.txt"
 
 HEJ = "countries/Hejaz.txt"
 OTT = "countries/Ottomans.txt"
